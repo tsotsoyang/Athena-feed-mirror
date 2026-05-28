@@ -63,6 +63,9 @@ jobs:
       - name: Commit + push artefacts
         # Only commit if something actually changed under feed_mirror/.
         # `git diff --quiet` exits 1 when there are diffs.
+        # `pull --rebase` before push handles the case where a concurrent
+        # workflow run pushed an intervening commit (race seen on the
+        # bootstrap commit: 2026-05-28).
         run: |
           git config user.name  "athena-feed-mirror[bot]"
           git config user.email "athena-feed-mirror[bot]@users.noreply.github.com"
@@ -73,4 +76,14 @@ jobs:
           fi
           ts=$(date -u +"%Y-%m-%dT%H:%MZ")
           git commit -m "mirror: $ts"
-          git push
+          for attempt in 1 2 3; do
+            git pull --rebase origin main || true
+            if git push; then
+              echo "push attempt $attempt succeeded"
+              exit 0
+            fi
+            echo "push attempt $attempt failed, retrying"
+            sleep $((attempt * 5))
+          done
+          echo "::error::push failed after 3 attempts"
+          exit 1
