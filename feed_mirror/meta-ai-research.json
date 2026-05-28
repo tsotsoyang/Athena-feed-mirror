@@ -1,0 +1,22 @@
+{
+  "source": "meta-ai-research",
+  "name": "Meta AI Research",
+  "feed_url": "https://ai.meta.com/blog/",
+  "fetched_at": "2026-05-28T15:54:23.098016+00:00",
+  "next_refresh_at": "2026-05-28T16:24:23.098016+00:00",
+  "entries": [],
+  "errors": [
+    {
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
+    },
+    {
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
+    },
+    {
+      "stage": "fetch",
+      "message": "all candidate URLs returned 0 entries"
+    }
+  ]
+}

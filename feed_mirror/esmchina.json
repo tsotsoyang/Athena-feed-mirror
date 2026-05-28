@@ -1,0 +1,185 @@
+{
+  "source": "esmchina",
+  "name": "ESM China",
+  "feed_url": "https://www.esmchina.com/rss",
+  "fetched_at": "2026-05-28T15:54:36.766489+00:00",
+  "next_refresh_at": "2026-05-28T16:24:36.766489+00:00",
+  "entries": [
+    {
+      "title": "传闻再起：上游材料至芯片设计，多公司被传计划调价",
+      "url": "https://www.esmchina.com/news/14213.html",
+      "published_at": null,
+      "summary": "理由多指向成本上升与需求增长。",
+      "author": null
+    },
+    {
+      "title": "英伟达1500亿美元重仓台湾半导体产业链",
+      "url": "https://www.esmchina.com/news/14212.html",
+      "published_at": null,
+      "summary": "英伟达CEO黄仁勋日前在公司台北总部启用仪式上宣布，将NVIDIA对中国台湾地区的年度综合产业投入规模由1000亿美元上调至1500亿美元。",
+      "author": null
+    },
+    {
+      "title": "半导体产业领跑，中国前4月规上工业企业利润增长18.2%",
+      "url": "https://www.esmchina.com/news/14211.html",
+      "published_at": null,
+      "summary": "半导体相关行业利润增速超600%。",
+      "author": null
+    },
+    {
+      "title": "存储巨头长鑫科技顺利过会，上半年营收预达1100-1200亿",
+      "url": "https://www.esmchina.com/news/14210.html",
+      "published_at": null,
+      "summary": "按照产能和出货量统计，长鑫科技已成为中国第一、全球第四的DRAM厂商。",
+      "author": null
+    },
+    {
+      "title": "AI数据中心需求爆发，2026年Q1全球DRAM营收冲刺千亿美元",
+      "url": "https://www.esmchina.com/news/14209.html",
+      "published_at": null,
+      "summary": "受AI数据中心热潮推动，全球DRAM营收在2026年第一季度逼近千亿美元。",
+      "author": null
+    },
+    {
+      "title": "立讯精密并购流程违规，被市场监管总局处罚90万元",
+      "url": "https://www.esmchina.com/news/14208.html",
+      "published_at": null,
+      "summary": "国家市场监督管理总局公示的行政处罚决定书显示，立讯精密工业股份有限公司因在资产收购交易过程中，未依法履行经营者集中事前申报义务，被依法处以90万元行政处罚。",
+      "author": null
+    },
+    {
+      "title": "三星罢工风险暂时平息，超34万亿韩元奖金分给员工",
+      "url": "https://www.esmchina.com/news/14207.html",
+      "published_at": null,
+      "summary": "这笔巨额奖金的内部分配并不均衡。",
+      "author": null
+    },
+    {
+      "title": "分化加剧，动能转换：Q1业绩揭示中国模拟芯片战场生变",
+      "url": "https://www.esmchina.com/news/14206.html",
+      "published_at": null,
+      "summary": "究竟是什么导致了如此剧烈的分化？答案在于技术研发的长期投入与高端市场应用的卡位。",
+      "author": null
+    },
+    {
+      "title": "利润大幅下滑，小米宣布200亿港元回购计划",
+      "url": "https://www.esmchina.com/news/14204.html",
+      "published_at": null,
+      "summary": "小米集团最新发布的2026年第一季度财报显示，受全球消费电子终端需求疲软、行业存量竞争白热化、上游核心元器件价格上行等多重外部因素叠加影响，公司整体营收与盈利水平出现阶段性回调。",
+      "author": null
+    },
+    {
+      "title": "SK海力士发布iHBM散热技术，可降低热阻超30%",
+      "url": "https://www.esmchina.com/news/14203.html",
+      "published_at": null,
+      "summary": "从结构层面解决散热难题。",
+      "author": null
+    },
+    {
+      "title": "出手19亿元，补上关键一环！紫光国微收购瑞能半导体",
+      "url": "https://www.esmchina.com/news/14202.html",
+      "published_at": null,
+      "summary": "功率半导体被称作系统的“心脏”，受益于全球能源转型，在新能源汽车、光伏储能等领域需求持续增长。",
+      "author": null
+    },
+    {
+      "title": "产能翻4倍！美光20亿美元逆势扩产DDR4",
+      "url": "https://www.esmchina.com/news/14201.html",
+      "published_at": null,
+      "summary": "美光科技正式官宣旗下弗吉尼亚州马纳萨斯工厂实现1α DRAM工艺量产。项目落地后，该生产基地的DDR4晶圆供货规模将提升四倍，预计将于2026年底完成全面量产。",
+      "author": null
+    },
+    {
+      "title": "11家存储A股企业Q1“赚疯了”：总净利同比暴增40倍",
+      "url": "https://www.esmchina.com/news/14199.html",
+      "published_at": null,
+      "summary": "2026年Q1，11家本土上市存储企业的盈利规模为2025年全年的1.93倍，仅前三企业的净利润总和就突破了100亿元。",
+      "author": null
+    },
+    {
+      "title": "“股东减持潮”席卷半导体，10家企业拟套现137亿",
+      "url": "https://www.esmchina.com/news/14200.html",
+      "published_at": null,
+      "summary": "其中，中微公司减持金额达60亿元，澜起科技金额超33亿元，翱捷科技金额也超14亿元。",
+      "author": null
+    },
+    {
+      "title": "烧钱换市场？DeepSeek官宣降价永久2.5折",
+      "url": "https://www.esmchina.com/news/14198.html",
+      "published_at": null,
+      "summary": "为何敢？",
+      "author": null
+    },
+    {
+      "title": "索赔80亿！闻泰打响跨国维权战",
+      "url": "https://www.esmchina.com/news/14197.html",
+      "published_at": null,
+      "summary": "日前，*ST闻泰（600745）发布公告，正式向广东省东莞市中级人民法院递交诉状，将荷兰安世半导体相关主体及三名外籍高管等六方告上法庭，索赔金额暂计80亿元人民币，这也是A股市场首例援引《反外国制裁法》的民事索赔案。",
+      "author": null
+    },
+    {
+      "title": "华为发布“韬(τ)定律”：中国首提半导体产业新原则",
+      "url": "https://www.esmchina.com/news/14196.html",
+      "published_at": null,
+      "summary": "华为发布的“韬(τ)定律”，其核心目标是系统性降低时间常数τ(韬)，通过逻辑折叠等原创技术，持续压缩信号传播时延，在不依赖极致物理制程的前提下，大幅提升晶体管密度与系统性能。",
+      "author": null
+    },
+    {
+      "title": "豪掷150亿美元！谷歌在美国押注AI算力未来",
+      "url": "https://www.esmchina.com/news/14195.html",
+      "published_at": null,
+      "summary": "此项投资被视作谷歌应对人工智能时代算力需求激增、强化其北美基础设施网络的关键布局。",
+      "author": null
+    },
+    {
+      "title": "国家发改委回应美资传闻，披露AI与机器人基建规划",
+      "url": "https://www.esmchina.com/news/14194.html",
+      "published_at": null,
+      "summary": "从未要求中国科技企业不得接受外商投资。",
+      "author": null
+    },
+    {
+      "title": "闻泰11连跌停后，安世半导体发公告“甩锅”",
+      "url": "https://www.esmchina.com/news/14193.html",
+      "published_at": null,
+      "summary": "闻泰科技近日遭遇了资本市场的剧烈震荡，其核心子公司——荷兰安世半导体(Nexperia)于当地时间5月20日发布正式声明，试图厘清责任。",
+      "author": null
+    },
+    {
+      "title": "冲向2.59万亿美元！2026年全球AI支出预增47%",
+      "url": "https://www.esmchina.com/news/14192.html",
+      "published_at": null,
+      "summary": "2.59万亿美元的AI投资主要由供应商和超大规模企业主导，而企业尚未充分释放其投资潜力。",
+      "author": null
+    },
+    {
+      "title": "Meta启动“大换血”：8000人裁员、7000人转岗，全面押注AI",
+      "url": "https://www.esmchina.com/news/14191.html",
+      "published_at": null,
+      "summary": "此次重组的背景是Meta对人工智能领域的巨额投入。",
+      "author": null
+    },
+    {
+      "title": "816亿美元！英伟达再度刷新单季营收记录",
+      "url": "https://www.esmchina.com/news/14190.html",
+      "published_at": null,
+      "summary": "英伟达最新发布的2027财年第一季度财报数据显示，受益于全球AI算力需求的持续井喷，英伟达本季总营收达816亿美元，同比大增85%，再度刷新单季历史纪录。",
+      "author": null
+    },
+    {
+      "title": "一进一退！特斯拉放弃印度建厂，监督版FSD登陆中国",
+      "url": "https://www.esmchina.com/news/14189.html",
+      "published_at": null,
+      "summary": "特斯拉公司已永久终止在印度的建厂计划，但与此同时，其监督版全自动驾驶(FSD)系统正式在中国市场启用。",
+      "author": null
+    },
+    {
+      "title": "18天罢工紧急叫停，三星10.5%利润分成敲定",
+      "url": "https://www.esmchina.com/news/14188.html",
+      "published_at": null,
+      "summary": "5月20日深夜，在韩国政府机构的紧急斡旋下，三星电子与跨企业工会达成暂定协议，原定为期18天的全面罢工即刻暂停。",
+      "author": null
+    }
+  ],
+  "errors": []
+}
