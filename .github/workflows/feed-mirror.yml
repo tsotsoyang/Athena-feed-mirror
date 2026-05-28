@@ -1,0 +1,76 @@
+name: feed-mirror
+
+# Every 30 minutes — see configs/feed_mirror_targets.yaml for the
+# target list and README.md for the JSON contract Athena consumes.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "configs/feed_mirror_targets.yaml"
+      - "scripts/run_feed_mirror.py"
+      - ".github/workflows/feed-mirror.yml"
+
+permissions:
+  contents: write   # needs write to commit feed_mirror/*.json back to main
+
+concurrency:
+  # Skip overlap if a previous run takes >30 min for any reason; the
+  # next cron tick will pick up.
+  group: feed-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Use the default GITHUB_TOKEN so the commit-back step works.
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run mirror
+        id: mirror
+        run: python scripts/run_feed_mirror.py
+        continue-on-error: true
+
+      - name: Show summary
+        if: always()
+        run: |
+          echo "## Feed mirror summary" >> "$GITHUB_STEP_SUMMARY"
+          if [ -d feed_mirror ]; then
+            for f in feed_mirror/*.json; do
+              name=$(basename "$f" .json)
+              entries=$(python -c "import json,sys; print(len(json.load(open('$f'))['entries']))")
+              errors=$(python -c "import json,sys; print(len(json.load(open('$f'))['errors']))")
+              echo "- **$name** — $entries entries, $errors errors" >> "$GITHUB_STEP_SUMMARY"
+            done
+          fi
+
+      - name: Commit + push artefacts
+        # Only commit if something actually changed under feed_mirror/.
+        # `git diff --quiet` exits 1 when there are diffs.
+        run: |
+          git config user.name  "athena-feed-mirror[bot]"
+          git config user.email "athena-feed-mirror[bot]@users.noreply.github.com"
+          git add feed_mirror/
+          if git diff --staged --quiet; then
+            echo "no feed_mirror changes — skipping commit"
+            exit 0
+          fi
+          ts=$(date -u +"%Y-%m-%dT%H:%MZ")
+          git commit -m "mirror: $ts"
+          git push

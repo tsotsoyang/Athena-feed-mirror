@@ -1,0 +1,49 @@
+# Athena-feed-mirror targets — feeds that Athena's egress can't reach
+# but GitHub-Actions egress can. See README.md for the shape contract.
+#
+# Add new entries here; the runner picks them up on the next 30-min cron.
+# `source` doubles as the JSON filename — keep it lowercase + hyphen-only.
+
+targets:
+  - source: meta-ai-research
+    name: Meta AI Research
+    url: https://ai.meta.com/blog/rss/
+    fallback_urls:
+      - https://ai.meta.com/blog/
+    max_entries: 25
+    notes: |
+      Cloudflare WAF / TLS-fingerprint rejects Athena-egress.
+      ConnectError 3/3 in Athena round-5 probe.
+
+  - source: arxiv-sanity-lite
+    name: ArXiv-sanity Lite (top recent)
+    url: https://arxiv-sanity-lite.com/?rank=time
+    fallback_urls:
+      - https://arxiv-sanity-lite.com/rss
+    max_entries: 30
+    notes: |
+      No documented RSS endpoint; relies on autodiscovery of the
+      <link rel="alternate"> tag that the SSR HTML emits. Geo / WAF
+      blocks Athena-egress.
+
+  - source: esmchina
+    name: ESM China
+    url: https://www.esmchina.com/rss
+    fallback_urls:
+      - https://www.esmchina.com/feed
+      - https://www.esmchina.com/
+    max_entries: 25
+    notes: |
+      12 s+ timeout from Athena Phison checkout. Used to be on
+      manual_only in Athena catalog; once this mirror is live, flip
+      back to ready-to-fetch via the `mirrored_feed` source kind.
+
+  - source: skhynix-newsroom
+    name: SK hynix Newsroom
+    url: https://news.skhynix.com/feed/
+    fallback_urls: []
+    max_entries: 25
+    notes: |
+      Documented gotcha in Athena CLAUDE.md — would kill the whole
+      rss_blog batch if included direct. Mirroring it here makes the
+      content available to Athena without the timeout poisoning.
