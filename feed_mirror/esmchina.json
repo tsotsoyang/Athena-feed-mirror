@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-05-29T04:53:47.945865+00:00",
-  "next_refresh_at": "2026-05-29T05:23:47.945865+00:00",
+  "fetched_at": "2026-05-29T08:42:47.057222+00:00",
+  "next_refresh_at": "2026-05-29T09:12:47.057222+00:00",
   "entries": [
+    {
+      "title": "官方采购指南出炉！9款国产AI芯片获“国家队认证”，华为、海光等在列",
+      "url": "https://www.esmchina.com/news/14215.html",
+      "published_at": null,
+      "summary": "所有认证自发布之日起有效期为三年。",
+      "author": null
+    },
     {
       "title": "比亚迪来“搅局”！狂砸千亿自研造芯，中国首款4nm智驾芯片量产",
       "url": "https://www.esmchina.com/news/14214.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14190.html",
       "published_at": null,
       "summary": "英伟达最新发布的2027财年第一季度财报数据显示，受益于全球AI算力需求的持续井喷，英伟达本季总营收达816亿美元，同比大增85%，再度刷新单季历史纪录。",
-      "author": null
-    },
-    {
-      "title": "一进一退！特斯拉放弃印度建厂，监督版FSD登陆中国",
-      "url": "https://www.esmchina.com/news/14189.html",
-      "published_at": null,
-      "summary": "特斯拉公司已永久终止在印度的建厂计划，但与此同时，其监督版全自动驾驶(FSD)系统正式在中国市场启用。",
       "author": null
     }
   ],
