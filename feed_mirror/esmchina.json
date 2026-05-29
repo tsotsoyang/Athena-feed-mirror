@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-05-29T00:12:24.768124+00:00",
-  "next_refresh_at": "2026-05-29T00:42:24.768124+00:00",
+  "fetched_at": "2026-05-29T04:53:47.945865+00:00",
+  "next_refresh_at": "2026-05-29T05:23:47.945865+00:00",
   "entries": [
+    {
+      "title": "比亚迪来“搅局”！狂砸千亿自研造芯，中国首款4nm智驾芯片量产",
+      "url": "https://www.esmchina.com/news/14214.html",
+      "published_at": null,
+      "summary": "“电动化的上半场看电池，智能化的下半场看芯片”。",
+      "author": null
+    },
     {
       "title": "传闻再起：上游材料至芯片设计，多公司被传计划调价",
       "url": "https://www.esmchina.com/news/14213.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14189.html",
       "published_at": null,
       "summary": "特斯拉公司已永久终止在印度的建厂计划，但与此同时，其监督版全自动驾驶(FSD)系统正式在中国市场启用。",
-      "author": null
-    },
-    {
-      "title": "18天罢工紧急叫停，三星10.5%利润分成敲定",
-      "url": "https://www.esmchina.com/news/14188.html",
-      "published_at": null,
-      "summary": "5月20日深夜，在韩国政府机构的紧急斡旋下，三星电子与跨企业工会达成暂定协议，原定为期18天的全面罢工即刻暂停。",
       "author": null
     }
   ],
