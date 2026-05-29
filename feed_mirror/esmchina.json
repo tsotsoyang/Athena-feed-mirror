@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-05-29T08:42:47.057222+00:00",
-  "next_refresh_at": "2026-05-29T09:12:47.057222+00:00",
+  "fetched_at": "2026-05-29T12:16:34.666384+00:00",
+  "next_refresh_at": "2026-05-29T12:46:34.666384+00:00",
   "entries": [
+    {
+      "title": "西部数据：以“存力”创新破解AI数据困局",
+      "url": "https://www.esmchina.com/news/14217.html",
+      "published_at": null,
+      "summary": "西部数据分享了其未来五年的产品路线图，根据路线图中的多元化存储技术，为客户提供具备规模化经济效益的高容量存储组合。",
+      "author": null
+    },
+    {
+      "title": "【大咖对话】封闭架构 vs 开放定制：物理AI芯片到底该怎么选？",
+      "url": "https://www.eet-china.com/ee-live/entry/MIPS_20260618.html?source=popup",
+      "published_at": null,
+      "summary": "MIPS高管对话ASPENCORE首席分析师，深度解析开放架构如何助力物理AI创新与商业化落地。",
+      "author": null
+    },
     {
       "title": "官方采购指南出炉！9款国产AI芯片获“国家队认证”，华为、海光等在列",
       "url": "https://www.esmchina.com/news/14215.html",
@@ -27,7 +41,7 @@
       "author": null
     },
     {
-      "title": "英伟达1500亿美元重仓台湾半导体产业链",
+      "title": "英伟达1500亿美元重仓台湾AI产业链",
       "url": "https://www.esmchina.com/news/14212.html",
       "published_at": null,
       "summary": "英伟达CEO黄仁勋日前在公司台北总部启用仪式上宣布，将NVIDIA对中国台湾地区的年度综合产业投入规模由1000亿美元上调至1500亿美元。",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14192.html",
       "published_at": null,
       "summary": "2.59万亿美元的AI投资主要由供应商和超大规模企业主导，而企业尚未充分释放其投资潜力。",
-      "author": null
-    },
-    {
-      "title": "Meta启动“大换血”：8000人裁员、7000人转岗，全面押注AI",
-      "url": "https://www.esmchina.com/news/14191.html",
-      "published_at": null,
-      "summary": "此次重组的背景是Meta对人工智能领域的巨额投入。",
-      "author": null
-    },
-    {
-      "title": "816亿美元！英伟达再度刷新单季营收记录",
-      "url": "https://www.esmchina.com/news/14190.html",
-      "published_at": null,
-      "summary": "英伟达最新发布的2027财年第一季度财报数据显示，受益于全球AI算力需求的持续井喷，英伟达本季总营收达816亿美元，同比大增85%，再度刷新单季历史纪录。",
       "author": null
     }
   ],
