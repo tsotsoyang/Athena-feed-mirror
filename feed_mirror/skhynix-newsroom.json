@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-05-30T22:08:36.131713+00:00",
-  "next_refresh_at": "2026-05-30T22:38:36.131713+00:00",
+  "fetched_at": "2026-05-30T23:33:53.161368+00:00",
+  "next_refresh_at": "2026-05-31T00:03:53.161368+00:00",
   "entries": [
     {
       "title": "SK hynix unveils ‘iHBM’ thermal solution to boost AI performance",
