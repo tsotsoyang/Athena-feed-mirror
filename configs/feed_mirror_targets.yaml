@@ -47,3 +47,42 @@ targets:
       Documented gotcha in Athena CLAUDE.md — would kill the whole
       rss_blog batch if included direct. Mirroring it here makes the
       content available to Athena without the timeout poisoning.
+
+  # 2026-05-31 — added per Item 4/7 of source-expansion sweep.
+  # Both sites are WordPress / CMS-managed, so /feed/ paths usually
+  # work even when not documented. Multiple fallback URLs let the
+  # runner probe paths until one returns parseable XML; the
+  # autodiscovery layer adds one more recovery step via the page's
+  # <link rel="alternate"> tag. If none resolve, the per-target
+  # error isolation means these don't poison the other mirrors.
+
+  - source: cxl-consortium-news
+    name: CXL Consortium press room
+    url: https://computeexpresslink.org/news/feed/
+    fallback_urls:
+      - https://computeexpresslink.org/feed/
+      - https://computeexpresslink.org/news/
+      - https://computeexpresslink.org/
+    max_entries: 25
+    notes: |
+      CXL Consortium press room at /news/ — direct signal for CXL
+      spec releases (3.2, 4.0, etc.) and ecosystem announcements.
+      WebFetch from Athena returned no RSS link in the rendered page
+      (probably JS-hydrated), so the runner relies on the WordPress
+      /feed/ convention + autodiscovery fallback. Critical input for
+      Athena's CXL-PIM topic which currently produces 0 entries.
+
+  - source: ocp-news
+    name: Open Compute Project news
+    url: https://www.opencompute.org/news/feed/
+    fallback_urls:
+      - https://www.opencompute.org/feed/
+      - https://www.opencompute.org/news/
+      - https://www.opencompute.org/projects/storage/
+    max_entries: 30
+    notes: |
+      OCP news + storage / NVMe / server announcements. Important
+      because OCP Inspired™ certifications (Sandisk PCIe Gen5
+      SN861, SMART Modular DC4800, etc.) signal which SSDs land in
+      hyperscale fleets — direct input for the NAND_Flash topic.
+      Mirror keeps the runner away from any geo-WAF surprises.
