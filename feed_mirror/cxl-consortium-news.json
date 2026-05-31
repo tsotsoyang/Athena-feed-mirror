@@ -1,0 +1,80 @@
+{
+  "source": "cxl-consortium-news",
+  "name": "CXL Consortium press room",
+  "feed_url": "https://computeexpresslink.org/news/feed/",
+  "fetched_at": "2026-05-31T03:02:38.325134+00:00",
+  "next_refresh_at": "2026-05-31T03:32:38.325134+00:00",
+  "entries": [
+    {
+      "title": "MWC 2026: SK Telecom and Panmnesia Sign Partnership to Innovate AI Data Center Architecture, Enhancing Cost Efficiency and Performance",
+      "url": "https://computeexpresslink.org/news/mwc-2026-sk-telecom-and-panmnesia-sign-partnership-to-innovate-ai-data-center-architecture-enhancing-cost-efficiency-and-performance/?utm_source=rss&utm_medium=rss&utm_campaign=mwc-2026-sk-telecom-and-panmnesia-sign-partnership-to-innovate-ai-data-center-architecture-enhancing-cost-efficiency-and-performance",
+      "published_at": "2026-03-09T16:13:59+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "Compute Express Link Consortium debuts 4.0 spec to push past bandwidth bottlenecks",
+      "url": "https://computeexpresslink.org/news/compute-express-link-consortium-debuts-4-0-spec-to-push-past-bandwidth-bottlenecks/?utm_source=rss&utm_medium=rss&utm_campaign=compute-express-link-consortium-debuts-4-0-spec-to-push-past-bandwidth-bottlenecks",
+      "published_at": "2025-12-04T20:15:24+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "CXL Supports Higher Performance And DDN Enables Sovereign AI At SC25",
+      "url": "https://computeexpresslink.org/news/cxl-supports-higher-performance-and-ddn-enables-sovereign-ai-at-sc25/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-supports-higher-performance-and-ddn-enables-sovereign-ai-at-sc25",
+      "published_at": "2025-12-04T20:14:33+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "CXL Adds Port Bundling to Quench AI Thirst",
+      "url": "https://computeexpresslink.org/news/cxl-adds-port-bundling-to-quench-ai-thirst/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-adds-port-bundling-to-quench-ai-thirst",
+      "published_at": "2025-12-04T20:13:30+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "CXL Consortium Members – Statements of Support for CXL 4.0 Specification",
+      "url": "https://computeexpresslink.org/news/cxl-consortium-members-statements-of-support-for-cxl-4-0-specification/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-consortium-members-statements-of-support-for-cxl-4-0-specification",
+      "published_at": "2025-11-18T13:00:43+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "CXL Consortium Releases the Compute Express Link 4.0 Specification Increasing Speed and Bandwidth",
+      "url": "https://computeexpresslink.org/news/cxl-consortium-releases-the-compute-express-link-4-0-specification-increasing-speed-and-bandwidth/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-consortium-releases-the-compute-express-link-4-0-specification-increasing-speed-and-bandwidth",
+      "published_at": "2025-11-18T13:00:21+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "Compute Can’t Handle the Truth: Why Communication Tax Prioritizes Memory and Interconnects in Modern AI Infrastructure",
+      "url": "https://computeexpresslink.org/news/compute-cant-handle-the-truth-why-communication-tax-prioritizes-memory-and-interconnects-in-modern-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=compute-cant-handle-the-truth-why-communication-tax-prioritizes-memory-and-interconnects-in-modern-ai-infrastructure",
+      "published_at": "2025-07-15T16:11:25+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "Panmnesia Introduces Today’s and Tomorrow’s AI Infrastructure, Including a Supercluster Architecture That Integrates NVLink, UALink, and HBM via CXL",
+      "url": "https://computeexpresslink.org/news/panmnesia-introduces-todays-and-tomorrows-ai-infrastructure-including-a-supercluster-architecture-that-integrates-nvlink-ualink-and-hbm-via-cxl/?utm_source=rss&utm_medium=rss&utm_campaign=panmnesia-introduces-todays-and-tomorrows-ai-infrastructure-including-a-supercluster-architecture-that-integrates-nvlink-ualink-and-hbm-via-cxl",
+      "published_at": "2025-07-15T16:03:59+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "Optimizing Data Center TCO With CXL And Compression",
+      "url": "https://computeexpresslink.org/news/optimizing-data-center-tco-with-cxl-and-compression/?utm_source=rss&utm_medium=rss&utm_campaign=optimizing-data-center-tco-with-cxl-and-compression",
+      "published_at": "2025-02-28T20:55:58+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "Optimizing System Memory Bandwidth with Micron CXL Memory Expansion Modules on Intel® Xeon® 6 Processors",
+      "url": "https://computeexpresslink.org/news/optimizing-system-memory-bandwidth-with-micron-cxl-memory-expansion-modules-on-intel-xeon-6-processors/?utm_source=rss&utm_medium=rss&utm_campaign=optimizing-system-memory-bandwidth-with-micron-cxl-memory-expansion-modules-on-intel-xeon-6-processors",
+      "published_at": "2025-01-14T17:40:32+00:00",
+      "summary": "",
+      "author": "Nereus"
+    }
+  ],
+  "errors": []
+}
