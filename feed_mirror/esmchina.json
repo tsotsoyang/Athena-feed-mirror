@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-01T05:25:49.133474+00:00",
-  "next_refresh_at": "2026-06-01T05:55:49.133474+00:00",
+  "fetched_at": "2026-06-01T10:39:02.237946+00:00",
+  "next_refresh_at": "2026-06-01T11:09:02.237946+00:00",
   "entries": [
+    {
+      "title": "盘点30家上市分销商2026年Q1营收和净利润",
+      "url": "https://www.esmchina.com/news/14221.html",
+      "published_at": null,
+      "summary": "在《国际电子商情》统计的30家上市分销商中，2026年Q1营收、归母净利润（以下简称净利润）同比（YoY）维持正增长的各有28家；2026年Q1营收YoY最高达到200.6%，净利润YoY最高为7,835.06%，净利润率最高为6.77%。",
+      "author": null
+    },
+    {
+      "title": "OpenAI官宣进军机器人领域，攻坚实体AI",
+      "url": "https://www.esmchina.com/news/14220.html",
+      "published_at": null,
+      "summary": "长期愿景则是实现“人人拥有个人机器人”。",
+      "author": null
+    },
+    {
+      "title": "黄仁勋GTC 2026演讲：宣告AI新时代，英伟达从芯片商迈向“AI工厂”架构师",
+      "url": "https://www.esmchina.com/news/14219.html",
+      "published_at": null,
+      "summary": "Agent AI（代理式AI）已经到来！AI的下一波浪潮正从生成式AI转向代理式AI。",
+      "author": null
+    },
+    {
+      "title": "美对华AI芯片出口管制升级，看“总部”不看“收货地”",
+      "url": "https://www.esmchina.com/news/14218.html",
+      "published_at": null,
+      "summary": "英伟达的首席执行官（CEO）黄仁勋5月20日接受美媒采访时坦承，美国出口限制持续重塑全球AI芯片格局，该公司已将中国市场“基本上拱手让给”了中国公司。",
+      "author": null
+    },
     {
       "title": "西部数据：以“存力”创新破解AI数据困局",
       "url": "https://www.esmchina.com/news/14217.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14196.html",
       "published_at": null,
       "summary": "华为发布的“韬(τ)定律”，其核心目标是系统性降低时间常数τ(韬)，通过逻辑折叠等原创技术，持续压缩信号传播时延，在不依赖极致物理制程的前提下，大幅提升晶体管密度与系统性能。",
-      "author": null
-    },
-    {
-      "title": "豪掷150亿美元！谷歌在美国押注AI算力未来",
-      "url": "https://www.esmchina.com/news/14195.html",
-      "published_at": null,
-      "summary": "此项投资被视作谷歌应对人工智能时代算力需求激增、强化其北美基础设施网络的关键布局。",
-      "author": null
-    },
-    {
-      "title": "国家发改委回应美资传闻，披露AI与机器人基建规划",
-      "url": "https://www.esmchina.com/news/14194.html",
-      "published_at": null,
-      "summary": "从未要求中国科技企业不得接受外商投资。",
-      "author": null
-    },
-    {
-      "title": "闻泰11连跌停后，安世半导体发公告“甩锅”",
-      "url": "https://www.esmchina.com/news/14193.html",
-      "published_at": null,
-      "summary": "闻泰科技近日遭遇了资本市场的剧烈震荡，其核心子公司——荷兰安世半导体(Nexperia)于当地时间5月20日发布正式声明，试图厘清责任。",
-      "author": null
-    },
-    {
-      "title": "冲向2.59万亿美元！2026年全球AI支出预增47%",
-      "url": "https://www.esmchina.com/news/14192.html",
-      "published_at": null,
-      "summary": "2.59万亿美元的AI投资主要由供应商和超大规模企业主导，而企业尚未充分释放其投资潜力。",
       "author": null
     }
   ],
