@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-01T00:06:48.228326+00:00",
-  "next_refresh_at": "2026-06-01T00:36:48.228326+00:00",
+  "fetched_at": "2026-06-01T05:25:41.761222+00:00",
+  "next_refresh_at": "2026-06-01T05:55:41.761222+00:00",
   "entries": [
+    {
+      "title": "SK Group Chairman Chey Tae-won Attends GTC Taipei 2026 Keynote, Reinforcing Vision as ‘An Innovative Partner to Build the Next-Gen AI Architecture Together’",
+      "url": "https://news.skhynix.com/gtc-taipei-2026-keynote/",
+      "published_at": "2026-06-01T04:21:57+00:00",
+      "summary": "SK Group Chairman Chey Tae-won visited Taipei for GTC Taipei 2026, just months after participating in GTC 2026 in San Jose this past March. By once again positioning himself at the forefront of AI innovation, Chairman Chey further solidified SK hynix’s partnership with NVIDIA, demonstrating his commitment to deepening collaboration with the world&#8217;s leading technology [&#8230;] The post SK Group Chairman Chey Tae-won Attends GTC Taipei 2026 Keynote, Reinforcing Vision as ‘An Innovative Partner to Build the Next-Gen AI Architecture Together’ first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "SK hynix unveils ‘iHBM’ thermal solution to boost AI performance",
       "url": "https://news.skhynix.com/ihbm-solution/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/tsmc-technology-symposium-2026/",
       "published_at": "2026-04-23T06:41:34+00:00",
       "summary": "At the TSMC Technology Symposium 2026, held in the heart of Silicon Valley, SK hynix demonstrated its dominant standing as an AI memory powerhouse and reaffirmed its strong partnership with TSMC. In a keynote address, the company put forth the concept of &#8216;the integration of memory and logic&#8217; and outlined a roadmap for the AI [&#8230;] The post “Overcoming Technological Limits Requires the Integration of Memory and Logic”: SK hynix Presents Vision at TSMC Symposium first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix Announces 1Q26 Financial Results",
-      "url": "https://news.skhynix.com/q1-2026-business-results/",
-      "published_at": "2026-04-22T22:35:35+00:00",
-      "summary": "News Highlights Reports revenue of 52.5763 trillion won, operating profit of 37.6103 trillion won, net profit of 40.3459 trillion won Record-high quarterly performance driven by increased sales of high value-added products from strong AI demand By launching advanced products, the company will try to address growing market demand in the looming agentic AI era Company [&#8230;] The post SK hynix Announces 1Q26 Financial Results first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
