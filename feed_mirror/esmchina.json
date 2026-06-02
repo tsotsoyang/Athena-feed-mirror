@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-02T06:51:16.091904+00:00",
-  "next_refresh_at": "2026-06-02T07:21:16.091904+00:00",
+  "fetched_at": "2026-06-02T11:19:03.432231+00:00",
+  "next_refresh_at": "2026-06-02T11:49:03.432231+00:00",
   "entries": [
+    {
+      "title": "从出口到本地制造：印度BIS新规如何倒逼中国OEM转型",
+      "url": "https://www.esmchina.com/news/14224.html",
+      "published_at": null,
+      "summary": "印度电器BIS认证升级，中国制造商面临“准入重构”",
+      "author": null
+    },
     {
       "title": "宇树科技73天高效过会，A股“具身智能第一股”将诞生",
       "url": "https://www.esmchina.com/news/14223.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14200.html",
       "published_at": null,
       "summary": "其中，中微公司减持金额达60亿元，澜起科技金额超33亿元，翱捷科技金额也超14亿元。",
-      "author": null
-    },
-    {
-      "title": "烧钱换市场？DeepSeek官宣降价永久2.5折",
-      "url": "https://www.esmchina.com/news/14198.html",
-      "published_at": null,
-      "summary": "为何敢？",
       "author": null
     }
   ],

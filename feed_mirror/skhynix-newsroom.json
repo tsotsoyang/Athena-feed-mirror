@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-02T06:51:11.777515+00:00",
-  "next_refresh_at": "2026-06-02T07:21:11.777515+00:00",
+  "fetched_at": "2026-06-02T11:18:57.394002+00:00",
+  "next_refresh_at": "2026-06-02T11:48:57.394002+00:00",
   "entries": [
+    {
+      "title": "Chairman Chey Tae-won and CEO Jensen Huang Reunite at COMPUTEX Taipei 2026",
+      "url": "https://news.skhynix.com/computex-2026-booth-tour/",
+      "published_at": "2026-06-02T08:47:04+00:00",
+      "summary": "On June 2 (local time), SK Group Chairman Chey Tae-won and NVIDIA CEO Jensen Huang met at COMPUTEX Taipei 2026, touring the SK hynix exhibition booth together and reviewing key AI memory technologies and displays. NVIDIA CEO Jensen Huang signing a collaborative product display featuring both companies&#8217; joint work at the SK hynix exhibition booth [&#8230;] The post Chairman Chey Tae-won and CEO Jensen Huang Reunite at COMPUTEX Taipei 2026 first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "Memory Solutions Grab the AI Wave — SK hynix Makes Its Mark at COMPUTEX 2026",
       "url": "https://news.skhynix.com/computex-2026/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/opinion-local-economy-pt7/",
       "published_at": "2026-04-27T00:03:47+00:00",
       "summary": "How Can Regions Losing Their Growth Momentum Find a Solution? The atmosphere in regions facing the threat of extinction is heavy. While the glamorous Seoul metropolitan area continues to leap forward, the spaces of &#8220;struggling local areas1&#8221; are quietly losing their vitality. Statistics on rural farming, mountain, and fishing villages, beset by demographic cliffs and [&#8230;] The post The Economics of Reviving Struggling Regions Through Corporate-Led Initiatives first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix received 2026 IEEE Corporate Innovation Award for Driving AI Computing Expansion with HBM",
-      "url": "https://news.skhynix.com/2026-ieee-awards-recipient/",
-      "published_at": "2026-04-25T23:27:09+00:00",
-      "summary": "News Highlights Seoul, April 26, 2026&#160;– SK hynix Inc. (or “the company”,&#160;www.skhynix.com) announced today that it received the Corporate Innovation Award at the &#8216;2026 IEEE1&#160;Honors Ceremony&#8217; held in New York on the 24th (local time). &#160;1IEEE: The Institute of Electrical and Electronics Engineers IEEE is the world’s largest technical professional organization dedicated to advancing technology [&#8230;] The post SK hynix received 2026 IEEE Corporate Innovation Award for Driving AI Computing Expansion with HBM first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
