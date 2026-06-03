@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-03T10:22:13.297101+00:00",
-  "next_refresh_at": "2026-06-03T10:52:13.297101+00:00",
+  "fetched_at": "2026-06-03T15:17:12.946525+00:00",
+  "next_refresh_at": "2026-06-03T15:47:12.946525+00:00",
   "entries": [
+    {
+      "title": "SK Group Chairman Chey Tae-won Meets TSMC Chairman and CEO C.C. Wei in Taiwan to Solidify Global AI Chip Partnership",
+      "url": "https://news.skhynix.com/ai-partnership-tsmc-2026/",
+      "published_at": "2026-06-03T14:57:18+00:00",
+      "summary": "SK Group Chairman Chey Tae-won met with TSMC Chairman and CEO C.C. Wei in Taiwan on Jun. 3 (local time), where the two leaders exchanged views on the latest trends in next-generation AI technologies and held in-depth discussions on how to jointly shape the future of the AI ecosystem. The meeting marked the first in-person [&#8230;] The post SK Group Chairman Chey Tae-won Meets TSMC Chairman and CEO C.C. Wei in Taiwan to Solidify Global AI Chip Partnership first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "Chairman Chey Tae-won and CEO Jensen Huang Reunite at COMPUTEX Taipei 2026",
       "url": "https://news.skhynix.com/computex-2026-booth-tour/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/tech-note-series-ep1/",
       "published_at": "2026-05-12T23:58:47+00:00",
       "summary": "AI doesn&#8217;t wait. The foundations of every industry are already cracking. This isn&#8217;t a story about one sector. Manufacturing. Finance. Healthcare. Data centers. The entire industrial order is being rebuilt around AI — and it&#8217;s happening now. Knowing about AI is no longer a competitive advantage. You need to see through it. That&#8217;s why our [&#8230;] The post [Tech Note EP.1] ‘It’s the Memory’, The Future of AI Will Be Decided by Memory first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "The Economics of Reviving Struggling Regions Through Corporate-Led Initiatives",
-      "url": "https://news.skhynix.com/opinion-local-economy-pt7/",
-      "published_at": "2026-04-27T00:03:47+00:00",
-      "summary": "How Can Regions Losing Their Growth Momentum Find a Solution? The atmosphere in regions facing the threat of extinction is heavy. While the glamorous Seoul metropolitan area continues to leap forward, the spaces of &#8220;struggling local areas1&#8221; are quietly losing their vitality. Statistics on rural farming, mountain, and fishing villages, beset by demographic cliffs and [&#8230;] The post The Economics of Reviving Struggling Regions Through Corporate-Led Initiatives first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
