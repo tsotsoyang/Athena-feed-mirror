@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-03T00:11:57.995137+00:00",
-  "next_refresh_at": "2026-06-03T00:41:57.995137+00:00",
+  "fetched_at": "2026-06-03T05:26:54.766317+00:00",
+  "next_refresh_at": "2026-06-03T05:56:54.766317+00:00",
   "entries": [
+    {
+      "title": "2026年全球智能手机出货量将暴跌近14%",
+      "url": "https://www.esmchina.com/news/14228.html",
+      "published_at": null,
+      "summary": "存储涨价的影响已经传导到智能手机终端。根据Counterpoint Research最新智能手机市场展望追踪报告，如今全球智能手机市场正进入调整阶段。",
+      "author": null
+    },
+    {
+      "title": "黄仁勋一句话，Marvell市值突破2540亿美元",
+      "url": "https://www.esmchina.com/news/14227.html",
+      "published_at": null,
+      "summary": "英伟达创始人兼CEO黄仁勋在2026年台北国际电脑展期间，预判Marvell有望成为科技赛道“下一家万亿美元市值企业”，推动Marvell创下上市以来的最强单日行情。",
+      "author": null
+    },
+    {
+      "title": "从“制造”到“定义”，松山湖IC论坛求解AI眼镜“芯片之问”",
+      "url": "https://www.esmchina.com/news/14226.html",
+      "published_at": null,
+      "summary": "聚焦AI眼镜，第十六届松山湖中国IC创新高峰论坛举办！",
+      "author": null
+    },
+    {
+      "title": "Gartner：2030年自主商业将成主流，供应链须从自动化转向自主化",
+      "url": "https://www.esmchina.com/news/14225.html",
+      "published_at": null,
+      "summary": "企业不应仅停留在任务自动化层面，而应转向推动实现完全自主化业务运营的战略。",
+      "author": null
+    },
     {
       "title": "从出口到本地制造：印度BIS新规如何倒逼中国OEM转型",
       "url": "https://www.esmchina.com/news/14224.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14203.html",
       "published_at": null,
       "summary": "从结构层面解决散热难题。",
-      "author": null
-    },
-    {
-      "title": "出手19亿元，补上关键一环！紫光国微收购瑞能半导体",
-      "url": "https://www.esmchina.com/news/14202.html",
-      "published_at": null,
-      "summary": "功率半导体被称作系统的“心脏”，受益于全球能源转型，在新能源汽车、光伏储能等领域需求持续增长。",
-      "author": null
-    },
-    {
-      "title": "产能翻4倍！美光20亿美元逆势扩产DDR4",
-      "url": "https://www.esmchina.com/news/14201.html",
-      "published_at": null,
-      "summary": "美光科技正式官宣旗下弗吉尼亚州马纳萨斯工厂实现1α DRAM工艺量产。项目落地后，该生产基地的DDR4晶圆供货规模将提升四倍，预计将于2026年底完成全面量产。",
-      "author": null
-    },
-    {
-      "title": "11家存储A股企业Q1“赚疯了”：总净利同比暴增40倍",
-      "url": "https://www.esmchina.com/news/14199.html",
-      "published_at": null,
-      "summary": "2026年Q1，11家本土上市存储企业的盈利规模为2025年全年的1.93倍，仅前三企业的净利润总和就突破了100亿元。",
-      "author": null
-    },
-    {
-      "title": "“股东减持潮”席卷半导体，10家企业拟套现137亿",
-      "url": "https://www.esmchina.com/news/14200.html",
-      "published_at": null,
-      "summary": "其中，中微公司减持金额达60亿元，澜起科技金额超33亿元，翱捷科技金额也超14亿元。",
       "author": null
     }
   ],
