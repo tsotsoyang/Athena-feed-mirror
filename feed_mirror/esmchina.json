@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-04T05:22:00.012281+00:00",
-  "next_refresh_at": "2026-06-04T05:52:00.012281+00:00",
+  "fetched_at": "2026-06-04T09:11:41.195641+00:00",
+  "next_refresh_at": "2026-06-04T09:41:41.195641+00:00",
   "entries": [
+    {
+      "title": "深圳华强高层人事更迭！进入“80后”掌舵时代",
+      "url": "https://www.esmchina.com/news/14231.html",
+      "published_at": null,
+      "summary": "财务数据显示，公司2025年实现营业收入249.09亿元，同比增长13.46%；在《国际电子商情》发布的“中国本土电子元器件分销商营收排名”中位列第4名。",
+      "author": null
+    },
+    {
+      "title": "突围AI眼镜“深水区”，松山湖论坛力推十款国产芯片",
+      "url": "https://www.esmchina.com/news/14230.html",
+      "published_at": null,
+      "summary": "AI眼镜市场呈现出一个奇特的现象：一边是年出货量跃过百万门槛的爆款产品，另一边却是与之匹配的专用芯片依然缺位。这种“应用狂奔、芯片跛脚”的现状，标志着产业已驶入攻坚克难的“深水区”。",
+      "author": null
+    },
     {
       "title": "印度电动汽车供应链加速本土化，但中国原材料进口依赖仍难破解",
       "url": "https://www.esmchina.com/news/14229.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14207.html",
       "published_at": null,
       "summary": "这笔巨额奖金的内部分配并不均衡。",
-      "author": null
-    },
-    {
-      "title": "分化加剧，动能转换：Q1业绩揭示中国模拟芯片战场生变",
-      "url": "https://www.esmchina.com/news/14206.html",
-      "published_at": null,
-      "summary": "究竟是什么导致了如此剧烈的分化？答案在于技术研发的长期投入与高端市场应用的卡位。",
-      "author": null
-    },
-    {
-      "title": "利润大幅下滑，小米宣布200亿港元回购计划",
-      "url": "https://www.esmchina.com/news/14204.html",
-      "published_at": null,
-      "summary": "小米集团最新发布的2026年第一季度财报显示，受全球消费电子终端需求疲软、行业存量竞争白热化、上游核心元器件价格上行等多重外部因素叠加影响，公司整体营收与盈利水平出现阶段性回调。",
       "author": null
     }
   ],
