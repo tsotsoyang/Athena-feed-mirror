@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-04T00:14:14.009701+00:00",
-  "next_refresh_at": "2026-06-04T00:44:14.009701+00:00",
+  "fetched_at": "2026-06-04T05:22:00.012281+00:00",
+  "next_refresh_at": "2026-06-04T05:52:00.012281+00:00",
   "entries": [
+    {
+      "title": "印度电动汽车供应链加速本土化，但中国原材料进口依赖仍难破解",
+      "url": "https://www.esmchina.com/news/14229.html",
+      "published_at": null,
+      "summary": "在印度市场，随着电动汽车、太阳能基础设施和数字电源系统应用的扩展，关键原材料铁氧体的需求正在不断上升。",
+      "author": null
+    },
     {
       "title": "2026年全球智能手机出货量将暴跌近14%",
       "url": "https://www.esmchina.com/news/14228.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14204.html",
       "published_at": null,
       "summary": "小米集团最新发布的2026年第一季度财报显示，受全球消费电子终端需求疲软、行业存量竞争白热化、上游核心元器件价格上行等多重外部因素叠加影响，公司整体营收与盈利水平出现阶段性回调。",
-      "author": null
-    },
-    {
-      "title": "SK海力士发布iHBM散热技术，可降低热阻超30%",
-      "url": "https://www.esmchina.com/news/14203.html",
-      "published_at": null,
-      "summary": "从结构层面解决散热难题。",
       "author": null
     }
   ],
