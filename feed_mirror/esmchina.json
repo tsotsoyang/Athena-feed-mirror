@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-05T03:52:07.654629+00:00",
-  "next_refresh_at": "2026-06-05T04:22:07.654629+00:00",
+  "fetched_at": "2026-06-05T08:08:13.607093+00:00",
+  "next_refresh_at": "2026-06-05T08:38:13.607093+00:00",
   "entries": [
+    {
+      "title": "一招教你巧妙应对复杂的射频微波测试难题！",
+      "url": "https://www.eet-china.com/ee-live/entry/Keysight_20260730.html?source=pop",
+      "published_at": null,
+      "summary": "如何在多通道间实现完美的相位相干？如何应对超快速的频率跳变需求？",
+      "author": null
+    },
+    {
+      "title": "如何让信号调试时间缩短一半？",
+      "url": "https://www.eet-china.com/ee-live/entry/Keysight_20260626.html?source=pop",
+      "published_at": null,
+      "summary": "Keysight XA5/XA6 信号分析仪线上研讨会，教你如何用新架构加速从调试到验证的全流程。",
+      "author": null
+    },
+    {
+      "title": "【直播抽奖】蓝牙5.4 PAwR技术完整落地方案",
+      "url": "https://www.eet-china.com/webinars/entry/OnMicro_20260616.html?source=pop",
+      "published_at": null,
+      "summary": "在线抽奖10位送出无线鼠标！",
+      "author": null
+    },
+    {
+      "title": "专访AOS冯雷博士：AI时代风口，功率半导体战略纵深",
+      "url": "https://www.esmchina.com/news/14234.html",
+      "published_at": null,
+      "summary": "从产品覆盖广度、技术深度以及未来架构演进的系统性布局...",
+      "author": null
+    },
     {
       "title": "博通单季AI收入已破百亿美元，下一财年做到千亿！",
       "url": "https://www.esmchina.com/news/14233.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14213.html",
       "published_at": null,
       "summary": "理由多指向成本上升与需求增长。",
-      "author": null
-    },
-    {
-      "title": "英伟达1500亿美元重仓台湾AI产业链",
-      "url": "https://www.esmchina.com/news/14212.html",
-      "published_at": null,
-      "summary": "英伟达CEO黄仁勋日前在公司台北总部启用仪式上宣布，将NVIDIA对中国台湾地区的年度综合产业投入规模由1000亿美元上调至1500亿美元。",
-      "author": null
-    },
-    {
-      "title": "半导体产业领跑，中国前4月规上工业企业利润增长18.2%",
-      "url": "https://www.esmchina.com/news/14211.html",
-      "published_at": null,
-      "summary": "半导体相关行业利润增速超600%。",
-      "author": null
-    },
-    {
-      "title": "存储巨头长鑫科技顺利过会，上半年营收预达1100-1200亿",
-      "url": "https://www.esmchina.com/news/14210.html",
-      "published_at": null,
-      "summary": "按照产能和出货量统计，长鑫科技已成为中国第一、全球第四的DRAM厂商。",
-      "author": null
-    },
-    {
-      "title": "AI数据中心需求爆发，2026年Q1全球DRAM营收冲刺千亿美元",
-      "url": "https://www.esmchina.com/news/14209.html",
-      "published_at": null,
-      "summary": "受AI数据中心热潮推动，全球DRAM营收在2026年第一季度逼近千亿美元。",
       "author": null
     }
   ],
