@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-04T23:45:59.851338+00:00",
-  "next_refresh_at": "2026-06-05T00:15:59.851338+00:00",
+  "fetched_at": "2026-06-05T03:52:07.654629+00:00",
+  "next_refresh_at": "2026-06-05T04:22:07.654629+00:00",
   "entries": [
+    {
+      "title": "博通单季AI收入已破百亿美元，下一财年做到千亿！",
+      "url": "https://www.esmchina.com/news/14233.html",
+      "published_at": null,
+      "summary": "财报指出，业绩增长的核心驱动力来自人工智能半导体。",
+      "author": null
+    },
+    {
+      "title": "数据中心厂商开始“抢占”手机用的低功耗内存",
+      "url": "https://www.esmchina.com/news/14232.html",
+      "published_at": null,
+      "summary": "JEDEC即将发布的LPDDR6标准将加入多项新特性，以应对该内存技术在AI数据中心日益提升的应用需求。",
+      "author": null
+    },
     {
       "title": "深圳华强高层人事更迭！进入“80后”掌舵时代",
       "url": "https://www.esmchina.com/news/14231.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14209.html",
       "published_at": null,
       "summary": "受AI数据中心热潮推动，全球DRAM营收在2026年第一季度逼近千亿美元。",
-      "author": null
-    },
-    {
-      "title": "立讯精密并购流程违规，被市场监管总局处罚90万元",
-      "url": "https://www.esmchina.com/news/14208.html",
-      "published_at": null,
-      "summary": "国家市场监督管理总局公示的行政处罚决定书显示，立讯精密工业股份有限公司因在资产收购交易过程中，未依法履行经营者集中事前申报义务，被依法处以90万元行政处罚。",
-      "author": null
-    },
-    {
-      "title": "三星罢工风险暂时平息，超34万亿韩元奖金分给员工",
-      "url": "https://www.esmchina.com/news/14207.html",
-      "published_at": null,
-      "summary": "这笔巨额奖金的内部分配并不均衡。",
       "author": null
     }
   ],
