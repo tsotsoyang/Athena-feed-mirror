@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-07T22:37:32.071802+00:00",
-  "next_refresh_at": "2026-06-07T23:07:32.071802+00:00",
+  "fetched_at": "2026-06-08T00:09:23.526090+00:00",
+  "next_refresh_at": "2026-06-08T00:39:23.526090+00:00",
   "entries": [
+    {
+      "title": "SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories",
+      "url": "https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/",
+      "published_at": "2026-06-07T23:00:07+00:00",
+      "summary": "News Highlights Seoul, June 08, 2026 – SK hynix Inc. (or “the company”,&#160;www.skhynix.com) and NVIDIA today announced a multi-year technology partnership to advance next-generation memory for the global AI factory buildout and accelerate semiconductor design and manufacturing. The agreement builds on years of deep co-engineering collaboration that has powered some of the world’s most advanced [&#8230;] The post SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "SK hynix and the Ministry of Climate, Energy and Environment Co-host ‘AI for Green Impact, Inspiring Young Minds to Shape a Greener Future",
       "url": "https://news.skhynix.com/ai-for-green-impact-2026/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/dtw-2026/",
       "published_at": "2026-05-20T04:59:03+00:00",
       "summary": "Las Vegas, a city of cutting-edge technology where colorful neon signs and massive media facades light up around the clock. On May 18 (local time), the eyes of global IT leaders once again turned to The Venetian Expo at the heart of the city. Having established itself as a hub for technological innovation by hosting [&#8230;] The post What Brought Dell and SK hynix Together in Las Vegas? From HBM to cSSD, Reaffirming the Limitless Scalability of AI Memory first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix Honored with Gold Tower Order and Presidential Citation at the 61st Invention Day Ceremony, Proving AI Memory Technological Leadership",
-      "url": "https://news.skhynix.com/invention-day-2026/",
-      "published_at": "2026-05-20T01:58:07+00:00",
-      "summary": "The 61st Invention Day ceremony SK hynix announced that Ahn Hyun, Chief Development Officer (CDO), and Hyungjin Choi, Technical Leader of NAND Development received the Gold Tower Order of Industrial Service Merit and the Presidential Citation, respectively, at the 61st Invention Day ceremony, held on May 19 at COEX Magok Le West Hall in Gangseo-gu, [&#8230;] The post SK hynix Honored with Gold Tower Order and Presidential Citation at the 61st Invention Day Ceremony, Proving AI Memory Technological Leadership first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
