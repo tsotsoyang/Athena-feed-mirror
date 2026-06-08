@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-08T00:09:30.401697+00:00",
-  "next_refresh_at": "2026-06-08T00:39:30.401697+00:00",
+  "fetched_at": "2026-06-08T05:13:19.429233+00:00",
+  "next_refresh_at": "2026-06-08T05:43:19.429233+00:00",
   "entries": [
+    {
+      "title": "欧洲电子产品回收困境：合法的在亏钱，非法的在暴富",
+      "url": "https://www.esmchina.com/news/14241.html",
+      "published_at": null,
+      "summary": "欧洲的回收率虽高，但循环利用体系尚不完善。",
+      "author": null
+    },
+    {
+      "title": "炸鸡啤酒局谈妥了！英伟达与SK海力士官宣多年技术合作",
+      "url": "https://www.esmchina.com/news/14240.html",
+      "published_at": null,
+      "summary": "英伟达与SK海力士正式官宣多年期深度技术战略合作，核心聚焦下一代AI内存联合研发、半导体制造AI赋能及全球AI生态共建，",
+      "author": null
+    },
+    {
+      "title": "今日生效！“华虹公司”正式更名“华虹宏力”，沪港证券简称统一",
+      "url": "https://www.esmchina.com/news/14239.html",
+      "published_at": null,
+      "summary": "此次证券简称变更是基于公司法定名称的正式更改。",
+      "author": null
+    },
     {
       "title": "AI眼镜产业化的硬问题：杀手级应用何在？显示是刚需吗？港股敲门砖是什么？",
       "url": "https://www.esmchina.com/news/14238.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14217.html",
       "published_at": null,
       "summary": "西部数据分享了其未来五年的产品路线图，根据路线图中的多元化存储技术，为客户提供具备规模化经济效益的高容量存储组合。",
-      "author": null
-    },
-    {
-      "title": "【大咖对话】封闭架构 vs 开放定制：物理AI芯片到底该怎么选？",
-      "url": "https://www.eet-china.com/ee-live/entry/MIPS_20260618.html?source=popup",
-      "published_at": null,
-      "summary": "MIPS高管对话ASPENCORE首席分析师，深度解析开放架构如何助力物理AI创新与商业化落地。",
-      "author": null
-    },
-    {
-      "title": "官方采购指南出炉！9款国产AI芯片获“国家队认证”，华为、海光等在列",
-      "url": "https://www.esmchina.com/news/14215.html",
-      "published_at": null,
-      "summary": "所有认证自发布之日起有效期为三年。",
-      "author": null
-    },
-    {
-      "title": "比亚迪来“搅局”！狂砸千亿自研造芯，中国首款4nm智驾芯片量产",
-      "url": "https://www.esmchina.com/news/14214.html",
-      "published_at": null,
-      "summary": "“电动化的上半场看电池，智能化的下半场看芯片”。",
       "author": null
     }
   ],
