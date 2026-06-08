@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-08T05:13:19.429233+00:00",
-  "next_refresh_at": "2026-06-08T05:43:19.429233+00:00",
+  "fetched_at": "2026-06-08T10:04:13.167552+00:00",
+  "next_refresh_at": "2026-06-08T10:34:13.167552+00:00",
   "entries": [
+    {
+      "title": "风水轮流转！日产英国王牌工厂将生产中国汽车",
+      "url": "https://www.esmchina.com/news/14243.html",
+      "published_at": null,
+      "summary": "昔日本土代工外资，如今日企英厂生产中国汽车。",
+      "author": null
+    },
+    {
+      "title": "突破9,600 MT/s！Rambus第二代DDR5客户端芯片组为AI PC铺平道路",
+      "url": "https://www.esmchina.com/news/14242.html",
+      "published_at": null,
+      "summary": "内存不再是配角，而是决定本地智能体能否流畅运行、大模型能否高效推理、用户体验能否真正跃升的核心器件。",
+      "author": null
+    },
     {
       "title": "欧洲电子产品回收困境：合法的在亏钱，非法的在暴富",
       "url": "https://www.esmchina.com/news/14241.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14219.html",
       "published_at": null,
       "summary": "Agent AI（代理式AI）已经到来！AI的下一波浪潮正从生成式AI转向代理式AI。",
-      "author": null
-    },
-    {
-      "title": "美对华AI芯片出口管制升级，看“总部”不看“收货地”",
-      "url": "https://www.esmchina.com/news/14218.html",
-      "published_at": null,
-      "summary": "英伟达的首席执行官（CEO）黄仁勋5月20日接受美媒采访时坦承，美国出口限制持续重塑全球AI芯片格局，该公司已将中国市场“基本上拱手让给”了中国公司。",
-      "author": null
-    },
-    {
-      "title": "西部数据：以“存力”创新破解AI数据困局",
-      "url": "https://www.esmchina.com/news/14217.html",
-      "published_at": null,
-      "summary": "西部数据分享了其未来五年的产品路线图，根据路线图中的多元化存储技术，为客户提供具备规模化经济效益的高容量存储组合。",
       "author": null
     }
   ],
