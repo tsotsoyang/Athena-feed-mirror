@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-08T23:47:17.877541+00:00",
-  "next_refresh_at": "2026-06-09T00:17:17.877541+00:00",
+  "fetched_at": "2026-06-09T03:35:00.746103+00:00",
+  "next_refresh_at": "2026-06-09T04:05:00.746103+00:00",
   "entries": [
+    {
+      "title": "数据中心光模块市场五年内翻倍，内部互联成最大增长引擎",
+      "url": "https://www.esmchina.com/news/14245.html",
+      "published_at": null,
+      "summary": "数据中心内部网络究竟面临的是一场革命还是一次演进？",
+      "author": null
+    },
+    {
+      "title": "美国防部更新1260H清单，188家中国企业纳入管控范围",
+      "url": "https://www.esmchina.com/news/14244.html",
+      "published_at": null,
+      "summary": "美国国防部依据《2021财年国防授权法案》第1260H条款，完成新一轮涉华军事关联企业清单（1260H清单）更新工作，更新后清单收录中国企业共计188家，其中包括比亚迪、阿里巴巴、百度、长江存储、长鑫存储、宇树科技等知名企业。",
+      "author": null
+    },
     {
       "title": "风水轮流转！日产英国王牌工厂将生产中国汽车",
       "url": "https://www.esmchina.com/news/14243.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14221.html",
       "published_at": null,
       "summary": "在《国际电子商情》统计的30家上市分销商中，2026年Q1营收、归母净利润（以下简称净利润）同比（YoY）维持正增长的各有28家；2026年Q1营收YoY最高达到200.6%，净利润YoY最高为7,835.06%，净利润率最高为6.77%。",
-      "author": null
-    },
-    {
-      "title": "OpenAI官宣进军机器人领域，攻坚实体AI",
-      "url": "https://www.esmchina.com/news/14220.html",
-      "published_at": null,
-      "summary": "长期愿景则是实现“人人拥有个人机器人”。",
-      "author": null
-    },
-    {
-      "title": "黄仁勋GTC 2026演讲：宣告AI新时代，英伟达从芯片商迈向“AI工厂”架构师",
-      "url": "https://www.esmchina.com/news/14219.html",
-      "published_at": null,
-      "summary": "Agent AI（代理式AI）已经到来！AI的下一波浪潮正从生成式AI转向代理式AI。",
       "author": null
     }
   ],
