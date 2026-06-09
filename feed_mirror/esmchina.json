@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-09T07:51:00.019098+00:00",
-  "next_refresh_at": "2026-06-09T08:21:00.019098+00:00",
+  "fetched_at": "2026-06-09T11:16:23.137362+00:00",
+  "next_refresh_at": "2026-06-09T11:46:23.137362+00:00",
   "entries": [
+    {
+      "title": "三星“亮出底牌”！披露与英伟达合作全景",
+      "url": "https://www.esmchina.com/news/14248.html",
+      "published_at": null,
+      "summary": "在晶圆代工领域，三星首次详细披露了为英伟达提供服务的核心项目。",
+      "author": null
+    },
     {
       "title": "库克“最后一舞”：苹果WWDC发布全生态AI战略，新一代SiriAI登场",
       "url": "https://www.esmchina.com/news/14246.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14223.html",
       "published_at": null,
       "summary": "2025年全年，公司人形机器人出货量超过5500台，自称位居全球行业第一。公司预计2026年人形机器人目标出货量为1万至2万台。",
-      "author": null
-    },
-    {
-      "title": "美国5月制造业扩张提速至四年高位，但供应链成本风险隐现",
-      "url": "https://www.esmchina.com/news/14222.html",
-      "published_at": null,
-      "summary": "在ISM跟踪的17个制造业行业中，有多达16个行业报告了增长。",
       "author": null
     }
   ],
