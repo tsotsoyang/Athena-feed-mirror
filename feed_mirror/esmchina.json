@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-09T03:35:00.746103+00:00",
-  "next_refresh_at": "2026-06-09T04:05:00.746103+00:00",
+  "fetched_at": "2026-06-09T07:51:00.019098+00:00",
+  "next_refresh_at": "2026-06-09T08:21:00.019098+00:00",
   "entries": [
+    {
+      "title": "库克“最后一舞”：苹果WWDC发布全生态AI战略，新一代SiriAI登场",
+      "url": "https://www.esmchina.com/news/14246.html",
+      "published_at": null,
+      "summary": "时隔两年苹果再次集中推出AI战略。",
+      "author": null
+    },
     {
       "title": "数据中心光模块市场五年内翻倍，内部互联成最大增长引擎",
       "url": "https://www.esmchina.com/news/14245.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14222.html",
       "published_at": null,
       "summary": "在ISM跟踪的17个制造业行业中，有多达16个行业报告了增长。",
-      "author": null
-    },
-    {
-      "title": "盘点30家上市分销商2026年Q1营收和净利润",
-      "url": "https://www.esmchina.com/news/14221.html",
-      "published_at": null,
-      "summary": "在《国际电子商情》统计的30家上市分销商中，2026年Q1营收、归母净利润（以下简称净利润）同比（YoY）维持正增长的各有28家；2026年Q1营收YoY最高达到200.6%，净利润YoY最高为7,835.06%，净利润率最高为6.77%。",
       "author": null
     }
   ],
