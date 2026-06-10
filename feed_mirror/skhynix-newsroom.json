@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-10T04:57:45.562101+00:00",
-  "next_refresh_at": "2026-06-10T05:27:45.562101+00:00",
+  "fetched_at": "2026-06-10T08:56:04.182635+00:00",
+  "next_refresh_at": "2026-06-10T09:26:04.182635+00:00",
   "entries": [
+    {
+      "title": "Me~eh~eh~mory! The secret behind the flock leading the AI era — Behind the scenes of SK hynix’s new ad, “The Memory Shepherd”",
+      "url": "https://news.skhynix.com/brand-film-memory-girl/",
+      "published_at": "2026-06-10T06:24:12+00:00",
+      "summary": "SK hynix has unveiled its new brand campaign, &#8220;The Memory Shepherd&#8221;, on YouTube. A flock of sheep suddenly materializes in the middle of a city. “Me~eh~eh~mory.” Listen closely, and the sheep’s bleating resolves into a single, unmistakable word — MEMORY, the essential force powering the AI era. In a time when the world is captivated [&#8230;] The post Me~eh~eh~mory! The secret behind the flock leading the AI era — Behind the scenes of SK hynix’s new ad, “The Memory Shepherd” first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories",
       "url": "https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/ihbm-solution/",
       "published_at": "2026-05-26T00:13:36+00:00",
       "summary": "News Highlights Seoul, May 26, 2026&#160;– SK hynix Inc. (or “the company”,&#160;www.skhynix.com) announced today the launch of the iHBM solution that embeds integrated cooling elements(ICEs)1&#160;within the high-bandwidth memory(HBM) package for next-generation HBM products. 1ICE(Integrated Cooling Elements): A cooling element made of electrically non-conductive, thermally conductive silicon-based material, designed to dissipate heat from the HBM package [&#8230;] The post SK hynix unveils ‘iHBM’ thermal solution to boost AI performance first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "What Brought Dell and SK hynix Together in Las Vegas? From HBM to cSSD, Reaffirming the Limitless Scalability of AI Memory",
-      "url": "https://news.skhynix.com/dtw-2026/",
-      "published_at": "2026-05-20T04:59:03+00:00",
-      "summary": "Las Vegas, a city of cutting-edge technology where colorful neon signs and massive media facades light up around the clock. On May 18 (local time), the eyes of global IT leaders once again turned to The Venetian Expo at the heart of the city. Having established itself as a hub for technological innovation by hosting [&#8230;] The post What Brought Dell and SK hynix Together in Las Vegas? From HBM to cSSD, Reaffirming the Limitless Scalability of AI Memory first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
