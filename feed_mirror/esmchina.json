@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-10T00:21:37.328323+00:00",
-  "next_refresh_at": "2026-06-10T00:51:37.328323+00:00",
+  "fetched_at": "2026-06-10T04:57:55.871631+00:00",
+  "next_refresh_at": "2026-06-10T05:27:55.871631+00:00",
   "entries": [
+    {
+      "title": "澜起科技9,200 MT/s DDR5 RCD芯片送样",
+      "url": "https://www.esmchina.com/news/14251.html",
+      "published_at": null,
+      "summary": "2026年6月10日，澜起科技宣布已成功向客户送样其DDR5第六子代寄存时钟驱动器芯片(RCD06)。",
+      "author": null
+    },
+    {
+      "title": "佰维存储年内再签18.6亿美元闪存长单",
+      "url": "https://www.esmchina.com/news/14250.html",
+      "published_at": null,
+      "summary": "这是该公司继今年3月签署15亿美元长单后，年内落地的第二笔大额存储供应链协议。",
+      "author": null
+    },
+    {
+      "title": "华尔街预判，DRAM/NAND结构性紧缺将持续至2028年末",
+      "url": "https://www.esmchina.com/news/14249.html",
+      "published_at": null,
+      "summary": "综合华尔街多家机构的预测数据显示，当前全球DRAM内存、NAND闪存的供给紧张局面，或将贯穿2027年全年，直至2028年末新增产能全面达产满产后方能逐步缓解。",
+      "author": null
+    },
+    {
+      "title": "台积电前高管警告欧洲：没有本土芯片设计，晶圆厂就是空壳",
+      "url": "https://www.esmchina.com/news/14247.html",
+      "published_at": null,
+      "summary": "一份新的行业蓝图指出，欧洲此前的关注面过于狭窄。如今，两位来自西班牙的产业人士正推动《芯片法案2.0》向需求端、芯片设计领域和初创企业规模化方向发力。",
+      "author": null
+    },
     {
       "title": "三星“亮出底牌”！披露与英伟达合作全景",
       "url": "https://www.esmchina.com/news/14248.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14227.html",
       "published_at": null,
       "summary": "英伟达创始人兼CEO黄仁勋在2026年台北国际电脑展期间，预判Marvell有望成为科技赛道“下一家万亿美元市值企业”，推动Marvell创下上市以来的最强单日行情。",
-      "author": null
-    },
-    {
-      "title": "从“制造”到“定义”，松山湖IC论坛求解AI眼镜“芯片之问”",
-      "url": "https://www.esmchina.com/news/14226.html",
-      "published_at": null,
-      "summary": "聚焦AI眼镜，第十六届松山湖中国IC创新高峰论坛举办！",
-      "author": null
-    },
-    {
-      "title": "Gartner：2030年自主商业将成主流，供应链须从自动化转向自主化",
-      "url": "https://www.esmchina.com/news/14225.html",
-      "published_at": null,
-      "summary": "企业不应仅停留在任务自动化层面，而应转向推动实现完全自主化业务运营的战略。",
-      "author": null
-    },
-    {
-      "title": "从出口到本地制造：印度BIS新规如何倒逼中国OEM转型",
-      "url": "https://www.esmchina.com/news/14224.html",
-      "published_at": null,
-      "summary": "印度电器BIS认证升级，中国制造商面临“准入重构”",
-      "author": null
-    },
-    {
-      "title": "宇树科技73天高效过会，A股“具身智能第一股”将诞生",
-      "url": "https://www.esmchina.com/news/14223.html",
-      "published_at": null,
-      "summary": "2025年全年，公司人形机器人出货量超过5500台，自称位居全球行业第一。公司预计2026年人形机器人目标出货量为1万至2万台。",
       "author": null
     }
   ],
