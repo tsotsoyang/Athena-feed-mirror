@@ -2,72 +2,17 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-10T23:26:24.260898+00:00",
-  "next_refresh_at": "2026-06-10T23:56:24.260898+00:00",
-  "entries": [
+  "fetched_at": "2026-06-11T02:01:22.096322+00:00",
+  "next_refresh_at": "2026-06-11T02:31:22.096322+00:00",
+  "entries": [],
+  "errors": [
     {
-      "title": "Me~eh~eh~mory! The secret behind the flock leading the AI era — Behind the scenes of SK hynix’s new ad, “The Memory Shepherd”",
-      "url": "https://news.skhynix.com/brand-film-memory-girl/",
-      "published_at": "2026-06-10T06:24:12+00:00",
-      "summary": "SK hynix has unveiled its new brand campaign, &#8220;The Memory Shepherd&#8221;, on YouTube. A flock of sheep suddenly materializes in the middle of a city. “Me~eh~eh~mory.” Listen closely, and the sheep’s bleating resolves into a single, unmistakable word — MEMORY, the essential force powering the AI era. In a time when the world is captivated [&#8230;] The post Me~eh~eh~mory! The secret behind the flock leading the AI era — Behind the scenes of SK hynix’s new ad, “The Memory Shepherd” first appeared on SK hynix Newsroom .",
-      "author": "user"
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
     },
     {
-      "title": "SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories",
-      "url": "https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/",
-      "published_at": "2026-06-07T23:00:07+00:00",
-      "summary": "News Highlights Seoul, June 08, 2026 – SK hynix Inc. (or “the company”,&#160;www.skhynix.com) and NVIDIA today announced a multi-year technology partnership to advance next-generation memory for the global AI factory buildout and accelerate semiconductor design and manufacturing. The agreement builds on years of deep co-engineering collaboration that has powered some of the world’s most advanced [&#8230;] The post SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix and the Ministry of Climate, Energy and Environment Co-host ‘AI for Green Impact, Inspiring Young Minds to Shape a Greener Future",
-      "url": "https://news.skhynix.com/ai-for-green-impact-2026/",
-      "published_at": "2026-06-05T07:28:53+00:00",
-      "summary": "On June 5, World Environment Day SK hynix co-organized &#8216;AI for Green Impact,&#8217; a hands-on educational program jointly hosted with the Ministry of Climate, Energy and Environment. The event took place at the Conference Hall on the third floor of COEX in Seoul. Approximately 100 participants — elementary, middle, and high school students and their [&#8230;] The post SK hynix and the Ministry of Climate, Energy and Environment Co-host ‘AI for Green Impact, Inspiring Young Minds to Shape a Greener Future first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "‘From Chips to AI Systems’… Chairman Chey Strengthens Partnership with Foxconn",
-      "url": "https://news.skhynix.com/ai-partnership-foxconn-2026/",
-      "published_at": "2026-06-04T06:00:05+00:00",
-      "summary": "SK Group Chairman Chey Tae-won met with Foxconn Chairman Young Liu and senior executives in Taipei, Taiwan, on June 3 (local time), to discuss measures to strengthen competitiveness in next-generation AI infrastructure. As the AI industry’s center of gravity extends beyond semiconductors to encompass the broader infrastructure landscape — including servers and data centers — [&#8230;] The post ‘From Chips to AI Systems’… Chairman Chey Strengthens Partnership with Foxconn first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK Group Chairman Chey Tae-won Meets TSMC Chairman and CEO C.C. Wei in Taiwan to Solidify Global AI Chip Partnership",
-      "url": "https://news.skhynix.com/ai-partnership-tsmc-2026/",
-      "published_at": "2026-06-03T14:57:18+00:00",
-      "summary": "SK Group Chairman Chey Tae-won met with TSMC Chairman and CEO C.C. Wei in Taiwan on Jun. 3 (local time), where the two leaders exchanged views on the latest trends in next-generation AI technologies and held in-depth discussions on how to jointly shape the future of the AI ecosystem. The meeting marked the first in-person [&#8230;] The post SK Group Chairman Chey Tae-won Meets TSMC Chairman and CEO C.C. Wei in Taiwan to Solidify Global AI Chip Partnership first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "Chairman Chey Tae-won and CEO Jensen Huang Reunite at COMPUTEX Taipei 2026",
-      "url": "https://news.skhynix.com/computex-2026-booth-tour/",
-      "published_at": "2026-06-02T08:47:04+00:00",
-      "summary": "On June 2 (local time), SK Group Chairman Chey Tae-won and NVIDIA CEO Jensen Huang met at COMPUTEX Taipei 2026, touring the SK hynix exhibition booth together and reviewing key AI memory technologies and displays. NVIDIA CEO Jensen Huang signing a collaborative product display featuring both companies&#8217; joint work at the SK hynix exhibition booth [&#8230;] The post Chairman Chey Tae-won and CEO Jensen Huang Reunite at COMPUTEX Taipei 2026 first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "Memory Solutions Grab the AI Wave — SK hynix Makes Its Mark at COMPUTEX 2026",
-      "url": "https://news.skhynix.com/computex-2026/",
-      "published_at": "2026-06-02T05:40:39+00:00",
-      "summary": "Overview of the SK hynix booth at COMPUTEX Taipei 2026 Exhibition booths packed with companies showcasing their latest products fill every corner of the expansive venue, while visitors move busily from one display to the next. COMPUTEX&#160;—&#160;one of the world’s largest ICT and computer component exhibitions&#160;—&#160;opened its doors once again this year, running from June [&#8230;] The post Memory Solutions Grab the AI Wave — SK hynix Makes Its Mark at COMPUTEX 2026 first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK Group Chairman Chey Tae-won Attends GTC Taipei 2026 Keynote, Reinforcing Vision as ‘An Innovative Partner to Build the Next-Gen AI Architecture Together’",
-      "url": "https://news.skhynix.com/gtc-taipei-2026-keynote/",
-      "published_at": "2026-06-01T04:21:57+00:00",
-      "summary": "SK Group Chairman Chey Tae-won visited Taipei for GTC Taipei 2026, just months after participating in GTC 2026 in San Jose this past March. By once again positioning himself at the forefront of AI innovation, Chairman Chey further solidified SK hynix’s partnership with NVIDIA, demonstrating his commitment to deepening collaboration with the world&#8217;s leading technology [&#8230;] The post SK Group Chairman Chey Tae-won Attends GTC Taipei 2026 Keynote, Reinforcing Vision as ‘An Innovative Partner to Build the Next-Gen AI Architecture Together’ first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix unveils ‘iHBM’ thermal solution to boost AI performance",
-      "url": "https://news.skhynix.com/ihbm-solution/",
-      "published_at": "2026-05-26T00:13:36+00:00",
-      "summary": "News Highlights Seoul, May 26, 2026&#160;– SK hynix Inc. (or “the company”,&#160;www.skhynix.com) announced today the launch of the iHBM solution that embeds integrated cooling elements(ICEs)1&#160;within the high-bandwidth memory(HBM) package for next-generation HBM products. 1ICE(Integrated Cooling Elements): A cooling element made of electrically non-conductive, thermally conductive silicon-based material, designed to dissipate heat from the HBM package [&#8230;] The post SK hynix unveils ‘iHBM’ thermal solution to boost AI performance first appeared on SK hynix Newsroom .",
-      "author": "user"
+      "stage": "fetch",
+      "message": "all candidate URLs returned 0 entries"
     }
-  ],
-  "errors": []
+  ]
 }
