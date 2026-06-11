@@ -2,11 +2,18 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-11T07:14:50.168775+00:00",
-  "next_refresh_at": "2026-06-11T07:44:50.168775+00:00",
+  "fetched_at": "2026-06-11T11:55:31.241028+00:00",
+  "next_refresh_at": "2026-06-11T12:25:31.241028+00:00",
   "entries": [
     {
-      "title": "人形机器人领到&amp;quot;身份证&amp;quot;了：出厂就赋码，从卖场到报废每一台都被管住",
+      "title": "疯狂扩产！PCB上市公司抢筹AI风口，投资额超500亿",
+      "url": "https://www.esmchina.com/news/14256.html",
+      "published_at": null,
+      "summary": "高度集中于“高阶、高多层、高频高速、HDI/类载板”等高端产能。",
+      "author": null
+    },
+    {
+      "title": "人形机器人领到“身份证”了：出厂就赋码，从卖场到报废每一台都被管住",
       "url": "https://www.esmchina.com/news/14255.html",
       "published_at": null,
       "summary": "这一标准的出台背景，与人形机器人产业快速融入各类场景密切相关。",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14232.html",
       "published_at": null,
       "summary": "JEDEC即将发布的LPDDR6标准将加入多项新特性，以应对该内存技术在AI数据中心日益提升的应用需求。",
-      "author": null
-    },
-    {
-      "title": "深圳华强高层人事更迭！进入“80后”掌舵时代",
-      "url": "https://www.esmchina.com/news/14231.html",
-      "published_at": null,
-      "summary": "财务数据显示，公司2025年实现营业收入249.09亿元，同比增长13.46%；在《国际电子商情》发布的“中国本土电子元器件分销商营收排名”中位列第4名。",
       "author": null
     }
   ],
