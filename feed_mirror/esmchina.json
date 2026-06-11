@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-11T02:01:39.728266+00:00",
-  "next_refresh_at": "2026-06-11T02:31:39.728266+00:00",
+  "fetched_at": "2026-06-11T07:14:50.168775+00:00",
+  "next_refresh_at": "2026-06-11T07:44:50.168775+00:00",
   "entries": [
+    {
+      "title": "人形机器人领到&amp;quot;身份证&amp;quot;了：出厂就赋码，从卖场到报废每一台都被管住",
+      "url": "https://www.esmchina.com/news/14255.html",
+      "published_at": null,
+      "summary": "这一标准的出台背景，与人形机器人产业快速融入各类场景密切相关。",
+      "author": null
+    },
+    {
+      "title": "海量AI存储需求催生新的“内存墙”",
+      "url": "https://www.esmchina.com/news/14254.html",
+      "published_at": null,
+      "summary": "“内存墙”至今仍然存在，但在AI时代，这一隐喻被赋予了新的含义——随着大语言模型（LLM）对内存需求的急剧增长，DRAM及基于DRAM的高带宽内存（HBM）正艰难追赶这种爆炸式提升的需求。",
+      "author": null
+    },
     {
       "title": "紫光系将添上市新军！紫光国芯IPO辅导完成",
       "url": "https://www.esmchina.com/news/14253.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14231.html",
       "published_at": null,
       "summary": "财务数据显示，公司2025年实现营业收入249.09亿元，同比增长13.46%；在《国际电子商情》发布的“中国本土电子元器件分销商营收排名”中位列第4名。",
-      "author": null
-    },
-    {
-      "title": "突围AI眼镜“深水区”，松山湖论坛力推十款国产芯片",
-      "url": "https://www.esmchina.com/news/14230.html",
-      "published_at": null,
-      "summary": "AI眼镜市场呈现出一个奇特的现象：一边是年出货量跃过百万门槛的爆款产品，另一边却是与之匹配的专用芯片依然缺位。这种“应用狂奔、芯片跛脚”的现状，标志着产业已驶入攻坚克难的“深水区”。",
-      "author": null
-    },
-    {
-      "title": "印度电动汽车供应链加速本土化，但中国原材料进口依赖仍难破解",
-      "url": "https://www.esmchina.com/news/14229.html",
-      "published_at": null,
-      "summary": "在印度市场，随着电动汽车、太阳能基础设施和数字电源系统应用的扩展，关键原材料铁氧体的需求正在不断上升。",
       "author": null
     }
   ],
