@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-12T01:57:09.793984+00:00",
-  "next_refresh_at": "2026-06-12T02:27:09.793984+00:00",
+  "fetched_at": "2026-06-12T06:48:14.411283+00:00",
+  "next_refresh_at": "2026-06-12T07:18:14.411283+00:00",
   "entries": [
+    {
+      "title": "总投200亿！芯联集成绍兴四期项目落地，剑指AI电源与硅光核心赛道",
+      "url": "https://www.esmchina.com/news/14260.html",
+      "published_at": null,
+      "summary": "芯联集成发布官方公告称，公司拟于绍兴市联合合作方投建12英寸数模混合芯片生产线。该项目规划月产能5万片，总投资规模约200亿元，其中芯联集成出资30.12亿元，持有项目25.1%股权。",
+      "author": null
+    },
+    {
+      "title": "SK海力士产能扩张五年翻番，设备供应商企图提价",
+      "url": "https://www.esmchina.com/news/14259.html",
+      "published_at": null,
+      "summary": "SK海力士将在未来五年内将晶圆产能翻一番，并到2034年前将晶圆产能扩大至当前的两倍。",
+      "author": null
+    },
+    {
+      "title": "三安光电第一大股东申请破产重整",
+      "url": "https://www.esmchina.com/news/14258.html",
+      "published_at": null,
+      "summary": "三安光电发布公告，披露其控股股东厦门三安电子有限公司已被债权人林素真向福建省厦门市中级人民法院申请破产重整。",
+      "author": null
+    },
+    {
+      "title": "两年净亏超34亿！星纪魅族成“财务黑洞”，大股东7700万割肉离场",
+      "url": "https://www.esmchina.com/news/14257.html",
+      "published_at": null,
+      "summary": "星纪魅族是当前运营“魅族”相关业务的主体。",
+      "author": null
+    },
     {
       "title": "疯狂扩产！PCB上市公司抢筹AI风口，投资额超500亿",
       "url": "https://www.esmchina.com/news/14256.html",
@@ -150,34 +178,6 @@
       "url": "https://www.eet-china.com/ee-live/entry/Keysight_20260626.html?source=pop",
       "published_at": null,
       "summary": "Keysight XA5/XA6 信号分析仪线上研讨会，教你如何用新架构加速从调试到验证的全流程。",
-      "author": null
-    },
-    {
-      "title": "【直播抽奖】蓝牙5.4 PAwR技术完整落地方案",
-      "url": "https://www.eet-china.com/webinars/entry/OnMicro_20260616.html?source=pop",
-      "published_at": null,
-      "summary": "在线抽奖10位送出无线鼠标！",
-      "author": null
-    },
-    {
-      "title": "专访AOS冯雷博士：AI时代风口，功率半导体战略纵深",
-      "url": "https://www.esmchina.com/news/14234.html",
-      "published_at": null,
-      "summary": "从产品覆盖广度、技术深度以及未来架构演进的系统性布局...",
-      "author": null
-    },
-    {
-      "title": "博通单季AI收入已破百亿美元，下一财年做到千亿！",
-      "url": "https://www.esmchina.com/news/14233.html",
-      "published_at": null,
-      "summary": "财报指出，业绩增长的核心驱动力来自人工智能半导体。",
-      "author": null
-    },
-    {
-      "title": "数据中心厂商开始“抢占”手机用的低功耗内存",
-      "url": "https://www.esmchina.com/news/14232.html",
-      "published_at": null,
-      "summary": "JEDEC即将发布的LPDDR6标准将加入多项新特性，以应对该内存技术在AI数据中心日益提升的应用需求。",
       "author": null
     }
   ],
