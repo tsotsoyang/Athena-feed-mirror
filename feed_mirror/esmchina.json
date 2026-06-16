@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-16T02:07:36.075633+00:00",
-  "next_refresh_at": "2026-06-16T02:37:36.075633+00:00",
+  "fetched_at": "2026-06-16T08:27:08.755402+00:00",
+  "next_refresh_at": "2026-06-16T08:57:08.755402+00:00",
   "entries": [
+    {
+      "title": "1-5月中国集成电路产量2286亿块，同比增长25.4%",
+      "url": "https://www.esmchina.com/news/14269.html",
+      "published_at": null,
+      "summary": "5月份，“人工智能+”带动传感器、集成电路等产品产量分别增长24.1%、22.9%。",
+      "author": null
+    },
+    {
+      "title": "粤芯半导体IPO过会，大湾区“第一芯”拿到上市门票",
+      "url": "https://www.esmchina.com/news/14267.html",
+      "published_at": null,
+      "summary": "粤芯半导体如何实现扭亏为盈成为投资者最为关注的问题之一，这也是其登陆创业板后需要面临的考验。",
+      "author": null
+    },
+    {
+      "title": "“烧钱”换增长，两大国产IP企业2026年Q1财报解析",
+      "url": "https://www.esmchina.com/news/14268.html",
+      "published_at": null,
+      "summary": "本报告特别聚焦两家中国IP上市公司—灿芯股份与芯原股份2026年Q1财报，从营收、利润、业务结构、研发等多维度深入剖析，探寻两家企业在复杂市场环境中的表现与未来走向。",
+      "author": null
+    },
     {
       "title": "安森美宣布中国区换帅，何茂军出任总经理",
       "url": "https://www.esmchina.com/news/14266.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14243.html",
       "published_at": null,
       "summary": "昔日本土代工外资，如今日企英厂生产中国汽车。",
-      "author": null
-    },
-    {
-      "title": "突破9,600 MT/s！Rambus第二代DDR5客户端芯片组为AI PC铺平道路",
-      "url": "https://www.esmchina.com/news/14242.html",
-      "published_at": null,
-      "summary": "内存不再是配角，而是决定本地智能体能否流畅运行、大模型能否高效推理、用户体验能否真正跃升的核心器件。",
-      "author": null
-    },
-    {
-      "title": "欧洲电子产品回收困境：合法的在亏钱，非法的在暴富",
-      "url": "https://www.esmchina.com/news/14241.html",
-      "published_at": null,
-      "summary": "欧洲的回收率虽高，但循环利用体系尚不完善。",
-      "author": null
-    },
-    {
-      "title": "炸鸡啤酒局谈妥了！英伟达与SK海力士官宣多年技术合作",
-      "url": "https://www.esmchina.com/news/14240.html",
-      "published_at": null,
-      "summary": "英伟达与SK海力士正式官宣多年期深度技术战略合作，核心聚焦下一代AI内存联合研发、半导体制造AI赋能及全球AI生态共建，",
       "author": null
     }
   ],
