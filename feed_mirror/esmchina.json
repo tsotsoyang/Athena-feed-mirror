@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-17T02:01:56.029220+00:00",
-  "next_refresh_at": "2026-06-17T02:31:56.029220+00:00",
+  "fetched_at": "2026-06-17T07:33:59.868039+00:00",
+  "next_refresh_at": "2026-06-17T08:03:59.868039+00:00",
   "entries": [
+    {
+      "title": "我国实现硅-28同位素自主量产，硅基量子芯片关键材料突破进口依赖",
+      "url": "https://www.esmchina.com/news/14272.html",
+      "published_at": null,
+      "summary": "我国科学家首次成功实现丰度超过99.99%的硅-28同位素自主量产，关键指标达到国际先进水平。",
+      "author": null
+    },
     {
       "title": "台积电Amkor握手10年：美国本土先进封装拼图落定，半导体供应链进入“全链条”时代",
       "url": "https://www.esmchina.com/news/14271.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14246.html",
       "published_at": null,
       "summary": "时隔两年苹果再次集中推出AI战略。",
-      "author": null
-    },
-    {
-      "title": "数据中心光模块市场五年内翻倍，内部互联成最大增长引擎",
-      "url": "https://www.esmchina.com/news/14245.html",
-      "published_at": null,
-      "summary": "数据中心内部网络究竟面临的是一场革命还是一次演进？",
       "author": null
     }
   ],
