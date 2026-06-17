@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-17T07:33:59.868039+00:00",
-  "next_refresh_at": "2026-06-17T08:03:59.868039+00:00",
+  "fetched_at": "2026-06-17T12:17:19.976157+00:00",
+  "next_refresh_at": "2026-06-17T12:47:19.976157+00:00",
   "entries": [
+    {
+      "title": "极海半导体宣布涨价，7月1日起生效",
+      "url": "https://www.esmchina.com/news/14273.html",
+      "published_at": null,
+      "summary": "珠海极海半导体有限公司将对部分产品价格进行调整，新价格将于7月1日起正式生效。",
+      "author": null
+    },
     {
       "title": "我国实现硅-28同位素自主量产，硅基量子芯片关键材料突破进口依赖",
       "url": "https://www.esmchina.com/news/14272.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14248.html",
       "published_at": null,
       "summary": "在晶圆代工领域，三星首次详细披露了为英伟达提供服务的核心项目。",
-      "author": null
-    },
-    {
-      "title": "库克“最后一舞”：苹果WWDC发布全生态AI战略，新一代SiriAI登场",
-      "url": "https://www.esmchina.com/news/14246.html",
-      "published_at": null,
-      "summary": "时隔两年苹果再次集中推出AI战略。",
       "author": null
     }
   ],
