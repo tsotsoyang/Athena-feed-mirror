@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-16T23:05:17.379630+00:00",
-  "next_refresh_at": "2026-06-16T23:35:17.379630+00:00",
+  "fetched_at": "2026-06-17T02:01:56.029220+00:00",
+  "next_refresh_at": "2026-06-17T02:31:56.029220+00:00",
   "entries": [
+    {
+      "title": "台积电Amkor握手10年：美国本土先进封装拼图落定，半导体供应链进入“全链条”时代",
+      "url": "https://www.esmchina.com/news/14271.html",
+      "published_at": null,
+      "summary": "双方签署了一份为期10年的战略合作协议，台积电将向安靠采购先进封装与测试服务，共同提升亚利桑那州的半导体先进封装能力。",
+      "author": null
+    },
+    {
+      "title": "淡季遇考验，国产EDA龙头2026年Q1财报深度盘点",
+      "url": "https://www.esmchina.com/news/14270.html",
+      "published_at": null,
+      "summary": "本文结合华大九天、概伦电子和广立微三家公司2026年一季度财报，从营收、利润、研发、业务布局等维度展开全面解析，复盘三家企业当期经营表现，剖析业绩分化背后的商业模式差异与行业发展趋势。",
+      "author": null
+    },
     {
       "title": "1-5月中国集成电路产量2286亿块，同比增长25.4%",
       "url": "https://www.esmchina.com/news/14269.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14245.html",
       "published_at": null,
       "summary": "数据中心内部网络究竟面临的是一场革命还是一次演进？",
-      "author": null
-    },
-    {
-      "title": "美国防部更新1260H清单，188家中国企业纳入管控范围",
-      "url": "https://www.esmchina.com/news/14244.html",
-      "published_at": null,
-      "summary": "美国国防部依据《2021财年国防授权法案》第1260H条款，完成新一轮涉华军事关联企业清单(1260H清单)更新工作，更新后清单收录中国企业共计188家，其中包括比亚迪、阿里巴巴、百度、长江存储、长鑫存储、宇树科技等知名企业。",
-      "author": null
-    },
-    {
-      "title": "风水轮流转！日产英国王牌工厂将生产中国汽车",
-      "url": "https://www.esmchina.com/news/14243.html",
-      "published_at": null,
-      "summary": "昔日本土代工外资，如今日企英厂生产中国汽车。",
       "author": null
     }
   ],
