@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-18T05:17:45.032485+00:00",
-  "next_refresh_at": "2026-06-18T05:47:45.032485+00:00",
+  "fetched_at": "2026-06-18T09:54:37.798295+00:00",
+  "next_refresh_at": "2026-06-18T10:24:37.798295+00:00",
   "entries": [
+    {
+      "title": "SK海力士HBM4E提前送样，12层48GB、能效暴增20%！",
+      "url": "https://www.esmchina.com/news/14278.html",
+      "published_at": null,
+      "summary": "6月18日，SK海力士在其官网宣布，已向主要客户交付新一代AI专用高带宽内存HBM4E的12层堆叠工程样品，正式进入客户验证阶段。",
+      "author": null
+    },
+    {
+      "title": "芯片走向垂直堆叠，量测技术步履维艰",
+      "url": "https://www.esmchina.com/news/14277.html",
+      "published_at": null,
+      "summary": "先进节点制造正推动半导体检测超越传统的自上而下测量方式，转向重建传统设备已难以清晰观测的埋入式三维结构。",
+      "author": null
+    },
     {
       "title": "SK海力士连环出招，一把将集团市值顶破2000万亿大关",
       "url": "https://www.esmchina.com/news/14276.html",
@@ -164,20 +178,6 @@
       "url": "https://mbb.eet-china.com/member.php?mod=logging&action=login&next=https://www.eet-china.com/webinars/entry/Wolfspeed_20260716.html&event=789_790&type=3&host=https://www.eet-china.com&source=popup",
       "published_at": null,
       "summary": "参会抽小米手环10等好礼！从实测数据到路线图，一次讲透。",
-      "author": null
-    },
-    {
-      "title": "澜起科技9,200 MT/s DDR5 RCD芯片送样",
-      "url": "https://www.esmchina.com/news/14251.html",
-      "published_at": null,
-      "summary": "2026年6月10日，澜起科技宣布已成功向客户送样其DDR5第六子代寄存时钟驱动器芯片(RCD06)。",
-      "author": null
-    },
-    {
-      "title": "佰维存储年内再签18.6亿美元闪存长单",
-      "url": "https://www.esmchina.com/news/14250.html",
-      "published_at": null,
-      "summary": "这是该公司继今年3月签署15亿美元长单后，年内落地的第二笔大额存储供应链协议。",
       "author": null
     }
   ],
