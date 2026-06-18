@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-17T22:58:08.568327+00:00",
-  "next_refresh_at": "2026-06-17T23:28:08.568327+00:00",
+  "fetched_at": "2026-06-18T00:22:29.763805+00:00",
+  "next_refresh_at": "2026-06-18T00:52:29.763805+00:00",
   "entries": [
+    {
+      "title": "SK hynix Ships Samples of 12-Layer Next-Gen ‘HBM4E’",
+      "url": "https://news.skhynix.com/12-layer-hbm4e-sample/",
+      "published_at": "2026-06-18T00:01:10+00:00",
+      "summary": "News Highlights Seoul, June 18, 2026&#160;– SK hynix Inc. (or “the company”,&#160;www.skhynix.com) announced today that it has shipped samples of HBM4E, a next-generation DRAM for AI, to major customers. “The company was able to deliver samples of the 12-stack HBM4E on schedule thanks to its advanced HBM development and production expertise for HBM,” said SK [&#8230;] The post SK hynix Ships Samples of 12-Layer Next-Gen ‘HBM4E’ first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "[SOD’s Review] COMPUTEX 2026: SK hynix beyond memory – how the AI factory era is reshaping the company’s identity",
       "url": "https://news.skhynix.com/computex-2026-review/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/computex-2026/",
       "published_at": "2026-06-02T05:40:39+00:00",
       "summary": "Overview of the SK hynix booth at COMPUTEX Taipei 2026 Exhibition booths packed with companies showcasing their latest products fill every corner of the expansive venue, while visitors move busily from one display to the next. COMPUTEX&#160;—&#160;one of the world’s largest ICT and computer component exhibitions&#160;—&#160;opened its doors once again this year, running from June [&#8230;] The post Memory Solutions Grab the AI Wave — SK hynix Makes Its Mark at COMPUTEX 2026 first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK Group Chairman Chey Tae-won Attends GTC Taipei 2026 Keynote, Reinforcing Vision as ‘An Innovative Partner to Build the Next-Gen AI Architecture Together’",
-      "url": "https://news.skhynix.com/gtc-taipei-2026-keynote/",
-      "published_at": "2026-06-01T04:21:57+00:00",
-      "summary": "SK Group Chairman Chey Tae-won visited Taipei for GTC Taipei 2026, just months after participating in GTC 2026 in San Jose this past March. By once again positioning himself at the forefront of AI innovation, Chairman Chey further solidified SK hynix’s partnership with NVIDIA, demonstrating his commitment to deepening collaboration with the world&#8217;s leading technology [&#8230;] The post SK Group Chairman Chey Tae-won Attends GTC Taipei 2026 Keynote, Reinforcing Vision as ‘An Innovative Partner to Build the Next-Gen AI Architecture Together’ first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
