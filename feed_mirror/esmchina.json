@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-18T00:22:42.602997+00:00",
-  "next_refresh_at": "2026-06-18T00:52:42.602997+00:00",
+  "fetched_at": "2026-06-18T05:17:45.032485+00:00",
+  "next_refresh_at": "2026-06-18T05:47:45.032485+00:00",
   "entries": [
+    {
+      "title": "SK海力士连环出招，一把将集团市值顶破2000万亿大关",
+      "url": "https://www.esmchina.com/news/14276.html",
+      "published_at": null,
+      "summary": "SK海力士要从一家“韩国存储公司”变成一家“全球AI基础设施公司”，并在资本市场完成身份重估。",
+      "author": null
+    },
+    {
+      "title": "苹果“挥刀”：16款设备停止更新，库克承认计划涨价",
+      "url": "https://www.esmchina.com/news/14275.html",
+      "published_at": null,
+      "summary": "一边是系统端“砍机型”，另一边是价格端“动刀”。​",
+      "author": null
+    },
+    {
+      "title": "华虹宏力82.68亿元并购华力微今日上会，科创板晶圆代工领域最大整合案迎关键节点",
+      "url": "https://www.esmchina.com/news/14274.html",
+      "published_at": null,
+      "summary": "国际电子商情讯，华虹宏力发行股份购买华力微电子97.4988%股权并募集配套资金事项，于今日（6月18日）接受上交所并购重组审核委员会审议。这是科创板晶圆代工领域迄今规模最大的并购整合案。",
+      "author": null
+    },
     {
       "title": "极海半导体宣布涨价，7月1日起生效",
       "url": "https://www.esmchina.com/news/14273.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14250.html",
       "published_at": null,
       "summary": "这是该公司继今年3月签署15亿美元长单后，年内落地的第二笔大额存储供应链协议。",
-      "author": null
-    },
-    {
-      "title": "华尔街预判，DRAM/NAND结构性紧缺将持续至2028年末",
-      "url": "https://www.esmchina.com/news/14249.html",
-      "published_at": null,
-      "summary": "综合华尔街多家机构的预测数据显示，当前全球DRAM内存、NAND闪存的供给紧张局面，或将贯穿2027年全年，直至2028年末新增产能全面达产满产后方能逐步缓解。",
-      "author": null
-    },
-    {
-      "title": "台积电前高管警告欧洲：没有本土芯片设计，晶圆厂就是空壳",
-      "url": "https://www.esmchina.com/news/14247.html",
-      "published_at": null,
-      "summary": "一份新的行业蓝图指出，欧洲此前的关注面过于狭窄。如今，两位来自西班牙的产业人士正推动《芯片法案2.0》向需求端、芯片设计领域和初创企业规模化方向发力。",
-      "author": null
-    },
-    {
-      "title": "三星“亮出底牌”！披露与英伟达合作全景",
-      "url": "https://www.esmchina.com/news/14248.html",
-      "published_at": null,
-      "summary": "在晶圆代工领域，三星首次详细披露了为英伟达提供服务的核心项目。",
       "author": null
     }
   ],
