@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-21T23:51:36.557375+00:00",
-  "next_refresh_at": "2026-06-22T00:21:36.557375+00:00",
+  "fetched_at": "2026-06-22T04:18:57.284579+00:00",
+  "next_refresh_at": "2026-06-22T04:48:57.284579+00:00",
   "entries": [
+    {
+      "title": "国产替代加速，日系五大半导体设备商在华销售下滑12%",
+      "url": "https://www.esmchina.com/news/14281.html",
+      "published_at": null,
+      "summary": "2025财年，日本五大头部半导体设备企业对华合计销售额同比下滑12%，首次呈现整体下滑态势。",
+      "author": null
+    },
+    {
+      "title": "财务部、商务部发文，对特定美国企业及相关实体作出限制",
+      "url": "https://www.esmchina.com/news/14280.html",
+      "published_at": null,
+      "summary": "中国财政部、商务部同日出台两项针对性措施。",
+      "author": null
+    },
+    {
+      "title": "商务部：10家美国实体被列入出口管制管控名单",
+      "url": "https://www.esmchina.com/news/14279.html",
+      "published_at": null,
+      "summary": "商务部宣布将10家美国实体列入出口管制管控名单。",
+      "author": null
+    },
     {
       "title": "SK海力士HBM4E提前送样，12层48GB、能效暴增20%！",
       "url": "https://www.esmchina.com/news/14278.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14255.html",
       "published_at": null,
       "summary": "这一标准的出台背景，与人形机器人产业快速融入各类场景密切相关。",
-      "author": null
-    },
-    {
-      "title": "海量AI存储需求催生新的“内存墙”",
-      "url": "https://www.esmchina.com/news/14254.html",
-      "published_at": null,
-      "summary": "“内存墙”至今仍然存在，但在AI时代，这一隐喻被赋予了新的含义——随着大语言模型（LLM）对内存需求的急剧增长，DRAM及基于DRAM的高带宽内存（HBM）正艰难追赶这种爆炸式提升的需求。",
-      "author": null
-    },
-    {
-      "title": "紫光系将添上市新军！紫光国芯IPO辅导完成",
-      "url": "https://www.esmchina.com/news/14253.html",
-      "published_at": null,
-      "summary": "AI红利持续释放，又一家存储芯片厂商叩门A股市场！",
-      "author": null
-    },
-    {
-      "title": "2场直播，讲透碳化硅工业与汽车高压设计",
-      "url": "https://mbb.eet-china.com/member.php?mod=logging&action=login&next=https://www.eet-china.com/webinars/entry/Wolfspeed_20260716.html&event=789_790&type=3&host=https://www.eet-china.com&source=popup",
-      "published_at": null,
-      "summary": "参会抽小米手环10等好礼！从实测数据到路线图，一次讲透。",
       "author": null
     }
   ],
