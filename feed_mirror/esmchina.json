@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-22T04:18:57.284579+00:00",
-  "next_refresh_at": "2026-06-22T04:48:57.284579+00:00",
+  "fetched_at": "2026-06-22T10:21:51.382349+00:00",
+  "next_refresh_at": "2026-06-22T10:51:51.382349+00:00",
   "entries": [
+    {
+      "title": "裁员、关厂、砍产能…大众汽车集团走到悬崖边",
+      "url": "https://www.esmchina.com/news/14282.html",
+      "published_at": null,
+      "summary": "汽车巨头面临“生存危机”。",
+      "author": null
+    },
     {
       "title": "国产替代加速，日系五大半导体设备商在华销售下滑12%",
       "url": "https://www.esmchina.com/news/14281.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14256.html",
       "published_at": null,
       "summary": "高度集中于“高阶、高多层、高频高速、HDI/类载板”等高端产能。",
-      "author": null
-    },
-    {
-      "title": "人形机器人领到“身份证”了：出厂就赋码，从卖场到报废每一台都被管住",
-      "url": "https://www.esmchina.com/news/14255.html",
-      "published_at": null,
-      "summary": "这一标准的出台背景，与人形机器人产业快速融入各类场景密切相关。",
       "author": null
     }
   ],
