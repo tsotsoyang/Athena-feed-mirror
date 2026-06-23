@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-23T06:08:11.370775+00:00",
-  "next_refresh_at": "2026-06-23T06:38:11.370775+00:00",
+  "fetched_at": "2026-06-23T10:10:27.703729+00:00",
+  "next_refresh_at": "2026-06-23T10:40:27.703729+00:00",
   "entries": [
+    {
+      "title": "烧钱太快、霸权太猛：美国科技巨头对AI态度急转弯",
+      "url": "https://www.esmchina.com/news/14286.html",
+      "published_at": null,
+      "summary": "在成本压力之外，AI权力集中化的问题也被摆上台面。",
+      "author": null
+    },
+    {
+      "title": "SK海力士市值刚超三星，次日就遭遇股票大跌？",
+      "url": "https://www.esmchina.com/news/14285.html",
+      "published_at": null,
+      "summary": "昨日（2026年6月22日），韩国资本市场迎来一个具有标志性意义的交易日。",
+      "author": null
+    },
+    {
+      "title": "4个月狂揽10亿美元！三星HBM4刷新AI存储商业化速度纪录",
+      "url": "https://www.esmchina.com/news/14284.html",
+      "published_at": null,
+      "summary": "产能“全部订满”，全年冲刺百亿美元。",
+      "author": null
+    },
     {
       "title": "强强联合！美光与Anthropic达成战略合作及供应协议",
       "url": "https://www.esmchina.com/news/14283.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14260.html",
       "published_at": null,
       "summary": "芯联集成发布官方公告称，公司拟于绍兴市联合合作方投建12英寸数模混合芯片生产线。该项目规划月产能5万片，总投资规模约200亿元，其中芯联集成出资30.12亿元，持有项目25.1%股权。",
-      "author": null
-    },
-    {
-      "title": "SK海力士产能扩张五年翻番，设备供应商企图提价",
-      "url": "https://www.esmchina.com/news/14259.html",
-      "published_at": null,
-      "summary": "SK海力士将在未来五年内将晶圆产能翻一番，并到2034年前将晶圆产能扩大至当前的两倍。",
-      "author": null
-    },
-    {
-      "title": "三安光电第一大股东申请破产重整",
-      "url": "https://www.esmchina.com/news/14258.html",
-      "published_at": null,
-      "summary": "三安光电发布公告，披露其控股股东厦门三安电子有限公司已被债权人林素真向福建省厦门市中级人民法院申请破产重整。",
-      "author": null
-    },
-    {
-      "title": "两年净亏超34亿！星纪魅族成“财务黑洞”，大股东7700万割肉离场",
-      "url": "https://www.esmchina.com/news/14257.html",
-      "published_at": null,
-      "summary": "星纪魅族是当前运营“魅族”相关业务的主体。",
       "author": null
     }
   ],
