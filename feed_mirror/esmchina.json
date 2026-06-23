@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-23T01:30:45.848884+00:00",
-  "next_refresh_at": "2026-06-23T02:00:45.848884+00:00",
+  "fetched_at": "2026-06-23T06:08:11.370775+00:00",
+  "next_refresh_at": "2026-06-23T06:38:11.370775+00:00",
   "entries": [
+    {
+      "title": "强强联合！美光与Anthropic达成战略合作及供应协议",
+      "url": "https://www.esmchina.com/news/14283.html",
+      "published_at": null,
+      "summary": "随着Anthropic扩展其长期计算战略，美光将能够支持该公司未来多年的发展。",
+      "author": null
+    },
     {
       "title": "裁员、关厂、砍产能…大众汽车集团走到悬崖边",
       "url": "https://www.esmchina.com/news/14282.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14257.html",
       "published_at": null,
       "summary": "星纪魅族是当前运营“魅族”相关业务的主体。",
-      "author": null
-    },
-    {
-      "title": "疯狂扩产！PCB上市公司抢筹AI风口，投资额超500亿",
-      "url": "https://www.esmchina.com/news/14256.html",
-      "published_at": null,
-      "summary": "高度集中于“高阶、高多层、高频高速、HDI/类载板”等高端产能。",
       "author": null
     }
   ],
