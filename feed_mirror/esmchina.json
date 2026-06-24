@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-24T07:41:44.686198+00:00",
-  "next_refresh_at": "2026-06-24T08:11:44.686198+00:00",
+  "fetched_at": "2026-06-24T10:50:55.385572+00:00",
+  "next_refresh_at": "2026-06-24T11:20:55.385572+00:00",
   "entries": [
+    {
+      "title": "SK海力士放缓HBM4、加码常规DRAM，存储产能分配正在发生变化",
+      "url": "https://www.esmchina.com/news/14294.html",
+      "published_at": null,
+      "summary": "国际电子商情讯，进入到6月下旬，多家媒体报道SK海力士正在调整产能分配。",
+      "author": null
+    },
+    {
+      "title": "PC涨价风暴踩刹车？华硕Q3涨幅收窄至个位数",
+      "url": "https://www.esmchina.com/news/14293.html",
+      "published_at": null,
+      "summary": "预测2026年全球PC出货量将下降12%至2.45亿台。",
+      "author": null
+    },
     {
       "title": "自主技术的瓶颈不是AI，而是无线网络",
       "url": "https://www.esmchina.com/news/14291.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14270.html",
       "published_at": null,
       "summary": "本文结合华大九天、概伦电子和广立微三家公司2026年一季度财报，从营收、利润、研发、业务布局等维度展开全面解析，复盘三家企业当期经营表现，剖析业绩分化背后的商业模式差异与行业发展趋势。",
-      "author": null
-    },
-    {
-      "title": "1-5月中国集成电路产量2286亿块，同比增长25.4%",
-      "url": "https://www.esmchina.com/news/14269.html",
-      "published_at": null,
-      "summary": "5月份，“人工智能+”带动传感器、集成电路等产品产量分别增长24.1%、22.9%。",
-      "author": null
-    },
-    {
-      "title": "粤芯半导体IPO过会，大湾区“第一芯”拿到上市门票",
-      "url": "https://www.esmchina.com/news/14267.html",
-      "published_at": null,
-      "summary": "粤芯半导体如何实现扭亏为盈成为投资者最为关注的问题之一，这也是其登陆创业板后需要面临的考验。",
       "author": null
     }
   ],
