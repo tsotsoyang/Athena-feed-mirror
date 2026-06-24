@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-24T03:38:26.664479+00:00",
-  "next_refresh_at": "2026-06-24T04:08:26.664479+00:00",
+  "fetched_at": "2026-06-24T07:41:44.686198+00:00",
+  "next_refresh_at": "2026-06-24T08:11:44.686198+00:00",
   "entries": [
+    {
+      "title": "自主技术的瓶颈不是AI，而是无线网络",
+      "url": "https://www.esmchina.com/news/14291.html",
+      "published_at": null,
+      "summary": "自主系统对不确定性的容忍度要低得多。",
+      "author": null
+    },
+    {
+      "title": "国产存储“小巨人”英韧科技IPO辅导收官，再添上市后备军",
+      "url": "https://www.esmchina.com/news/14292.html",
+      "published_at": null,
+      "summary": "距离登陆资本市场更进一步。",
+      "author": null
+    },
+    {
+      "title": "【有奖直播】智能眼镜的音频、电源和视频解决方案",
+      "url": "https://www.eet-china.com/webinars/entry/ADI_20260715.html?source=pop",
+      "published_at": null,
+      "summary": "智能眼镜正朝着更轻薄、更智能、更强大的方向持续演进。您设计的元器件能否跟上步伐？",
+      "author": null
+    },
     {
       "title": "全线涨价5%-10%！台积电拿捏先进制程定价权",
       "url": "https://www.esmchina.com/news/14289.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14267.html",
       "published_at": null,
       "summary": "粤芯半导体如何实现扭亏为盈成为投资者最为关注的问题之一，这也是其登陆创业板后需要面临的考验。",
-      "author": null
-    },
-    {
-      "title": "“烧钱”换增长，两大国产IP企业2026年Q1财报解析",
-      "url": "https://www.esmchina.com/news/14268.html",
-      "published_at": null,
-      "summary": "本报告特别聚焦两家中国IP上市公司—灿芯股份与芯原股份2026年Q1财报，从营收、利润、业务结构、研发等多维度深入剖析，探寻两家企业在复杂市场环境中的表现与未来走向。",
-      "author": null
-    },
-    {
-      "title": "安森美宣布中国区换帅，何茂军出任总经理",
-      "url": "https://www.esmchina.com/news/14266.html",
-      "published_at": null,
-      "summary": "安森美表示，此次任命体现了公司对中国创新生态的长期承诺，旨在强化本地化能力以更好服务中国客户，并推动本地创新成果走向全球。",
-      "author": null
-    },
-    {
-      "title": "下一个存储？“电子工业大米”MLCC拉响缺货涨价警报",
-      "url": "https://www.esmchina.com/news/14265.html",
-      "published_at": null,
-      "summary": "业者对2017-2018年的MLCC超级周期仍历历在目。这轮行情常与前者对比，既有同源处也有本质差异。",
       "author": null
     }
   ],
