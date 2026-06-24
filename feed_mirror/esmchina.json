@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-23T23:35:19.282669+00:00",
-  "next_refresh_at": "2026-06-24T00:05:19.282669+00:00",
+  "fetched_at": "2026-06-24T03:38:26.664479+00:00",
+  "next_refresh_at": "2026-06-24T04:08:26.664479+00:00",
   "entries": [
+    {
+      "title": "全线涨价5%-10%！台积电拿捏先进制程定价权",
+      "url": "https://www.esmchina.com/news/14289.html",
+      "published_at": null,
+      "summary": "根据多方信息综合，此次台积电的调价范围覆盖了7纳米及以下的所有先进制程节点，整体涨幅预估在5%至10%之间。",
+      "author": null
+    },
+    {
+      "title": "JEDEC通过SPHBM4封装标准：信号引脚减至1/4、单通道速率提升4倍、HBM4成本壁垒被打破",
+      "url": "https://www.esmchina.com/news/14288.html",
+      "published_at": null,
+      "summary": "国际电子商情讯，近日，全球半导体存储标准化组织JEDEC正式批准SPHBM4标准。",
+      "author": null
+    },
+    {
+      "title": "“灵晟”登顶全球超算TOP500，中国算力重回世界榜首",
+      "url": "https://www.esmchina.com/news/14287.html",
+      "published_at": null,
+      "summary": "由国家超级计算深圳中心部署、我国自主研发的E级超级计算机“灵晟(LineShine)”;，以2.198 ExaFLOPS高性能Linpack(HPL)基准实测算力位列榜单首位，超越美国劳伦斯·利弗莫尔国家实验室El Capitan超算系统，重回全球算力榜首。",
+      "author": null
+    },
     {
       "title": "烧钱太快、霸权太猛：美国科技巨头对AI态度急转弯",
       "url": "https://www.esmchina.com/news/14286.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14265.html",
       "published_at": null,
       "summary": "业者对2017-2018年的MLCC超级周期仍历历在目。这轮行情常与前者对比，既有同源处也有本质差异。",
-      "author": null
-    },
-    {
-      "title": "2026全球百强市值榜：美国独占75%，AI引爆半导体超级红利",
-      "url": "https://www.esmchina.com/news/14264.html",
-      "published_at": null,
-      "summary": "根据普华永道发布的“2026全球市值100强上市公司”排行榜，2026年全球百强上市公司入围门槛达1640亿美元，较2025年提升8%，全年共有15家企业新晋入榜。百强企业合计总市值突破51.8万亿美元，同比增长22%。",
-      "author": null
-    },
-    {
-      "title": "美国AI产业连环炸雷：Meta内乱，Anthropic模型遭全球封杀",
-      "url": "https://www.esmchina.com/news/14262.html",
-      "published_at": null,
-      "summary": "同一周两记闷棍。",
-      "author": null
-    },
-    {
-      "title": "总投200亿！芯联集成绍兴四期项目落地，剑指AI电源与硅光核心赛道",
-      "url": "https://www.esmchina.com/news/14260.html",
-      "published_at": null,
-      "summary": "芯联集成发布官方公告称，公司拟于绍兴市联合合作方投建12英寸数模混合芯片生产线。该项目规划月产能5万片，总投资规模约200亿元，其中芯联集成出资30.12亿元，持有项目25.1%股权。",
       "author": null
     }
   ],
