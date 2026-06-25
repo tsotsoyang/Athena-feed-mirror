@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-24T22:47:38.821056+00:00",
-  "next_refresh_at": "2026-06-24T23:17:38.821056+00:00",
+  "fetched_at": "2026-06-25T00:14:19.942594+00:00",
+  "next_refresh_at": "2026-06-25T00:44:19.942594+00:00",
   "entries": [
+    {
+      "title": "[Expert POV] The real battleground in the AI semiconductor race: Capital and energy infrastructure",
+      "url": "https://news.skhynix.com/2026-expert-column-series-ep3/",
+      "published_at": "2026-06-24T23:59:54+00:00",
+      "summary": "Competition surrounding AI semiconductors has entered a new phase—one that tests not only corporate capabilities but also national strategy and execution. Through this [Expert POV] series, we explore the opportunities and challenges facing the global semiconductor industry in the AI era from a range of perspectives, including technology, finance, policy, infrastructure, ecosystems, globalization, and sustainability. [&#8230;] The post [Expert POV] The real battleground in the AI semiconductor race: Capital and energy infrastructure first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "Five things you need to know about SK hynix and the future of AI memory",
       "url": "https://news.skhynix.com/five-things-you-need-to-know-about-sk-hynix-and-the-future-of-ai-memory/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/ai-partnership-foxconn-2026/",
       "published_at": "2026-06-04T06:00:05+00:00",
       "summary": "SK Group Chairman Chey Tae-won met with Foxconn Chairman Young Liu and senior executives in Taipei, Taiwan, on June 3 (local time), to discuss measures to strengthen competitiveness in next-generation AI infrastructure. As the AI industry’s center of gravity extends beyond semiconductors to encompass the broader infrastructure landscape — including servers and data centers — [&#8230;] The post ‘From Chips to AI Systems’… Chairman Chey Strengthens Partnership with Foxconn first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK Group Chairman Chey Tae-won Meets TSMC Chairman and CEO C.C. Wei in Taiwan to Solidify Global AI Chip Partnership",
-      "url": "https://news.skhynix.com/ai-partnership-tsmc-2026/",
-      "published_at": "2026-06-03T14:57:18+00:00",
-      "summary": "SK Group Chairman Chey Tae-won met with TSMC Chairman and CEO C.C. Wei in Taiwan on Jun. 3 (local time), where the two leaders exchanged views on the latest trends in next-generation AI technologies and held in-depth discussions on how to jointly shape the future of the AI ecosystem. The meeting marked the first in-person [&#8230;] The post SK Group Chairman Chey Tae-won Meets TSMC Chairman and CEO C.C. Wei in Taiwan to Solidify Global AI Chip Partnership first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
