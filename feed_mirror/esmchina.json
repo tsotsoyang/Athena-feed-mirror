@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-25T08:23:27.234527+00:00",
-  "next_refresh_at": "2026-06-25T08:53:27.234527+00:00",
+  "fetched_at": "2026-06-25T11:15:48.891056+00:00",
+  "next_refresh_at": "2026-06-25T11:45:48.891056+00:00",
   "entries": [
+    {
+      "title": "三星电子加速撤离中国市场：公众号注销，中文官网关闭",
+      "url": "https://www.esmchina.com/news/14300.html",
+      "published_at": null,
+      "summary": "从家电零售退出、到半导体传播渠道调整，三星电子在中国市场的业务结构正持续向高利润半导体业务集中。",
+      "author": null
+    },
     {
       "title": "奔驰中国再裁员：销售端N+6落地，研发制造端同步收缩",
       "url": "https://www.esmchina.com/news/14299.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14276.html",
       "published_at": null,
       "summary": "SK海力士要从一家“韩国存储公司”变成一家“全球AI基础设施公司”，并在资本市场完成身份重估。",
-      "author": null
-    },
-    {
-      "title": "苹果“挥刀”：16款设备停止更新，库克承认计划涨价",
-      "url": "https://www.esmchina.com/news/14275.html",
-      "published_at": null,
-      "summary": "一边是系统端“砍机型”，另一边是价格端“动刀”。​",
       "author": null
     }
   ],
