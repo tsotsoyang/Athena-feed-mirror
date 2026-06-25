@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-25T04:45:40.908558+00:00",
-  "next_refresh_at": "2026-06-25T05:15:40.908558+00:00",
+  "fetched_at": "2026-06-25T08:23:27.234527+00:00",
+  "next_refresh_at": "2026-06-25T08:53:27.234527+00:00",
   "entries": [
+    {
+      "title": "奔驰中国再裁员：销售端N+6落地，研发制造端同步收缩",
+      "url": "https://www.esmchina.com/news/14299.html",
+      "published_at": null,
+      "summary": "受产量下滑影响，工厂放假节奏明显拉长，2026年4月发动机部门曾连续放假十余天，端午假期亦达5天。",
+      "author": null
+    },
     {
       "title": "点名宇树、立法封杀，美国对华机器人“围剿”升级",
       "url": "https://www.esmchina.com/news/14298.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14275.html",
       "published_at": null,
       "summary": "一边是系统端“砍机型”，另一边是价格端“动刀”。​",
-      "author": null
-    },
-    {
-      "title": "华虹宏力82.68亿元并购华力微今日上会，科创板晶圆代工领域最大整合案迎关键节点",
-      "url": "https://www.esmchina.com/news/14274.html",
-      "published_at": null,
-      "summary": "国际电子商情讯，华虹宏力发行股份购买华力微电子97.4988%股权并募集配套资金事项，于今日（6月18日）接受上交所并购重组审核委员会审议。这是科创板晶圆代工领域迄今规模最大的并购整合案。",
       "author": null
     }
   ],
