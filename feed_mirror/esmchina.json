@@ -2,9 +2,44 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-25T23:53:07.356359+00:00",
-  "next_refresh_at": "2026-06-26T00:23:07.356359+00:00",
+  "fetched_at": "2026-06-26T03:45:15.174752+00:00",
+  "next_refresh_at": "2026-06-26T04:15:15.174752+00:00",
   "entries": [
+    {
+      "title": "消费电子集体涨价“甩锅”存储？美光高管反击：部分厂商也有责任",
+      "url": "https://www.esmchina.com/news/14304.html",
+      "published_at": null,
+      "summary": "苹果一向以对供应商强硬议价著称。",
+      "author": null
+    },
+    {
+      "title": "国产模拟芯片龙头港股敲钟，开盘大涨23%",
+      "url": "https://www.esmchina.com/news/14303.html",
+      "published_at": null,
+      "summary": "今日，国内模拟集成电路领军企业圣邦微电子正式登陆香港联交所主板，不仅标志着公司“A+H”双资本平台战略的全面落地，也为国产高端模拟芯片的国际化进程注入了新的资本动能。",
+      "author": null
+    },
+    {
+      "title": "安森美创纪录70亿美元收购Synaptics",
+      "url": "https://www.esmchina.com/news/14302.html",
+      "published_at": null,
+      "summary": "安森美近日宣布，已与触控及边缘计算芯片厂商Synaptics达成最终协议。安森美将通过全股票交易方式收购Synaptics，交易总企业价值约70亿美元，是安森美历史上规模最大的一笔并购。",
+      "author": null
+    },
+    {
+      "title": "苹果官宣涨价！Mac、iPad最高涨25%，库克：成本实在扛不住了",
+      "url": "https://www.esmchina.com/news/14301.html",
+      "published_at": null,
+      "summary": "6月25日，苹果公司正式宣布对旗下Mac、iPad及部分智能家居设备进行全球性价格上调，打破了其长期以来维持终端售价稳定的传统。",
+      "author": null
+    },
+    {
+      "title": "氮化镓：迈向30亿美元的爆发前夜",
+      "url": "https://www.esmchina.com/news/14261.html",
+      "published_at": null,
+      "summary": "随着8英寸晶圆量产降本与供应链深度整合，氮化镓（GaN）正加速从消费电子向汽车、AI数据中心等高增长领域渗透，预计2026年营收将达9.2亿美元。本文深入探讨了GaN在800V汽车架构、高功率AI服务器电源及人形机器人驱动中的核心应用价值，并剖析了本土企业的突围机遇。",
+      "author": null
+    },
     {
       "title": "三星电子加速撤离中国市场：公众号注销，中文官网关闭",
       "url": "https://www.esmchina.com/news/14300.html",
@@ -143,41 +178,6 @@
       "url": "https://www.esmchina.com/news/14281.html",
       "published_at": null,
       "summary": "2025财年，日本五大头部半导体设备企业对华合计销售额同比下滑12%，首次呈现整体下滑态势。",
-      "author": null
-    },
-    {
-      "title": "财务部、商务部发文，对特定美国企业及相关实体作出限制",
-      "url": "https://www.esmchina.com/news/14280.html",
-      "published_at": null,
-      "summary": "中国财政部、商务部同日出台两项针对性措施。",
-      "author": null
-    },
-    {
-      "title": "商务部：10家美国实体被列入出口管制管控名单",
-      "url": "https://www.esmchina.com/news/14279.html",
-      "published_at": null,
-      "summary": "商务部宣布将10家美国实体列入出口管制管控名单。",
-      "author": null
-    },
-    {
-      "title": "SK海力士HBM4E提前送样，12层48GB、能效暴增20%！",
-      "url": "https://www.esmchina.com/news/14278.html",
-      "published_at": null,
-      "summary": "6月18日，SK海力士在其官网宣布，已向主要客户交付新一代AI专用高带宽内存HBM4E的12层堆叠工程样品，正式进入客户验证阶段。",
-      "author": null
-    },
-    {
-      "title": "芯片走向垂直堆叠，量测技术步履维艰",
-      "url": "https://www.esmchina.com/news/14277.html",
-      "published_at": null,
-      "summary": "先进节点制造正推动半导体检测超越传统的自上而下测量方式，转向重建传统设备已难以清晰观测的埋入式三维结构。",
-      "author": null
-    },
-    {
-      "title": "SK海力士连环出招，一把将集团市值顶破2000万亿大关",
-      "url": "https://www.esmchina.com/news/14276.html",
-      "published_at": null,
-      "summary": "SK海力士要从一家“韩国存储公司”变成一家“全球AI基础设施公司”，并在资本市场完成身份重估。",
       "author": null
     }
   ],
