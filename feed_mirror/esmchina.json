@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-26T07:54:17.327140+00:00",
-  "next_refresh_at": "2026-06-26T08:24:17.327140+00:00",
+  "fetched_at": "2026-06-26T10:52:22.640490+00:00",
+  "next_refresh_at": "2026-06-26T11:22:22.640490+00:00",
   "entries": [
+    {
+      "title": "要做到千亿市值？商络电子回应",
+      "url": "https://www.esmchina.com/news/14305.html",
+      "published_at": null,
+      "summary": "坚持内生增长与外延并购双轮驱动。",
+      "author": null
+    },
     {
       "title": "消费电子集体涨价“甩锅”存储？美光高管反击：部分厂商也有责任",
       "url": "https://www.esmchina.com/news/14304.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14282.html",
       "published_at": null,
       "summary": "汽车巨头面临“生存危机”。",
-      "author": null
-    },
-    {
-      "title": "国产替代加速，日系五大半导体设备商在华销售下滑12%",
-      "url": "https://www.esmchina.com/news/14281.html",
-      "published_at": null,
-      "summary": "2025财年，日本五大头部半导体设备企业对华合计销售额同比下滑12%，首次呈现整体下滑态势。",
       "author": null
     }
   ],
