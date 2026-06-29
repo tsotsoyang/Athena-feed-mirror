@@ -2,17 +2,72 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-29T03:58:55.223358+00:00",
-  "next_refresh_at": "2026-06-29T04:28:55.223358+00:00",
-  "entries": [],
-  "errors": [
+  "fetched_at": "2026-06-29T09:04:19.478401+00:00",
+  "next_refresh_at": "2026-06-29T09:34:19.478401+00:00",
+  "entries": [
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "Explainer: SK hynix’s Mid-to-Long-Term Investment Strategy",
+      "url": "https://news.skhynix.com/fact-05/",
+      "published_at": "2026-06-29T07:35:16+00:00",
+      "summary": "[Summary]&#160; To proactively address the rapidly growing global demand for AI memory, SK hynix has established a mid-to-long-term investment strategy totaling KRW 1,100 trillion, encompassing Yongin, Cheongju, and the Southwestern Region. Originally scheduled for completion in 2045, the Yongin Semiconductor Cluster now aims to complete its fourth fab by 2033, bringing its construction schedule forward [&#8230;] The post Explainer: SK hynix’s Mid-to-Long-Term Investment Strategy first appeared on SK hynix Newsroom .",
+      "author": "user"
     },
     {
-      "stage": "fetch",
-      "message": "all candidate URLs returned 0 entries"
+      "title": "[Expert POV] The real battleground in the AI semiconductor race: Capital and energy infrastructure",
+      "url": "https://news.skhynix.com/2026-expert-column-series-ep3/",
+      "published_at": "2026-06-24T23:59:54+00:00",
+      "summary": "Competition surrounding AI semiconductors has entered a new phase—one that tests not only corporate capabilities but also national strategy and execution. Through this [Expert POV] series, we explore the opportunities and challenges facing the global semiconductor industry in the AI era from a range of perspectives, including technology, finance, policy, infrastructure, ecosystems, globalization, and sustainability. [&#8230;] The post [Expert POV] The real battleground in the AI semiconductor race: Capital and energy infrastructure first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "Five things you need to know about SK hynix and the future of AI memory",
+      "url": "https://news.skhynix.com/five-things-you-need-to-know-about-sk-hynix-and-the-future-of-ai-memory/",
+      "published_at": "2026-06-23T00:00:09+00:00",
+      "summary": "The AI boom has reshaped the priorities of the semiconductor industry. Just a few years ago, competition centered on compute hardware such as GPUs, but larger AI models and new applications have turned data storage, access and transfer into a critical factor in AI infrastructure. Amid this shift, SK hynix has established itself as a [&#8230;] The post Five things you need to know about SK hynix and the future of AI memory first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "SK hynix Showcases Tech Leadership as ‘Full Stack AI Memory Creator’ at HPED 2026, Reaffirming Strong Partnership with HPE",
+      "url": "https://news.skhynix.com/hpe-discover-2026/",
+      "published_at": "2026-06-19T00:02:41+00:00",
+      "summary": "As competition and collaboration around AI infrastructure continue to intensify, HPED 2026 brought together industry leaders to explore the future of AI-driven IT infrastructure. HPE held HPE Discover Las Vegas 2026 (HPED 2026) from June 15 to 18 (local time) at The Venetian Convention and Expo Center in Las Vegas, Nevada. HPE is a leading [&#8230;] The post SK hynix Showcases Tech Leadership as ‘Full Stack AI Memory Creator’ at HPED 2026, Reaffirming Strong Partnership with HPE first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "SK hynix Ships Samples of 12-Layer Next-Gen ‘HBM4E’",
+      "url": "https://news.skhynix.com/12-layer-hbm4e-sample/",
+      "published_at": "2026-06-18T00:01:10+00:00",
+      "summary": "News Highlights Seoul, June 18, 2026&#160;– SK hynix Inc. (or “the company”,&#160;www.skhynix.com) announced today that it has shipped samples of HBM4E, a next-generation DRAM for AI, to major customers. “The company was able to deliver samples of the 12-stack HBM4E on schedule thanks to its advanced HBM development and production expertise for HBM,” said SK [&#8230;] The post SK hynix Ships Samples of 12-Layer Next-Gen ‘HBM4E’ first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "[SOD’s Review] COMPUTEX 2026: SK hynix beyond memory – how the AI factory era is reshaping the company’s identity",
+      "url": "https://news.skhynix.com/computex-2026-review/",
+      "published_at": "2026-06-11T04:59:05+00:00",
+      "summary": "Reading the AI industry at COMPUTEX Taipei 2026 Not long ago, COMPUTEX was a gathering place for gaming PC enthusiasts. This year, for the first time, the head of a memory semiconductor company took the stage there. As someone with a background in semiconductors who creates content in the deep tech space, I attended after [&#8230;] The post [SOD’s Review] COMPUTEX 2026: SK hynix beyond memory – how the AI factory era is reshaping the company’s identity first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "Me~eh~eh~mory! The secret behind the flock leading the AI era — Behind the scenes of SK hynix’s new ad, “The Memory Shepherd”",
+      "url": "https://news.skhynix.com/brand-film-memory-girl/",
+      "published_at": "2026-06-10T06:24:12+00:00",
+      "summary": "SK hynix has unveiled its new brand campaign, &#8220;The Memory Shepherd&#8221;, on YouTube. A flock of sheep suddenly materializes in the middle of a city. “Me~eh~eh~mory.” Listen closely, and the sheep’s bleating resolves into a single, unmistakable word — MEMORY, the essential force powering the AI era. In a time when the world is captivated [&#8230;] The post Me~eh~eh~mory! The secret behind the flock leading the AI era — Behind the scenes of SK hynix’s new ad, “The Memory Shepherd” first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories",
+      "url": "https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/",
+      "published_at": "2026-06-07T23:00:07+00:00",
+      "summary": "News Highlights Seoul, June 08, 2026 – SK hynix Inc. (or “the company”,&#160;www.skhynix.com) and NVIDIA today announced a multi-year technology partnership to advance next-generation memory for the global AI factory buildout and accelerate semiconductor design and manufacturing. The agreement builds on years of deep co-engineering collaboration that has powered some of the world’s most advanced [&#8230;] The post SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "SK hynix and the Ministry of Climate, Energy and Environment Co-host ‘AI for Green Impact, Inspiring Young Minds to Shape a Greener Future",
+      "url": "https://news.skhynix.com/ai-for-green-impact-2026/",
+      "published_at": "2026-06-05T07:28:53+00:00",
+      "summary": "On June 5, World Environment Day SK hynix co-organized &#8216;AI for Green Impact,&#8217; a hands-on educational program jointly hosted with the Ministry of Climate, Energy and Environment. The event took place at the Conference Hall on the third floor of COEX in Seoul. Approximately 100 participants — elementary, middle, and high school students and their [&#8230;] The post SK hynix and the Ministry of Climate, Energy and Environment Co-host ‘AI for Green Impact, Inspiring Young Minds to Shape a Greener Future first appeared on SK hynix Newsroom .",
+      "author": "user"
     }
-  ]
+  ],
+  "errors": []
 }

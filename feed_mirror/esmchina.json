@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-29T03:59:12.358446+00:00",
-  "next_refresh_at": "2026-06-29T04:29:12.358446+00:00",
+  "fetched_at": "2026-06-29T09:04:25.685168+00:00",
+  "next_refresh_at": "2026-06-29T09:34:25.685168+00:00",
   "entries": [
+    {
+      "title": "韩国“All in”半导体：三星、SK海力士十年投2000万亿韩元，五年DRAM产能翻倍",
+      "url": "https://www.esmchina.com/news/14310.html",
+      "published_at": null,
+      "summary": "核心将半导体、物理AI、AI数据中心定位为产业升级“三角支柱”，目标推动韩国跻身“AI革命主导国”行列。",
+      "author": null
+    },
+    {
+      "title": "苦“小作文”久矣！富信科技澄清：无新增订单，将追责",
+      "url": "https://www.esmchina.com/news/14309.html",
+      "published_at": null,
+      "summary": "公司坚决抵制各类造谣、传谣、恶意炒作上市公司的不法行为。",
+      "author": null
+    },
     {
       "title": "又新增40家日企！中国对日相关出口管制措施再升级",
       "url": "https://www.esmchina.com/news/14308.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14287.html",
       "published_at": null,
       "summary": "由国家超级计算深圳中心部署、我国自主研发的E级超级计算机“灵晟(LineShine)”;，以2.198 ExaFLOPS高性能Linpack(HPL)基准实测算力位列榜单首位，超越美国劳伦斯·利弗莫尔国家实验室El Capitan超算系统，重回全球算力榜首。",
-      "author": null
-    },
-    {
-      "title": "烧钱太快、霸权太猛：美国科技巨头对AI态度急转弯",
-      "url": "https://www.esmchina.com/news/14286.html",
-      "published_at": null,
-      "summary": "在成本压力之外，AI权力集中化的问题也被摆上台面。",
-      "author": null
-    },
-    {
-      "title": "SK海力士市值刚超三星，次日就遭遇股票大跌？",
-      "url": "https://www.esmchina.com/news/14285.html",
-      "published_at": null,
-      "summary": "昨日（2026年6月22日），韩国资本市场迎来一个具有标志性意义的交易日。",
       "author": null
     }
   ],
