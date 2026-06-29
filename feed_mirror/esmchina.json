@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-28T23:38:39.760933+00:00",
-  "next_refresh_at": "2026-06-29T00:08:39.760933+00:00",
+  "fetched_at": "2026-06-29T03:59:12.358446+00:00",
+  "next_refresh_at": "2026-06-29T04:29:12.358446+00:00",
   "entries": [
+    {
+      "title": "又新增40家日企！中国对日相关出口管制措施再升级",
+      "url": "https://www.esmchina.com/news/14308.html",
+      "published_at": null,
+      "summary": "诚信守法的日本实体完全无需担心。",
+      "author": null
+    },
+    {
+      "title": "商务部将20家日本实体列入出口管制管控名单",
+      "url": "https://www.esmchina.com/news/14307.html",
+      "published_at": null,
+      "summary": "2026年6月29日，商务部发布公告将防卫研究所等参与提升日本军事实力的20家日本实体列入出口管制管控名单。",
+      "author": null
+    },
+    {
+      "title": "传百度昆仑芯将赴港IPO，估值目标500亿美元",
+      "url": "https://www.esmchina.com/news/14306.html",
+      "published_at": null,
+      "summary": "据The Information在美东时间6月28日援引两位知情人士消息报道，百度旗下AI芯片子公司昆仑芯（Kunlunxin）正计划在香港上市。根据知情人士透露，昆仑芯的目标估值约500亿美元。同时，昆仑芯要求IPO投资者承诺，后续采购昆仑芯芯片的价值须达到其认购股份金额的3至7倍。",
+      "author": null
+    },
     {
       "title": "要做到千亿市值？商络电子回应",
       "url": "https://www.esmchina.com/news/14305.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14285.html",
       "published_at": null,
       "summary": "昨日（2026年6月22日），韩国资本市场迎来一个具有标志性意义的交易日。",
-      "author": null
-    },
-    {
-      "title": "4个月狂揽10亿美元！三星HBM4刷新AI存储商业化速度纪录",
-      "url": "https://www.esmchina.com/news/14284.html",
-      "published_at": null,
-      "summary": "产能“全部订满”，全年冲刺百亿美元。",
-      "author": null
-    },
-    {
-      "title": "强强联合！美光与Anthropic达成战略合作及供应协议",
-      "url": "https://www.esmchina.com/news/14283.html",
-      "published_at": null,
-      "summary": "随着Anthropic扩展其长期计算战略，美光将能够支持该公司未来多年的发展。",
-      "author": null
-    },
-    {
-      "title": "裁员、关厂、砍产能…大众汽车集团走到悬崖边",
-      "url": "https://www.esmchina.com/news/14282.html",
-      "published_at": null,
-      "summary": "汽车巨头面临“生存危机”。",
       "author": null
     }
   ],
