@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-30T04:45:23.236692+00:00",
-  "next_refresh_at": "2026-06-30T05:15:23.236692+00:00",
+  "fetched_at": "2026-06-30T08:30:33.743730+00:00",
+  "next_refresh_at": "2026-06-30T09:00:33.743730+00:00",
   "entries": [
+    {
+      "title": "果链巨头立讯精密赴港上市时间敲定，最高募资240亿港元",
+      "url": "https://www.esmchina.com/news/14314.html",
+      "published_at": null,
+      "summary": "立讯精密披露港股招股章程，正式启动H股全球发售，上市时间敲定。",
+      "author": null
+    },
+    {
+      "title": "德州仪器2026慕尼黑上海电子展预告：围绕“出行、生活、协作、焕能”四大主题",
+      "url": "https://www.esmchina.com/news/14313.html",
+      "published_at": null,
+      "summary": "2026年7月1日至3日，德州仪器（TI）将以“智引芯程，定义未来”为主题，亮相2026慕尼黑上海电子展。",
+      "author": null
+    },
     {
       "title": "【硬核双响炮】议程首发！2026 MCU嵌入式 × 电机驱动控制论坛来啦",
       "url": "https://app.zhundao.net/event/redirect.html?id=390377",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14292.html",
       "published_at": null,
       "summary": "距离登陆资本市场更进一步。",
-      "author": null
-    },
-    {
-      "title": "【有奖直播】智能眼镜的音频、电源和视频解决方案",
-      "url": "https://www.eet-china.com/webinars/entry/ADI_20260715.html?source=pop",
-      "published_at": null,
-      "summary": "智能眼镜正朝着更轻薄、更智能、更强大的方向持续演进。您设计的元器件能否跟上步伐？",
-      "author": null
-    },
-    {
-      "title": "全线涨价5%-10%！台积电拿捏先进制程定价权",
-      "url": "https://www.esmchina.com/news/14289.html",
-      "published_at": null,
-      "summary": "根据多方信息综合，此次台积电的调价范围覆盖了7纳米及以下的所有先进制程节点，整体涨幅预估在5%至10%之间。",
       "author": null
     }
   ],

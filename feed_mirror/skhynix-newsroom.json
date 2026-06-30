@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-06-30T04:45:21.672925+00:00",
-  "next_refresh_at": "2026-06-30T05:15:21.672925+00:00",
+  "fetched_at": "2026-06-30T08:30:27.107931+00:00",
+  "next_refresh_at": "2026-06-30T09:00:27.107931+00:00",
   "entries": [
+    {
+      "title": "SK hynix Announces Investment Plan for Southwestern Region",
+      "url": "https://news.skhynix.com/fact-06/",
+      "published_at": "2026-06-30T07:16:10+00:00",
+      "summary": "▪ Announces plans to establish a semiconductor cluster in the Southwestern Region with an investment of approximately KRW 400 trillion to meet surging demand.▪ Unveils SK Group’s blueprint for building 15GW of AI Data Center(AIDC) infrastructure nationwide▪ “SK will launch the next great leap forward for Korea’s AI semiconductor industry from the Southwestern Region.” SK [&#8230;] The post SK hynix Announces Investment Plan for Southwestern Region first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "Explainer: SK hynix’s Mid-to-Long-Term Investment Strategy",
       "url": "https://news.skhynix.com/fact-05/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/",
       "published_at": "2026-06-07T23:00:07+00:00",
       "summary": "News Highlights Seoul, June 08, 2026 – SK hynix Inc. (or “the company”,&#160;www.skhynix.com) and NVIDIA today announced a multi-year technology partnership to advance next-generation memory for the global AI factory buildout and accelerate semiconductor design and manufacturing. The agreement builds on years of deep co-engineering collaboration that has powered some of the world’s most advanced [&#8230;] The post SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix and the Ministry of Climate, Energy and Environment Co-host ‘AI for Green Impact, Inspiring Young Minds to Shape a Greener Future",
-      "url": "https://news.skhynix.com/ai-for-green-impact-2026/",
-      "published_at": "2026-06-05T07:28:53+00:00",
-      "summary": "On June 5, World Environment Day SK hynix co-organized &#8216;AI for Green Impact,&#8217; a hands-on educational program jointly hosted with the Ministry of Climate, Energy and Environment. The event took place at the Conference Hall on the third floor of COEX in Seoul. Approximately 100 participants — elementary, middle, and high school students and their [&#8230;] The post SK hynix and the Ministry of Climate, Energy and Environment Co-host ‘AI for Green Impact, Inspiring Young Minds to Shape a Greener Future first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
