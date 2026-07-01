@@ -1,26 +1,185 @@
 {
   "source": "esmchina",
   "name": "ESM China",
-  "feed_url": "https://www.esmchina.com/",
-  "fetched_at": "2026-07-01T21:07:25.318895+00:00",
-  "next_refresh_at": "2026-07-01T21:37:25.318895+00:00",
-  "entries": [],
-  "errors": [
+  "feed_url": "https://www.esmchina.com/rss",
+  "fetched_at": "2026-07-01T22:47:00.601035+00:00",
+  "next_refresh_at": "2026-07-01T23:17:00.601035+00:00",
+  "entries": [
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "AI芯片初创Etched官宣：累计融资8亿美元，Transformer专用芯片Sohu即将交付",
+      "url": "https://www.esmchina.com/news/14318.html",
+      "published_at": null,
+      "summary": "3个哈佛辍学生把这家AI芯片企业的估值“干”到50亿美元。",
+      "author": null
     },
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "科创板首只万亿股诞生：寒武纪市值破万后深夜提示风险",
+      "url": "https://www.esmchina.com/news/14317.html",
+      "published_at": null,
+      "summary": "目前公司尚处于持续发展阶段，抵御市场波动和行业变化的能力相对有限。",
+      "author": null
     },
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "SPI NOR Flash：AI服务器中不可或缺的“黄金配角”",
+      "url": "https://www.esmchina.com/news/14316.html",
+      "published_at": null,
+      "summary": "AI算力基础设施正从“CPU中心”迈向“GPU中心&amp;quot;，这对SPI NOR Flash提出了更高要求……",
+      "author": null
     },
     {
-      "stage": "fetch",
-      "message": "all candidate URLs returned 0 entries"
+      "title": "通信老将于英涛“告别”紫光系，李涛、王竑弢接棒",
+      "url": "https://www.esmchina.com/news/14315.html",
+      "published_at": null,
+      "summary": "李涛接紫光股份董事长，王竑弢接新华三总裁兼CEO。",
+      "author": null
+    },
+    {
+      "title": "果链巨头立讯精密赴港上市时间敲定，最高募资240亿港元",
+      "url": "https://www.esmchina.com/news/14314.html",
+      "published_at": null,
+      "summary": "立讯精密披露港股招股章程，正式启动H股全球发售，上市时间敲定。",
+      "author": null
+    },
+    {
+      "title": "德州仪器2026慕尼黑上海电子展预告：围绕“出行、生活、协作、焕能”四大主题",
+      "url": "https://www.esmchina.com/news/14313.html",
+      "published_at": null,
+      "summary": "2026年7月1日至3日，德州仪器（TI）将以“智引芯程，定义未来”为主题，亮相2026慕尼黑上海电子展。",
+      "author": null
+    },
+    {
+      "title": "【硬核双响炮】议程首发！2026 MCU嵌入式 × 电机驱动控制论坛来啦",
+      "url": "https://app.zhundao.net/event/redirect.html?id=390377",
+      "published_at": null,
+      "summary": "从“数字大脑”到“动力心脏”，这一次把全链路技术难点一次讲透！ 7月16日，深圳南山科兴科学园",
+      "author": null
+    },
+    {
+      "title": "大疆新品开售秒空、黄牛被刑拘，网传全系涨价3%-8%？官方连番辟谣",
+      "url": "https://www.esmchina.com/news/14311.html",
+      "published_at": null,
+      "summary": "大疆回应：“消息不实，纯属谣言；目前大疆官方指导价保持稳定，没有网传的全系调价计划。”",
+      "author": null
+    },
+    {
+      "title": "韩国“All in”半导体：三星、SK海力士十年投2000万亿韩元，五年DRAM产能翻倍",
+      "url": "https://www.esmchina.com/news/14310.html",
+      "published_at": null,
+      "summary": "核心将半导体、物理AI、AI数据中心定位为产业升级“三角支柱”，目标推动韩国跻身“AI革命主导国”行列。",
+      "author": null
+    },
+    {
+      "title": "苦“小作文”久矣！富信科技澄清：无新增订单，将追责",
+      "url": "https://www.esmchina.com/news/14309.html",
+      "published_at": null,
+      "summary": "公司坚决抵制各类造谣、传谣、恶意炒作上市公司的不法行为。",
+      "author": null
+    },
+    {
+      "title": "又新增40家日企！中国对日相关出口管制措施再升级",
+      "url": "https://www.esmchina.com/news/14308.html",
+      "published_at": null,
+      "summary": "诚信守法的日本实体完全无需担心。",
+      "author": null
+    },
+    {
+      "title": "商务部将20家日本实体列入出口管制管控名单",
+      "url": "https://www.esmchina.com/news/14307.html",
+      "published_at": null,
+      "summary": "2026年6月29日，商务部发布公告将防卫研究所等参与提升日本军事实力的20家日本实体列入出口管制管控名单。",
+      "author": null
+    },
+    {
+      "title": "传百度昆仑芯将赴港IPO，估值目标500亿美元",
+      "url": "https://www.esmchina.com/news/14306.html",
+      "published_at": null,
+      "summary": "据The Information在美东时间6月28日援引两位知情人士消息报道，百度旗下AI芯片子公司昆仑芯（Kunlunxin）正计划在香港上市。根据知情人士透露，昆仑芯的目标估值约500亿美元。同时，昆仑芯要求IPO投资者承诺，后续采购昆仑芯芯片的价值须达到其认购股份金额的3至7倍。",
+      "author": null
+    },
+    {
+      "title": "要做到千亿市值？商络电子回应",
+      "url": "https://www.esmchina.com/news/14305.html",
+      "published_at": null,
+      "summary": "坚持内生增长与外延并购双轮驱动。",
+      "author": null
+    },
+    {
+      "title": "消费电子集体涨价“甩锅”存储？美光高管反击：部分厂商也有责任",
+      "url": "https://www.esmchina.com/news/14304.html",
+      "published_at": null,
+      "summary": "苹果一向以对供应商强硬议价著称。",
+      "author": null
+    },
+    {
+      "title": "国产模拟芯片龙头港股敲钟，开盘大涨23%",
+      "url": "https://www.esmchina.com/news/14303.html",
+      "published_at": null,
+      "summary": "今日，国内模拟集成电路领军企业圣邦微电子正式登陆香港联交所主板，不仅标志着公司“A+H”双资本平台战略的全面落地，也为国产高端模拟芯片的国际化进程注入了新的资本动能。",
+      "author": null
+    },
+    {
+      "title": "安森美创纪录70亿美元收购Synaptics",
+      "url": "https://www.esmchina.com/news/14302.html",
+      "published_at": null,
+      "summary": "安森美近日宣布，已与触控及边缘计算芯片厂商Synaptics达成最终协议。安森美将通过全股票交易方式收购Synaptics，交易总企业价值约70亿美元，是安森美历史上规模最大的一笔并购。",
+      "author": null
+    },
+    {
+      "title": "苹果官宣涨价！Mac、iPad最高涨25%，库克：成本实在扛不住了",
+      "url": "https://www.esmchina.com/news/14301.html",
+      "published_at": null,
+      "summary": "6月25日，苹果公司正式宣布对旗下Mac、iPad及部分智能家居设备进行全球性价格上调，打破了其长期以来维持终端售价稳定的传统。",
+      "author": null
+    },
+    {
+      "title": "氮化镓：迈向30亿美元的爆发前夜",
+      "url": "https://www.esmchina.com/news/14261.html",
+      "published_at": null,
+      "summary": "随着8英寸晶圆量产降本与供应链深度整合，氮化镓（GaN）正加速从消费电子向汽车、AI数据中心等高增长领域渗透，预计2026年营收将达9.2亿美元。本文深入探讨了GaN在800V汽车架构、高功率AI服务器电源及人形机器人驱动中的核心应用价值，并剖析了本土企业的突围机遇。",
+      "author": null
+    },
+    {
+      "title": "三星电子加速撤离中国市场：公众号注销，中文官网关闭",
+      "url": "https://www.esmchina.com/news/14300.html",
+      "published_at": null,
+      "summary": "从家电零售退出、到半导体传播渠道调整，三星电子在中国市场的业务结构正持续向高利润半导体业务集中。",
+      "author": null
+    },
+    {
+      "title": "奔驰中国再裁员：销售端N+6落地，研发制造端同步收缩",
+      "url": "https://www.esmchina.com/news/14299.html",
+      "published_at": null,
+      "summary": "受产量下滑影响，工厂放假节奏明显拉长，2026年4月发动机部门曾连续放假十余天，端午假期亦达5天。",
+      "author": null
+    },
+    {
+      "title": "点名宇树、立法封杀，美国对华机器人“围剿”升级",
+      "url": "https://www.esmchina.com/news/14298.html",
+      "published_at": null,
+      "summary": "近期，美国政府正试图通过行政审查、国会立法以及本土产业扶持的“三管齐下”策略，酝酿对中国机器人产业实施全面限制。",
+      "author": null
+    },
+    {
+      "title": "OpenAI发布首款自研AI芯片Jalapeño，9个月流片、推理成本直降50%",
+      "url": "https://www.esmchina.com/news/14297.html",
+      "published_at": null,
+      "summary": "OpenAI与博通（Broadcom）联合揭开了业界期待已久的首款自研AI推理芯片“Jalapeño（哈拉贝诺辣椒）”的面纱。",
+      "author": null
+    },
+    {
+      "title": "利润暴增超1000%！美光Q3业绩大超预期",
+      "url": "https://www.esmchina.com/news/14296.html",
+      "published_at": null,
+      "summary": "美光2026财年第三财季显示，公司营收、利润及毛利率均创下历史最高纪录。",
+      "author": null
+    },
+    {
+      "title": "野心藏不住！高通杀入数据中心，剑指400亿美元新市场",
+      "url": "https://www.esmchina.com/news/14295.html",
+      "published_at": null,
+      "summary": "6月24日，高通在年度投资者日上，正式将数据中心业务定义为公司实现第二增长曲线突破的核心赛道。",
+      "author": null
     }
-  ]
+  ],
+  "errors": []
 }
