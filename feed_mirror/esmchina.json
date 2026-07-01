@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-01T03:57:37.771777+00:00",
-  "next_refresh_at": "2026-07-01T04:27:37.771777+00:00",
+  "fetched_at": "2026-07-01T08:17:50.921000+00:00",
+  "next_refresh_at": "2026-07-01T08:47:50.921000+00:00",
   "entries": [
+    {
+      "title": "科创板首只万亿股诞生：寒武纪市值破万后深夜提示风险",
+      "url": "https://www.esmchina.com/news/14317.html",
+      "published_at": null,
+      "summary": "目前公司尚处于持续发展阶段，抵御市场波动和行业变化的能力相对有限。",
+      "author": null
+    },
+    {
+      "title": "SPI NOR Flash：AI服务器中不可或缺的“黄金配角”",
+      "url": "https://www.esmchina.com/news/14316.html",
+      "published_at": null,
+      "summary": "AI算力基础设施正从“CPU中心”迈向“GPU中心&amp;quot;，这对SPI NOR Flash提出了更高要求……",
+      "author": null
+    },
     {
       "title": "通信老将于英涛“告别”紫光系，李涛、王竑弢接棒",
       "url": "https://www.esmchina.com/news/14315.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14294.html",
       "published_at": null,
       "summary": "国际电子商情讯，进入到6月下旬，多家媒体报道SK海力士正在调整产能分配。",
-      "author": null
-    },
-    {
-      "title": "PC涨价风暴踩刹车？华硕Q3涨幅收窄至个位数",
-      "url": "https://www.esmchina.com/news/14293.html",
-      "published_at": null,
-      "summary": "预测2026年全球PC出货量将下降12%至2.45亿台。",
-      "author": null
-    },
-    {
-      "title": "自主技术的瓶颈不是AI，而是无线网络",
-      "url": "https://www.esmchina.com/news/14291.html",
-      "published_at": null,
-      "summary": "自主系统对不确定性的容忍度要低得多。",
       "author": null
     }
   ],
