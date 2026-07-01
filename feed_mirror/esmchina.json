@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-01T08:17:50.921000+00:00",
-  "next_refresh_at": "2026-07-01T08:47:50.921000+00:00",
+  "fetched_at": "2026-07-01T11:38:21.253600+00:00",
+  "next_refresh_at": "2026-07-01T12:08:21.253600+00:00",
   "entries": [
+    {
+      "title": "AI芯片初创Etched官宣：累计融资8亿美元，Transformer专用芯片Sohu即将交付",
+      "url": "https://www.esmchina.com/news/14318.html",
+      "published_at": null,
+      "summary": "3个哈佛辍学生把这家AI芯片企业的估值“干”到50亿美元。",
+      "author": null
+    },
     {
       "title": "科创板首只万亿股诞生：寒武纪市值破万后深夜提示风险",
       "url": "https://www.esmchina.com/news/14317.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14295.html",
       "published_at": null,
       "summary": "6月24日，高通在年度投资者日上，正式将数据中心业务定义为公司实现第二增长曲线突破的核心赛道。",
-      "author": null
-    },
-    {
-      "title": "SK海力士放缓HBM4、加码常规DRAM，存储产能分配正在发生变化",
-      "url": "https://www.esmchina.com/news/14294.html",
-      "published_at": null,
-      "summary": "国际电子商情讯，进入到6月下旬，多家媒体报道SK海力士正在调整产能分配。",
       "author": null
     }
   ],
