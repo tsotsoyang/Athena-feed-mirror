@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-06-30T23:44:29.413191+00:00",
-  "next_refresh_at": "2026-07-01T00:14:29.413191+00:00",
+  "fetched_at": "2026-07-01T03:57:37.771777+00:00",
+  "next_refresh_at": "2026-07-01T04:27:37.771777+00:00",
   "entries": [
+    {
+      "title": "通信老将于英涛“告别”紫光系，李涛、王竑弢接棒",
+      "url": "https://www.esmchina.com/news/14315.html",
+      "published_at": null,
+      "summary": "李涛接紫光股份董事长，王竑弢接新华三总裁兼CEO。",
+      "author": null
+    },
     {
       "title": "果链巨头立讯精密赴港上市时间敲定，最高募资240亿港元",
       "url": "https://www.esmchina.com/news/14314.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14291.html",
       "published_at": null,
       "summary": "自主系统对不确定性的容忍度要低得多。",
-      "author": null
-    },
-    {
-      "title": "国产存储“小巨人”英韧科技IPO辅导收官，再添上市后备军",
-      "url": "https://www.esmchina.com/news/14292.html",
-      "published_at": null,
-      "summary": "距离登陆资本市场更进一步。",
       "author": null
     }
   ],
