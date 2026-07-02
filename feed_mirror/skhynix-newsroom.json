@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-02T00:07:47.610527+00:00",
-  "next_refresh_at": "2026-07-02T00:37:47.610527+00:00",
+  "fetched_at": "2026-07-02T04:39:48.731732+00:00",
+  "next_refresh_at": "2026-07-02T05:09:48.731732+00:00",
   "entries": [
+    {
+      "title": "SK hynix Announces Investment Plan for the Chungcheong Region",
+      "url": "https://news.skhynix.com/fact-07/",
+      "published_at": "2026-07-02T02:13:31+00:00",
+      "summary": "▪&#160;Announces a total investment of KRW 100 trillion in Cheongju.▪&#160;Plans to build M17, a NAND production fab, and P&#38;T7, an advanced packaging facility, in Chungcheong Region, an established hub ready for expansion.▪&#160;“We will develop Chungcheong Region into the global center of AI semiconductor innovation.” SK hynix President &#38; CEO Kwak Noh-Jung announced today the company’s [&#8230;] The post SK hynix Announces Investment Plan for the Chungcheong Region first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "SK hynix Announces Investment Plan for Southwestern Region",
       "url": "https://news.skhynix.com/fact-06/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/brand-film-memory-girl/",
       "published_at": "2026-06-10T06:24:12+00:00",
       "summary": "SK hynix has unveiled its new brand campaign, &#8220;The Memory Shepherd&#8221;, on YouTube. A flock of sheep suddenly materializes in the middle of a city. “Me~eh~eh~mory.” Listen closely, and the sheep’s bleating resolves into a single, unmistakable word — MEMORY, the essential force powering the AI era. In a time when the world is captivated [&#8230;] The post Me~eh~eh~mory! The secret behind the flock leading the AI era — Behind the scenes of SK hynix’s new ad, “The Memory Shepherd” first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories",
-      "url": "https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/",
-      "published_at": "2026-06-07T23:00:07+00:00",
-      "summary": "News Highlights Seoul, June 08, 2026 – SK hynix Inc. (or “the company”,&#160;www.skhynix.com) and NVIDIA today announced a multi-year technology partnership to advance next-generation memory for the global AI factory buildout and accelerate semiconductor design and manufacturing. The agreement builds on years of deep co-engineering collaboration that has powered some of the world’s most advanced [&#8230;] The post SK hynix and NVIDIA Announce Multi-year Technology Partnership to Advance Memory for AI Factories first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
