@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-02T23:37:39.144699+00:00",
-  "next_refresh_at": "2026-07-03T00:07:39.144699+00:00",
+  "fetched_at": "2026-07-03T03:18:54.435170+00:00",
+  "next_refresh_at": "2026-07-03T03:48:54.435170+00:00",
   "entries": [
+    {
+      "title": "Why advanced memory matters in the AI infrastructure era",
+      "url": "https://news.skhynix.com/ai-competition-next-challenge/",
+      "published_at": "2026-07-03T00:00:12+00:00",
+      "summary": "The landscape of AI competition is expanding. For years, the industry has focused on larger models, faster accelerators, and higher compute performance, but attention is increasingly shifting toward the infrastructure required to deploy AI reliably across real-world services and industrial environments. As AI adoption spreads across search, enterprise applications, content creation, manufacturing, data centers, and [&#8230;] The post Why advanced memory matters in the AI infrastructure era first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "SK hynix Announces Investment Plan for the Chungcheong Region",
       "url": "https://news.skhynix.com/fact-07/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/computex-2026-review/",
       "published_at": "2026-06-11T04:59:05+00:00",
       "summary": "Reading the AI industry at COMPUTEX Taipei 2026 Not long ago, COMPUTEX was a gathering place for gaming PC enthusiasts. This year, for the first time, the head of a memory semiconductor company took the stage there. As someone with a background in semiconductors who creates content in the deep tech space, I attended after [&#8230;] The post [SOD’s Review] COMPUTEX 2026: SK hynix beyond memory – how the AI factory era is reshaping the company’s identity first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "Me~eh~eh~mory! The secret behind the flock leading the AI era — Behind the scenes of SK hynix’s new ad, “The Memory Shepherd”",
-      "url": "https://news.skhynix.com/brand-film-memory-girl/",
-      "published_at": "2026-06-10T06:24:12+00:00",
-      "summary": "SK hynix has unveiled its new brand campaign, &#8220;The Memory Shepherd&#8221;, on YouTube. A flock of sheep suddenly materializes in the middle of a city. “Me~eh~eh~mory.” Listen closely, and the sheep’s bleating resolves into a single, unmistakable word — MEMORY, the essential force powering the AI era. In a time when the world is captivated [&#8230;] The post Me~eh~eh~mory! The secret behind the flock leading the AI era — Behind the scenes of SK hynix’s new ad, “The Memory Shepherd” first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
