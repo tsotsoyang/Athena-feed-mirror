@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-03T12:26:08.071633+00:00",
-  "next_refresh_at": "2026-07-03T12:56:08.071633+00:00",
+  "fetched_at": "2026-07-03T14:42:31.956430+00:00",
+  "next_refresh_at": "2026-07-03T15:12:31.956430+00:00",
   "entries": [
+    {
+      "title": "净利飙升74,393.95%！江波龙发布上半年业绩预告",
+      "url": "https://www.esmchina.com/news/14327.html",
+      "published_at": null,
+      "summary": "今日收盘，江波龙发布2026年半年度业绩预告。",
+      "author": null
+    },
     {
       "title": "AI芯片进入3D堆叠时代，从平面集成到系统级协同",
       "url": "https://www.esmchina.com/news/14326.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14302.html",
       "published_at": null,
       "summary": "安森美近日宣布，已与触控及边缘计算芯片厂商Synaptics达成最终协议。安森美将通过全股票交易方式收购Synaptics，交易总企业价值约70亿美元，是安森美历史上规模最大的一笔并购。",
-      "author": null
-    },
-    {
-      "title": "苹果官宣涨价！Mac、iPad最高涨25%，库克：成本实在扛不住了",
-      "url": "https://www.esmchina.com/news/14301.html",
-      "published_at": null,
-      "summary": "6月25日，苹果公司正式宣布对旗下Mac、iPad及部分智能家居设备进行全球性价格上调，打破了其长期以来维持终端售价稳定的传统。",
       "author": null
     }
   ],
