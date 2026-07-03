@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-03T06:47:17.885961+00:00",
-  "next_refresh_at": "2026-07-03T07:17:17.885961+00:00",
+  "fetched_at": "2026-07-03T10:05:11.890397+00:00",
+  "next_refresh_at": "2026-07-03T10:35:11.890397+00:00",
   "entries": [
+    {
+      "title": "AI芯片进入3D堆叠时代，从平面集成到系统级协同",
+      "url": "https://www.esmchina.com/news/14326.html",
+      "published_at": null,
+      "summary": "AI同时推高了计算能力、内存带宽、互连容量，以及供电能力等多个方面的需求。",
+      "author": null
+    },
+    {
+      "title": "芯原股份戴伟民：具身机器人跨越“Lv2→Lv3”，2026年决定产业节奏",
+      "url": "https://www.esmchina.com/news/14325.html",
+      "published_at": null,
+      "summary": "当前中国人形机器人产业定义为“Lv2向Lv3跃迁”的关键期——从“演示”到“稳定交付任务”的门槛能否在2026年跨越，决定了产业下一步的节奏。",
+      "author": null
+    },
     {
       "title": "104天！宇树科技闪电注册生效，超20亿募资砸向“大脑”",
       "url": "https://www.esmchina.com/news/14324.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14301.html",
       "published_at": null,
       "summary": "6月25日，苹果公司正式宣布对旗下Mac、iPad及部分智能家居设备进行全球性价格上调，打破了其长期以来维持终端售价稳定的传统。",
-      "author": null
-    },
-    {
-      "title": "氮化镓：迈向30亿美元的爆发前夜",
-      "url": "https://www.esmchina.com/news/14261.html",
-      "published_at": null,
-      "summary": "随着8英寸晶圆量产降本与供应链深度整合，氮化镓（GaN）正加速从消费电子向汽车、AI数据中心等高增长领域渗透，预计2026年营收将达9.2亿美元。本文深入探讨了GaN在800V汽车架构、高功率AI服务器电源及人形机器人驱动中的核心应用价值，并剖析了本土企业的突围机遇。",
-      "author": null
-    },
-    {
-      "title": "三星电子加速撤离中国市场：公众号注销，中文官网关闭",
-      "url": "https://www.esmchina.com/news/14300.html",
-      "published_at": null,
-      "summary": "从家电零售退出、到半导体传播渠道调整，三星电子在中国市场的业务结构正持续向高利润半导体业务集中。",
       "author": null
     }
   ],
