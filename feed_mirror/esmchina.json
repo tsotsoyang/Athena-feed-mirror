@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-05T23:39:16.924195+00:00",
-  "next_refresh_at": "2026-07-06T00:09:16.924195+00:00",
+  "fetched_at": "2026-07-06T03:35:47.846120+00:00",
+  "next_refresh_at": "2026-07-06T04:05:47.846120+00:00",
   "entries": [
+    {
+      "title": "苹果史上最狠泄密！塔塔印度工厂被黑，630GB数据挂暗网",
+      "url": "https://www.esmchina.com/news/14329.html",
+      "published_at": null,
+      "summary": "从A20 Pro到折叠屏V68，“连底裤都被扒干净”...",
+      "author": null
+    },
+    {
+      "title": "Jim Keller联手天才少年，批量生产“微型晶圆厂”",
+      "url": "https://www.esmchina.com/news/14328.html",
+      "published_at": null,
+      "summary": "当前全球半导体制造资源高度集中，先进制程、成熟工艺产能均掌握在少数头部代工厂手中。Fab2的商业模式试图打破这一格局，通过标准化、可复制的小型晶圆厂方案推动芯片制造去中心化、本地化。",
+      "author": null
+    },
     {
       "title": "净利飙升74,393.95%！江波龙发布上半年业绩预告",
       "url": "https://www.esmchina.com/news/14327.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14304.html",
       "published_at": null,
       "summary": "苹果一向以对供应商强硬议价著称。",
-      "author": null
-    },
-    {
-      "title": "国产模拟芯片龙头港股敲钟，开盘大涨23%",
-      "url": "https://www.esmchina.com/news/14303.html",
-      "published_at": null,
-      "summary": "今日，国内模拟集成电路领军企业圣邦微电子正式登陆香港联交所主板，不仅标志着公司“A+H”双资本平台战略的全面落地，也为国产高端模拟芯片的国际化进程注入了新的资本动能。",
-      "author": null
-    },
-    {
-      "title": "安森美创纪录70亿美元收购Synaptics",
-      "url": "https://www.esmchina.com/news/14302.html",
-      "published_at": null,
-      "summary": "安森美近日宣布，已与触控及边缘计算芯片厂商Synaptics达成最终协议。安森美将通过全股票交易方式收购Synaptics，交易总企业价值约70亿美元，是安森美历史上规模最大的一笔并购。",
       "author": null
     }
   ],
