@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-06T03:35:47.846120+00:00",
-  "next_refresh_at": "2026-07-06T04:05:47.846120+00:00",
+  "fetched_at": "2026-07-06T08:21:11.547291+00:00",
+  "next_refresh_at": "2026-07-06T08:51:11.547291+00:00",
   "entries": [
+    {
+      "title": "印度首个大型OSAT正式商用，日本技术+泰国经验+印度制造",
+      "url": "https://www.esmchina.com/news/14331.html",
+      "published_at": null,
+      "summary": "这座代号“G1”的OSAT工厂，由印度CG Power and Industrial Solutions（穆鲁加帕集团旗下）与日本半导体巨头瑞萨电子（Renesas）、泰国Stars Microelectronics三方合资建设。",
+      "author": null
+    },
+    {
+      "title": "土耳其的半导体命题：从“会设计”到“能制造”",
+      "url": "https://www.esmchina.com/news/14330.html",
+      "published_at": null,
+      "summary": "土耳其已建立起坚实的芯片设计基础，但如果缺乏本土制造能力，其半导体主权终究只是“借来的”。",
+      "author": null
+    },
     {
       "title": "苹果史上最狠泄密！塔塔印度工厂被黑，630GB数据挂暗网",
       "url": "https://www.esmchina.com/news/14329.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14306.html",
       "published_at": null,
       "summary": "据The Information在美东时间6月28日援引两位知情人士消息报道，百度旗下AI芯片子公司昆仑芯（Kunlunxin）正计划在香港上市。根据知情人士透露，昆仑芯的目标估值约500亿美元。同时，昆仑芯要求IPO投资者承诺，后续采购昆仑芯芯片的价值须达到其认购股份金额的3至7倍。",
-      "author": null
-    },
-    {
-      "title": "要做到千亿市值？商络电子回应",
-      "url": "https://www.esmchina.com/news/14305.html",
-      "published_at": null,
-      "summary": "坚持内生增长与外延并购双轮驱动。",
-      "author": null
-    },
-    {
-      "title": "消费电子集体涨价“甩锅”存储？美光高管反击：部分厂商也有责任",
-      "url": "https://www.esmchina.com/news/14304.html",
-      "published_at": null,
-      "summary": "苹果一向以对供应商强硬议价著称。",
       "author": null
     }
   ],
