@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-06T23:08:28.909059+00:00",
-  "next_refresh_at": "2026-07-06T23:38:28.909059+00:00",
+  "fetched_at": "2026-07-07T01:17:07.311693+00:00",
+  "next_refresh_at": "2026-07-07T01:47:07.311693+00:00",
   "entries": [
+    {
+      "title": "2026年本科就业薪资洗牌，微电子登顶，计算机跌出前十",
+      "url": "https://www.esmchina.com/news/14333.html",
+      "published_at": null,
+      "summary": "麦可思研究院发布的《2026年中国本科生就业报告》显示，计算机科学与技术、软件工程专业首次集体跌出月收入前十榜单，微电子科学与工程与电子科学与技术则强势登顶前两名。",
+      "author": null
+    },
+    {
+      "title": "出口逼近200亿！中国机器人加速驶向全球150国",
+      "url": "https://www.esmchina.com/news/14332.html",
+      "published_at": null,
+      "summary": "根据海关总署7月5日发布的最新外贸数据，今年1至5月，我国机器人出口总值逼近200亿元大关，销售网络已覆盖全球150多个国家和地区。",
+      "author": null
+    },
     {
       "title": "印度首个大型OSAT正式商用，日本技术+泰国经验+印度制造",
       "url": "https://www.esmchina.com/news/14331.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14308.html",
       "published_at": null,
       "summary": "诚信守法的日本实体完全无需担心。",
-      "author": null
-    },
-    {
-      "title": "商务部将20家日本实体列入出口管制管控名单",
-      "url": "https://www.esmchina.com/news/14307.html",
-      "published_at": null,
-      "summary": "2026年6月29日，商务部发布公告将防卫研究所等参与提升日本军事实力的20家日本实体列入出口管制管控名单。",
-      "author": null
-    },
-    {
-      "title": "传百度昆仑芯将赴港IPO，估值目标500亿美元",
-      "url": "https://www.esmchina.com/news/14306.html",
-      "published_at": null,
-      "summary": "据The Information在美东时间6月28日援引两位知情人士消息报道，百度旗下AI芯片子公司昆仑芯（Kunlunxin）正计划在香港上市。根据知情人士透露，昆仑芯的目标估值约500亿美元。同时，昆仑芯要求IPO投资者承诺，后续采购昆仑芯芯片的价值须达到其认购股份金额的3至7倍。",
       "author": null
     }
   ],
