@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-07T05:38:25.126969+00:00",
-  "next_refresh_at": "2026-07-07T06:08:25.126969+00:00",
+  "fetched_at": "2026-07-07T09:41:59.512929+00:00",
+  "next_refresh_at": "2026-07-07T10:11:59.512929+00:00",
   "entries": [
+    {
+      "title": "芯原“秀肌肉”：从感知到定制，具身机器人全链路技术矩阵曝光",
+      "url": "https://www.esmchina.com/news/14339.html",
+      "published_at": null,
+      "summary": "2026年作为人形机器人从“演示级”向“实用级”跨越的关键节点，产业链上游的芯片配套能力成为竞争核心。",
+      "author": null
+    },
+    {
+      "title": "欧洲《芯片法案2.0》面临的三重考验",
+      "url": "https://www.esmchina.com/news/14337.html",
+      "published_at": null,
+      "summary": "德累斯顿正是欧洲首部《芯片法案》（Chips Act）成果的最佳例证。",
+      "author": null
+    },
     {
       "title": "激辩具身机器人：离规模化还有几道坎？讨论什么话题才不浪费时间？",
       "url": "https://www.esmchina.com/news/14336.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14313.html",
       "published_at": null,
       "summary": "2026年7月1日至3日，德州仪器（TI）将以“智引芯程，定义未来”为主题，亮相2026慕尼黑上海电子展。",
-      "author": null
-    },
-    {
-      "title": "【硬核双响炮】议程首发！2026 MCU嵌入式 × 电机驱动控制论坛来啦",
-      "url": "https://app.zhundao.net/event/redirect.html?id=390377",
-      "published_at": null,
-      "summary": "从“数字大脑”到“动力心脏”，这一次把全链路技术难点一次讲透！ 7月16日，深圳南山科兴科学园",
-      "author": null
-    },
-    {
-      "title": "大疆新品开售秒空、黄牛被刑拘，网传全系涨价3%-8%？官方连番辟谣",
-      "url": "https://www.esmchina.com/news/14311.html",
-      "published_at": null,
-      "summary": "大疆回应：“消息不实，纯属谣言；目前大疆官方指导价保持稳定，没有网传的全系调价计划。”",
       "author": null
     }
   ],
