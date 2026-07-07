@@ -2,13 +2,13 @@
   "source": "arxiv-sanity-lite",
   "name": "ArXiv-sanity Lite (top recent)",
   "feed_url": "https://arxiv-sanity-lite.com/rss",
-  "fetched_at": "2026-07-07T01:16:48.981947+00:00",
-  "next_refresh_at": "2026-07-07T01:46:48.981947+00:00",
+  "fetched_at": "2026-07-07T05:38:10.554915+00:00",
+  "next_refresh_at": "2026-07-07T06:08:10.554915+00:00",
   "entries": [],
   "errors": [
     {
       "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "message": "discovered URLs returned 0 entries"
     },
     {
       "stage": "autodiscovery",
