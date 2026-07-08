@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-08T03:29:50.066916+00:00",
-  "next_refresh_at": "2026-07-08T03:59:50.066916+00:00",
+  "fetched_at": "2026-07-08T06:14:14.042766+00:00",
+  "next_refresh_at": "2026-07-08T06:44:14.042766+00:00",
   "entries": [
+    {
+      "title": "SiC/GaN专利大战打响！Wolfspeed起诉Navitas",
+      "url": "https://www.esmchina.com/news/14340.html",
+      "published_at": null,
+      "summary": "Wolfspeed日前向美国特拉华联邦地区法院递交诉状，指控Navitas旗下全系列氮化镓、碳化硅功率器件侵犯自身5项底层基础发明专利。",
+      "author": null
+    },
     {
       "title": "加拿大AI之困：科研全球领先，算力基建却滞后",
       "url": "https://www.esmchina.com/news/14338.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14315.html",
       "published_at": null,
       "summary": "李涛接紫光股份董事长，王竑弢接新华三总裁兼CEO。",
-      "author": null
-    },
-    {
-      "title": "果链巨头立讯精密赴港上市时间敲定，最高募资240亿港元",
-      "url": "https://www.esmchina.com/news/14314.html",
-      "published_at": null,
-      "summary": "立讯精密披露港股招股章程，正式启动H股全球发售，上市时间敲定。",
       "author": null
     }
   ],
