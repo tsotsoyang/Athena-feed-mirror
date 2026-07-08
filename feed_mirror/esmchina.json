@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-08T06:14:14.042766+00:00",
-  "next_refresh_at": "2026-07-08T06:44:14.042766+00:00",
+  "fetched_at": "2026-07-08T09:06:53.922468+00:00",
+  "next_refresh_at": "2026-07-08T09:36:53.922468+00:00",
   "entries": [
+    {
+      "title": "扛不住了？安森美出手变卖两座晶圆厂，年省3500万美金",
+      "url": "https://www.esmchina.com/news/14342.html",
+      "published_at": null,
+      "summary": "这是安森美持续推进“Fab Right”制造战略的又一落地动作。",
+      "author": null
+    },
+    {
+      "title": "小米汽车官宣全新子品牌SkyNomad",
+      "url": "https://www.esmchina.com/news/14341.html",
+      "published_at": null,
+      "summary": "小米汽车日前正式对外揭晓了全新产品系列“SkyNomad”，主打空间与生活理念，有望精准填补了20万元以上主流家用增程SUV的市场空白。",
+      "author": null
+    },
     {
       "title": "SiC/GaN专利大战打响！Wolfspeed起诉Navitas",
       "url": "https://www.esmchina.com/news/14340.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14317.html",
       "published_at": null,
       "summary": "目前公司尚处于持续发展阶段，抵御市场波动和行业变化的能力相对有限。",
-      "author": null
-    },
-    {
-      "title": "SPI NOR Flash：AI服务器中不可或缺的“黄金配角”",
-      "url": "https://www.esmchina.com/news/14316.html",
-      "published_at": null,
-      "summary": "AI算力基础设施正从“CPU中心”迈向“GPU中心&amp;quot;，这对SPI NOR Flash提出了更高要求……",
-      "author": null
-    },
-    {
-      "title": "通信老将于英涛“告别”紫光系，李涛、王竑弢接棒",
-      "url": "https://www.esmchina.com/news/14315.html",
-      "published_at": null,
-      "summary": "李涛接紫光股份董事长，王竑弢接新华三总裁兼CEO。",
       "author": null
     }
   ],
