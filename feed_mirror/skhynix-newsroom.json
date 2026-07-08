@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-08T20:43:48.656521+00:00",
-  "next_refresh_at": "2026-07-08T21:13:48.656521+00:00",
+  "fetched_at": "2026-07-08T22:06:10.112101+00:00",
+  "next_refresh_at": "2026-07-08T22:36:10.112101+00:00",
   "entries": [
     {
       "title": "From HBM to eSSD: How SK hynix is charting the future of full-stack memory",
