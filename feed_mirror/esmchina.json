@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-08T09:06:53.922468+00:00",
-  "next_refresh_at": "2026-07-08T09:36:53.922468+00:00",
+  "fetched_at": "2026-07-08T11:22:41.692553+00:00",
+  "next_refresh_at": "2026-07-08T11:52:41.692553+00:00",
   "entries": [
+    {
+      "title": "边缘AI芯片厂商Syntiant提交美股IPO申请，拟募资约3亿美元",
+      "url": "https://www.esmchina.com/news/14343.html",
+      "published_at": null,
+      "summary": "该公司计划登陆纳斯达克全球市场，股票代码拟定SYTN。",
+      "author": null
+    },
     {
       "title": "扛不住了？安森美出手变卖两座晶圆厂，年省3500万美金",
       "url": "https://www.esmchina.com/news/14342.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14318.html",
       "published_at": null,
       "summary": "3个哈佛辍学生把这家AI芯片企业的估值“干”到50亿美元。",
-      "author": null
-    },
-    {
-      "title": "科创板首只万亿股诞生：寒武纪市值破万后深夜提示风险",
-      "url": "https://www.esmchina.com/news/14317.html",
-      "published_at": null,
-      "summary": "目前公司尚处于持续发展阶段，抵御市场波动和行业变化的能力相对有限。",
       "author": null
     }
   ],
