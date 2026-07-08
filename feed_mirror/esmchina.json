@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-07T23:57:54.663714+00:00",
-  "next_refresh_at": "2026-07-08T00:27:54.663714+00:00",
+  "fetched_at": "2026-07-08T03:29:50.066916+00:00",
+  "next_refresh_at": "2026-07-08T03:59:50.066916+00:00",
   "entries": [
+    {
+      "title": "加拿大AI之困：科研全球领先，算力基建却滞后",
+      "url": "https://www.esmchina.com/news/14338.html",
+      "published_at": null,
+      "summary": "如果加拿大希望在人工智能时代保持竞争力，就不能仅停留在科研领先层面，而必须开始大规模建设自主AI基础设施。",
+      "author": null
+    },
     {
       "title": "芯原“秀肌肉”：从感知到定制，具身机器人全链路技术矩阵曝光",
       "url": "https://www.esmchina.com/news/14339.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14314.html",
       "published_at": null,
       "summary": "立讯精密披露港股招股章程，正式启动H股全球发售，上市时间敲定。",
-      "author": null
-    },
-    {
-      "title": "德州仪器2026慕尼黑上海电子展预告：围绕“出行、生活、协作、焕能”四大主题",
-      "url": "https://www.esmchina.com/news/14313.html",
-      "published_at": null,
-      "summary": "2026年7月1日至3日，德州仪器（TI）将以“智引芯程，定义未来”为主题，亮相2026慕尼黑上海电子展。",
       "author": null
     }
   ],
