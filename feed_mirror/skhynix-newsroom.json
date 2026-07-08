@@ -2,72 +2,17 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-08T22:06:10.112101+00:00",
-  "next_refresh_at": "2026-07-08T22:36:10.112101+00:00",
-  "entries": [
+  "fetched_at": "2026-07-08T23:36:02.761007+00:00",
+  "next_refresh_at": "2026-07-09T00:06:02.761007+00:00",
+  "entries": [],
+  "errors": [
     {
-      "title": "From HBM to eSSD: How SK hynix is charting the future of full-stack memory",
-      "url": "https://news.skhynix.com/hbm-to-essd/",
-      "published_at": "2026-07-08T00:00:07+00:00",
-      "summary": "The focus of AI infrastructure competition is shifting. Larger models and faster compute engines remain important, but for AI systems to scale reliably across real-world services and industrial environments, it is becoming equally important to determine where data resides, which memory layer processes it, and how efficiently it can be retrieved when needed.&#160; This shift [&#8230;] The post From HBM to eSSD: How SK hynix is charting the future of full-stack memory first appeared on SK hynix Newsroom .",
-      "author": "user"
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
     },
     {
-      "title": "[Expert POV] From AI semiconductors to AI services: How the ecosystem is evolving",
-      "url": "https://news.skhynix.com/2026-expert-column-series-ep4/",
-      "published_at": "2026-07-06T00:00:05+00:00",
-      "summary": "Competition surrounding AI semiconductors has entered a new phase — one that tests not only corporate capabilities but also national strategy and execution. Through this&#160;[Expert POV] series, we explore the opportunities and challenges facing the global semiconductor industry in the AI era from a range of perspectives, including technology, finance, policy, infrastructure, ecosystems,&#160;globalization,&#160;and sustainability.&#160; The [&#8230;] The post [Expert POV] From AI semiconductors to AI services: How the ecosystem is evolving first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "Why advanced memory matters in the AI infrastructure era",
-      "url": "https://news.skhynix.com/ai-competition-next-challenge/",
-      "published_at": "2026-07-03T00:00:12+00:00",
-      "summary": "The landscape of AI competition is expanding. For years, the industry has focused on larger models, faster accelerators, and higher compute performance, but attention is increasingly shifting toward the infrastructure required to deploy AI reliably across real-world services and industrial environments. As AI adoption spreads across search, enterprise applications, content creation, manufacturing, data centers, and [&#8230;] The post Why advanced memory matters in the AI infrastructure era first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix Announces Investment Plan for the Chungcheong Region",
-      "url": "https://news.skhynix.com/fact-07/",
-      "published_at": "2026-07-02T02:13:31+00:00",
-      "summary": "▪ Announces a total investment of KRW 100 trillion in Cheongju.▪ Plans to build M17, a NAND production fab, and P&#38;T7, an advanced packaging facility, in Chungcheong Region, an established hub ready for expansion.▪ “We will develop Chungcheong Region into the global center of AI semiconductor innovation.” SK hynix President &#38; CEO Kwak Noh-Jung announced today the company’s [&#8230;] The post SK hynix Announces Investment Plan for the Chungcheong Region first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix Announces Investment Plan for Southwestern Region",
-      "url": "https://news.skhynix.com/fact-06/",
-      "published_at": "2026-06-30T07:16:10+00:00",
-      "summary": "▪ Announces plans to establish a semiconductor cluster in the Southwestern Region with an investment of approximately KRW 400 trillion to meet surging demand.▪ Unveils SK Group’s blueprint for building 15GW of AI Data Center(AIDC) infrastructure nationwide▪ “SK will launch the next great leap forward for Korea’s AI semiconductor industry from the Southwestern Region.” SK [&#8230;] The post SK hynix Announces Investment Plan for Southwestern Region first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "Explainer: SK hynix’s Mid-to-Long-Term Investment Strategy",
-      "url": "https://news.skhynix.com/fact-05/",
-      "published_at": "2026-06-29T07:35:16+00:00",
-      "summary": "[Summary]&#160; To proactively address the rapidly growing global demand for AI memory, SK hynix has established a mid-to-long-term investment strategy totaling KRW 1,100 trillion, encompassing Yongin, Cheongju, and the Southwestern Region. Originally scheduled for completion in 2045, the Yongin Semiconductor Cluster now aims to complete its fourth fab by 2033, bringing its construction schedule forward [&#8230;] The post Explainer: SK hynix’s Mid-to-Long-Term Investment Strategy first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "[Expert POV] The real battleground in the AI semiconductor race: Capital and energy infrastructure",
-      "url": "https://news.skhynix.com/2026-expert-column-series-ep3/",
-      "published_at": "2026-06-24T23:59:54+00:00",
-      "summary": "Competition surrounding AI semiconductors has entered a new phase—one that tests not only corporate capabilities but also national strategy and execution. Through this [Expert POV] series, we explore the opportunities and challenges facing the global semiconductor industry in the AI era from a range of perspectives, including technology, finance, policy, infrastructure, ecosystems, globalization, and sustainability. [&#8230;] The post [Expert POV] The real battleground in the AI semiconductor race: Capital and energy infrastructure first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "Five things you need to know about SK hynix and the future of AI memory",
-      "url": "https://news.skhynix.com/five-things-you-need-to-know-about-sk-hynix-and-the-future-of-ai-memory/",
-      "published_at": "2026-06-23T00:00:09+00:00",
-      "summary": "The AI boom has reshaped the priorities of the semiconductor industry. Just a few years ago, competition centered on compute hardware such as GPUs, but larger AI models and new applications have turned data storage, access and transfer into a critical factor in AI infrastructure. Amid this shift, SK hynix has established itself as a [&#8230;] The post Five things you need to know about SK hynix and the future of AI memory first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix Showcases Tech Leadership as ‘Full Stack AI Memory Creator’ at HPED 2026, Reaffirming Strong Partnership with HPE",
-      "url": "https://news.skhynix.com/hpe-discover-2026/",
-      "published_at": "2026-06-19T00:02:41+00:00",
-      "summary": "As competition and collaboration around AI infrastructure continue to intensify, HPED 2026 brought together industry leaders to explore the future of AI-driven IT infrastructure. HPE held HPE Discover Las Vegas 2026 (HPED 2026) from June 15 to 18 (local time) at The Venetian Convention and Expo Center in Las Vegas, Nevada. HPE is a leading [&#8230;] The post SK hynix Showcases Tech Leadership as ‘Full Stack AI Memory Creator’ at HPED 2026, Reaffirming Strong Partnership with HPE first appeared on SK hynix Newsroom .",
-      "author": "user"
+      "stage": "fetch",
+      "message": "all candidate URLs returned 0 entries"
     }
-  ],
-  "errors": []
+  ]
 }
