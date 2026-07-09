@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-09T07:02:13.942839+00:00",
-  "next_refresh_at": "2026-07-09T07:32:13.942839+00:00",
+  "fetched_at": "2026-07-09T13:50:02.119652+00:00",
+  "next_refresh_at": "2026-07-09T14:20:02.119652+00:00",
   "entries": [
+    {
+      "title": "A股今年最大IPO！长鑫科技将启动申购，上半年净利预增最高25倍",
+      "url": "https://www.esmchina.com/news/14346.html",
+      "published_at": null,
+      "summary": "A股IPO巨无霸来了！",
+      "author": null
+    },
     {
       "title": "华虹宏力收购华力微97.5%股权获批，总市值超6200亿",
       "url": "https://www.esmchina.com/news/14345.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14322.html",
       "published_at": null,
       "summary": "三十年河东，三十年河西。",
-      "author": null
-    },
-    {
-      "title": "从实体名单到USMCA：美国对拉美供应链审查升级的深层逻辑",
-      "url": "https://www.esmchina.com/news/14321.html",
-      "published_at": null,
-      "summary": "随着美国监管机构聚焦于供应链透明度，中国在拉丁美洲不断扩大的影响力已成为一项重大的战略挑战。",
       "author": null
     }
   ],
