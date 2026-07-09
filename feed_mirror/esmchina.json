@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-08T23:36:21.065676+00:00",
-  "next_refresh_at": "2026-07-09T00:06:21.065676+00:00",
+  "fetched_at": "2026-07-09T03:20:09.160234+00:00",
+  "next_refresh_at": "2026-07-09T03:50:09.160234+00:00",
   "entries": [
+    {
+      "title": "华虹宏力收购华力微97.5%股权获批，总市值超6200亿",
+      "url": "https://www.esmchina.com/news/14345.html",
+      "published_at": null,
+      "summary": "芯片巨头重磅收购获批，总市值超6200亿。",
+      "author": null
+    },
+    {
+      "title": "立讯精密募资242.66亿港元登港，港股年内最大IPO今日落地",
+      "url": "https://www.esmchina.com/news/14344.html",
+      "published_at": null,
+      "summary": "募资242.66亿港元，港股年内最大IPO。",
+      "author": null
+    },
     {
       "title": "边缘AI芯片厂商Syntiant提交美股IPO申请，拟募资约3亿美元",
       "url": "https://www.esmchina.com/news/14343.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14321.html",
       "published_at": null,
       "summary": "随着美国监管机构聚焦于供应链透明度，中国在拉丁美洲不断扩大的影响力已成为一项重大的战略挑战。",
-      "author": null
-    },
-    {
-      "title": "三星HBM4E可靠性测试良率突破70%，第七代AI内存开发进入稳定阶段",
-      "url": "https://www.esmchina.com/news/14320.html",
-      "published_at": null,
-      "summary": "国际电子商情讯，近日，三星电子首席技术官兼半导体研究所所长Song Jai Hyuk在DS部门内部经营说明会上透露，第七代高带宽存储器HBM4E的可靠性测试良率已超过70%。",
-      "author": null
-    },
-    {
-      "title": "AI芯片初创Etched官宣：累计融资8亿美元，Transformer专用芯片Sohu即将交付",
-      "url": "https://www.esmchina.com/news/14318.html",
-      "published_at": null,
-      "summary": "3个哈佛辍学生把这家AI芯片企业的估值“干”到50亿美元。",
       "author": null
     }
   ],
