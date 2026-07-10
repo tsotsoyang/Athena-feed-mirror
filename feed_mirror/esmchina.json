@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-10T01:09:01.632159+00:00",
-  "next_refresh_at": "2026-07-10T01:39:01.632159+00:00",
+  "fetched_at": "2026-07-10T05:35:26.742087+00:00",
+  "next_refresh_at": "2026-07-10T06:05:26.742087+00:00",
   "entries": [
+    {
+      "title": "半年净利69亿、超去年全年4倍：兆易创新交出存储周期“炸裂”成绩单",
+      "url": "https://www.esmchina.com/news/14347.html",
+      "published_at": null,
+      "summary": "A股存储龙头市值破4600亿。",
+      "author": null
+    },
     {
       "title": "A股今年最大IPO！长鑫科技将启动申购，上半年净利预增最高25倍",
       "url": "https://www.esmchina.com/news/14346.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14323.html",
       "published_at": null,
       "summary": "国际电子商情讯，昨日（7月2日），英飞凌在德国萨克森州德累斯顿正式启用Smart Power Fab，这比原计划提前数月投入运营。",
-      "author": null
-    },
-    {
-      "title": "美光CEO亲自下场回怼：别只怪存储涨价，当年压价压到行业亏本",
-      "url": "https://www.esmchina.com/news/14322.html",
-      "published_at": null,
-      "summary": "三十年河东，三十年河西。",
       "author": null
     }
   ],
