@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-10T05:35:26.742087+00:00",
-  "next_refresh_at": "2026-07-10T06:05:26.742087+00:00",
+  "fetched_at": "2026-07-10T09:35:53.581528+00:00",
+  "next_refresh_at": "2026-07-10T10:05:53.581528+00:00",
   "entries": [
+    {
+      "title": "美光追投500亿在美生产，美商务部长点名韩厂“必须跟上”",
+      "url": "https://www.esmchina.com/news/14348.html",
+      "published_at": null,
+      "summary": "AI数据中心正以前所未有的速度“吞噬”存储资源。",
+      "author": null
+    },
     {
       "title": "半年净利69亿、超去年全年4倍：兆易创新交出存储周期“炸裂”成绩单",
       "url": "https://www.esmchina.com/news/14347.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14324.html",
       "published_at": null,
       "summary": "外界对宇树科技有一个“刻板印象”：它只精于小脑，疏于大脑…",
-      "author": null
-    },
-    {
-      "title": "50亿欧元！英飞凌史上最大单笔投资晶圆厂Smart Power Fab正式启用",
-      "url": "https://www.esmchina.com/news/14323.html",
-      "published_at": null,
-      "summary": "国际电子商情讯，昨日（7月2日），英飞凌在德国萨克森州德累斯顿正式启用Smart Power Fab，这比原计划提前数月投入运营。",
       "author": null
     }
   ],
