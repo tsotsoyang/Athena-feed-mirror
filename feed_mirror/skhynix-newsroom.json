@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-10T15:12:13.146216+00:00",
-  "next_refresh_at": "2026-07-10T15:42:13.146216+00:00",
+  "fetched_at": "2026-07-10T17:18:25.838559+00:00",
+  "next_refresh_at": "2026-07-10T17:48:25.838559+00:00",
   "entries": [
+    {
+      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "url": "https://news.skhynix.com/celebrating-adr-trading/",
+      "published_at": "2026-07-10T16:36:22+00:00",
+      "summary": "▪ Times Square roadblock campaign amplifies SK hynix’s Nasdaq ADR trading debut▪ Brand film connects the dual meaning of “memory” with meaningful moments in everyday life▪ Anamorphic1 3D HBM visuals highlight SK hynix’s AI memory leadership NEW YORK, July 10, 2026 — Major digital screens across Times Square were filled with SK hynix’s brand vision [&#8230;] The post SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
     {
       "title": "SK hynix CEO Kwak Noh-Jung’s Commemorative Remarks at the Nasdaq Opening Bell Ceremony in the U.S.",
       "url": "https://news.skhynix.com/fact-09/",
@@ -59,13 +66,6 @@
       "url": "https://news.skhynix.com/fact-07/",
       "published_at": "2026-07-02T02:13:31+00:00",
       "summary": "▪ Announces a total investment of KRW 100 trillion in Cheongju.▪ Plans to build M17, a NAND production fab, and P&#38;T7, an advanced packaging facility, in Chungcheong Region, an established hub ready for expansion.▪ “We will develop Chungcheong Region into the global center of AI semiconductor innovation.” SK hynix President &#38; CEO Kwak Noh-Jung announced today the company’s [&#8230;] The post SK hynix Announces Investment Plan for the Chungcheong Region first appeared on SK hynix Newsroom .",
-      "author": "user"
-    },
-    {
-      "title": "SK hynix Announces Investment Plan for Southwestern Region",
-      "url": "https://news.skhynix.com/fact-06/",
-      "published_at": "2026-06-30T07:16:10+00:00",
-      "summary": "▪ Announces plans to establish a semiconductor cluster in the Southwestern Region with an investment of approximately KRW 400 trillion to meet surging demand.▪ Unveils SK Group’s blueprint for building 15GW of AI Data Center(AIDC) infrastructure nationwide▪ “SK will launch the next great leap forward for Korea’s AI semiconductor industry from the Southwestern Region.” SK [&#8230;] The post SK hynix Announces Investment Plan for Southwestern Region first appeared on SK hynix Newsroom .",
       "author": "user"
     }
   ],
