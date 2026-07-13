@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-13T02:49:48.545559+00:00",
-  "next_refresh_at": "2026-07-13T03:19:48.545559+00:00",
+  "fetched_at": "2026-07-13T06:19:54.101517+00:00",
+  "next_refresh_at": "2026-07-13T06:49:54.101517+00:00",
   "entries": [
+    {
+      "title": "中际旭创深夜发声：粉碎“小作文”谣言，1.6T需求依然强劲",
+      "url": "https://www.esmchina.com/news/14353.html",
+      "published_at": null,
+      "summary": "光模块龙头企业中际旭创于7月12日晚间紧急召开机构投资者电话会议。面对近期市场上甚嚣尘上的各类负面“小作文”，公司管理层进行了集中且明确的澄清，",
+      "author": null
+    },
+    {
+      "title": "2025全球功率半导体TOP20出炉，中国5大巨头强势入围",
+      "url": "https://www.esmchina.com/news/14352.html",
+      "published_at": null,
+      "summary": "在2025年全球功率半导体制造商销售额TOP20榜单中，尽管欧美日巨头依然牢牢把控着头部阵营，但仍有5家中国企业首次携手跻身全球前二十，实现了历史性突破。",
+      "author": null
+    },
+    {
+      "title": "苹果与博通签超300亿美元芯片大单，150亿颗“美国芯”续约至2031年",
+      "url": "https://www.esmchina.com/news/14351.html",
+      "published_at": null,
+      "summary": "这将成为“美国制造计划”迄今最大单。",
+      "author": null
+    },
     {
       "title": "中国宣布氦气临时出口管控，半导体圈慌了？",
       "url": "https://www.esmchina.com/news/14350.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14329.html",
       "published_at": null,
       "summary": "从A20 Pro到折叠屏V68，“连底裤都被扒干净”...",
-      "author": null
-    },
-    {
-      "title": "Jim Keller联手天才少年，批量生产“微型晶圆厂”",
-      "url": "https://www.esmchina.com/news/14328.html",
-      "published_at": null,
-      "summary": "当前全球半导体制造资源高度集中，先进制程、成熟工艺产能均掌握在少数头部代工厂手中。Fab2的商业模式试图打破这一格局，通过标准化、可复制的小型晶圆厂方案推动芯片制造去中心化、本地化。",
-      "author": null
-    },
-    {
-      "title": "净利飙升74,393.95%！江波龙发布上半年业绩预告",
-      "url": "https://www.esmchina.com/news/14327.html",
-      "published_at": null,
-      "summary": "今日收盘，江波龙发布2026年半年度业绩预告。",
-      "author": null
-    },
-    {
-      "title": "AI芯片进入3D堆叠时代，从平面集成到系统级协同",
-      "url": "https://www.esmchina.com/news/14326.html",
-      "published_at": null,
-      "summary": "AI同时推高了计算能力、内存带宽、互连容量，以及供电能力等多个方面的需求。",
       "author": null
     }
   ],
