@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-12T23:55:09.726112+00:00",
-  "next_refresh_at": "2026-07-13T00:25:09.726112+00:00",
+  "fetched_at": "2026-07-13T02:49:48.545559+00:00",
+  "next_refresh_at": "2026-07-13T03:19:48.545559+00:00",
   "entries": [
+    {
+      "title": "中国宣布氦气临时出口管控，半导体圈慌了？",
+      "url": "https://www.esmchina.com/news/14350.html",
+      "published_at": null,
+      "summary": "中国商务部与海关总署日前联合发布公告，宣布对氦气实施临时禁止出口管理，自发布之日起即刻生效，",
+      "author": null
+    },
+    {
+      "title": "1600亿独角兽闯关A股，长江存储首期辅导报告出炉",
+      "url": "https://www.esmchina.com/news/14349.html",
+      "published_at": null,
+      "summary": "日前，中国证监会官网披露了长存控股首次公开发行股票并上市辅导工作进展情况报告（第一期）。",
+      "author": null
+    },
     {
       "title": "美光追投500亿在美生产，美商务部长点名韩厂“必须跟上”",
       "url": "https://www.esmchina.com/news/14348.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14326.html",
       "published_at": null,
       "summary": "AI同时推高了计算能力、内存带宽、互连容量，以及供电能力等多个方面的需求。",
-      "author": null
-    },
-    {
-      "title": "芯原股份戴伟民：具身机器人跨越“Lv2→Lv3”，2026年决定产业节奏",
-      "url": "https://www.esmchina.com/news/14325.html",
-      "published_at": null,
-      "summary": "当前中国人形机器人产业定义为“Lv2向Lv3跃迁”的关键期——从“演示”到“稳定交付任务”的门槛能否在2026年跨越，决定了产业下一步的节奏。",
-      "author": null
-    },
-    {
-      "title": "104天！宇树科技闪电注册生效，超20亿募资砸向“大脑”",
-      "url": "https://www.esmchina.com/news/14324.html",
-      "published_at": null,
-      "summary": "外界对宇树科技有一个“刻板印象”：它只精于小脑，疏于大脑…",
       "author": null
     }
   ],
