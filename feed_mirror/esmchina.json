@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-14T05:52:03.827812+00:00",
-  "next_refresh_at": "2026-07-14T06:22:03.827812+00:00",
+  "fetched_at": "2026-07-14T08:05:25.548265+00:00",
+  "next_refresh_at": "2026-07-14T08:35:25.548265+00:00",
   "entries": [
+    {
+      "title": "Q2全球手机出货量暴跌11%！苹果三星逆势增长，国产厂商承压",
+      "url": "https://www.esmchina.com/news/14357.html",
+      "published_at": null,
+      "summary": "据Counterpoint Research初步统计，Q2全球智能手机出货量同比大幅下滑11%，跌至2013年以来的同期最低点。",
+      "author": null
+    },
+    {
+      "title": "25.47万亿！中国外贸上半年交出最“硬核”答卷",
+      "url": "https://www.esmchina.com/news/14356.html",
+      "published_at": null,
+      "summary": "7月14日，海关总署发布2026年上半年货物贸易数据。上半年，中国货物贸易进出口总值达25.47万亿元，同比增长16.9%，历史同期首次突破25万亿元大关。",
+      "author": null
+    },
+    {
+      "title": "传闻缠身、股价承压，PCB龙头胜宏科技遭遇“流言风暴”",
+      "url": "https://www.esmchina.com/news/14355.html",
+      "published_at": null,
+      "summary": "作为A+H双上市的全球PCB龙头，胜宏科技是英伟达Tier-1核心供应商，在全球AI服务器PCB市场占据50%-55%份额。",
+      "author": null
+    },
     {
       "title": "大众裁员翻倍至10万：CEO内部发文“摊牌”，工会怒斥“忍无可忍”",
       "url": "https://www.esmchina.com/news/14354.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14333.html",
       "published_at": null,
       "summary": "麦可思研究院发布的《2026年中国本科生就业报告》显示，计算机科学与技术、软件工程专业首次集体跌出月收入前十榜单，微电子科学与工程与电子科学与技术则强势登顶前两名。",
-      "author": null
-    },
-    {
-      "title": "出口逼近200亿！中国机器人加速驶向全球150国",
-      "url": "https://www.esmchina.com/news/14332.html",
-      "published_at": null,
-      "summary": "根据海关总署7月5日发布的最新外贸数据，今年1至5月，我国机器人出口总值逼近200亿元大关，销售网络已覆盖全球150多个国家和地区。",
-      "author": null
-    },
-    {
-      "title": "印度首个大型OSAT正式商用，日本技术+泰国经验+印度制造",
-      "url": "https://www.esmchina.com/news/14331.html",
-      "published_at": null,
-      "summary": "这座代号“G1”的OSAT工厂，由印度CG Power and Industrial Solutions（穆鲁加帕集团旗下）与日本半导体巨头瑞萨电子（Renesas）、泰国Stars Microelectronics三方合资建设。",
-      "author": null
-    },
-    {
-      "title": "土耳其的半导体命题：从“会设计”到“能制造”",
-      "url": "https://www.esmchina.com/news/14330.html",
-      "published_at": null,
-      "summary": "土耳其已建立起坚实的芯片设计基础，但如果缺乏本土制造能力，其半导体主权终究只是“借来的”。",
       "author": null
     }
   ],
