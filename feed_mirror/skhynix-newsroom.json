@@ -2,17 +2,72 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-15T16:01:27.224427+00:00",
-  "next_refresh_at": "2026-07-15T16:31:27.224427+00:00",
-  "entries": [],
-  "errors": [
+  "fetched_at": "2026-07-15T17:47:32.584532+00:00",
+  "next_refresh_at": "2026-07-15T18:17:32.584532+00:00",
+  "entries": [
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "url": "https://news.skhynix.com/celebrating-adr-trading/",
+      "published_at": "2026-07-10T16:36:22+00:00",
+      "summary": "▪ Times Square roadblock campaign amplifies SK hynix’s Nasdaq ADR trading debut▪ Brand film connects the dual meaning of “memory” with meaningful moments in everyday life▪ Anamorphic1 3D HBM visuals highlight SK hynix’s AI memory leadership NEW YORK, July 10, 2026 — Major digital screens across Times Square were filled with SK hynix’s brand vision [&#8230;] The post SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories first appeared on SK hynix Newsroom .",
+      "author": "user"
     },
     {
-      "stage": "fetch",
-      "message": "all candidate URLs returned 0 entries"
+      "title": "SK hynix CEO Kwak Noh-Jung’s Commemorative Remarks at the Nasdaq Opening Bell Ceremony in the U.S.",
+      "url": "https://news.skhynix.com/fact-09/",
+      "published_at": "2026-07-10T14:38:33+00:00",
+      "summary": "▪ Introduced the SK hynix’s history of overcoming crises to rise as a core player in global AI infrastructure, showcasing the company’s underlying strength▪ Presented the significance of the NASDAQ ADR listing and outlined plans to strengthen collaboration across the global AI ecosystem▪ Emphasized three guiding principles for sustainable growth: Trust, Innovation, and Growth At the Opening [&#8230;] The post SK hynix CEO Kwak Noh-Jung’s Commemorative Remarks at the Nasdaq Opening Bell Ceremony in the U.S. first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "SK hynix Lists ADRs on NASDAQ, Elevating Global Status at the Heart of Capital Markets",
+      "url": "https://news.skhynix.com/skhynix-lists-adrs-on-nasdaq/",
+      "published_at": "2026-07-10T13:29:31+00:00",
+      "summary": "▪ SK hynix commences ADR trading with an &#8220;Opening Bell&#8221; ceremony attended by SK Group Chairman Chey Tae-won and key executive leadership▪ Company aims to expand investor base and solidify leadership as a &#8220;Core AI Partner&#8221; in the memory market▪ CEO Kwak Noh-Jung “I’d like to thank investors and customers and pledge to unlock memory’s [&#8230;] The post SK hynix Lists ADRs on NASDAQ, Elevating Global Status at the Heart of Capital Markets first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "[VOD] Nasdaq ADR Listing Ceremony",
+      "url": "https://news.skhynix.com/nasdaq-adr-listing-ceremony/",
+      "published_at": "2026-07-10T01:00:00+00:00",
+      "summary": "SK hynix’s Next Chapter Begins in NY ADR Listing Ceremony at the Global Financial Hub Join us on the historic journey markinga new memory milestone! ▼ Click here to watch live The post [VOD] Nasdaq ADR Listing Ceremony first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum",
+      "url": "https://news.skhynix.com/2026-chungbuk-sr-forum/",
+      "published_at": "2026-07-09T04:59:20+00:00",
+      "summary": "Kiosks are appearing in store after store, and smartphone apps have become more familiar than face-to-face service. As digital technology weaves its way into every corner of daily life, living has grown more convenient — yet it is also an undeniable reality that seniors unaccustomed to these changes are being left out of the benefits. [&#8230;] The post “AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "From HBM to eSSD: How SK hynix is charting the future of full-stack memory",
+      "url": "https://news.skhynix.com/hbm-to-essd/",
+      "published_at": "2026-07-08T00:00:07+00:00",
+      "summary": "The focus of AI infrastructure competition is shifting. Larger models and faster compute engines remain important, but for AI systems to scale reliably across real-world services and industrial environments, it is becoming equally important to determine where data resides, which memory layer processes it, and how efficiently it can be retrieved when needed.&#160; This shift [&#8230;] The post From HBM to eSSD: How SK hynix is charting the future of full-stack memory first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "[Expert POV] From AI semiconductors to AI services: How the ecosystem is evolving",
+      "url": "https://news.skhynix.com/2026-expert-column-series-ep4/",
+      "published_at": "2026-07-06T00:00:05+00:00",
+      "summary": "Competition surrounding AI semiconductors has entered a new phase — one that tests not only corporate capabilities but also national strategy and execution. Through this&#160;[Expert POV] series, we explore the opportunities and challenges facing the global semiconductor industry in the AI era from a range of perspectives, including technology, finance, policy, infrastructure, ecosystems,&#160;globalization,&#160;and sustainability.&#160; The [&#8230;] The post [Expert POV] From AI semiconductors to AI services: How the ecosystem is evolving first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "Why advanced memory matters in the AI infrastructure era",
+      "url": "https://news.skhynix.com/ai-competition-next-challenge/",
+      "published_at": "2026-07-03T00:00:12+00:00",
+      "summary": "The landscape of AI competition is expanding. For years, the industry has focused on larger models, faster accelerators, and higher compute performance, but attention is increasingly shifting toward the infrastructure required to deploy AI reliably across real-world services and industrial environments. As AI adoption spreads across search, enterprise applications, content creation, manufacturing, data centers, and [&#8230;] The post Why advanced memory matters in the AI infrastructure era first appeared on SK hynix Newsroom .",
+      "author": "user"
+    },
+    {
+      "title": "SK hynix Announces Investment Plan for the Chungcheong Region",
+      "url": "https://news.skhynix.com/fact-07/",
+      "published_at": "2026-07-02T02:13:31+00:00",
+      "summary": "▪ Announces a total investment of KRW 100 trillion in Cheongju.▪ Plans to build M17, a NAND production fab, and P&#38;T7, an advanced packaging facility, in Chungcheong Region, an established hub ready for expansion.▪ “We will develop Chungcheong Region into the global center of AI semiconductor innovation.” SK hynix President &#38; CEO Kwak Noh-Jung announced today the company’s [&#8230;] The post SK hynix Announces Investment Plan for the Chungcheong Region first appeared on SK hynix Newsroom .",
+      "author": "user"
     }
-  ]
+  ],
+  "errors": []
 }
