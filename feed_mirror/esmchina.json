@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-15T00:53:13.982948+00:00",
-  "next_refresh_at": "2026-07-15T01:23:13.982948+00:00",
+  "fetched_at": "2026-07-15T03:58:07.038842+00:00",
+  "next_refresh_at": "2026-07-15T04:28:07.038842+00:00",
   "entries": [
+    {
+      "title": "人均分超百万！长鑫科技IPO敲定8.66元，创始人200亿“让利留人”",
+      "url": "https://www.esmchina.com/news/14359.html",
+      "published_at": null,
+      "summary": "长鑫科技日前发布公告，宣布公司首次公开发行股票并在科创板上市的发行价格确定为8.66元/股。若按此发行价计算，长鑫科技上市后的总市值将达到约5792亿元。",
+      "author": null
+    },
+    {
+      "title": "黑芝麻智能4.78亿控股亿智电子，打通全梯度算力生态",
+      "url": "https://www.esmchina.com/news/14358.html",
+      "published_at": null,
+      "summary": "在此次交易中，黑芝麻智能通过“股权转让+增资”的组合方式，最终间接持有亿智电子60%的股权，整体交易对价约为4.78亿元。",
+      "author": null
+    },
     {
       "title": "Q2全球手机出货量暴跌11%！苹果三星逆势增长，国产厂商承压",
       "url": "https://www.esmchina.com/news/14357.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14335.html",
       "published_at": null,
       "summary": "各界普遍将AI视为这轮裁员的关联因素之一，但从公开披露的动因看，AI并非核心推手。",
-      "author": null
-    },
-    {
-      "title": "89.4万亿韩元！三星单季净利超过去两年总和，AI把芯片价格推到历史天花板",
-      "url": "https://www.esmchina.com/news/14334.html",
-      "published_at": null,
-      "summary": "这一数字不仅是三星自身的历史新高，更意味着2026年Q2单季利润已超过公司过去两年的利润总和。",
-      "author": null
-    },
-    {
-      "title": "2026年本科就业薪资洗牌，微电子登顶，计算机跌出前十",
-      "url": "https://www.esmchina.com/news/14333.html",
-      "published_at": null,
-      "summary": "麦可思研究院发布的《2026年中国本科生就业报告》显示，计算机科学与技术、软件工程专业首次集体跌出月收入前十榜单，微电子科学与工程与电子科学与技术则强势登顶前两名。",
       "author": null
     }
   ],
