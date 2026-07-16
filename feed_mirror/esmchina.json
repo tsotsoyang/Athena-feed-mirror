@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-16T09:14:08.673330+00:00",
-  "next_refresh_at": "2026-07-16T09:44:08.673330+00:00",
+  "fetched_at": "2026-07-16T11:17:25.907316+00:00",
+  "next_refresh_at": "2026-07-16T11:47:25.907316+00:00",
   "entries": [
+    {
+      "title": "Matter 1.6、端侧AI、AR眼镜芯片齐亮相：智能家居与可穿戴论坛干货盘点",
+      "url": "https://www.esmchina.com/news/14369.html",
+      "published_at": null,
+      "summary": "不久前出台的《关于加快“人工智能+消费”发展的实施意见》，将“人工智能+商品消费”摆在突出位置，提出要丰富智能终端、智能家居、智能穿戴等产品供给。政策的背后，是一个正在稳步扩大的市场——数据显示，2025年全球家居市场规模已达5547亿美元，同比增长3.5%。与此同时，可穿戴设备市场也保持稳健增长，IDC数据显示2026年全球可穿戴设备出货量预计将突破6亿台。",
+      "author": null
+    },
     {
       "title": "蓝牙6.3阶梯式进化：厘米级定位与亚毫秒延迟开启新纪元",
       "url": "https://www.esmchina.com/news/14368.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14344.html",
       "published_at": null,
       "summary": "募资242.66亿港元，港股年内最大IPO。",
-      "author": null
-    },
-    {
-      "title": "边缘AI芯片厂商Syntiant提交美股IPO申请，拟募资约3亿美元",
-      "url": "https://www.esmchina.com/news/14343.html",
-      "published_at": null,
-      "summary": "该公司计划登陆纳斯达克全球市场，股票代码拟定SYTN。",
       "author": null
     }
   ],
