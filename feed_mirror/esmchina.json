@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-16T06:43:04.854342+00:00",
-  "next_refresh_at": "2026-07-16T07:13:04.854342+00:00",
+  "fetched_at": "2026-07-16T09:14:08.673330+00:00",
+  "next_refresh_at": "2026-07-16T09:44:08.673330+00:00",
   "entries": [
+    {
+      "title": "蓝牙6.3阶梯式进化：厘米级定位与亚毫秒延迟开启新纪元",
+      "url": "https://www.esmchina.com/news/14368.html",
+      "published_at": null,
+      "summary": "百瑞互联芯片事业部产品总监郑勇以《连接向AI：蓝牙6.3技术重塑万物互联生态》为题，系统阐述了蓝牙6.x技术的进化路径及其在智能座舱、消费电子、工业物联网等场景中的落地实践。",
+      "author": null
+    },
     {
       "title": "昂科AP8000安全烧录解决方案：从Day 0构建芯片全生命周期安全防线",
       "url": "https://www.esmchina.com/news/14367.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14343.html",
       "published_at": null,
       "summary": "该公司计划登陆纳斯达克全球市场，股票代码拟定SYTN。",
-      "author": null
-    },
-    {
-      "title": "扛不住了？安森美出手变卖两座晶圆厂，年省3500万美金",
-      "url": "https://www.esmchina.com/news/14342.html",
-      "published_at": null,
-      "summary": "这是安森美持续推进“Fab Right”制造战略的又一落地动作。",
       "author": null
     }
   ],
