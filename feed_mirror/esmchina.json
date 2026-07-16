@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-16T00:59:47.564547+00:00",
-  "next_refresh_at": "2026-07-16T01:29:47.564547+00:00",
+  "fetched_at": "2026-07-16T04:16:11.219094+00:00",
+  "next_refresh_at": "2026-07-16T04:46:11.219094+00:00",
   "entries": [
+    {
+      "title": "正在直播｜Wolfspeed SiC 技术设计者指南 · 工业专场",
+      "url": "https://www.eet-china.com/webinars/entry/Wolfspeed_20260716.html?source=pop",
+      "published_at": null,
+      "summary": "看直播抽好礼：小米手环、罗技鼠标、绿林工具箱、胜利万用表等你拿",
+      "author": null
+    },
+    {
+      "title": "日均造芯超15亿块，中国“芯”产能彻底爆发",
+      "url": "https://www.esmchina.com/news/14363.html",
+      "published_at": null,
+      "summary": "今年上半年，以高端制造、数智经济、现代服务为代表的新动能对经济增长的贡献率超过四成，经济向新向优的特点非常鲜明，而且总的发展趋势在加快。",
+      "author": null
+    },
     {
       "title": "Matter 1.6标准来袭，芯科科技多维度布局推动跨场景互联落地",
       "url": "https://www.esmchina.com/news/14361.html",
@@ -13,7 +27,7 @@
       "author": null
     },
     {
-      "title": "EUV与DUV全线紧缺！ASML交出2026最强季报",
+      "title": "ASML交出2026最强季报，英特尔抢先量产High NA EUV",
       "url": "https://www.esmchina.com/news/14360.html",
       "published_at": null,
       "summary": "ASML发布的财报显示，2026 Q2季度，公司实现了93.26亿欧元的净销售额，同比大幅增长21.24%；单季净利润达到29.18亿欧元，毛利率攀升至54.0%。",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14338.html",
       "published_at": null,
       "summary": "如果加拿大希望在人工智能时代保持竞争力，就不能仅停留在科研领先层面，而必须开始大规模建设自主AI基础设施。",
-      "author": null
-    },
-    {
-      "title": "芯原“秀肌肉”：从感知到定制，具身机器人全链路技术矩阵曝光",
-      "url": "https://www.esmchina.com/news/14339.html",
-      "published_at": null,
-      "summary": "2026年作为人形机器人从“演示级”向“实用级”跨越的关键节点，产业链上游的芯片配套能力成为竞争核心。",
-      "author": null
-    },
-    {
-      "title": "欧洲《芯片法案2.0》面临的三重考验",
-      "url": "https://www.esmchina.com/news/14337.html",
-      "published_at": null,
-      "summary": "德累斯顿正是欧洲首部《芯片法案》（Chips Act）成果的最佳例证。",
       "author": null
     }
   ],
