@@ -2,12 +2,33 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-16T04:16:11.219094+00:00",
-  "next_refresh_at": "2026-07-16T04:46:11.219094+00:00",
+  "fetched_at": "2026-07-16T06:43:04.854342+00:00",
+  "next_refresh_at": "2026-07-16T07:13:04.854342+00:00",
   "entries": [
     {
-      "title": "正在直播｜Wolfspeed SiC 技术设计者指南 · 工业专场",
-      "url": "https://www.eet-china.com/webinars/entry/Wolfspeed_20260716.html?source=pop",
+      "title": "昂科AP8000安全烧录解决方案：从Day 0构建芯片全生命周期安全防线",
+      "url": "https://www.esmchina.com/news/14367.html",
+      "published_at": null,
+      "summary": "在2026第七届国际AI+IoT生态发展大会上，昂科技术副总裁傅国系统阐述了安全烧录面临的挑战与昂科的应对之道。",
+      "author": null
+    },
+    {
+      "title": "辞职即入职！匈牙利前外长加盟比亚迪",
+      "url": "https://www.esmchina.com/news/14366.html",
+      "published_at": null,
+      "summary": "匈牙利前外交部长西雅尔多（Peter Szijjarto）近日在社交媒体上宣布，已正式辞去匈牙利国民议会议员职务，即日起正式加入比亚迪集团，担任负责对外关系及新业务线拓展的高管。",
+      "author": null
+    },
+    {
+      "title": "7大手机品牌端侧AI集体过审，国行苹果AI终于来了",
+      "url": "https://www.esmchina.com/news/14365.html",
+      "published_at": null,
+      "summary": "国家网信办日前正式发布最新一批手机端侧生成式人工智能服务备案名单，苹果、华为、小米、OPPO、vivo、三星以及中兴（努比亚）等七家国内外头部手机厂商的核心AI服务悉数通过审核。",
+      "author": null
+    },
+    {
+      "title": "明日10:00直播｜Wolfspeed SiC 技术设计者指南 · 汽车专场",
+      "url": "https://www.eet-china.com/webinars/entry/Wolfspeed_20260717.html?source=pop",
       "published_at": null,
       "summary": "看直播抽好礼：小米手环、罗技鼠标、绿林工具箱、胜利万用表等你拿",
       "author": null
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14342.html",
       "published_at": null,
       "summary": "这是安森美持续推进“Fab Right”制造战略的又一落地动作。",
-      "author": null
-    },
-    {
-      "title": "小米汽车官宣全新子品牌SkyNomad",
-      "url": "https://www.esmchina.com/news/14341.html",
-      "published_at": null,
-      "summary": "小米汽车日前正式对外揭晓了全新产品系列“SkyNomad”，主打空间与生活理念，有望精准填补了20万元以上主流家用增程SUV的市场空白。",
-      "author": null
-    },
-    {
-      "title": "SiC/GaN专利大战打响！Wolfspeed起诉Navitas",
-      "url": "https://www.esmchina.com/news/14340.html",
-      "published_at": null,
-      "summary": "Wolfspeed日前向美国特拉华联邦地区法院递交诉状，指控Navitas旗下全系列氮化镓、碳化硅功率器件侵犯自身5项底层基础发明专利。",
-      "author": null
-    },
-    {
-      "title": "加拿大AI之困：科研全球领先，算力基建却滞后",
-      "url": "https://www.esmchina.com/news/14338.html",
-      "published_at": null,
-      "summary": "如果加拿大希望在人工智能时代保持竞争力，就不能仅停留在科研领先层面，而必须开始大规模建设自主AI基础设施。",
       "author": null
     }
   ],
