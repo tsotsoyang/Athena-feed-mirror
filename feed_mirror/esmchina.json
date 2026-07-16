@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-16T11:17:25.907316+00:00",
-  "next_refresh_at": "2026-07-16T11:47:25.907316+00:00",
+  "fetched_at": "2026-07-16T12:59:48.768169+00:00",
+  "next_refresh_at": "2026-07-16T13:29:48.768169+00:00",
   "entries": [
+    {
+      "title": "智联芯驱，数启新程｜2026 第七届国际 AI+IoT 生态发展大会携 MCU、电机驱动双专业论坛圆满落幕",
+      "url": "https://www.esmchina.com/news/14370.html",
+      "published_at": null,
+      "summary": "三场产业盛会贯通 “AIoT 顶层生态 — 边缘 MCU 算力底座 — 电机驱动执行终端” 全产业链。",
+      "author": null
+    },
     {
       "title": "Matter 1.6、端侧AI、AR眼镜芯片齐亮相：智能家居与可穿戴论坛干货盘点",
       "url": "https://www.esmchina.com/news/14369.html",
@@ -76,7 +83,7 @@
       "author": null
     },
     {
-      "title": "黑芝麻智能4.78亿控股亿智电子，打通全梯度算力生态",
+      "title": "黑芝麻智能4.78亿控股亿智电子",
       "url": "https://www.esmchina.com/news/14358.html",
       "published_at": null,
       "summary": "在此次交易中，黑芝麻智能通过“股权转让+增资”的组合方式，最终间接持有亿智电子60%的股权，整体交易对价约为4.78亿元。",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14345.html",
       "published_at": null,
       "summary": "芯片巨头重磅收购获批，总市值超6200亿。",
-      "author": null
-    },
-    {
-      "title": "立讯精密募资242.66亿港元登港，港股年内最大IPO今日落地",
-      "url": "https://www.esmchina.com/news/14344.html",
-      "published_at": null,
-      "summary": "募资242.66亿港元，港股年内最大IPO。",
       "author": null
     }
   ],
