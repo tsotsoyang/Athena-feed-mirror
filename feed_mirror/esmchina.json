@@ -2,11 +2,25 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-17T01:01:36.211104+00:00",
-  "next_refresh_at": "2026-07-17T01:31:36.211104+00:00",
+  "fetched_at": "2026-07-17T04:41:15.086468+00:00",
+  "next_refresh_at": "2026-07-17T05:11:15.086468+00:00",
   "entries": [
     {
-      "title": "商务部发声：中荷同意推动化解安世半导体纠纷",
+      "title": "车厂也开始“锁芯”了，美光连签通用福特两大车企",
+      "url": "https://www.esmchina.com/news/14373.html",
+      "published_at": null,
+      "summary": "两大美国车企先后锁定车规级存储芯片的长期供应，标志着汽车行业从传统的按季度采购模式，加速转向多年期产能锁定的新范式。",
+      "author": null
+    },
+    {
+      "title": "1.8万亿砸向美国，台积电变“美积电”？",
+      "url": "https://www.esmchina.com/news/14372.html",
+      "published_at": null,
+      "summary": "台积电宣布将在美国亚利桑那州追加1000亿美元投资。至此，台积电在美国的总投资承诺规模已飙升至2650亿美元（约合人民币1.8万亿元），成为美国历史上规模最大的单笔外国直接投资之一。",
+      "author": null
+    },
+    {
+      "title": "商务部：中荷同意推动化解安世半导体纠纷",
       "url": "https://www.esmchina.com/news/14371.html",
       "published_at": null,
       "summary": "中荷双方同意，双方政府应创造良好环境，推动企业通过协商化解纠纷，保障全球半导体产供链安全稳定。",
@@ -55,7 +69,7 @@
       "author": null
     },
     {
-      "title": "今日10:00直播｜Wolfspeed SiC 技术设计者指南 · 汽车专场",
+      "title": "正在直播｜Wolfspeed SiC 技术设计者指南 · 汽车专场",
       "url": "https://www.eet-china.com/webinars/entry/Wolfspeed_20260717.html?source=pop",
       "published_at": null,
       "summary": "看直播抽好礼：小米手环、罗技鼠标、绿林工具箱、胜利万用表等你拿",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14348.html",
       "published_at": null,
       "summary": "AI数据中心正以前所未有的速度“吞噬”存储资源。",
-      "author": null
-    },
-    {
-      "title": "半年净利69亿、超去年全年4倍：兆易创新交出存储周期“炸裂”成绩单",
-      "url": "https://www.esmchina.com/news/14347.html",
-      "published_at": null,
-      "summary": "A股存储龙头市值破4600亿。",
-      "author": null
-    },
-    {
-      "title": "A股今年最大IPO！长鑫科技将启动申购，上半年净利预增最高25倍",
-      "url": "https://www.esmchina.com/news/14346.html",
-      "published_at": null,
-      "summary": "A股IPO巨无霸来了！",
       "author": null
     }
   ],
