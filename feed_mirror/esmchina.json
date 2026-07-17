@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-16T23:25:18.303364+00:00",
-  "next_refresh_at": "2026-07-16T23:55:18.303364+00:00",
+  "fetched_at": "2026-07-17T01:01:36.211104+00:00",
+  "next_refresh_at": "2026-07-17T01:31:36.211104+00:00",
   "entries": [
+    {
+      "title": "商务部发声：中荷同意推动化解安世半导体纠纷",
+      "url": "https://www.esmchina.com/news/14371.html",
+      "published_at": null,
+      "summary": "中荷双方同意，双方政府应创造良好环境，推动企业通过协商化解纠纷，保障全球半导体产供链安全稳定。",
+      "author": null
+    },
     {
       "title": "智联芯驱，数启新程｜2026 第七届国际 AI+IoT 生态发展大会携 MCU、电机驱动双专业论坛圆满落幕",
       "url": "https://www.esmchina.com/news/14370.html",
@@ -48,7 +55,7 @@
       "author": null
     },
     {
-      "title": "明日10:00直播｜Wolfspeed SiC 技术设计者指南 · 汽车专场",
+      "title": "今日10:00直播｜Wolfspeed SiC 技术设计者指南 · 汽车专场",
       "url": "https://www.eet-china.com/webinars/entry/Wolfspeed_20260717.html?source=pop",
       "published_at": null,
       "summary": "看直播抽好礼：小米手环、罗技鼠标、绿林工具箱、胜利万用表等你拿",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14346.html",
       "published_at": null,
       "summary": "A股IPO巨无霸来了！",
-      "author": null
-    },
-    {
-      "title": "华虹宏力收购华力微97.5%股权获批，总市值超6200亿",
-      "url": "https://www.esmchina.com/news/14345.html",
-      "published_at": null,
-      "summary": "芯片巨头重磅收购获批，总市值超6200亿。",
       "author": null
     }
   ],
