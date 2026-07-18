@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-18T00:55:44.351160+00:00",
-  "next_refresh_at": "2026-07-18T01:25:44.351160+00:00",
+  "fetched_at": "2026-07-18T03:55:26.942653+00:00",
+  "next_refresh_at": "2026-07-18T04:25:26.942653+00:00",
   "entries": [
+    {
+      "title": "上海：推动RISC-V从“外围辅助”向“核心计算”迈进",
+      "url": "https://www.esmchina.com/news/14375.html",
+      "published_at": null,
+      "summary": "2025年，上海集成电路产业规模近5700亿元，约占全国四分之一；人工智能产业规模近6400亿元，同比增长39.5%。",
+      "author": null
+    },
+    {
+      "title": "130亿颗出货量，250亿美元市场：RISC-V赋能空间计算与物理智能",
+      "url": "https://www.esmchina.com/news/14374.html",
+      "published_at": null,
+      "summary": "人工智能是最具颠覆性和创新性的新赛道，物理智能正成为下一个增长引擎。而RISC-V，正站在这两个风口交汇的位置。2023年其IP核出货量已达130亿颗，走完了Arm三十年的路；Omdia预测，2030年中国RISC-V芯片市场规模将达250亿美元。谷歌、高通相继入局。在芯片自主可控的大趋势下，RISC-V已是智能终端芯片的新选择。",
+      "author": null
+    },
     {
       "title": "车厂也开始“锁芯”了，美光连签通用福特两大车企",
       "url": "https://www.esmchina.com/news/14373.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14350.html",
       "published_at": null,
       "summary": "中国商务部与海关总署日前联合发布公告，宣布对氦气实施临时禁止出口管理，自发布之日起即刻生效，",
-      "author": null
-    },
-    {
-      "title": "1600亿独角兽闯关A股，长江存储IPO首期辅导报告出炉",
-      "url": "https://www.esmchina.com/news/14349.html",
-      "published_at": null,
-      "summary": "日前，中国证监会官网披露了长存控股首次公开发行股票并上市辅导工作进展情况报告（第一期）。",
-      "author": null
-    },
-    {
-      "title": "美光追投500亿在美生产，美商务部长点名韩厂“必须跟上”",
-      "url": "https://www.esmchina.com/news/14348.html",
-      "published_at": null,
-      "summary": "AI数据中心正以前所未有的速度“吞噬”存储资源。",
       "author": null
     }
   ],
