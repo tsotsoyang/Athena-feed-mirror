@@ -1,9 +1,9 @@
 {
   "source": "arxiv-sanity-lite",
   "name": "ArXiv-sanity Lite (top recent)",
-  "feed_url": "https://arxiv-sanity-lite.com/feed/",
-  "fetched_at": "2026-07-19T15:36:44.607267+00:00",
-  "next_refresh_at": "2026-07-19T16:06:44.607267+00:00",
+  "feed_url": "https://arxiv-sanity-lite.com/rss",
+  "fetched_at": "2026-07-19T16:05:06.492380+00:00",
+  "next_refresh_at": "2026-07-19T16:35:06.492380+00:00",
   "entries": [
     {
       "title": "The Art of Precision: How to Play Corn in the Hole Like a Pro",
@@ -76,5 +76,10 @@
       "author": "admin"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
+    }
+  ]
 }
