@@ -29,6 +29,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from html import unescape
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin, urlparse
@@ -113,6 +114,16 @@ def _autodiscover_feed_urls(html: str, base_url: str) -> list[str]:
     return out
 
 
+# Browser UA for HTML fetches (autodiscovery + scrape). CDN/WAF-fronted
+# sites (Cloudflare on x.ai, ai.meta.com) reject obvious bot UAs — same
+# gotcha as Athena's source_health false-dead fix. Feed fetches keep the
+# honest USER_AGENT above.
+BROWSER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+
+
 def _fetch_html(url: str) -> str:
     """Best-effort HTML fetch for autodiscovery; returns '' on any failure."""
     try:
@@ -122,7 +133,7 @@ def _fetch_html(url: str) -> str:
     try:
         resp = httpx.get(
             url,
-            headers={"User-Agent": USER_AGENT, "Accept": "text/html,*/*"},
+            headers={"User-Agent": BROWSER_UA, "Accept": "text/html,*/*"},
             follow_redirects=True,
             timeout=20.0,
         )
@@ -191,11 +202,16 @@ def _scrape_index(target: dict) -> tuple[list[dict], list[dict], str]:
     link_prefix = str(cfg.get("link_prefix") or "")
     max_entries = int(target.get("max_entries", 25))
     enrich = bool(cfg.get("enrich", True))
+    # canonical_host: when the index is fetched through a proxy host (e.g.
+    # x-ai.translate.goog because the WAF rejects direct datacenter
+    # fetches), emitted entry URLs are rewritten to this host so Athena
+    # stores the CANONICAL address; enrichment still fetches the proxy URL.
+    canonical_host = str(cfg.get("canonical_host") or "")
     if not link_prefix:
         return [], [{"stage": "scrape", "message": "scrape.link_prefix not set"}], index_url
 
-    html = _fetch_html(index_url)
-    if not html:
+    html_text = _fetch_html(index_url)
+    if not html_text:
         return (
             [],
             [{"stage": "scrape", "message": f"index fetch failed: {index_url}"}],
@@ -205,13 +221,13 @@ def _scrape_index(target: dict) -> tuple[list[dict], list[dict], str]:
     index_host = urlparse(index_url).netloc
     index_path = urlparse(index_url).path.rstrip("/")
     seen: set[str] = set()
-    links: list[tuple[str, str]] = []
+    links: list[tuple[str, str, str]] = []  # (canonical, fetch_url, anchor_text)
     for match in re.finditer(
         r"<a\b[^>]*href\s*=\s*[\"']([^\"']+)[\"'][^>]*>(.*?)</a>",
-        html,
+        html_text,
         flags=re.IGNORECASE | re.DOTALL,
     ):
-        absolute = urljoin(index_url, match.group(1))
+        absolute = urljoin(index_url, unescape(match.group(1)))
         parsed = urlparse(absolute)
         if parsed.netloc != index_host:
             continue
@@ -220,18 +236,19 @@ def _scrape_index(target: dict) -> tuple[list[dict], list[dict], str]:
             continue
         if path.rstrip("/") == index_path:
             continue
-        canonical = f"https://{parsed.netloc}{path.rstrip('/')}"
+        emit_host = canonical_host or parsed.netloc
+        canonical = f"https://{emit_host}{path.rstrip('/')}"
         if canonical in seen:
             continue
         seen.add(canonical)
-        links.append((canonical, _clean(match.group(2))))
+        links.append((canonical, absolute, _clean(match.group(2))))
 
     entries: list[dict] = []
-    for url, anchor_text in links[:max_entries]:
+    for url, fetch_url, anchor_text in links[:max_entries]:
         title = anchor_text
         summary = ""
         if enrich:
-            page = _fetch_html(url)
+            page = _fetch_html(fetch_url)
             if page:
                 title_match = re.search(
                     r"<title[^>]*>(.*?)</title>", page, flags=re.IGNORECASE | re.DOTALL

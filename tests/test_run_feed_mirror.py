@@ -271,3 +271,42 @@ def test_meta_content_handles_attr_order():
     html2 = '<meta property="og:description" content="og-desc">'
     assert runner._meta_content(html2, "og:description") == "og-desc"
     assert runner._meta_content("<meta name='keywords' content='x'>", "description") == ""
+
+
+def test_scrape_index_canonical_host_rewrites_proxy_urls():
+    """Proxy-index scrape (translate.goog) must emit canonical URLs but
+    enrich by fetching the PROXY article URL (the canonical host is
+    unreachable — that's why the proxy is used at all)."""
+    target = {
+        "source": "xai-news",
+        "name": "xAI News",
+        "url": "https://x.ai/news",
+        "scrape": {
+            "index_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en",
+            "link_prefix": "/news/",
+            "canonical_host": "x.ai",
+        },
+    }
+    index = (
+        '<a href="https://x-ai.translate.goog/news/grok-4-5?_x_tr_sl=zh-CN&amp;_x_tr_tl=en">'
+        "Grok 4.5</a>"
+        '<a href="https://x.ai/careers">off-host</a>'
+    )
+    fetched = []
+
+    def _html(url):
+        fetched.append(url)
+        if "/news/grok-4-5" in url:
+            return "<title>Grok 4.5</title>"
+        return index
+
+    with patch.object(runner, "_fetch_html", side_effect=_html):
+        entries, errors, _ = runner._scrape_index(target)
+
+    assert errors == []
+    assert entries[0]["url"] == "https://x.ai/news/grok-4-5"
+    # Enrichment hit the proxy host with the (unescaped) translate params.
+    assert any(
+        u.startswith("https://x-ai.translate.goog/news/grok-4-5?_x_tr_sl=zh-CN&_x_tr_tl=en")
+        for u in fetched
+    )
