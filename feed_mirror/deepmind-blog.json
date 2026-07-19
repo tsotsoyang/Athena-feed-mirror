@@ -1,0 +1,185 @@
+{
+  "source": "deepmind-blog",
+  "name": "Google DeepMind Blog",
+  "feed_url": "https://deepmind.google/blog/rss.xml",
+  "fetched_at": "2026-07-19T15:31:30.704207+00:00",
+  "next_refresh_at": "2026-07-19T16:01:30.704207+00:00",
+  "entries": [
+    {
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published_at": "2026-07-16T09:30:42+00:00",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "author": null
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "published_at": "2026-07-13T12:37:28+00:00",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "author": null
+    },
+    {
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "published_at": "2026-07-03T14:25:43+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "published_at": "2026-06-30T16:02:40+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "published_at": "2026-06-24T16:30:01+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "published_at": "2026-06-16T21:29:50+00:00",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "author": null
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "published_at": "2026-06-16T15:46:31+00:00",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "author": null
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "published_at": "2026-06-10T16:24:11+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "published_at": "2026-06-10T10:21:19+00:00",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "author": null
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "published_at": "2026-06-09T15:16:25+00:00",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "author": null
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "published_at": "2026-06-09T14:10:19+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "published_at": "2026-06-09T14:02:33+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "published_at": "2026-06-08T13:04:59+00:00",
+      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "author": null
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "published_at": "2026-05-21T19:46:42+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "published_at": "2026-05-18T18:21:39+00:00",
+      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "author": null
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "published_at": "2026-05-17T19:53:18+00:00",
+      "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "author": null
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "published_at": "2026-05-17T19:50:57+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Introducing Google Antigravity 2.0",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "published_at": "2026-05-17T19:43:45+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "published_at": "2026-05-17T13:50:34+00:00",
+      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "author": null
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "published_at": "2026-05-17T13:43:50+00:00",
+      "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "author": null
+    },
+    {
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "published_at": "2026-05-16T09:13:34+00:00",
+      "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "author": null
+    },
+    {
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "published_at": "2026-05-16T08:16:06+00:00",
+      "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "author": null
+    },
+    {
+      "title": "Opening new paths in aging research",
+      "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "published_at": "2026-05-16T08:08:44+00:00",
+      "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "author": null
+    },
+    {
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "published_at": "2026-05-16T08:00:15+00:00",
+      "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "author": null
+    },
+    {
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "published_at": "2026-05-16T07:53:11+00:00",
+      "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "author": null
+    }
+  ],
+  "errors": []
+}

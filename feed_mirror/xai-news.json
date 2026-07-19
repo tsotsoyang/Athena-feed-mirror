@@ -1,9 +1,9 @@
 {
-  "source": "zai-blog",
-  "name": "Z.ai (Zhipu) Blog",
-  "feed_url": "https://z.ai/blog",
-  "fetched_at": "2026-07-19T15:31:31.126373+00:00",
-  "next_refresh_at": "2026-07-19T16:01:31.126373+00:00",
+  "source": "xai-news",
+  "name": "xAI News",
+  "feed_url": "https://x.ai/news",
+  "fetched_at": "2026-07-19T15:31:30.403301+00:00",
+  "next_refresh_at": "2026-07-19T16:01:30.403301+00:00",
   "entries": [],
   "errors": [
     {
@@ -19,8 +19,8 @@
       "message": "no alternate links found"
     },
     {
-      "stage": "fetch",
-      "message": "all candidate URLs returned 0 entries"
+      "stage": "scrape",
+      "message": "index fetch failed: https://x.ai/news"
     }
   ]
 }

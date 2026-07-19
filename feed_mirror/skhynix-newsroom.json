@@ -2,17 +2,79 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-19T14:55:51.030323+00:00",
-  "next_refresh_at": "2026-07-19T15:25:51.030323+00:00",
-  "entries": [],
-  "errors": [
+  "fetched_at": "2026-07-19T15:31:20.614650+00:00",
+  "next_refresh_at": "2026-07-19T16:01:20.614650+00:00",
+  "entries": [
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "url": "https://news.skhynix.com/en/celebrating-adr-trading/",
+      "published_at": "2026-07-10T23:58:29+00:00",
+      "summary": "▪ Times Square roadblock campaign amplifies SK hynix’s Nasdaq ADR trading debut ▪ Brand film connects the dual meaning of “memory” with meaningful moments in everyday life ▪ Anamorphic* 3D HBM visuals highlight SK hynix’s AI memory leadership NEW YORK,",
+      "author": "SK hynix"
     },
     {
-      "stage": "fetch",
-      "message": "all candidate URLs returned 0 entries"
+      "title": "SK hynix CEO Kwak Noh-Jung’s Commemorative Remarks at the Nasdaq Opening Bell Ceremony in the U.S.",
+      "url": "https://news.skhynix.com/en/fact-09/",
+      "published_at": "2026-07-10T23:38:16+00:00",
+      "summary": "▪ Introduced the SK hynix’s history of overcoming crises to rise as a core player in global AI infrastructure, showcasing the company’s underlying strength ▪ Presented the significance of the NASDAQ ADR listing and outlined plans to strengthen collaboration across",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Lists ADRs on NASDAQ, Elevating Global Status at the Heart of Capital Markets",
+      "url": "https://news.skhynix.com/en/skhynix-lists-adrs-on-nasdaq/",
+      "published_at": "2026-07-10T22:28:14+00:00",
+      "summary": "▪ SK hynix commences ADR trading with an “Opening Bell” ceremony attended by SK Group Chairman Chey Tae-won and key executive leadership ▪ Company aims to expand investor base and solidify leadership as a “Core AI Partner” in the memory",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[VOD] Nasdaq ADR Listing Ceremony",
+      "url": "https://news.skhynix.com/en/nasdaq-adr-listing-ceremony/",
+      "published_at": "2026-07-10T08:00:32+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "url": "https://news.skhynix.com/en/celebrating-adr-trading-4/",
+      "published_at": "2026-07-10T06:59:42+00:00",
+      "summary": "SK hynix’s HBM was brought to life through anamorphic 3D visuals on a Times Square digital screen.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "url": "https://news.skhynix.com/en/celebrating-adr-trading-2/",
+      "published_at": "2026-07-10T06:57:41+00:00",
+      "summary": "▲The brand film visually expressed the dual meaning of “memory”as both a semiconductor technology and a human experience.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
+      "url": "https://news.skhynix.com/en/celebrating-adr-trading-1/",
+      "published_at": "2026-07-10T06:54:53+00:00",
+      "summary": "SK hynix’s brand campaign celebrating its ADR trading debut appeared on digital screens in Times Square, New York.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum",
+      "url": "https://news.skhynix.com/en/2026-chungbuk-sr-forum-4/",
+      "published_at": "2026-07-09T06:52:59+00:00",
+      "summary": "Dongseon Jang, CEO of Curious Brain Lab, delivering the lecture",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum",
+      "url": "https://news.skhynix.com/en/2026-chungbuk-sr-forum-3/",
+      "published_at": "2026-07-09T06:51:35+00:00",
+      "summary": "Taejong Yu, President of the Chungbuk Institute for Lifelong Education and Human Resources Development",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum",
+      "url": "https://news.skhynix.com/en/2026-chungbuk-sr-forum-2/",
+      "published_at": "2026-07-09T06:49:50+00:00",
+      "summary": "SK hynix Vice President Hohyun Park, Head of Region CPR",
+      "author": "SK hynix"
     }
-  ]
+  ],
+  "errors": []
 }
