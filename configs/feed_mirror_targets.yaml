@@ -86,3 +86,59 @@ targets:
       SN861, SMART Modular DC4800, etc.) signal which SSDs land in
       hyperscale fleets — direct input for the NAND_Flash topic.
       Mirror keeps the runner away from any geo-WAF surprises.
+
+  # 2026-07-19 — frontier-lab blogs blocked at the Phison egress
+  # (curl connect-fail 000 from the corporate network). Mirrored so
+  # Athena's LLM topics get the OFFICIAL announcement posts (model
+  # releases, tech blogs) instead of only second-hand Google News.
+
+  - source: kimi-blog
+    name: Moonshot AI / Kimi Blog
+    url: https://www.kimi.com/blog/rss.xml
+    fallback_urls:
+      - https://www.kimi.com/blog/feed
+      - https://www.kimi.com/feed
+      - https://www.kimi.com/blog
+    max_entries: 25
+    notes: |
+      kimi.com is connection-blocked from the Phison egress. No
+      documented RSS endpoint — fallbacks probe common paths, then
+      autodiscovery on the /blog page. Primary channel for Kimi K3 /
+      K-series release posts (e.g. /blog/kimi-k3).
+
+  - source: openai-news
+    name: OpenAI News
+    url: https://openai.com/news/rss.xml
+    fallback_urls:
+      - https://openai.com/blog/rss.xml
+      - https://openai.com/news/
+    max_entries: 25
+    notes: |
+      openai.com is connection-blocked from the Phison egress (the
+      direct rss_blog subscription in Athena's LLM topics silently
+      yields 0). The /news/rss.xml feed is documented and worked
+      before the block.
+
+  - source: zai-blog
+    name: Z.ai (Zhipu) Blog
+    url: https://z.ai/blog/rss.xml
+    fallback_urls:
+      - https://z.ai/rss.xml
+      - https://z.ai/blog
+    max_entries: 25
+    notes: |
+      z.ai (Zhipu / GLM) is connection-blocked from the Phison
+      egress. No documented RSS — rely on fallback probes +
+      autodiscovery. Channel for GLM model release posts.
+
+  - source: mistral-news
+    name: Mistral AI News
+    url: https://mistral.ai/feed.xml
+    fallback_urls:
+      - https://mistral.ai/rss.xml
+      - https://mistral.ai/news
+    max_entries: 25
+    notes: |
+      mistral.ai is connection-blocked from the Phison egress. No
+      documented RSS — rely on fallback probes + autodiscovery on
+      the /news page.
