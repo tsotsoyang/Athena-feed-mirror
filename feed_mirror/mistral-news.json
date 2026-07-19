@@ -1,0 +1,190 @@
+{
+  "source": "mistral-news",
+  "name": "Mistral AI News",
+  "feed_url": "https://mistral.ai/rss.xml",
+  "fetched_at": "2026-07-19T14:52:41.483659+00:00",
+  "next_refresh_at": "2026-07-19T15:22:41.483659+00:00",
+  "entries": [
+    {
+      "title": "Your Prompts and Skills need a system of record.",
+      "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
+      "published_at": "2026-07-09T12:00:00+00:00",
+      "summary": "Studio provides a system of record for AI prompts and skills—versioned, owned, and traceable. Iterate fast, ship with control, and ensure consistent AI behavior.",
+      "author": null
+    },
+    {
+      "title": "Introducing Robostral Navigate",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "published_at": "2026-07-08T12:00:59+00:00",
+      "summary": "Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.",
+      "author": null
+    },
+    {
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "published_at": "2026-07-02T13:55:54+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Bringing more control over your connectors",
+      "url": "https://mistral.ai/news/more-control-over-connectors/",
+      "published_at": "2026-06-24T12:00:30+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Introducing Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "published_at": "2026-06-23T12:00:48+00:00",
+      "summary": "Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.",
+      "author": null
+    },
+    {
+      "title": "AI Now Summit 2026",
+      "url": "https://mistral.ai/news/ai-now-summit-2026/",
+      "published_at": "2026-05-28T12:00:20+00:00",
+      "summary": "Innovations for global enterprises solving the world’s hardest problems.",
+      "author": null
+    },
+    {
+      "title": "Vibe gets to work.",
+      "url": "https://mistral.ai/news/vibe-agent/",
+      "published_at": "2026-05-28T12:00:09+00:00",
+      "summary": "The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension.",
+      "author": null
+    },
+    {
+      "title": "Introducing Search Toolkit",
+      "url": "https://mistral.ai/news/search-toolkit/",
+      "published_at": "2026-05-28T11:42:21+00:00",
+      "summary": "Search Toolkit is a composable framework for building production search pipelines for AI applications.",
+      "author": null
+    },
+    {
+      "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+      "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+      "published_at": "2026-05-27T12:00:55+00:00",
+      "summary": "A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow.",
+      "author": null
+    },
+    {
+      "title": "Physics AI research that’s shaping the industry.",
+      "url": "https://mistral.ai/news/physics-ai-research/",
+      "published_at": "2026-05-27T12:00:05+00:00",
+      "summary": "Published breakthroughs pushing the state of the art.",
+      "author": null
+    },
+    {
+      "title": "Emmi joins Mistral to accelerate the AI-native industry",
+      "url": "https://mistral.ai/news/accelerate-ai-native-industry/",
+      "published_at": "2026-05-23T12:00:26+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.",
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
+      "published_at": "2026-05-22T15:01:55+00:00",
+      "summary": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.",
+      "author": null
+    },
+    {
+      "title": "Connect the dots: Build with built-in and custom MCPs in Studio",
+      "url": "https://mistral.ai/news/connectors/",
+      "published_at": "2026-05-22T14:48:28+00:00",
+      "summary": "Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls.",
+      "author": null
+    },
+    {
+      "title": "Workflows for work that runs the business",
+      "url": "https://mistral.ai/news/workflows/",
+      "published_at": "2026-04-27T12:00:23+00:00",
+      "summary": "Workflows is now in public preview.",
+      "author": null
+    },
+    {
+      "title": "Speaking of Voxtral",
+      "url": "https://mistral.ai/news/voxtral-tts/",
+      "published_at": "2026-03-23T16:00:00+00:00",
+      "summary": "Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.",
+      "author": null
+    },
+    {
+      "title": "Introducing Forge",
+      "url": "https://mistral.ai/news/forge/",
+      "published_at": "2026-03-17T16:00:00+00:00",
+      "summary": "Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
+      "author": null
+    },
+    {
+      "title": "Introducing Mistral Small 4",
+      "url": "https://mistral.ai/news/mistral-small-4/",
+      "published_at": "2026-03-16T21:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
+      "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+      "published_at": "2026-03-16T20:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+      "url": "https://mistral.ai/news/leanstral/",
+      "published_at": "2026-03-16T16:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Rails testing on autopilot: Building an agent that writes what developers won't",
+      "url": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/",
+      "published_at": "2026-03-11T12:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Voxtral transcribes at the speed of sound.",
+      "url": "https://mistral.ai/news/voxtral-transcribe-2/",
+      "published_at": "2026-02-04T16:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Terminally online Mistral Vibe.",
+      "url": "https://mistral.ai/news/mistral-vibe-2-0/",
+      "published_at": "2026-01-27T16:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Heaps do lie: debugging a memory leak in vLLM.",
+      "url": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
+      "published_at": "2026-01-21T16:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Introducing Mistral OCR 3",
+      "url": "https://mistral.ai/news/mistral-ocr-3/",
+      "published_at": "2025-12-17T15:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Introducing: Devstral 2 and Mistral Vibe CLI.",
+      "url": "https://mistral.ai/news/devstral-2-vibe-cli/",
+      "published_at": "2025-12-09T12:00:00+00:00",
+      "summary": "",
+      "author": null
+    }
+  ],
+  "errors": [
+    {
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
+    }
+  ]
+}

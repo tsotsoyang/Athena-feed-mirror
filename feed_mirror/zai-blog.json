@@ -1,15 +1,11 @@
 {
-  "source": "ocp-news",
-  "name": "Open Compute Project news",
-  "feed_url": "https://www.opencompute.org/projects/storage/",
-  "fetched_at": "2026-07-19T14:52:39.249873+00:00",
-  "next_refresh_at": "2026-07-19T15:22:39.249873+00:00",
+  "source": "zai-blog",
+  "name": "Z.ai (Zhipu) Blog",
+  "feed_url": "https://z.ai/blog",
+  "fetched_at": "2026-07-19T14:52:45.194781+00:00",
+  "next_refresh_at": "2026-07-19T15:22:45.194781+00:00",
   "entries": [],
   "errors": [
-    {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
-    },
     {
       "stage": "autodiscovery",
       "message": "no alternate links found"

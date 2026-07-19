@@ -1,9 +1,9 @@
 {
-  "source": "ocp-news",
-  "name": "Open Compute Project news",
-  "feed_url": "https://www.opencompute.org/projects/storage/",
-  "fetched_at": "2026-07-19T14:52:39.249873+00:00",
-  "next_refresh_at": "2026-07-19T15:22:39.249873+00:00",
+  "source": "kimi-blog",
+  "name": "Moonshot AI / Kimi Blog",
+  "feed_url": "https://www.kimi.com/blog",
+  "fetched_at": "2026-07-19T14:52:48.724482+00:00",
+  "next_refresh_at": "2026-07-19T15:22:48.724482+00:00",
   "entries": [],
   "errors": [
     {
