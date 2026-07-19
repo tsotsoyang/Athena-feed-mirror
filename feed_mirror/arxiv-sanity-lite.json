@@ -1,14 +1,85 @@
 {
   "source": "arxiv-sanity-lite",
   "name": "ArXiv-sanity Lite (top recent)",
-  "feed_url": "https://arxiv-sanity-lite.com/?rank=time",
-  "fetched_at": "2026-07-19T07:31:00.240461+00:00",
-  "next_refresh_at": "2026-07-19T08:01:00.240475+00:00",
-  "entries": [],
+  "feed_url": "https://arxiv-sanity-lite.com/rss",
+  "fetched_at": "2026-07-19T09:29:25.377280+00:00",
+  "next_refresh_at": "2026-07-19T09:59:25.377280+00:00",
+  "entries": [
+    {
+      "title": "The Art of Precision: How to Play Corn in the Hole Like a Pro",
+      "url": "https://arxiv-sanity-lite.com/how-to-play-corn-in-the-hole/",
+      "published_at": "2026-07-07T05:36:36+00:00",
+      "summary": "Corn in the hole isn’t just a game—it’s a test of precision, patience, and strategy. Whether you’re lining up your first shot or refining a tournament-worthy technique, the way you approach the board defines your success. The game’s simplicity belies its depth: a small target, a bag of corn, and a single hole, yet every ... Read more The post The Art of Precision: How to Play Corn in the Hole Like a Pro appeared first on You Should Know .",
+      "author": "admin"
+    },
+    {
+      "title": "The Science of Keeping Honey Liquid: How to Prevent Crystallization Naturally",
+      "url": "https://arxiv-sanity-lite.com/how-to-prevent-honey-from-crystallizing/",
+      "published_at": "2026-07-07T05:16:43+00:00",
+      "summary": "Honey’s natural sweetness is its greatest asset, but its tendency to crystallize can turn a prized pantry staple into a frustrating, grainy mess. The transformation—from silky liquid to solidified clusters—isn’t just an annoyance; it’s a chemical inevitability tied to honey’s unique composition. Yet, for beekeepers, chefs, and home cooks alike, how to prevent honey from ... Read more The post The Science of Keeping Honey Liquid: How to Prevent Crystallization Naturally appeared first on You Should Know .",
+      "author": "admin"
+    },
+    {
+      "title": "The Art and Science of How to Open Wine Bottle: From Cork to Twist-Off",
+      "url": "https://arxiv-sanity-lite.com/how-to-open-wine-bottle/",
+      "published_at": "2026-07-07T05:15:36+00:00",
+      "summary": "The first time you hold a wine bottle, the cork seems like an unsolvable puzzle. Too tight, too old, or worse—too fragile. Yet, for centuries, humans have cracked this code, transforming a simple act into a ritual of patience and finesse. The way you open a wine bottle isn’t just about extracting the liquid; it’s ... Read more The post The Art and Science of How to Open Wine Bottle: From Cork to Twist-Off appeared first on You Should Know .",
+      "author": "admin"
+    },
+    {
+      "title": "The Secret to Flawless Glow: How to Prepare for a Spray Tan Like a Pro",
+      "url": "https://arxiv-sanity-lite.com/how-to-prepare-for-a-spray-tan/",
+      "published_at": "2026-07-07T05:15:28+00:00",
+      "summary": "The first rule of spray tanning isn’t about the product—it’s about the skin. A perfect spray tan begins long before you step into the booth. Skipping preparation is like applying makeup on unwashed skin: the results will be uneven, patchy, or worse, short-lived. Even the most advanced DHA-based tanning lotions can’t compensate for dry patches, ... Read more The post The Secret to Flawless Glow: How to Prepare for a Spray Tan Like a Pro appeared first on You Should Know .",
+      "author": "admin"
+    },
+    {
+      "title": "How to Paint Aluminum: The Definitive Method for Durable, Professional Finishes",
+      "url": "https://arxiv-sanity-lite.com/how-to-paint-aluminum/",
+      "published_at": "2026-07-07T03:21:08+00:00",
+      "summary": "Aluminum’s sleek, reflective surface is a favorite in architecture, automotive design, and industrial applications—but its non-porous nature makes how to paint aluminum a challenge for even seasoned professionals. Without proper preparation, paint peels within months, leaving behind a patchwork of frustration. The key lies in understanding aluminum’s unique chemistry: its oxide layer repels adhesives, and ... Read more The post How to Paint Aluminum: The Definitive Method for Durable, Professional Finishes appeared first on You Should Know .",
+      "author": "admin"
+    },
+    {
+      "title": "The Science-Backed Blueprint for How to Prevent Mosquito Bites While Camping",
+      "url": "https://arxiv-sanity-lite.com/how-to-prevent-mosquito-bites-while-camping/",
+      "published_at": "2026-07-07T03:03:52+00:00",
+      "summary": "There’s nothing worse than waking up to a tent floor damp with sweat, your skin prickling with unseen bites. Mosquitoes don’t just spoil the experience—they’re vectors for diseases like West Nile virus, Zika, and malaria in some regions. Yet most campers rely on the same tired tactics: slapping on DEET and hoping for the best. ... Read more The post The Science-Backed Blueprint for How to Prevent Mosquito Bites While Camping appeared first on You Should Know .",
+      "author": "admin"
+    },
+    {
+      "title": "Printing Envelopes in Word: The Definitive Step-by-Step Manual",
+      "url": "https://arxiv-sanity-lite.com/how-to-print-an-envelope-in-word/",
+      "published_at": "2026-07-07T02:55:59+00:00",
+      "summary": "Microsoft Word remains the go-to tool for professionals and everyday users alike when it comes to how to print an envelope in Word. Whether you’re addressing a single letter or batch-processing bulk mail, Word’s envelope tools offer unmatched control over alignment, fonts, and printer compatibility. Yet, despite its ubiquity, many users still struggle with misaligned ... Read more The post Printing Envelopes in Word: The Definitive Step-by-Step Manual appeared first on You Should Know .",
+      "author": "admin"
+    },
+    {
+      "title": "The Sacred Art of Night Prayer: How to Pray Witr with Precision and Purpose",
+      "url": "https://arxiv-sanity-lite.com/how-to-pray-witr/",
+      "published_at": "2026-07-07T02:37:41+00:00",
+      "summary": "The last prayer of the night isn’t just a ritual—it’s a bridge between earth and the divine. Witr, the odd-numbered prayer performed after *ishaa*, carries weight far beyond its brevity. Muslims worldwide pause in the quiet hours to recite it, not out of obligation alone, but as a testament to faith’s resilience. The act itself ... Read more The post The Sacred Art of Night Prayer: How to Pray Witr with Precision and Purpose appeared first on You Should Know .",
+      "author": "admin"
+    },
+    {
+      "title": "The Art and Science of Painting Water: Secrets to Realism and Flow",
+      "url": "https://arxiv-sanity-lite.com/how-to-paint-water/",
+      "published_at": "2026-07-07T02:12:56+00:00",
+      "summary": "Water is the most elusive subject in painting—it shifts, refracts, and disappears in seconds. Yet, when captured correctly, it becomes the heart of a composition, whether it’s the crashing waves of a stormy sea or the delicate ripple of a pond at dawn. The challenge of how to paint water has stumped artists for centuries, ... Read more The post The Art and Science of Painting Water: Secrets to Realism and Flow appeared first on You Should Know .",
+      "author": "admin"
+    },
+    {
+      "title": "The Secret to Efficiency: How to Organize Golf Bag Like a Pro",
+      "url": "https://arxiv-sanity-lite.com/how-to-organize-golf-bag/",
+      "published_at": "2026-07-07T01:47:44+00:00",
+      "summary": "The first time you unzip a haphazardly packed golf bag, you’ll know—this isn’t just about clubs. It’s about rhythm. A well-structured bag isn’t a luxury; it’s a silent partner in your game. The difference between fumbling through a tangled mess and smoothly retrieving your wedge at the 17th green isn’t luck. It’s how to organize ... Read more The post The Secret to Efficiency: How to Organize Golf Bag Like a Pro appeared first on You Should Know .",
+      "author": "admin"
+    }
+  ],
   "errors": [
     {
-      "stage": "runner",
-      "message": "RemoteDisconnected: Remote end closed connection without response"
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
     }
   ]
 }
