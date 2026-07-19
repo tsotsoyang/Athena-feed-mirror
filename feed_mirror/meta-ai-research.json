@@ -1,9 +1,9 @@
 {
   "source": "meta-ai-research",
   "name": "Meta AI Research",
-  "feed_url": "https://ai.meta.com/blog/",
-  "fetched_at": "2026-07-19T15:31:24.566025+00:00",
-  "next_refresh_at": "2026-07-19T16:01:24.566025+00:00",
+  "feed_url": "https://ai-meta-com.translate.goog/blog/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
+  "fetched_at": "2026-07-19T15:36:43.152316+00:00",
+  "next_refresh_at": "2026-07-19T16:06:43.152316+00:00",
   "entries": [],
   "errors": [
     {
@@ -15,8 +15,8 @@
       "message": "no alternate links found"
     },
     {
-      "stage": "fetch",
-      "message": "all candidate URLs returned 0 entries"
+      "stage": "scrape",
+      "message": "index fetch failed: https://ai-meta-com.translate.goog/blog/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en"
     }
   ]
 }

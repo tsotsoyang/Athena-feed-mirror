@@ -1,10 +1,186 @@
 {
   "source": "xai-news",
   "name": "xAI News",
-  "feed_url": "https://x.ai/news",
-  "fetched_at": "2026-07-19T15:31:30.403301+00:00",
-  "next_refresh_at": "2026-07-19T16:01:30.403301+00:00",
-  "entries": [],
+  "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
+  "fetched_at": "2026-07-19T15:36:57.270372+00:00",
+  "next_refresh_at": "2026-07-19T16:06:57.270372+00:00",
+  "entries": [
+    {
+      "title": "Introducing Grok 4.5 | SpaceXAI",
+      "url": "https://x.ai/news/grok-4-5",
+      "published_at": null,
+      "summary": "Grok 4.5 is SpaceXAI",
+      "author": null
+    },
+    {
+      "title": "Automations in Grok | SpaceXAI",
+      "url": "https://x.ai/news/grok-automations",
+      "published_at": null,
+      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
+      "author": null
+    },
+    {
+      "title": "Grok Build is Now Open Source | SpaceXAI",
+      "url": "https://x.ai/news/grok-build-open-source",
+      "published_at": null,
+      "summary": "Explore the harness behind our coding agent and TUI.",
+      "author": null
+    },
+    {
+      "title": "21 New Flagship Grok Voices | SpaceXAI",
+      "url": "https://x.ai/news/new-flagship-voices",
+      "published_at": null,
+      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+      "author": null
+    },
+    {
+      "title": "Introducing the Voice Agent Builder | SpaceXAI",
+      "url": "https://x.ai/news/grok-voice-agent-builder",
+      "published_at": null,
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "author": null
+    },
+    {
+      "title": "Explore the markets with Interactive Brokers and Grok | SpaceXAI",
+      "url": "https://x.ai/news/grok-interactive-brokers",
+      "published_at": null,
+      "summary": "Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.",
+      "author": null
+    },
+    {
+      "title": "Introducing /goal | SpaceXAI",
+      "url": "https://x.ai/news/introducing-goal",
+      "published_at": null,
+      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
+      "author": null
+    },
+    {
+      "title": "Grok on Databricks | SpaceXAI",
+      "url": "https://x.ai/news/grok-databricks",
+      "published_at": null,
+      "summary": "Grok models are now available on Databricks Agent Bricks.",
+      "author": null
+    },
+    {
+      "title": "Grok for Word | SpaceXAI",
+      "url": "https://x.ai/news/introducing-word-addin",
+      "published_at": null,
+      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
+      "author": null
+    },
+    {
+      "title": "Grok on Amazon Bedrock | SpaceXAI",
+      "url": "https://x.ai/news/grok-amazon-bedrock",
+      "published_at": null,
+      "summary": "Grok models are now available via Amazon Bedrock.",
+      "author": null
+    },
+    {
+      "title": "Grok Imagine Video 1.5 | SpaceXAI",
+      "url": "https://x.ai/news/grok-imagine-video-1-5",
+      "published_at": null,
+      "summary": "Improved quality at even faster speeds.",
+      "author": null
+    },
+    {
+      "title": "Grok for PowerPoint | SpaceXAI",
+      "url": "https://x.ai/news/introducing-powerpoint-addin",
+      "published_at": null,
+      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
+      "author": null
+    },
+    {
+      "title": "Agent Dashboard in Grok Build | SpaceXAI",
+      "url": "https://x.ai/news/agent-dashboard",
+      "published_at": null,
+      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
+      "author": null
+    },
+    {
+      "title": "Use Grok in Warp | SpaceXAI",
+      "url": "https://x.ai/news/grok-warp",
+      "published_at": null,
+      "summary": "Use your Grok and X Premium subscription inside Warp.",
+      "author": null
+    },
+    {
+      "title": "Grok Build Plugin Marketplace | SpaceXAI",
+      "url": "https://x.ai/news/grok-plugin-marketplace",
+      "published_at": null,
+      "summary": "Launching the built-in plugin marketplace for Grok Build.",
+      "author": null
+    },
+    {
+      "title": "Bringing real-time market sentiment to Tori, from eToro | SpaceXAI",
+      "url": "https://x.ai/news/grok-etoro",
+      "published_at": null,
+      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
+      "author": null
+    },
+    {
+      "title": "Powering Gopuff's Go agent | SpaceXAI",
+      "url": "https://x.ai/news/grok-gopuff",
+      "published_at": null,
+      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
+      "author": null
+    },
+    {
+      "title": "Grok Imagine 1.5 Preview | SpaceXAI",
+      "url": "https://x.ai/news/grok-imagine-1-5",
+      "published_at": null,
+      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
+      "author": null
+    },
+    {
+      "title": "Grok Becomes the Voice of Vapi | SpaceXAI",
+      "url": "https://x.ai/news/grok-vapi",
+      "published_at": null,
+      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
+      "author": null
+    },
+    {
+      "title": "Composer 2.5 | SpaceXAI",
+      "url": "https://x.ai/news/composer-2-5",
+      "published_at": null,
+      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+      "author": null
+    },
+    {
+      "title": "Grok Build 0.1 on API | SpaceXAI",
+      "url": "https://x.ai/news/grok-build-0-1",
+      "published_at": null,
+      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
+      "author": null
+    },
+    {
+      "title": "Use Grok in Kilo Code | SpaceXAI",
+      "url": "https://x.ai/news/grok-kilocode",
+      "published_at": null,
+      "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
+      "author": null
+    },
+    {
+      "title": "Introducing Grok Build | SpaceXAI",
+      "url": "https://x.ai/news/grok-build-cli",
+      "published_at": null,
+      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
+      "author": null
+    },
+    {
+      "title": "Use Grok in OpenCode | SpaceXAI",
+      "url": "https://x.ai/news/grok-opencode",
+      "published_at": null,
+      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
+      "author": null
+    },
+    {
+      "title": "Use Grok in OpenClaw | SpaceXAI",
+      "url": "https://x.ai/news/grok-openclaw",
+      "published_at": null,
+      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
+      "author": null
+    }
+  ],
   "errors": [
     {
       "stage": "autodiscovery",
@@ -17,10 +193,6 @@
     {
       "stage": "autodiscovery",
       "message": "no alternate links found"
-    },
-    {
-      "stage": "scrape",
-      "message": "index fetch failed: https://x.ai/news"
     }
   ]
 }
