@@ -100,10 +100,15 @@ targets:
       - https://www.kimi.com/feed
       - https://www.kimi.com/blog
     max_entries: 25
+    scrape:
+      index_url: https://www.kimi.com/blog
+      link_prefix: /blog/
     notes: |
-      kimi.com is connection-blocked from the Phison egress. No
-      documented RSS endpoint — fallbacks probe common paths, then
-      autodiscovery on the /blog page. Primary channel for Kimi K3 /
+      kimi.com is connection-blocked from the Phison egress. No RSS
+      at all (verified 2026-07-19: autodiscovery finds nothing), but
+      the /blog index IS server-rendered — the `scrape` fallback
+      extracts the post anchors and enriches each post with its
+      <title> + meta description. Primary channel for Kimi K3 /
       K-series release posts (e.g. /blog/kimi-k3).
 
   - source: openai-news

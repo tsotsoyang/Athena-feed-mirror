@@ -164,3 +164,110 @@ def test_run_isolated_failure_does_not_drop_other_targets(tmp_path):
     assert payload_bad["entries"] == []
     assert any("runner" in e["stage"] or "connection" in e["message"]
                for e in payload_bad["errors"])
+
+
+_INDEX_HTML = """
+<nav><a href="/blog/">Blog</a><a href="https://other.example/blog/x">ext</a></nav>
+<main>
+  <a href="/blog/kimi-k3"><h3>Kimi K3 <span>Tech Blog</span></h3></a>
+  <a href="/blog/kimi-k3">Kimi K3 duplicate card</a>
+  <a href="/blog/agent-swarm/">Agent Swarm</a>
+  <a href="/pricing">Pricing</a>
+</main>
+"""
+
+_POST_HTML = """
+<head>
+  <title>Kimi K3 Tech Blog: Open Frontier Intelligence</title>
+  <meta content="K3 is a 2.8T MoE model." name="description">
+</head>
+"""
+
+
+def test_scrape_index_extracts_prefixed_anchors_with_enrichment():
+    target = {
+        "source": "kimi-blog",
+        "name": "Kimi Blog",
+        "url": "https://www.kimi.com/blog/rss.xml",
+        "max_entries": 10,
+        "scrape": {
+            "index_url": "https://www.kimi.com/blog",
+            "link_prefix": "/blog/",
+        },
+    }
+
+    def _html(url):
+        if url == "https://www.kimi.com/blog":
+            return _INDEX_HTML
+        return _POST_HTML
+
+    with patch.object(runner, "_fetch_html", side_effect=_html):
+        entries, errors, index_url = runner._scrape_index(target)
+
+    assert errors == []
+    assert index_url == "https://www.kimi.com/blog"
+    # Dedup (2x kimi-k3 -> 1), index itself + off-prefix + off-host dropped.
+    urls = [e["url"] for e in entries]
+    assert urls == [
+        "https://www.kimi.com/blog/kimi-k3",
+        "https://www.kimi.com/blog/agent-swarm",
+    ]
+    # Enrichment: <title> wins over anchor text; description becomes summary.
+    assert entries[0]["title"] == "Kimi K3 Tech Blog: Open Frontier Intelligence"
+    assert entries[0]["summary"] == "K3 is a 2.8T MoE model."
+    assert entries[0]["published_at"] is None
+
+
+def test_scrape_index_title_falls_back_to_slug_without_enrichment():
+    target = {
+        "source": "kimi-blog",
+        "name": "Kimi Blog",
+        "url": "https://www.kimi.com/blog",
+        "scrape": {
+            "index_url": "https://www.kimi.com/blog",
+            "link_prefix": "/blog/",
+            "enrich": False,
+        },
+    }
+    index = '<a href="/blog/perception-bench"><img src="x.png"></a>'
+    with patch.object(runner, "_fetch_html", return_value=index):
+        entries, errors, _ = runner._scrape_index(target)
+    assert entries[0]["title"] == "Perception Bench"
+    assert entries[0]["summary"] == ""
+
+
+def test_fetch_target_uses_scrape_fallback_when_feeds_empty():
+    target = {
+        "source": "kimi-blog",
+        "name": "Kimi Blog",
+        "url": "https://www.kimi.com/blog/rss.xml",
+        "scrape": {
+            "index_url": "https://www.kimi.com/blog",
+            "link_prefix": "/blog/",
+            "enrich": False,
+        },
+    }
+    empty = SimpleNamespace(entries=[])
+
+    def _html(url):
+        if url == "https://www.kimi.com/blog":
+            return '<a href="/blog/kimi-k3">Kimi K3</a>'
+        return ""
+
+    with (
+        patch.object(runner, "feedparser") as fp,
+        patch.object(runner, "_fetch_html", side_effect=_html),
+    ):
+        fp.parse.return_value = empty
+        payload = runner._fetch_target(target)
+
+    assert payload["feed_url"] == "https://www.kimi.com/blog"
+    assert [e["url"] for e in payload["entries"]] == ["https://www.kimi.com/blog/kimi-k3"]
+
+
+def test_meta_content_handles_attr_order():
+    html = '<meta content="desc-first" name="description">'
+    assert runner._meta_content(html, "description") == "desc-first"
+    html2 = '<meta property="og:description" content="og-desc">'
+    assert runner._meta_content(html2, "og:description") == "og-desc"
+    assert runner._meta_content("<meta name='keywords' content='x'>", "description") == ""
