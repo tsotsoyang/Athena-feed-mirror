@@ -158,6 +158,107 @@ def _parse_with_autodiscovery(feed_url: str) -> tuple[Any, str, list[dict]]:
     return parsed, feed_url, errors
 
 
+def _meta_content(html: str, key: str) -> str:
+    """Extract <meta name|property=key content=...> regardless of attr order."""
+    for match in re.finditer(r"<meta\b[^>]*>", html, flags=re.IGNORECASE):
+        tag = match.group(0)
+        if not re.search(
+            rf'(?:name|property)\s*=\s*["\']{re.escape(key)}["\']', tag, flags=re.IGNORECASE
+        ):
+            continue
+        content = re.search(r'content\s*=\s*["\']([^"\']+)["\']', tag, flags=re.IGNORECASE)
+        if content:
+            return _clean(content.group(1))
+    return ""
+
+
+def _scrape_index(target: dict) -> tuple[list[dict], list[dict], str]:
+    """HTML index-scrape fallback for sites with no feed at all (opt-in).
+
+    Target config:
+        scrape:
+          index_url: https://www.kimi.com/blog   # page listing the posts
+          link_prefix: /blog/                     # keep only anchors under this path
+          enrich: true                            # fetch each post for title/description
+
+    Returns ``(entries, errors, index_url)``. Anchors are same-host only,
+    deduped, the index page itself excluded. With ``enrich`` (default on)
+    each kept post page is fetched once for its <title> + description meta —
+    that's what gives Athena's keyword scoring something to bite on.
+    """
+    cfg = target.get("scrape") or {}
+    index_url = str(cfg.get("index_url") or target["url"])
+    link_prefix = str(cfg.get("link_prefix") or "")
+    max_entries = int(target.get("max_entries", 25))
+    enrich = bool(cfg.get("enrich", True))
+    if not link_prefix:
+        return [], [{"stage": "scrape", "message": "scrape.link_prefix not set"}], index_url
+
+    html = _fetch_html(index_url)
+    if not html:
+        return (
+            [],
+            [{"stage": "scrape", "message": f"index fetch failed: {index_url}"}],
+            index_url,
+        )
+
+    index_host = urlparse(index_url).netloc
+    index_path = urlparse(index_url).path.rstrip("/")
+    seen: set[str] = set()
+    links: list[tuple[str, str]] = []
+    for match in re.finditer(
+        r"<a\b[^>]*href\s*=\s*[\"']([^\"']+)[\"'][^>]*>(.*?)</a>",
+        html,
+        flags=re.IGNORECASE | re.DOTALL,
+    ):
+        absolute = urljoin(index_url, match.group(1))
+        parsed = urlparse(absolute)
+        if parsed.netloc != index_host:
+            continue
+        path = parsed.path
+        if not path.startswith(link_prefix):
+            continue
+        if path.rstrip("/") == index_path:
+            continue
+        canonical = f"https://{parsed.netloc}{path.rstrip('/')}"
+        if canonical in seen:
+            continue
+        seen.add(canonical)
+        links.append((canonical, _clean(match.group(2))))
+
+    entries: list[dict] = []
+    for url, anchor_text in links[:max_entries]:
+        title = anchor_text
+        summary = ""
+        if enrich:
+            page = _fetch_html(url)
+            if page:
+                title_match = re.search(
+                    r"<title[^>]*>(.*?)</title>", page, flags=re.IGNORECASE | re.DOTALL
+                )
+                if title_match and _clean(title_match.group(1)):
+                    title = _clean(title_match.group(1))
+                summary = (
+                    _meta_content(page, "description")
+                    or _meta_content(page, "og:description")
+                )[:2000]
+        if not title:
+            title = url.rstrip("/").rsplit("/", 1)[-1].replace("-", " ").title()
+        entries.append(
+            {
+                "title": title,
+                "url": url,
+                "published_at": None,
+                "summary": summary,
+                "author": None,
+            }
+        )
+    errors: list[dict] = []
+    if not entries:
+        errors.append({"stage": "scrape", "message": "no matching anchors on index page"})
+    return entries, errors, index_url
+
+
 def _entry_to_dict(entry: Any) -> dict[str, Any]:
     title = entry.get("title", "") or ""
     raw_summary = entry.get("summary", "") or ""
@@ -200,6 +301,10 @@ def _fetch_target(target: dict) -> dict:
             d = _entry_to_dict(raw)
             if d["title"] and d["url"]:
                 entries.append(d)
+    elif target.get("scrape"):
+        # No feed anywhere — fall back to scraping the HTML index (opt-in).
+        entries, scrape_errors, effective_url = _scrape_index(target)
+        errors.extend(scrape_errors)
     else:
         errors.append({"stage": "fetch", "message": "all candidate URLs returned 0 entries"})
 

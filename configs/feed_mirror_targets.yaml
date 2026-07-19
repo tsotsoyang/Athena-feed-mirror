@@ -100,10 +100,15 @@ targets:
       - https://www.kimi.com/feed
       - https://www.kimi.com/blog
     max_entries: 25
+    scrape:
+      index_url: https://www.kimi.com/blog
+      link_prefix: /blog/
     notes: |
-      kimi.com is connection-blocked from the Phison egress. No
-      documented RSS endpoint — fallbacks probe common paths, then
-      autodiscovery on the /blog page. Primary channel for Kimi K3 /
+      kimi.com is connection-blocked from the Phison egress. No RSS
+      at all (verified 2026-07-19: autodiscovery finds nothing), but
+      the /blog index IS server-rendered — the `scrape` fallback
+      extracts the post anchors and enriches each post with its
+      <title> + meta description. Primary channel for Kimi K3 /
       K-series release posts (e.g. /blog/kimi-k3).
 
   - source: openai-news
@@ -142,3 +147,62 @@ targets:
       mistral.ai is connection-blocked from the Phison egress. No
       documented RSS — rely on fallback probes + autodiscovery on
       the /news page.
+
+  # 2026-07-19 pt.2 — full source-sweep additions. All four hosts are
+  # connection-blocked at the Phison egress; none has a reachable RSS
+  # from there. Feed-first with scrape fallback where the index is
+  # server-rendered; per-target error isolation as usual.
+
+  - source: deepseek-news
+    name: DeepSeek News
+    url: https://api-docs.deepseek.com/news
+    fallback_urls: []
+    max_entries: 25
+    scrape:
+      index_url: https://api-docs.deepseek.com/news
+      link_prefix: /news/
+    notes: |
+      DeepSeek official news (docusaurus, server-rendered). Blocked
+      at the Phison egress; previously only second-hand Google News
+      covered DeepSeek releases.
+
+  - source: xai-news
+    name: xAI News
+    url: https://x.ai/news
+    fallback_urls:
+      - https://x.ai/feed.xml
+      - https://x.ai/rss.xml
+    max_entries: 25
+    scrape:
+      index_url: https://x.ai/news
+      link_prefix: /news/
+    notes: |
+      xAI (Grok) announcements. Blocked at the Phison egress; no
+      documented RSS — scrape fallback on the /news index.
+
+  - source: deepmind-blog
+    name: Google DeepMind Blog
+    url: https://deepmind.google/blog/rss.xml
+    fallback_urls:
+      - https://deepmind.google/discover/blog/
+    max_entries: 25
+    scrape:
+      index_url: https://deepmind.google/discover/blog/
+      link_prefix: /discover/blog/
+    notes: |
+      DeepMind research blog. deepmind.google is blocked at the
+      Phison egress. Try the documented rss.xml first, then scrape
+      the discover index.
+
+  - source: minimax-news
+    name: MiniMax News
+    url: https://www.minimax.io/news
+    fallback_urls: []
+    max_entries: 25
+    scrape:
+      index_url: https://www.minimax.io/news
+      link_prefix: /news/
+    notes: |
+      MiniMax announcements. Host intermittently blocked at the
+      Phison egress (SNI-based filter — probes flip 200/000).
+      Mirror makes it deterministic.
