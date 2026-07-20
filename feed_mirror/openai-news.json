@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-20T06:46:04.189984+00:00",
-  "next_refresh_at": "2026-07-20T07:16:04.189984+00:00",
+  "fetched_at": "2026-07-20T10:11:14.181338+00:00",
+  "next_refresh_at": "2026-07-20T10:41:14.181338+00:00",
   "entries": [
     {
       "title": "A scorecard for the AI age",
