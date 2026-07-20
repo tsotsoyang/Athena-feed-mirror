@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-20T16:55:44.743519+00:00",
-  "next_refresh_at": "2026-07-20T17:25:44.743519+00:00",
+  "fetched_at": "2026-07-20T18:53:39.772097+00:00",
+  "next_refresh_at": "2026-07-20T19:23:39.772097+00:00",
   "entries": [
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published_at": "2026-07-20T10:00:00+00:00",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "author": null
+    },
     {
       "title": "A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -83,13 +90,6 @@
       "author": null
     },
     {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "author": null
-    },
-    {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "url": "https://openai.com/index/gpt-5-6",
       "published_at": "2026-07-09T10:00:00+00:00",
@@ -101,6 +101,13 @@
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "published_at": "2026-07-09T10:00:00+00:00",
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "author": null
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "summary": "Details about the OpenAI Bio Bounty program",
       "author": null
     },
     {
@@ -132,13 +139,6 @@
       "author": null
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "published_at": "2026-07-07T00:00:00+00:00",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "author": null
-    },
-    {
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "url": "https://openai.com/index/australian-payments-plus",
       "published_at": "2026-07-07T00:00:00+00:00",
@@ -146,10 +146,24 @@
       "author": null
     },
     {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "published_at": "2026-07-07T00:00:00+00:00",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "author": null
+    },
+    {
       "title": "How ChatGPT adoption has expanded",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "published_at": "2026-06-30T09:00:00+00:00",
       "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "author": null
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "author": null
     },
     {
@@ -164,20 +178,6 @@
       "url": "https://openai.com/index/genebench-pro/case-studies",
       "published_at": "2026-06-30T00:00:00+00:00",
       "summary": "",
-      "author": null
-    },
-    {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "author": null
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "published_at": "2026-06-29T07:00:00+00:00",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "author": null
     }
   ],
