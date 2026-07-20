@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-19T23:57:50.744360+00:00",
-  "next_refresh_at": "2026-07-20T00:27:50.744360+00:00",
+  "fetched_at": "2026-07-20T03:47:33.987818+00:00",
+  "next_refresh_at": "2026-07-20T04:17:33.987818+00:00",
   "entries": [
+    {
+      "title": "印度补齐电子供应链：从封装到PCB全线推进，原材料仍是最大短板",
+      "url": "https://www.esmchina.com/news/14376.html",
+      "published_at": null,
+      "summary": "鉴于印度国内附加值估计仅约18%至20%，该国下一步的挑战是将制造业进一步延伸至电子供应链的更深处。",
+      "author": null
+    },
+    {
+      "title": "从器件到云端：泰克全栈测试方案助力AIoT端边云部署",
+      "url": "https://www.esmchina.com/news/14377.html",
+      "published_at": null,
+      "summary": "在AIoT产业加速演进的过程中，端侧TinyML、通感算一体、云边协同、安全合规等技术浪潮相继涌现，异构终端带来的功耗、射频、算力等多域耦合测试难题日益突出，传统分立仪器已难以完成全链路验证。泰克科技作为一家测试测量公司，致力于为工程师提供工具与方案，加速新技术与新芯片的落地。",
+      "author": null
+    },
     {
       "title": "上海：推动RISC-V从“外围辅助”向“核心计算”迈进",
       "url": "https://www.esmchina.com/news/14375.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14352.html",
       "published_at": null,
       "summary": "在2025年全球功率半导体制造商销售额TOP20榜单中，尽管欧美日巨头依然牢牢把控着头部阵营，但仍有5家中国企业首次携手跻身全球前二十，实现了历史性突破。",
-      "author": null
-    },
-    {
-      "title": "苹果与博通签超300亿美元芯片大单，150亿颗“美国芯”续约至2031年",
-      "url": "https://www.esmchina.com/news/14351.html",
-      "published_at": null,
-      "summary": "这将成为“美国制造计划”迄今最大单。",
-      "author": null
-    },
-    {
-      "title": "中国宣布氦气临时出口管控，半导体圈慌了？",
-      "url": "https://www.esmchina.com/news/14350.html",
-      "published_at": null,
-      "summary": "中国商务部与海关总署日前联合发布公告，宣布对氦气实施临时禁止出口管理，自发布之日起即刻生效，",
       "author": null
     }
   ],
