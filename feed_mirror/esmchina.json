@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-20T03:47:33.987818+00:00",
-  "next_refresh_at": "2026-07-20T04:17:33.987818+00:00",
+  "fetched_at": "2026-07-20T06:46:18.825280+00:00",
+  "next_refresh_at": "2026-07-20T07:16:18.825280+00:00",
   "entries": [
+    {
+      "title": "2185EFLOPS！中国算力，彻底爆发！",
+      "url": "https://www.esmchina.com/news/14378.html",
+      "published_at": null,
+      "summary": "上半年，中国人工智能技术应用普及率已超过30%，人工智能开源大模型的全球累计下载量突破100亿次。与之相匹配的，是全国智能算力规模达到2185 EFLOPS，同比激增177%，为数字经济发展筑牢了坚实底座。",
+      "author": null
+    },
     {
       "title": "印度补齐电子供应链：从封装到PCB全线推进，原材料仍是最大短板",
       "url": "https://www.esmchina.com/news/14376.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14353.html",
       "published_at": null,
       "summary": "光模块龙头企业中际旭创于7月12日晚间紧急召开机构投资者电话会议。面对近期市场上甚嚣尘上的各类负面“小作文”，公司管理层进行了集中且明确的澄清，",
-      "author": null
-    },
-    {
-      "title": "2025全球功率半导体TOP20出炉，中国5大巨头强势入围",
-      "url": "https://www.esmchina.com/news/14352.html",
-      "published_at": null,
-      "summary": "在2025年全球功率半导体制造商销售额TOP20榜单中，尽管欧美日巨头依然牢牢把控着头部阵营，但仍有5家中国企业首次携手跻身全球前二十，实现了历史性突破。",
       "author": null
     }
   ],

@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-07-20T03:47:30.005915+00:00",
-  "next_refresh_at": "2026-07-20T04:17:30.005915+00:00",
+  "fetched_at": "2026-07-20T06:46:10.369991+00:00",
+  "next_refresh_at": "2026-07-20T07:16:10.369991+00:00",
   "entries": [
     {
       "title": "Our approach to bioresilience",
