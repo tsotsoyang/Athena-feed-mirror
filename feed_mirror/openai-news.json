@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-20T20:20:57.637495+00:00",
-  "next_refresh_at": "2026-07-20T20:50:57.637495+00:00",
+  "fetched_at": "2026-07-20T21:43:14.569794+00:00",
+  "next_refresh_at": "2026-07-20T22:13:14.569794+00:00",
   "entries": [
     {
       "title": "Safety and alignment in an era of long-horizon models",
