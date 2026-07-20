@@ -2,8 +2,8 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-20T18:53:54.128923+00:00",
-  "next_refresh_at": "2026-07-20T19:23:54.128923+00:00",
+  "fetched_at": "2026-07-20T20:21:15.393133+00:00",
+  "next_refresh_at": "2026-07-20T20:51:15.393133+00:00",
   "entries": [
     {
       "title": "RISC-V进军Physical AI：架构路线、软件生态与量产节奏",
