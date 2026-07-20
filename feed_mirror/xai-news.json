@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-20T15:11:30.155370+00:00",
-  "next_refresh_at": "2026-07-20T15:41:30.155370+00:00",
+  "fetched_at": "2026-07-20T16:55:53.788802+00:00",
+  "next_refresh_at": "2026-07-20T17:25:53.788802+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.5 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
       "summary": "Grok 4.5 is SpaceXAI",
+      "author": null
+    },
+    {
+      "title": "Grok for Excel | SpaceXAI",
+      "url": "https://x.ai/news/introducing-excel-addin",
+      "published_at": null,
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-opencode",
       "published_at": null,
       "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
-      "author": null
-    },
-    {
-      "title": "Use Grok in OpenClaw | SpaceXAI",
-      "url": "https://x.ai/news/grok-openclaw",
-      "published_at": null,
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
       "author": null
     }
   ],
