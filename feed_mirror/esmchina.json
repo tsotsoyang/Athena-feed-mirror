@@ -2,14 +2,35 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-21T00:57:59.310930+00:00",
-  "next_refresh_at": "2026-07-21T01:27:59.310930+00:00",
+  "fetched_at": "2026-07-21T04:20:02.833046+00:00",
+  "next_refresh_at": "2026-07-21T04:50:02.833046+00:00",
   "entries": [
     {
-      "title": "OpenAI新高管炮轰Kimi K3：开源是“减速主义”！",
+      "title": "存储三巨头为何放弃CXL控制器自研？",
+      "url": "https://www.esmchina.com/news/14382.html",
+      "published_at": null,
+      "summary": "据韩媒披露，全球存储三大巨头——三星电子、SK海力士以及美光科技，已相继叫停或大幅缩减了针对下一代互连技术CXL控制器的自主研发项目。",
+      "author": null
+    },
+    {
+      "title": "RISC-V产业从“备选”到“主力”，迈向物理AI的“iPhone时刻”",
+      "url": "https://www.esmchina.com/news/14383.html",
+      "published_at": null,
+      "summary": "每一个计算平台的崛起，都有一个标志性的引爆点。对于Arm来说，这个时刻是iPhone——移动互联网的浪潮让它从一个低功耗嵌入式架构，成长为统治数十亿台设备的计算基石。如今，相似的剧本正在RISC-V身上重演。这一次的催化剂，是物理AI。",
+      "author": null
+    },
+    {
+      "title": "理想汽车成立“芯创智核”：马赫M100已量产，对外供货提上日程",
+      "url": "https://www.esmchina.com/news/14381.html",
+      "published_at": null,
+      "summary": "日前，理想汽车全资注册成立“芯创智核（上海）科技有限公司”，标志着理想汽车正将内部自研芯片业务剥离，迈向独立运营与市场化输出的新阶段。",
+      "author": null
+    },
+    {
+      "title": "OpenAI高管炮轰Kimi K3：开源是“减速主义”！",
       "url": "https://www.esmchina.com/news/14380.html",
       "published_at": null,
-      "summary": "刚刚履新OpenAI“战略未来”主管的迪恩·鲍尔（Dean W. Ball）日前对Kimi K3的开源战略进行了猛烈抨击，将开放权重模型定性为“减速主义（decelerationist）”，认为开源模式会大幅削减商业AI公司的投资回报预期。",
+      "summary": "刚刚履新OpenAI“战略未来”主管的迪恩·鲍尔日前对Kimi K3的开源战略进行了猛烈抨击。他将开放权重模型定性为“减速主义”，认为开源模式会大幅削减商业AI公司的投资回报预期。",
       "author": null
     },
     {
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14358.html",
       "published_at": null,
       "summary": "在此次交易中，黑芝麻智能通过“股权转让+增资”的组合方式，最终间接持有亿智电子60%的股权，整体交易对价约为4.78亿元。",
-      "author": null
-    },
-    {
-      "title": "Q2全球手机出货量暴跌11%！苹果三星逆势增长，国产厂商承压",
-      "url": "https://www.esmchina.com/news/14357.html",
-      "published_at": null,
-      "summary": "据Counterpoint Research初步统计，Q2全球智能手机出货量同比大幅下滑11%，跌至2013年以来的同期最低点。",
-      "author": null
-    },
-    {
-      "title": "25.47万亿！中国外贸上半年交出最“硬核”答卷",
-      "url": "https://www.esmchina.com/news/14356.html",
-      "published_at": null,
-      "summary": "7月14日，海关总署发布2026年上半年货物贸易数据。上半年，中国货物贸易进出口总值达25.47万亿元，同比增长16.9%，历史同期首次突破25万亿元大关。",
-      "author": null
-    },
-    {
-      "title": "传闻缠身、股价承压，PCB龙头胜宏科技遭遇“流言风暴”",
-      "url": "https://www.esmchina.com/news/14355.html",
-      "published_at": null,
-      "summary": "作为A+H双上市的全球PCB龙头，胜宏科技是英伟达Tier-1核心供应商，在全球AI服务器PCB市场占据50%-55%份额。",
       "author": null
     }
   ],
