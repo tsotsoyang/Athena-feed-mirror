@@ -2,9 +2,23 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-07-21T14:34:02.482868+00:00",
-  "next_refresh_at": "2026-07-21T15:04:02.482868+00:00",
+  "fetched_at": "2026-07-21T16:23:03.382626+00:00",
+  "next_refresh_at": "2026-07-21T16:53:03.382626+00:00",
   "entries": [
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "published_at": "2026-07-21T15:16:30+00:00",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "author": null
+    },
+    {
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "published_at": "2026-07-17T15:00:11+00:00",
+      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "author": null
+    },
     {
       "title": "Our approach to bioresilience",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
@@ -164,20 +178,6 @@
       "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
       "published_at": "2026-05-16T08:08:44+00:00",
       "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
-      "author": null
-    },
-    {
-      "title": "Accelerating discovery of liver disease mechanisms",
-      "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
-      "published_at": "2026-05-16T08:00:15+00:00",
-      "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
-      "author": null
-    },
-    {
-      "title": "Uniting biological toolkits for a new approach to ALS",
-      "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
-      "published_at": "2026-05-16T07:53:11+00:00",
-      "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
       "author": null
     }
   ],
