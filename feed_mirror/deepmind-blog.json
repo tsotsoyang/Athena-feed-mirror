@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-07-21T17:53:18.057982+00:00",
-  "next_refresh_at": "2026-07-21T18:23:18.057982+00:00",
+  "fetched_at": "2026-07-21T19:22:32.996916+00:00",
+  "next_refresh_at": "2026-07-21T19:52:32.996916+00:00",
   "entries": [
     {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
