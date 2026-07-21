@@ -2,8 +2,8 @@
   "source": "minimax-news",
   "name": "MiniMax News",
   "feed_url": "https://www.minimax.io/news",
-  "fetched_at": "2026-07-20T23:00:49.372189+00:00",
-  "next_refresh_at": "2026-07-20T23:30:49.372189+00:00",
+  "fetched_at": "2026-07-21T00:57:53.372999+00:00",
+  "next_refresh_at": "2026-07-21T01:27:53.372999+00:00",
   "entries": [
     {
       "title": "MiniMax Hailuo 2.3: A New Level of Complex Video Performance &amp; Media Agent - MiniMax News | MiniMax",

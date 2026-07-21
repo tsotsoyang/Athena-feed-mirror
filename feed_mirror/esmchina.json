@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-20T23:00:55.944906+00:00",
-  "next_refresh_at": "2026-07-20T23:30:55.944906+00:00",
+  "fetched_at": "2026-07-21T00:57:59.310930+00:00",
+  "next_refresh_at": "2026-07-21T01:27:59.310930+00:00",
   "entries": [
+    {
+      "title": "OpenAI新高管炮轰Kimi K3：开源是“减速主义”！",
+      "url": "https://www.esmchina.com/news/14380.html",
+      "published_at": null,
+      "summary": "刚刚履新OpenAI“战略未来”主管的迪恩·鲍尔（Dean W. Ball）日前对Kimi K3的开源战略进行了猛烈抨击，将开放权重模型定性为“减速主义（decelerationist）”，认为开源模式会大幅削减商业AI公司的投资回报预期。",
+      "author": null
+    },
     {
       "title": "RISC-V进军Physical AI：架构路线、软件生态与量产节奏",
       "url": "https://www.esmchina.com/news/14379.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14355.html",
       "published_at": null,
       "summary": "作为A+H双上市的全球PCB龙头，胜宏科技是英伟达Tier-1核心供应商，在全球AI服务器PCB市场占据50%-55%份额。",
-      "author": null
-    },
-    {
-      "title": "大众裁员翻倍至10万：CEO内部发文“摊牌”，工会怒斥“忍无可忍”",
-      "url": "https://www.esmchina.com/news/14354.html",
-      "published_at": null,
-      "summary": "布鲁默在内部材料中表示，集团管理和运营成本比竞争对手高出约五分之一。",
       "author": null
     }
   ],
