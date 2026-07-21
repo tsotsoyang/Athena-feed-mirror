@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-21T16:22:57.521890+00:00",
-  "next_refresh_at": "2026-07-21T16:52:57.521890+00:00",
+  "fetched_at": "2026-07-21T17:53:12.374315+00:00",
+  "next_refresh_at": "2026-07-21T18:23:12.374315+00:00",
   "entries": [
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "published_at": "2026-07-21T17:00:00+00:00",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "author": null
+    },
     {
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
@@ -90,17 +97,17 @@
       "author": null
     },
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "author": null
-    },
-    {
       "title": "ChatGPT is now a partner for your most ambitious work",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "published_at": "2026-07-09T10:00:00+00:00",
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "author": null
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/introducing-genebench-pro",
       "published_at": "2026-06-30T00:00:00+00:00",
       "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "author": null
-    },
-    {
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "summary": "",
       "author": null
     }
   ],

@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-21T16:23:08.842679+00:00",
-  "next_refresh_at": "2026-07-21T16:53:08.842679+00:00",
+  "fetched_at": "2026-07-21T17:53:23.559062+00:00",
+  "next_refresh_at": "2026-07-21T18:23:23.559062+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.5 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
       "summary": "Grok 4.5 is SpaceXAI",
+      "author": null
+    },
+    {
+      "title": "Grok for Outlook | SpaceXAI",
+      "url": "https://x.ai/news/introducing-outlook-addin",
+      "published_at": null,
+      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-build-cli",
       "published_at": null,
       "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
-      "author": null
-    },
-    {
-      "title": "Use Grok in OpenCode | SpaceXAI",
-      "url": "https://x.ai/news/grok-opencode",
-      "published_at": null,
-      "summary": "Use your SuperGrok or X Premium subscription inside OpenCode.",
       "author": null
     }
   ],
