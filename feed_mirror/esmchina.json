@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-21T04:20:02.833046+00:00",
-  "next_refresh_at": "2026-07-21T04:50:02.833046+00:00",
+  "fetched_at": "2026-07-21T07:07:45.904826+00:00",
+  "next_refresh_at": "2026-07-21T07:37:45.904826+00:00",
   "entries": [
+    {
+      "title": "泰凌Matter方案走到哪一步了？从芯片到量产的全链路梳理",
+      "url": "https://www.esmchina.com/news/14385.html",
+      "published_at": null,
+      "summary": "本文系统介绍了泰凌从芯片到量产的Matter进展，致力于降低智能家居开发门槛。",
+      "author": null
+    },
     {
       "title": "存储三巨头为何放弃CXL控制器自研？",
       "url": "https://www.esmchina.com/news/14382.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14359.html",
       "published_at": null,
       "summary": "长鑫科技日前发布公告，宣布公司首次公开发行股票并在科创板上市的发行价格确定为8.66元/股。若按此发行价计算，长鑫科技上市后的总市值将达到约5792亿元。",
-      "author": null
-    },
-    {
-      "title": "黑芝麻智能4.78亿控股亿智电子",
-      "url": "https://www.esmchina.com/news/14358.html",
-      "published_at": null,
-      "summary": "在此次交易中，黑芝麻智能通过“股权转让+增资”的组合方式，最终间接持有亿智电子60%的股权，整体交易对价约为4.78亿元。",
       "author": null
     }
   ],
