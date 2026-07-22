@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-21T23:28:50.764209+00:00",
-  "next_refresh_at": "2026-07-21T23:58:50.764209+00:00",
+  "fetched_at": "2026-07-22T00:59:18.360149+00:00",
+  "next_refresh_at": "2026-07-22T01:29:18.360149+00:00",
   "entries": [
     {
       "title": "Introducing the ChatGPT for small business program",
