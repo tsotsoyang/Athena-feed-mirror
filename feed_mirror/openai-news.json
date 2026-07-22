@@ -2,9 +2,23 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-22T11:56:27.497845+00:00",
-  "next_refresh_at": "2026-07-22T12:26:27.497845+00:00",
+  "fetched_at": "2026-07-22T14:02:59.504657+00:00",
+  "next_refresh_at": "2026-07-22T14:32:59.504657+00:00",
   "entries": [
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "author": null
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "published_at": "2026-07-22T05:30:00+00:00",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "author": null
+    },
     {
       "title": "Introducing the ChatGPT for small business program",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -111,6 +125,13 @@
       "author": null
     },
     {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "author": null
+    },
+    {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "url": "https://openai.com/index/gpt-5-6",
       "published_at": "2026-07-09T10:00:00+00:00",
@@ -122,13 +143,6 @@
       "url": "https://openai.com/index/bio-bug-bounty",
       "published_at": "2026-07-09T10:00:00+00:00",
       "summary": "Details about the OpenAI Bio Bounty program",
-      "author": null
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "author": null
     },
     {
@@ -164,20 +178,6 @@
       "url": "https://openai.com/index/mufg",
       "published_at": "2026-07-07T00:00:00+00:00",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "author": null
-    },
-    {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "published_at": "2026-07-07T00:00:00+00:00",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "author": null
-    },
-    {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "published_at": "2026-06-30T09:00:00+00:00",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "author": null
     }
   ],

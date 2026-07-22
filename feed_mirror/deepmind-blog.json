@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-07-22T11:56:35.966974+00:00",
-  "next_refresh_at": "2026-07-22T12:26:35.966974+00:00",
+  "fetched_at": "2026-07-22T14:03:05.809970+00:00",
+  "next_refresh_at": "2026-07-22T14:33:05.809970+00:00",
   "entries": [
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "published_at": "2026-07-22T13:38:54+00:00",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "author": null
+    },
     {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
       "published_at": "2026-05-16T08:16:06+00:00",
       "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
-      "author": null
-    },
-    {
-      "title": "Opening new paths in aging research",
-      "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
-      "published_at": "2026-05-16T08:08:44+00:00",
-      "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
       "author": null
     }
   ],
