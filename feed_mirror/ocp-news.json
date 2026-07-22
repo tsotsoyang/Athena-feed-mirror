@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/projects/storage/",
-  "fetched_at": "2026-07-22T22:03:36.755969+00:00",
-  "next_refresh_at": "2026-07-22T22:33:36.755969+00:00",
+  "fetched_at": "2026-07-22T23:29:34.216454+00:00",
+  "next_refresh_at": "2026-07-22T23:59:34.216454+00:00",
   "entries": [],
   "errors": [
     {
