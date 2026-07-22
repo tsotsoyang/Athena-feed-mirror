@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-22T00:59:32.243837+00:00",
-  "next_refresh_at": "2026-07-22T01:29:32.243837+00:00",
+  "fetched_at": "2026-07-22T04:24:30.571542+00:00",
+  "next_refresh_at": "2026-07-22T04:54:30.571542+00:00",
   "entries": [
+    {
+      "title": "英伟达首次公开Vera CPU完整架构：88核Olympus核心专为AI智能体打造",
+      "url": "https://www.esmchina.com/news/14388.html",
+      "published_at": null,
+      "summary": "英伟达通过技术博文首次完整披露了自研数据中心CPU——Vera的架构全貌。",
+      "author": null
+    },
+    {
+      "title": "兆易创新三度增资珠海芯存加速DRAM布局，上半年净利同比增近11倍至69亿元",
+      "url": "https://www.esmchina.com/news/14387.html",
+      "published_at": null,
+      "summary": "就在公告当日，兆易创新A股放量涨停，成交额突破330亿元，港股亦上涨超15%。",
+      "author": null
+    },
     {
       "title": "泰凌Matter方案走到哪一步了？从芯片到量产的全链路梳理",
       "url": "https://www.esmchina.com/news/14385.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14361.html",
       "published_at": null,
       "summary": "Matter 1.6三大核心升级，直击商用、家用行业痛点。",
-      "author": null
-    },
-    {
-      "title": "ASML交出2026最强季报，英特尔抢先量产High NA EUV",
-      "url": "https://www.esmchina.com/news/14360.html",
-      "published_at": null,
-      "summary": "ASML发布的财报显示，2026 Q2季度，公司实现了93.26亿欧元的净销售额，同比大幅增长21.24%；单季净利润达到29.18亿欧元，毛利率攀升至54.0%。",
-      "author": null
-    },
-    {
-      "title": "人均分超百万！长鑫科技IPO敲定8.66元，创始人200亿“让利留人”",
-      "url": "https://www.esmchina.com/news/14359.html",
-      "published_at": null,
-      "summary": "长鑫科技日前发布公告，宣布公司首次公开发行股票并在科创板上市的发行价格确定为8.66元/股。若按此发行价计算，长鑫科技上市后的总市值将达到约5792亿元。",
       "author": null
     }
   ],
