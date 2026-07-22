@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-22T04:24:30.571542+00:00",
-  "next_refresh_at": "2026-07-22T04:54:30.571542+00:00",
+  "fetched_at": "2026-07-22T07:10:49.975891+00:00",
+  "next_refresh_at": "2026-07-22T07:40:49.975891+00:00",
   "entries": [
+    {
+      "title": "英特尔数据中心又裁员了！四年少了5万人",
+      "url": "https://www.esmchina.com/news/14389.html",
+      "published_at": null,
+      "summary": "英特尔CEO陈立武此前表示，英特尔需要减少管理层级，以便公司能更快做出决策、加速新技术研发。",
+      "author": null
+    },
     {
       "title": "英伟达首次公开Vera CPU完整架构：88核Olympus核心专为AI智能体打造",
       "url": "https://www.esmchina.com/news/14388.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14363.html",
       "published_at": null,
       "summary": "今年上半年，以高端制造、数智经济、现代服务为代表的新动能对经济增长的贡献率超过四成，经济向新向优的特点非常鲜明，而且总的发展趋势在加快。",
-      "author": null
-    },
-    {
-      "title": "Matter 1.6标准来袭，芯科科技多维度布局推动跨场景互联落地",
-      "url": "https://www.esmchina.com/news/14361.html",
-      "published_at": null,
-      "summary": "Matter 1.6三大核心升级，直击商用、家用行业痛点。",
       "author": null
     }
   ],
