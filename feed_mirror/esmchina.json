@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-23T07:33:03.884186+00:00",
-  "next_refresh_at": "2026-07-23T08:03:03.884186+00:00",
+  "fetched_at": "2026-07-23T10:23:10.931607+00:00",
+  "next_refresh_at": "2026-07-23T10:53:10.931607+00:00",
   "entries": [
+    {
+      "title": "特斯拉Q2财报出炉：二季度增收不增利",
+      "url": "https://www.esmchina.com/news/14398.html",
+      "published_at": null,
+      "summary": "国际电子商情讯，美东时间7月22日盘后，特斯拉发布2026年第二季度财报。数据显示，公司Q2总营收达282.4亿美元，同比增长26%，增速创下三年新高，较分析师平均预期高出逾7%。",
+      "author": null
+    },
     {
       "title": "美国AI失控攻击自己人，中国开源模型出手救场：OpenAI捅了个多大的篓子？",
       "url": "https://www.esmchina.com/news/14397.html",
@@ -13,7 +20,7 @@
       "author": null
     },
     {
-      "title": "美国FCC新规落地，禁售含中企关键硬件组件设备",
+      "title": "美国FCC新规落地，禁售含华为、中兴关键硬件组件设备",
       "url": "https://www.esmchina.com/news/14396.html",
       "published_at": null,
       "summary": "美国联邦通信委员会（FCC）正式表决通过，全面禁止在美国销售含有被认定存在“国家安全风险”的中国企业关键硬件组件的设备。",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14372.html",
       "published_at": null,
       "summary": "台积电宣布将在美国亚利桑那州追加1000亿美元投资。至此，台积电在美国的总投资承诺规模已飙升至2650亿美元（约合人民币1.8万亿元），成为美国历史上规模最大的单笔外国直接投资之一。",
-      "author": null
-    },
-    {
-      "title": "商务部：中荷同意推动化解安世半导体纠纷",
-      "url": "https://www.esmchina.com/news/14371.html",
-      "published_at": null,
-      "summary": "中荷双方同意，双方政府应创造良好环境，推动企业通过协商化解纠纷，保障全球半导体产供链安全稳定。",
       "author": null
     }
   ],
