@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-23T14:41:01.379621+00:00",
-  "next_refresh_at": "2026-07-23T15:11:01.379621+00:00",
+  "fetched_at": "2026-07-23T16:26:20.065774+00:00",
+  "next_refresh_at": "2026-07-23T16:56:20.065774+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.5 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
       "summary": "Grok 4.5 is SpaceXAI",
+      "author": null
+    },
+    {
+      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X | SpaceXAI",
+      "url": "https://x.ai/news/grok-4-5-everywhere",
+      "published_at": null,
+      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-kilocode",
       "published_at": null,
       "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
-      "author": null
-    },
-    {
-      "title": "Introducing Grok Build | SpaceXAI",
-      "url": "https://x.ai/news/grok-build-cli",
-      "published_at": null,
-      "summary": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
       "author": null
     }
   ],
