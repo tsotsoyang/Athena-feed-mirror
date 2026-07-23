@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-23T01:05:19.245266+00:00",
-  "next_refresh_at": "2026-07-23T01:35:19.245266+00:00",
+  "fetched_at": "2026-07-23T04:51:11.654573+00:00",
+  "next_refresh_at": "2026-07-23T05:21:11.654573+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.5 | SpaceXAI",

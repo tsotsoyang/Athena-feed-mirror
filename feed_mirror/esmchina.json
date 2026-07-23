@@ -2,9 +2,44 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-23T01:05:11.919665+00:00",
-  "next_refresh_at": "2026-07-23T01:35:11.919665+00:00",
+  "fetched_at": "2026-07-23T04:51:09.011732+00:00",
+  "next_refresh_at": "2026-07-23T05:21:09.011732+00:00",
   "entries": [
+    {
+      "title": "美国FCC新规落地，禁售含中企关键硬件组件设备",
+      "url": "https://www.esmchina.com/news/14396.html",
+      "published_at": null,
+      "summary": "美国联邦通信委员会（FCC）正式表决通过，全面禁止在美国销售含有被认定存在“国家安全风险”的中国企业关键硬件组件的设备。",
+      "author": null
+    },
+    {
+      "title": "量子计算落地数据中心：算力不是瓶颈，制冷和供电才是",
+      "url": "https://www.esmchina.com/news/14395.html",
+      "published_at": null,
+      "summary": "谁能解决大规模场景下制冷、供电、算力编排、组网这些看似不起眼的实际问题，谁就能和造出最精巧量子比特的玩家一样，获得决定性优势。",
+      "author": null
+    },
+    {
+      "title": "苹果iPhone 18系列已量产，全面升级Mac产品线迎AI换机潮",
+      "url": "https://www.esmchina.com/news/14394.html",
+      "published_at": null,
+      "summary": "进入7月，苹果iPhone 18系列手机已在量产，正处于产能爬坡阶段。",
+      "author": null
+    },
+    {
+      "title": "同名乌龙！演员黄晓明辟谣投资长鑫科技浮盈百亿",
+      "url": "https://www.esmchina.com/news/14393.html",
+      "published_at": null,
+      "summary": "面对这场突如其来的“暴富”传闻，演员黄晓明本人及核心团队已明确予以否认，表示从未参与过长鑫科技的任何相关投资。",
+      "author": null
+    },
+    {
+      "title": "50亿美元，AMD“倒贴”Anthropic拿下巨额订单",
+      "url": "https://www.esmchina.com/news/14392.html",
+      "published_at": null,
+      "summary": "根据协议，Anthropic将在AMD的Helios机架级解决方案中部署至多2吉瓦的Instinct MI450系列GPU，首批1吉瓦的算力部署计划于2027年上半年启动。",
+      "author": null
+    },
     {
       "title": "2026上半年车市：前十车企拿下超八成份额，加速攻入欧洲市场",
       "url": "https://www.esmchina.com/news/14391.html",
@@ -143,41 +178,6 @@
       "url": "https://www.esmchina.com/news/14370.html",
       "published_at": null,
       "summary": "三场产业盛会贯通 “AIoT 顶层生态 — 边缘 MCU 算力底座 — 电机驱动执行终端” 全产业链。",
-      "author": null
-    },
-    {
-      "title": "Matter 1.6、端侧AI、AR眼镜芯片齐亮相：智能家居与可穿戴论坛干货盘点",
-      "url": "https://www.esmchina.com/news/14369.html",
-      "published_at": null,
-      "summary": "不久前出台的《关于加快“人工智能+消费”发展的实施意见》，将“人工智能+商品消费”摆在突出位置，提出要丰富智能终端、智能家居、智能穿戴等产品供给。政策的背后，是一个正在稳步扩大的市场——数据显示，2025年全球家居市场规模已达5547亿美元，同比增长3.5%。与此同时，可穿戴设备市场也保持稳健增长，IDC数据显示2026年全球可穿戴设备出货量预计将突破6亿台。",
-      "author": null
-    },
-    {
-      "title": "蓝牙6.3阶梯式进化：厘米级定位与亚毫秒延迟开启新纪元",
-      "url": "https://www.esmchina.com/news/14368.html",
-      "published_at": null,
-      "summary": "百瑞互联芯片事业部产品总监郑勇以《连接向AI：蓝牙6.3技术重塑万物互联生态》为题，系统阐述了蓝牙6.x技术的进化路径及其在智能座舱、消费电子、工业物联网等场景中的落地实践。",
-      "author": null
-    },
-    {
-      "title": "昂科AP8000安全烧录解决方案：从Day 0构建芯片全生命周期安全防线",
-      "url": "https://www.esmchina.com/news/14367.html",
-      "published_at": null,
-      "summary": "在2026第七届国际AI+IoT生态发展大会上，昂科技术副总裁傅国系统阐述了安全烧录面临的挑战与昂科的应对之道。",
-      "author": null
-    },
-    {
-      "title": "辞职即入职！匈牙利前外长加盟比亚迪",
-      "url": "https://www.esmchina.com/news/14366.html",
-      "published_at": null,
-      "summary": "匈牙利前外交部长西雅尔多（Peter Szijjarto）近日在社交媒体上宣布，已正式辞去匈牙利国民议会议员职务，即日起正式加入比亚迪集团，担任负责对外关系及新业务线拓展的高管。",
-      "author": null
-    },
-    {
-      "title": "7大手机品牌端侧AI集体过审，国行苹果AI终于来了",
-      "url": "https://www.esmchina.com/news/14365.html",
-      "published_at": null,
-      "summary": "国家网信办日前正式发布最新一批手机端侧生成式人工智能服务备案名单，苹果、华为、小米、OPPO、vivo、三星以及中兴（努比亚）等七家国内外头部手机厂商的核心AI服务悉数通过审核。",
       "author": null
     }
   ],

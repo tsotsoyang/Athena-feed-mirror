@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-23T01:05:05.856952+00:00",
-  "next_refresh_at": "2026-07-23T01:35:05.856952+00:00",
+  "fetched_at": "2026-07-23T04:51:02.793985+00:00",
+  "next_refresh_at": "2026-07-23T05:21:02.793985+00:00",
   "entries": [
     {
       "title": "Building AI infrastructure with the Effingham County community",
