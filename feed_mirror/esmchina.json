@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-24T00:58:31.978919+00:00",
-  "next_refresh_at": "2026-07-24T01:28:31.978919+00:00",
+  "fetched_at": "2026-07-24T04:21:51.184514+00:00",
+  "next_refresh_at": "2026-07-24T04:51:51.184514+00:00",
   "entries": [
+    {
+      "title": "左手降税，右手加税，美国对华关税又玩新花样",
+      "url": "https://www.esmchina.com/news/14403.html",
+      "published_at": null,
+      "summary": "24日，美国依据《1974年贸易法》第301条，以“强迫劳动执法不力”为由，对60个贸易伙伴正式加征10%或12.5%的新关税，无缝替代当天到期的10%全球临时进口关税。",
+      "author": null
+    },
+    {
+      "title": "LG Display二季度净亏损4188亿韩元，裁员补偿支出2400亿韩元",
+      "url": "https://www.esmchina.com/news/14401.html",
+      "published_at": null,
+      "summary": "本次财报中最为引人关注的是与人员优化相关的一次性支出。",
+      "author": null
+    },
+    {
+      "title": "事关中国AI，近200家美企联名致信特朗普",
+      "url": "https://www.esmchina.com/news/14400.html",
+      "published_at": null,
+      "summary": "22日，约200家硅谷初创企业创始人联名向美国总统特朗普、商务部长卢特尼克及白宫科技政策办公室递交联名信，敦促白宫放弃“一刀切”的禁令，维护全球AI生态的开放与竞争。",
+      "author": null
+    },
+    {
+      "title": "2700万美元光模块被盗！？东山精密三次回应",
+      "url": "https://www.esmchina.com/news/14399.html",
+      "published_at": null,
+      "summary": "市场传闻引发千亿市值波动。",
+      "author": null
+    },
     {
       "title": "特斯拉Q2财报出炉：二季度增收不增利",
       "url": "https://www.esmchina.com/news/14398.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14377.html",
       "published_at": null,
       "summary": "在AIoT产业加速演进的过程中，端侧TinyML、通感算一体、云边协同、安全合规等技术浪潮相继涌现，异构终端带来的功耗、射频、算力等多域耦合测试难题日益突出，传统分立仪器已难以完成全链路验证。泰克科技作为一家测试测量公司，致力于为工程师提供工具与方案，加速新技术与新芯片的落地。",
-      "author": null
-    },
-    {
-      "title": "上海：推动RISC-V从“外围辅助”向“核心计算”迈进",
-      "url": "https://www.esmchina.com/news/14375.html",
-      "published_at": null,
-      "summary": "2025年，上海集成电路产业规模近5700亿元，约占全国四分之一；人工智能产业规模近6400亿元，同比增长39.5%。",
-      "author": null
-    },
-    {
-      "title": "130亿颗出货量，250亿美元市场：RISC-V赋能空间计算与物理智能",
-      "url": "https://www.esmchina.com/news/14374.html",
-      "published_at": null,
-      "summary": "人工智能是最具颠覆性和创新性的新赛道，物理智能正成为下一个增长引擎。而RISC-V，正站在这两个风口交汇的位置。2023年其IP核出货量已达130亿颗，走完了Arm三十年的路；Omdia预测，2030年中国RISC-V芯片市场规模将达250亿美元。谷歌、高通相继入局。在芯片自主可控的大趋势下，RISC-V已是智能终端芯片的新选择。",
-      "author": null
-    },
-    {
-      "title": "车厂也开始“锁芯”了，美光连签通用福特两大车企",
-      "url": "https://www.esmchina.com/news/14373.html",
-      "published_at": null,
-      "summary": "两大美国车企先后锁定车规级存储芯片的长期供应，标志着汽车行业从传统的按季度采购模式，加速转向多年期产能锁定的新范式。",
-      "author": null
-    },
-    {
-      "title": "1.8万亿砸向美国，台积电变“美积电”？",
-      "url": "https://www.esmchina.com/news/14372.html",
-      "published_at": null,
-      "summary": "台积电宣布将在美国亚利桑那州追加1000亿美元投资。至此，台积电在美国的总投资承诺规模已飙升至2650亿美元（约合人民币1.8万亿元），成为美国历史上规模最大的单笔外国直接投资之一。",
       "author": null
     }
   ],
