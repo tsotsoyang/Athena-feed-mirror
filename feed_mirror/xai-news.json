@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-23T23:28:28.537352+00:00",
-  "next_refresh_at": "2026-07-23T23:58:28.537352+00:00",
+  "fetched_at": "2026-07-24T00:58:37.801066+00:00",
+  "next_refresh_at": "2026-07-24T01:28:37.801066+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.5 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
       "summary": "Grok 4.5 is SpaceXAI",
+      "author": null
+    },
+    {
+      "title": "Workflows in Grok Build | SpaceXAI",
+      "url": "https://x.ai/news/workflows",
+      "published_at": null,
+      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-build-0-1",
       "published_at": null,
       "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
-      "author": null
-    },
-    {
-      "title": "Use Grok in Kilo Code | SpaceXAI",
-      "url": "https://x.ai/news/grok-kilocode",
-      "published_at": null,
-      "summary": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
       "author": null
     }
   ],
