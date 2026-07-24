@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-24T17:05:10.612187+00:00",
-  "next_refresh_at": "2026-07-24T17:35:10.612187+00:00",
+  "fetched_at": "2026-07-24T18:58:04.187680+00:00",
+  "next_refresh_at": "2026-07-24T19:28:04.187680+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.5 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
       "summary": "Grok 4.5 is SpaceXAI",
+      "author": null
+    },
+    {
+      "title": "Grok in Google Workspace | SpaceXAI",
+      "url": "https://x.ai/news/introducing-google-workspace-addon",
+      "published_at": null,
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/composer-2-5",
       "published_at": null,
       "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
-      "author": null
-    },
-    {
-      "title": "Grok Build 0.1 on API | SpaceXAI",
-      "url": "https://x.ai/news/grok-build-0-1",
-      "published_at": null,
-      "summary": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
       "author": null
     }
   ],
