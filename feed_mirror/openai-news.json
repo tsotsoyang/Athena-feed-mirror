@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-25T18:01:44.180513+00:00",
-  "next_refresh_at": "2026-07-25T18:31:44.180513+00:00",
+  "fetched_at": "2026-07-25T19:42:37.860566+00:00",
+  "next_refresh_at": "2026-07-25T20:12:37.860566+00:00",
   "entries": [
     {
       "title": "Launching Health in ChatGPT",
