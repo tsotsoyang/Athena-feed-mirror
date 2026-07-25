@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-25T04:43:09.669605+00:00",
-  "next_refresh_at": "2026-07-25T05:13:09.669605+00:00",
+  "fetched_at": "2026-07-25T07:17:04.243314+00:00",
+  "next_refresh_at": "2026-07-25T07:47:04.243314+00:00",
   "entries": [
+    {
+      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+      "url": "https://news.skhynix.com/en/skhynix-nvidia-partnership-2026/",
+      "published_at": "2026-07-25T04:39:50+00:00",
+      "summary": "▪ SK Group and NVIDIA expand strategic collaboration with a $500 billion plus initiative spanning AI factories and next-generation memory. ▪ SK Telecom to build 2-gigawatt NVIDIA Vera Rubin, DSX AI Factory to serve global compute demand. ▪ NVIDIA and",
+      "author": "SK hynix"
+    },
     {
       "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
       "url": "https://news.skhynix.com/en/research-inside-ep1/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/2026-chungbuk-sr-forum-4/",
       "published_at": "2026-07-09T06:52:59+00:00",
       "summary": "Dongseon Jang, CEO of Curious Brain Lab, delivering the lecture",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum",
-      "url": "https://news.skhynix.com/en/2026-chungbuk-sr-forum-3/",
-      "published_at": "2026-07-09T06:51:35+00:00",
-      "summary": "Taejong Yu, President of the Chungbuk Institute for Lifelong Education and Human Resources Development",
       "author": "SK hynix"
     }
   ],
