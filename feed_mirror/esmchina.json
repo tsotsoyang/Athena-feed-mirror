@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-27T03:55:31.164999+00:00",
-  "next_refresh_at": "2026-07-27T04:25:31.164999+00:00",
+  "fetched_at": "2026-07-27T07:32:10.802759+00:00",
+  "next_refresh_at": "2026-07-27T08:02:10.802759+00:00",
   "entries": [
+    {
+      "title": "高通芯片9月起涨价，加价至少一成，手机厂商还扛得住吗？",
+      "url": "https://www.esmchina.com/news/14411.html",
+      "published_at": null,
+      "summary": "芯片涨价对手机厂商的利润空间形成直接挤压。",
+      "author": null
+    },
+    {
+      "title": "2026上半年中国集成电路制造行业利润增长2579.5%",
+      "url": "https://www.esmchina.com/news/14410.html",
+      "published_at": null,
+      "summary": "上半年，人工智能与各领域加速融合，是规模以上工业企业利润较快增长的重要支撑。",
+      "author": null
+    },
     {
       "title": "先进封装市场规模，剑指1200亿美元！",
       "url": "https://www.esmchina.com/news/14409.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14387.html",
       "published_at": null,
       "summary": "就在公告当日，兆易创新A股放量涨停，成交额突破330亿元，港股亦上涨超15%。",
-      "author": null
-    },
-    {
-      "title": "泰凌Matter方案走到哪一步了？从芯片到量产的全链路梳理",
-      "url": "https://www.esmchina.com/news/14385.html",
-      "published_at": null,
-      "summary": "本文系统介绍了泰凌从芯片到量产的Matter进展，致力于降低智能家居开发门槛。",
-      "author": null
-    },
-    {
-      "title": "存储三巨头为何放弃CXL控制器自研？",
-      "url": "https://www.esmchina.com/news/14382.html",
-      "published_at": null,
-      "summary": "据韩媒披露，全球存储三大巨头——三星电子、SK海力士以及美光科技，已相继叫停或大幅缩减了针对下一代互连技术CXL控制器的自主研发项目。",
       "author": null
     }
   ],
