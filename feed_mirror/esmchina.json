@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-27T07:32:10.802759+00:00",
-  "next_refresh_at": "2026-07-27T08:02:10.802759+00:00",
+  "fetched_at": "2026-07-27T11:21:55.708167+00:00",
+  "next_refresh_at": "2026-07-27T11:51:55.708167+00:00",
   "entries": [
+    {
+      "title": "近20家芯片企业扎堆调涨，年内第二轮涨价潮已至！【文末附表】",
+      "url": "https://www.esmchina.com/news/14412.html",
+      "published_at": null,
+      "summary": "在数月内，半导体行业经历了两轮普涨，其中第二轮涨价潮已于7月前后集中落地（文末附表格）。",
+      "author": null
+    },
     {
       "title": "高通芯片9月起涨价，加价至少一成，手机厂商还扛得住吗？",
       "url": "https://www.esmchina.com/news/14411.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14388.html",
       "published_at": null,
       "summary": "英伟达通过技术博文首次完整披露了自研数据中心CPU——Vera的架构全貌。",
-      "author": null
-    },
-    {
-      "title": "兆易创新三度增资珠海芯存加速DRAM布局，上半年净利同比增近11倍至69亿元",
-      "url": "https://www.esmchina.com/news/14387.html",
-      "published_at": null,
-      "summary": "就在公告当日，兆易创新A股放量涨停，成交额突破330亿元，港股亦上涨超15%。",
       "author": null
     }
   ],

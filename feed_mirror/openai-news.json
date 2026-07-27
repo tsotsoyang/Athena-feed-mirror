@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-27T07:31:57.182294+00:00",
-  "next_refresh_at": "2026-07-27T08:01:57.182294+00:00",
+  "fetched_at": "2026-07-27T11:21:40.144673+00:00",
+  "next_refresh_at": "2026-07-27T11:51:40.144673+00:00",
   "entries": [
+    {
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "published_at": "2026-07-27T03:30:00+00:00",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "author": null
+    },
     {
       "title": "Launching Health in ChatGPT",
       "url": "https://openai.com/index/health-in-chatgpt",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "published_at": "2026-07-09T10:00:00+00:00",
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "author": null
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "summary": "Details about the OpenAI Bio Bounty program",
       "author": null
     }
   ],
