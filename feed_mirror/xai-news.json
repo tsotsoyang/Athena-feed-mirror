@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-28T20:01:23.317360+00:00",
-  "next_refresh_at": "2026-07-28T20:31:23.317360+00:00",
+  "fetched_at": "2026-07-28T21:38:33.732556+00:00",
+  "next_refresh_at": "2026-07-28T22:08:33.732556+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.5 | SpaceXAI",
@@ -17,6 +17,13 @@
       "url": "https://x.ai/news/grok-build-mode",
       "published_at": null,
       "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
+      "author": null
+    },
+    {
+      "title": "Grok 4.5 in GitHub Copilot | SpaceXAI",
+      "url": "https://x.ai/news/grok-github-copilot",
+      "published_at": null,
+      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-imagine-1-5",
       "published_at": null,
       "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
-      "author": null
-    },
-    {
-      "title": "Grok Becomes the Voice of Vapi | SpaceXAI",
-      "url": "https://x.ai/news/grok-vapi",
-      "published_at": null,
-      "summary": "Bringing frontier voice quality to millions of Vapi agents.",
       "author": null
     }
   ],
