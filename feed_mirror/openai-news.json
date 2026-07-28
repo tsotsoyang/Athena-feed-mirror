@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-28T16:46:04.952088+00:00",
-  "next_refresh_at": "2026-07-28T17:16:04.952088+00:00",
+  "fetched_at": "2026-07-28T18:14:25.301773+00:00",
+  "next_refresh_at": "2026-07-28T18:44:25.301773+00:00",
   "entries": [
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "published_at": "2026-07-28T17:00:00+00:00",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "author": null
+    },
     {
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/gpt-5-6",
       "published_at": "2026-07-09T10:00:00+00:00",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "author": null
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "author": null
     }
   ],
