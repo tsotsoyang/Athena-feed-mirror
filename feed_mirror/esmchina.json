@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-28T04:09:53.850157+00:00",
-  "next_refresh_at": "2026-07-28T04:39:53.850157+00:00",
+  "fetched_at": "2026-07-28T07:13:40.153964+00:00",
+  "next_refresh_at": "2026-07-28T07:43:40.153964+00:00",
   "entries": [
+    {
+      "title": "刚刚！商务部万字长文阐明“产能过剩”中方立场",
+      "url": "https://www.esmchina.com/news/14417.html",
+      "published_at": null,
+      "summary": "7月28日，中国商务部正式发布了《关于所谓“产能过剩”问题的中方立场》文件。这份逾万字的系统性文件，以详实的数据和严密的逻辑，厘清了全球产能演变的客观规律，为构建开放包容的全球产供链合作格局指明了方向。",
+      "author": null
+    },
+    {
+      "title": "全线杀跌！中美韩存储芯片集体跳水",
+      "url": "https://www.esmchina.com/news/14416.html",
+      "published_at": null,
+      "summary": "28日，中国A股、韩国股市以及隔夜美股市场中存储芯片板块出现大范围联动下跌，引发投资者广泛关注。",
+      "author": null
+    },
     {
       "title": "从年赚40亿到濒临亏损，保时捷宣布再裁5000人",
       "url": "https://www.esmchina.com/news/14415.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14393.html",
       "published_at": null,
       "summary": "面对这场突如其来的“暴富”传闻，演员黄晓明本人及核心团队已明确予以否认，表示从未参与过长鑫科技的任何相关投资。",
-      "author": null
-    },
-    {
-      "title": "50亿美元，AMD“倒贴”Anthropic拿下巨额订单",
-      "url": "https://www.esmchina.com/news/14392.html",
-      "published_at": null,
-      "summary": "根据协议，Anthropic将在AMD的Helios机架级解决方案中部署至多2吉瓦的Instinct MI450系列GPU，首批1吉瓦的算力部署计划于2027年上半年启动。",
-      "author": null
-    },
-    {
-      "title": "2026上半年车市：前十车企拿下超八成份额，加速攻入欧洲市场",
-      "url": "https://www.esmchina.com/news/14391.html",
-      "published_at": null,
-      "summary": "头部车企的共同增量来源集中在海外市场、新能源产品和智能化量产三个方向。",
       "author": null
     }
   ],

@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-28T04:09:36.527265+00:00",
-  "next_refresh_at": "2026-07-28T04:39:36.527265+00:00",
+  "fetched_at": "2026-07-28T07:13:19.521767+00:00",
+  "next_refresh_at": "2026-07-28T07:43:19.521767+00:00",
   "entries": [
+    {
+      "title": "Q2 2026 Earnings Conference Call Invitation",
+      "url": "https://news.skhynix.com/en/q2-2026-earnings-conference-call-invitation/",
+      "published_at": "2026-07-28T04:13:00+00:00",
+      "summary": "Dear All, SK hynix Inc. will present its Second quarter earnings of 2026 on July. 29th, 2026 (Wed.). Announcement of the earnings in a press release will be made before 9:00 a.m. of the day. The conference call will be held",
+      "author": "SK hynix"
+    },
     {
       "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
       "url": "https://news.skhynix.com/en/skhynix-nvidia-partnership-2026/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/celebrating-adr-trading-1/",
       "published_at": "2026-07-10T06:54:53+00:00",
       "summary": "SK hynix’s brand campaign celebrating its ADR trading debut appeared on digital screens in Times Square, New York.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum",
-      "url": "https://news.skhynix.com/en/2026-chungbuk-sr-forum-4/",
-      "published_at": "2026-07-09T06:52:59+00:00",
-      "summary": "Dongseon Jang, CEO of Curious Brain Lab, delivering the lecture",
       "author": "SK hynix"
     }
   ],
