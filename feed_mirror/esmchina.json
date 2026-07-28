@@ -2,11 +2,25 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-28T07:13:40.153964+00:00",
-  "next_refresh_at": "2026-07-28T07:43:40.153964+00:00",
+  "fetched_at": "2026-07-28T10:06:40.624083+00:00",
+  "next_refresh_at": "2026-07-28T10:36:40.624083+00:00",
   "entries": [
     {
-      "title": "刚刚！商务部万字长文阐明“产能过剩”中方立场",
+      "title": "倒闭也能赢口碑？两家停产工厂给行业“上了一课”",
+      "url": "https://www.esmchina.com/news/14419.html",
+      "published_at": null,
+      "summary": "好聚好散，体面退场。",
+      "author": null
+    },
+    {
+      "title": "72%的供应链决策被反复推翻，问题出在成本算账方式",
+      "url": "https://www.esmchina.com/news/14418.html",
+      "published_at": null,
+      "summary": "Gartner最近的一项调查发现，72%的供应链负责人需要至少重新审议一次网络决策的最终批准，这直接导致了项目延误。",
+      "author": null
+    },
+    {
+      "title": "商务部发万字长文，阐明“产能过剩”中方立场",
       "url": "https://www.esmchina.com/news/14417.html",
       "published_at": null,
       "summary": "7月28日，中国商务部正式发布了《关于所谓“产能过剩”问题的中方立场》文件。这份逾万字的系统性文件，以详实的数据和严密的逻辑，厘清了全球产能演变的客观规律，为构建开放包容的全球产供链合作格局指明了方向。",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14395.html",
       "published_at": null,
       "summary": "谁能解决大规模场景下制冷、供电、算力编排、组网这些看似不起眼的实际问题，谁就能和造出最精巧量子比特的玩家一样，获得决定性优势。",
-      "author": null
-    },
-    {
-      "title": "苹果iPhone 18系列已量产，全面升级Mac产品线迎AI换机潮",
-      "url": "https://www.esmchina.com/news/14394.html",
-      "published_at": null,
-      "summary": "进入7月，苹果iPhone 18系列手机已在量产，正处于产能爬坡阶段。",
-      "author": null
-    },
-    {
-      "title": "同名乌龙！演员黄晓明辟谣投资长鑫科技浮盈百亿",
-      "url": "https://www.esmchina.com/news/14393.html",
-      "published_at": null,
-      "summary": "面对这场突如其来的“暴富”传闻，演员黄晓明本人及核心团队已明确予以否认，表示从未参与过长鑫科技的任何相关投资。",
       "author": null
     }
   ],
