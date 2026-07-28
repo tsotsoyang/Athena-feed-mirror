@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-28T21:38:07.407954+00:00",
-  "next_refresh_at": "2026-07-28T22:08:07.407954+00:00",
+  "fetched_at": "2026-07-28T22:58:58.764058+00:00",
+  "next_refresh_at": "2026-07-28T23:28:58.764058+00:00",
   "entries": [
+    {
+      "title": "SK hynix Announces 2Q26 Financial Results",
+      "url": "https://news.skhynix.com/en/q2-2026-business-results/",
+      "published_at": "2026-07-28T22:49:21+00:00",
+      "summary": "▪ Reports revenues of 79.3187 trillion won, operating profit of 60.5426 trillion won, net profit of 93.9226 trillion won ▪ Record-Breaking Quarterly Performance Driven by High-Value Product Sales Amid Strong AI Demand; Cumulative First-Half Revenue Surpasses 100 Trillion won for",
+      "author": "SK hynix"
+    },
     {
       "title": "Q2 2026 Earnings Conference Call Invitation",
       "url": "https://news.skhynix.com/en/q2-2026-earnings-conference-call-invitation/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/celebrating-adr-trading-2/",
       "published_at": "2026-07-10T06:57:41+00:00",
       "summary": "▲The brand film visually expressed the dual meaning of “memory”as both a semiconductor technology and a human experience.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
-      "url": "https://news.skhynix.com/en/celebrating-adr-trading-1/",
-      "published_at": "2026-07-10T06:54:53+00:00",
-      "summary": "SK hynix’s brand campaign celebrating its ADR trading debut appeared on digital screens in Times Square, New York.",
       "author": "SK hynix"
     }
   ],
