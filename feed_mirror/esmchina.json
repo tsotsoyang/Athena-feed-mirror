@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-28T00:55:24.771176+00:00",
-  "next_refresh_at": "2026-07-28T01:25:24.771176+00:00",
+  "fetched_at": "2026-07-28T04:09:53.850157+00:00",
+  "next_refresh_at": "2026-07-28T04:39:53.850157+00:00",
   "entries": [
+    {
+      "title": "从年赚40亿到濒临亏损，保时捷宣布再裁5000人",
+      "url": "https://www.esmchina.com/news/14415.html",
+      "published_at": null,
+      "summary": "这是保时捷近期又一轮大规模裁员计划。",
+      "author": null
+    },
+    {
+      "title": "三星确认HBM5采用2nm GAA工艺，速度较HBM4E提升逾50%",
+      "url": "https://www.esmchina.com/news/14414.html",
+      "published_at": null,
+      "summary": "这是三星迄今为止对HBM5技术规格最为明确、最为详细的一次公开阐述。",
+      "author": null
+    },
+    {
+      "title": "全球最强AI超算中心排名揭晓，3家中国企业入围",
+      "url": "https://www.esmchina.com/news/14413.html",
+      "published_at": null,
+      "summary": "AI研究机构Epoch AI推出的《AI Data Centers》数据库统计显示，截至2026年7 月，全球投运及在建超大规模AI算力中心数量突破60座，总算力规模折合约1200万张H100等效芯片，占据全球已落地AI总算力的27%。",
+      "author": null
+    },
     {
       "title": "近20家芯片企业扎堆调涨，年内第二轮涨价潮已至！【文末附表】",
       "url": "https://www.esmchina.com/news/14412.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14391.html",
       "published_at": null,
       "summary": "头部车企的共同增量来源集中在海外市场、新能源产品和智能化量产三个方向。",
-      "author": null
-    },
-    {
-      "title": "Kimi K3发布五天：登顶、限购、回应、冲刺上市",
-      "url": "https://www.esmchina.com/news/14390.html",
-      "published_at": null,
-      "summary": "“Kimi时刻”。",
-      "author": null
-    },
-    {
-      "title": "英特尔数据中心又裁员了！四年少了5万人",
-      "url": "https://www.esmchina.com/news/14389.html",
-      "published_at": null,
-      "summary": "英特尔CEO陈立武此前表示，英特尔需要减少管理层级，以便公司能更快做出决策、加速新技术研发。",
-      "author": null
-    },
-    {
-      "title": "英伟达首次公开Vera CPU完整架构：88核Olympus核心专为AI智能体打造",
-      "url": "https://www.esmchina.com/news/14388.html",
-      "published_at": null,
-      "summary": "英伟达通过技术博文首次完整披露了自研数据中心CPU——Vera的架构全貌。",
       "author": null
     }
   ],
