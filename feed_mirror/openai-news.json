@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-28T14:59:00.756362+00:00",
-  "next_refresh_at": "2026-07-28T15:29:00.756362+00:00",
+  "fetched_at": "2026-07-28T16:46:04.952088+00:00",
+  "next_refresh_at": "2026-07-28T17:16:04.952088+00:00",
   "entries": [
     {
       "title": "How AI is expanding what people do at work",

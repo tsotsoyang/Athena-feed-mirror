@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-28T14:59:18.675848+00:00",
-  "next_refresh_at": "2026-07-28T15:29:18.675848+00:00",
+  "fetched_at": "2026-07-28T16:46:20.499793+00:00",
+  "next_refresh_at": "2026-07-28T17:16:20.499793+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.5 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
       "summary": "Grok 4.5 is SpaceXAI",
+      "author": null
+    },
+    {
+      "title": "Introducing Build Mode | SpaceXAI",
+      "url": "https://x.ai/news/grok-build-mode",
+      "published_at": null,
+      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-vapi",
       "published_at": null,
       "summary": "Bringing frontier voice quality to millions of Vapi agents.",
-      "author": null
-    },
-    {
-      "title": "Composer 2.5 | SpaceXAI",
-      "url": "https://x.ai/news/composer-2-5",
-      "published_at": null,
-      "summary": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
       "author": null
     }
   ],
