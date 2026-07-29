@@ -2,14 +2,14 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-29T16:21:53.203674+00:00",
-  "next_refresh_at": "2026-07-29T16:51:53.203674+00:00",
+  "fetched_at": "2026-07-29T17:47:31.875992+00:00",
+  "next_refresh_at": "2026-07-29T18:17:31.875992+00:00",
   "entries": [
     {
-      "title": "Introducing Grok 4.5 | SpaceXAI",
-      "url": "https://x.ai/news/grok-4-5",
+      "title": "Introducing Grok Voice Think Fast 2.0 | SpaceXAI",
+      "url": "https://x.ai/news/grok-voice-think-fast-2",
       "published_at": null,
-      "summary": "Grok 4.5 is SpaceXAI",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
       "author": null
     },
     {
@@ -59,6 +59,13 @@
       "url": "https://x.ai/news/introducing-excel-addin",
       "published_at": null,
       "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
+      "author": null
+    },
+    {
+      "title": "Introducing Grok 4.5 | SpaceXAI",
+      "url": "https://x.ai/news/grok-4-5",
+      "published_at": null,
+      "summary": "Grok 4.5 is SpaceXAI",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-gopuff",
       "published_at": null,
       "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
-      "author": null
-    },
-    {
-      "title": "Grok Imagine 1.5 Preview | SpaceXAI",
-      "url": "https://x.ai/news/grok-imagine-1-5",
-      "published_at": null,
-      "summary": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
       "author": null
     }
   ],
