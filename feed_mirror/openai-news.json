@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-29T21:29:33.113541+00:00",
-  "next_refresh_at": "2026-07-29T21:59:33.113541+00:00",
+  "fetched_at": "2026-07-29T22:31:52.053099+00:00",
+  "next_refresh_at": "2026-07-29T23:01:52.053099+00:00",
   "entries": [
     {
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
