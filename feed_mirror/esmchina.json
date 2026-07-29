@@ -2,9 +2,44 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-29T06:31:01.065345+00:00",
-  "next_refresh_at": "2026-07-29T07:01:01.065345+00:00",
+  "fetched_at": "2026-07-29T09:37:20.986431+00:00",
+  "next_refresh_at": "2026-07-29T10:07:20.986431+00:00",
   "entries": [
+    {
+      "title": "《财富》世界500强：2026年 VS 2025年5大看点",
+      "url": "https://www.esmchina.com/news/14427.html",
+      "published_at": null,
+      "summary": "头部和中美格局的位移值得关注。",
+      "author": null
+    },
+    {
+      "title": "高通在智能眼镜领域的布局：AI成为新UI，聚焦生态系统创新",
+      "url": "https://www.esmchina.com/news/14426.html",
+      "published_at": null,
+      "summary": "AI不再仅仅是某个应用内的功能模块，而是正在成为人与设备交互的第一层界面……",
+      "author": null
+    },
+    {
+      "title": "火！全球智能眼镜CAGR达75%，Meta一家独大拿下超八成份额",
+      "url": "https://www.esmchina.com/news/14425.html",
+      "published_at": null,
+      "summary": "智能眼镜市场正经历从尝鲜到主流的转折。",
+      "author": null
+    },
+    {
+      "title": "智能眼镜拍照、摄像哪家强？DXOMARK实测7款主流产品",
+      "url": "https://www.esmchina.com/news/14424.html",
+      "published_at": null,
+      "summary": "没有一款产品是全能冠军，这也意味着下一代产品的竞争才刚刚开始。",
+      "author": null
+    },
+    {
+      "title": "不只损失460亿美元，欧洲拆除中企电信设备还将拖慢6G进程？",
+      "url": "https://www.esmchina.com/news/14423.html",
+      "published_at": null,
+      "summary": "欧盟拆除并更换中国网络设备的行动，代价高达460亿美元。",
+      "author": null
+    },
     {
       "title": "从嵌入式到服务器：RISC-V的“必然未来”还有多远？",
       "url": "https://www.esmchina.com/news/14386.html",
@@ -143,41 +178,6 @@
       "url": "https://www.esmchina.com/news/14402.html",
       "published_at": null,
       "summary": "2026年第二季度，全球半导体行业在AI算力需求的强劲拉动下交出了一份集体亮眼的答卷。",
-      "author": null
-    },
-    {
-      "title": "IDC报告：Arm在加速服务器市场超越x86",
-      "url": "https://www.esmchina.com/news/14404.html",
-      "published_at": null,
-      "summary": "根据IDC《全球季度AI基础设施追踪报告》，2026年第一季度全球AI基础设施支出达到897亿美元，同比增长33%。本季度最具标志性的变化是市场结构发生转变：基于Arm架构的机架级GPU服务器（rack-scale GPU servers）超越x86，成为主流的加速计算平台。",
-      "author": null
-    },
-    {
-      "title": "左手300亿降税，右手12.5%加税！美国对华关税又玩新花样",
-      "url": "https://www.esmchina.com/news/14403.html",
-      "published_at": null,
-      "summary": "24日，美国依据《1974年贸易法》第301条，以“强迫劳动执法不力”为由，对60个贸易伙伴正式加征10%或12.5%的新关税，无缝替代当天到期的10%全球临时进口关税。",
-      "author": null
-    },
-    {
-      "title": "LG Display二季度净亏损4188亿韩元，裁员补偿支出2400亿韩元",
-      "url": "https://www.esmchina.com/news/14401.html",
-      "published_at": null,
-      "summary": "本次财报中最为引人关注的是与人员优化相关的一次性支出。",
-      "author": null
-    },
-    {
-      "title": "事关中国AI，近200家美企联名致信特朗普",
-      "url": "https://www.esmchina.com/news/14400.html",
-      "published_at": null,
-      "summary": "22日，约200家硅谷初创企业创始人联名向美国总统特朗普、商务部长卢特尼克及白宫科技政策办公室递交联名信，敦促白宫放弃“一刀切”的禁令，维护全球AI生态的开放与竞争。",
-      "author": null
-    },
-    {
-      "title": "2700万美元光模块被盗！？东山精密三次回应",
-      "url": "https://www.esmchina.com/news/14399.html",
-      "published_at": null,
-      "summary": "市场传闻引发千亿市值波动。",
       "author": null
     }
   ],

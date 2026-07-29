@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-29T06:30:47.749551+00:00",
-  "next_refresh_at": "2026-07-29T07:00:47.749551+00:00",
+  "fetched_at": "2026-07-29T09:37:06.560319+00:00",
+  "next_refresh_at": "2026-07-29T10:07:06.560319+00:00",
   "entries": [
     {
       "title": "Scientific computing in the age of agentic AI",
