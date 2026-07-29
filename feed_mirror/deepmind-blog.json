@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-07-29T19:16:25.068206+00:00",
-  "next_refresh_at": "2026-07-29T19:46:25.068206+00:00",
+  "fetched_at": "2026-07-29T20:29:59.961606+00:00",
+  "next_refresh_at": "2026-07-29T20:59:59.961606+00:00",
   "entries": [
     {
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
