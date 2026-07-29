@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-29T03:49:19.908596+00:00",
-  "next_refresh_at": "2026-07-29T04:19:19.908596+00:00",
+  "fetched_at": "2026-07-29T06:31:01.065345+00:00",
+  "next_refresh_at": "2026-07-29T07:01:01.065345+00:00",
   "entries": [
+    {
+      "title": "从嵌入式到服务器：RISC-V的“必然未来”还有多远？",
+      "url": "https://www.esmchina.com/news/14386.html",
+      "published_at": null,
+      "summary": "在嵌入式电子领域留下印记之后，这一开放标准指令集架构（ISA）如今将目光投向了竞争激烈且利润丰厚的企业数据中心和服务器集群市场。",
+      "author": null
+    },
     {
       "title": "美方扩大科研合作限制清单，首次拉黑复旦、交大，中方回应",
       "url": "https://www.esmchina.com/news/14422.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14399.html",
       "published_at": null,
       "summary": "市场传闻引发千亿市值波动。",
-      "author": null
-    },
-    {
-      "title": "特斯拉Q2财报出炉：二季度增收不增利",
-      "url": "https://www.esmchina.com/news/14398.html",
-      "published_at": null,
-      "summary": "国际电子商情讯，美东时间7月22日盘后，特斯拉发布2026年第二季度财报。数据显示，公司Q2总营收达282.4亿美元，同比增长26%，增速创下三年新高，较分析师平均预期高出逾7%。",
       "author": null
     }
   ],
