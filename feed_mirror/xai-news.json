@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-29T17:47:31.875992+00:00",
-  "next_refresh_at": "2026-07-29T18:17:31.875992+00:00",
+  "fetched_at": "2026-07-29T19:16:24.543843+00:00",
+  "next_refresh_at": "2026-07-29T19:46:24.543843+00:00",
   "entries": [
     {
       "title": "Introducing Grok Voice Think Fast 2.0 | SpaceXAI",
