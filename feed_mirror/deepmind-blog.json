@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-07-29T14:41:23.401833+00:00",
-  "next_refresh_at": "2026-07-29T15:11:23.401833+00:00",
+  "fetched_at": "2026-07-29T16:21:50.498990+00:00",
+  "next_refresh_at": "2026-07-29T16:51:50.498990+00:00",
   "entries": [
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "published_at": "2026-07-29T16:02:10+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
       "published_at": "2026-05-16T09:13:34+00:00",
       "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
-      "author": null
-    },
-    {
-      "title": "Finding the molecular switches behind new infectious diseases",
-      "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
-      "published_at": "2026-05-16T08:16:06+00:00",
-      "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
       "author": null
     }
   ],
