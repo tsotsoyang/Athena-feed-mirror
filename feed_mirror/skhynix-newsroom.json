@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-07-29T00:04:36.113716+00:00",
-  "next_refresh_at": "2026-07-29T00:34:36.113716+00:00",
+  "fetched_at": "2026-07-29T03:49:00.027333+00:00",
+  "next_refresh_at": "2026-07-29T04:19:00.027333+00:00",
   "entries": [
+    {
+      "title": "SK hynix Announces 2Q26 Financial Results",
+      "url": "https://news.skhynix.com/en/q2-2026-business-results-01/",
+      "published_at": "2026-07-28T23:00:55+00:00",
+      "summary": "▲ SK hynix 2Q26 Financial Results",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Announces 2Q26 Financial Results",
       "url": "https://news.skhynix.com/en/q2-2026-business-results/",
@@ -28,51 +35,44 @@
     },
     {
       "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "url": "https://news.skhynix.com/en/research-inside-ep1/",
-      "published_at": "2026-07-22T05:00:49+00:00",
-      "summary": "As a full-stack AI memory creator, SK hynix offers a portfolio of AI memory solutions optimized for AI systems — including High Bandwidth Memory (HBM), AI-DRAM, and AI-NAND flash — built on foundational innovation from SK hynix engineers and researchers.To",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-01/",
+      "published_at": "2026-07-22T05:00:57+00:00",
+      "summary": "▲ [Figure 1] The NAND Flash Cell-formation Process",
       "author": "SK hynix"
     },
     {
-      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
-      "url": "https://news.skhynix.com/en/celebrating-adr-trading/",
-      "published_at": "2026-07-10T23:58:29+00:00",
-      "summary": "▪ Times Square roadblock campaign amplifies SK hynix’s Nasdaq ADR trading debut ▪ Brand film connects the dual meaning of “memory” with meaningful moments in everyday life ▪ Anamorphic* 3D HBM visuals highlight SK hynix’s AI memory leadership NEW YORK,",
+      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-02/",
+      "published_at": "2026-07-22T05:00:51+00:00",
+      "summary": "▲ [Figure 2] The Conventional CTI Implementation Process",
       "author": "SK hynix"
     },
     {
-      "title": "SK hynix CEO Kwak Noh-Jung’s Commemorative Remarks at the Nasdaq Opening Bell Ceremony in the U.S.",
-      "url": "https://news.skhynix.com/en/fact-09/",
-      "published_at": "2026-07-10T23:38:16+00:00",
-      "summary": "▪ Introduced the SK hynix’s history of overcoming crises to rise as a core player in global AI infrastructure, showcasing the company’s underlying strength ▪ Presented the significance of the NASDAQ ADR listing and outlined plans to strengthen collaboration across",
+      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-03/",
+      "published_at": "2026-07-22T05:00:46+00:00",
+      "summary": "▲ [Figure 3] Differences in Channel-Hole Count due to Channel-Hole Diameter",
       "author": "SK hynix"
     },
     {
-      "title": "SK hynix Lists ADRs on NASDAQ, Elevating Global Status at the Heart of Capital Markets",
-      "url": "https://news.skhynix.com/en/skhynix-lists-adrs-on-nasdaq/",
-      "published_at": "2026-07-10T22:28:14+00:00",
-      "summary": "▪ SK hynix commences ADR trading with an “Opening Bell” ceremony attended by SK Group Chairman Chey Tae-won and key executive leadership ▪ Company aims to expand investor base and solidify leadership as a “Core AI Partner” in the memory",
+      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-04/",
+      "published_at": "2026-07-22T05:00:37+00:00",
+      "summary": "▲ [Figure 4] The New CTI Implementation Process",
       "author": "SK hynix"
     },
     {
-      "title": "[VOD] Nasdaq ADR Listing Ceremony",
-      "url": "https://news.skhynix.com/en/nasdaq-adr-listing-ceremony/",
-      "published_at": "2026-07-10T08:00:32+00:00",
-      "summary": "",
+      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-06/",
+      "published_at": "2026-07-22T05:00:20+00:00",
+      "summary": "▲ CTI explained",
       "author": "SK hynix"
     },
     {
-      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
-      "url": "https://news.skhynix.com/en/celebrating-adr-trading-4/",
-      "published_at": "2026-07-10T06:59:42+00:00",
-      "summary": "SK hynix’s HBM was brought to life through anamorphic 3D visuals on a Times Square digital screen.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix lights up the heart of New York with its brand, highlighting technology that preserves beautiful memories",
-      "url": "https://news.skhynix.com/en/celebrating-adr-trading-2/",
-      "published_at": "2026-07-10T06:57:41+00:00",
-      "summary": "▲The brand film visually expressed the dual meaning of “memory”as both a semiconductor technology and a human experience.",
+      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+      "url": "https://news.skhynix.com/en/research-inside-ep1-05/",
+      "published_at": "2026-07-22T05:00:02+00:00",
+      "summary": "▲ [Figure 5] A Comparison of Conventional CTI with SK hynix’s New CTI Process",
       "author": "SK hynix"
     }
   ],
