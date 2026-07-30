@@ -2,9 +2,44 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-30T06:06:49.108260+00:00",
-  "next_refresh_at": "2026-07-30T06:36:49.108260+00:00",
+  "fetched_at": "2026-07-30T09:13:41.245568+00:00",
+  "next_refresh_at": "2026-07-30T09:43:41.245568+00:00",
   "entries": [
+    {
+      "title": "又涨了！MLCC全线告急，被动元件第三波涨价潮来了？",
+      "url": "https://www.esmchina.com/news/14431.html",
+      "published_at": null,
+      "summary": "自2025年年中被动元器件大厂开始涨价以来，目前该领域迎来了第三轮集中涨价，新一轮涨价所涉及的产品是MLCC（多层陶瓷电容器）。",
+      "author": null
+    },
+    {
+      "title": "三星2026年Q2营业利润89.5万亿韩元创新高，半导体贡献99%利润",
+      "url": "https://www.esmchina.com/news/14435.html",
+      "published_at": null,
+      "summary": "7月30日，三星电子发布2026年二季度财报。",
+      "author": null
+    },
+    {
+      "title": "宝马裁员8000人，百年巨头也扛不住了",
+      "url": "https://www.esmchina.com/news/14434.html",
+      "published_at": null,
+      "summary": "根据披露的重组方案，宝马计划在2027年底前在全球范围内裁减约8000个工作岗位，这一数字约占其全球15.45万名员工总数的5%。该计划将于2026年10月正式启动，并持续至2027年底。",
+      "author": null
+    },
+    {
+      "title": "估值1800亿，荣耀最新IPO进展，信息量极大！",
+      "url": "https://www.esmchina.com/news/14432.html",
+      "published_at": null,
+      "summary": "根据证监会官网IPO辅导公示系统于7月30日披露的信息，中信证券已正式提交荣耀IPO辅导工作进展情况报告（第四期），标志着其上市筹备工作仍在扎实、有序地向前推进。",
+      "author": null
+    },
+    {
+      "title": "【直播预告】揭秘车规 SoC 实现稳定安全无感解锁黑科技",
+      "url": "https://www.eet-china.com/ee-live/entry/Aspencore_20260902.html?source=pop",
+      "published_at": null,
+      "summary": "本期EETalk将聚焦汽车电子架构升级趋势，探讨汽车产业链如何通过半导体技术创新，构建更安全、更智能、更高效的新一代汽车电子系统，共同推动智能汽车从功能创新迈向体验创新。",
+      "author": null
+    },
     {
       "title": "黑鲨手机官宣退场！曾占游戏手机的半壁江山",
       "url": "https://www.esmchina.com/news/14430.html",
@@ -143,41 +178,6 @@
       "url": "https://www.esmchina.com/news/14412.html",
       "published_at": null,
       "summary": "在数月内，半导体行业经历了两轮普涨，其中第二轮涨价潮已于7月前后集中落地（文末附表格）。",
-      "author": null
-    },
-    {
-      "title": "高通芯片9月起涨价，加价至少一成，手机厂商还扛得住吗？",
-      "url": "https://www.esmchina.com/news/14411.html",
-      "published_at": null,
-      "summary": "芯片涨价对手机厂商的利润空间形成直接挤压。",
-      "author": null
-    },
-    {
-      "title": "2026上半年中国集成电路制造行业利润增长2579.5%",
-      "url": "https://www.esmchina.com/news/14410.html",
-      "published_at": null,
-      "summary": "上半年，人工智能与各领域加速融合，是规模以上工业企业利润较快增长的重要支撑。",
-      "author": null
-    },
-    {
-      "title": "先进封装市场规模，剑指1200亿美元！",
-      "url": "https://www.esmchina.com/news/14409.html",
-      "published_at": null,
-      "summary": "Yole最新的数据显示，先进封装市场规模预计将从2025年的550亿美元，增长到2031年的1200亿美元以上。",
-      "author": null
-    },
-    {
-      "title": "韩国芯片两巨头签下9500亿美元大单，锁定英伟达博通长期采购",
-      "url": "https://www.esmchina.com/news/14408.html",
-      "published_at": null,
-      "summary": "韩国绑定美国AI产业链！",
-      "author": null
-    },
-    {
-      "title": "开盘暴涨471%！长鑫科技开盘市值突破3.31万亿",
-      "url": "https://www.esmchina.com/news/14407.html",
-      "published_at": null,
-      "summary": "27日，国内DRAM龙头长鑫科技集团股份有限公司（688825）正式在科创板挂牌交易。以49.50元开盘价格结合总股本计算，企业瞬时总市值攀升至3.31万亿元，超越工商银行，成为A股市场总市值最高的上市公司。",
       "author": null
     }
   ],

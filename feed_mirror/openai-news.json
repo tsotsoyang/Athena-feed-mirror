@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-30T06:06:35.911507+00:00",
-  "next_refresh_at": "2026-07-30T06:36:35.911507+00:00",
+  "fetched_at": "2026-07-30T09:13:25.109569+00:00",
+  "next_refresh_at": "2026-07-30T09:43:25.109569+00:00",
   "entries": [
     {
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
