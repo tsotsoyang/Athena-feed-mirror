@@ -2,13 +2,27 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-07-30T13:09:42.863023+00:00",
-  "next_refresh_at": "2026-07-30T13:39:42.863023+00:00",
+  "fetched_at": "2026-07-30T15:31:01.562492+00:00",
+  "next_refresh_at": "2026-07-30T16:01:01.562492+00:00",
   "entries": [
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "published_at": "2026-07-30T15:00:59+00:00",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "author": null
+    },
     {
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
       "published_at": "2026-07-29T16:02:10+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "published_at": "2026-07-28T13:21:37+00:00",
       "summary": "",
       "author": null
     },
@@ -164,20 +178,6 @@
       "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
       "published_at": "2026-05-17T13:50:34+00:00",
       "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
-      "author": null
-    },
-    {
-      "title": "Making it easier to understand how content was created and edited",
-      "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
-      "published_at": "2026-05-17T13:43:50+00:00",
-      "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
-      "author": null
-    },
-    {
-      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
-      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-      "published_at": "2026-05-16T09:13:34+00:00",
-      "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
       "author": null
     }
   ],
