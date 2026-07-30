@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-30T00:00:00.957636+00:00",
-  "next_refresh_at": "2026-07-30T00:30:00.957636+00:00",
+  "fetched_at": "2026-07-30T03:16:22.462660+00:00",
+  "next_refresh_at": "2026-07-30T03:46:22.462660+00:00",
   "entries": [
+    {
+      "title": "兆易创新朱一明拟10亿增持，释放哪些利好？",
+      "url": "https://www.esmchina.com/news/14429.html",
+      "published_at": null,
+      "summary": "29日，国内存储芯片龙头企业兆易创新（603986）发布公告，披露控股股东、实际控制人朱一明拟斥资不低于10亿元增持公司A股股份。",
+      "author": null
+    },
+    {
+      "title": "长江存储深夜辟谣：核心专利无效系误导，与美光诉讼仍在审理中",
+      "url": "https://www.esmchina.com/news/14428.html",
+      "published_at": null,
+      "summary": "长江存储在声明中强调，公司始终坚持自主创新和依法合规经营。",
+      "author": null
+    },
     {
       "title": "《财富》世界500强：2026年 VS 2025年5大看点",
       "url": "https://www.esmchina.com/news/14427.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14406.html",
       "published_at": null,
       "summary": "东方算芯的探索之所以引人关注，在于其跳出“对标”思路，依托自主可重构近存计算架构与国产化供应链，蹚出了一条差异化的创新路径。",
-      "author": null
-    },
-    {
-      "title": "9家A股存储企业披露中报预告：营收、净利普遍翻番，行业高景气延续",
-      "url": "https://www.esmchina.com/news/14405.html",
-      "published_at": null,
-      "summary": "截至发稿日，已经有9家A股存储企业发布2026年业绩预告。",
-      "author": null
-    },
-    {
-      "title": "半导体巨头2026年Q2财报盘点",
-      "url": "https://www.esmchina.com/news/14402.html",
-      "published_at": null,
-      "summary": "2026年第二季度，全球半导体行业在AI算力需求的强劲拉动下交出了一份集体亮眼的答卷。",
       "author": null
     }
   ],
