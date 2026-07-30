@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-29T22:31:52.053099+00:00",
-  "next_refresh_at": "2026-07-29T23:01:52.053099+00:00",
+  "fetched_at": "2026-07-29T23:59:46.451336+00:00",
+  "next_refresh_at": "2026-07-30T00:29:46.451336+00:00",
   "entries": [
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "published_at": "2026-07-29T15:00:00+00:00",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "author": null
+    },
     {
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/deutsche-telekom",
       "published_at": "2026-07-10T07:00:00+00:00",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "author": null
-    },
-    {
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "published_at": "2026-07-10T00:00:00+00:00",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
       "author": null
     }
   ],
