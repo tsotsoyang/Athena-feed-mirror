@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-30T21:42:53.423826+00:00",
-  "next_refresh_at": "2026-07-30T22:12:53.423826+00:00",
+  "fetched_at": "2026-07-30T23:07:41.810524+00:00",
+  "next_refresh_at": "2026-07-30T23:37:41.810524+00:00",
   "entries": [
     {
       "title": "Advancing the price-performance frontier with GPT-5.6",
