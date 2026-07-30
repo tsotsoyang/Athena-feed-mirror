@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-30T03:16:22.462660+00:00",
-  "next_refresh_at": "2026-07-30T03:46:22.462660+00:00",
+  "fetched_at": "2026-07-30T06:06:49.108260+00:00",
+  "next_refresh_at": "2026-07-30T06:36:49.108260+00:00",
   "entries": [
+    {
+      "title": "黑鲨手机官宣退场！曾占游戏手机的半壁江山",
+      "url": "https://www.esmchina.com/news/14430.html",
+      "published_at": null,
+      "summary": "官宣退场！曾占游戏手机的半壁江山，为何走到这一步？",
+      "author": null
+    },
     {
       "title": "兆易创新朱一明拟10亿增持，释放哪些利好？",
       "url": "https://www.esmchina.com/news/14429.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14407.html",
       "published_at": null,
       "summary": "27日，国内DRAM龙头长鑫科技集团股份有限公司（688825）正式在科创板挂牌交易。以49.50元开盘价格结合总股本计算，企业瞬时总市值攀升至3.31万亿元，超越工商银行，成为A股市场总市值最高的上市公司。",
-      "author": null
-    },
-    {
-      "title": "大国算力破局者：东方算芯的二十年突围与时代答卷",
-      "url": "https://www.esmchina.com/news/14406.html",
-      "published_at": null,
-      "summary": "东方算芯的探索之所以引人关注，在于其跳出“对标”思路，依托自主可重构近存计算架构与国产化供应链，蹚出了一条差异化的创新路径。",
       "author": null
     }
   ],
