@@ -2,16 +2,9 @@
   "source": "minimax-news",
   "name": "MiniMax News",
   "feed_url": "https://www.minimax.io/news",
-  "fetched_at": "2026-07-30T23:07:57.070896+00:00",
-  "next_refresh_at": "2026-07-30T23:37:57.070896+00:00",
+  "fetched_at": "2026-07-31T01:04:38.272004+00:00",
+  "next_refresh_at": "2026-07-31T01:34:38.272004+00:00",
   "entries": [
-    {
-      "title": "MiniMax Hailuo 2.3: A New Level of Complex Video Performance &amp; Media Agent - MiniMax News | MiniMax",
-      "url": "https://www.minimax.io/news/minimax-hailuo-23",
-      "published_at": null,
-      "summary": "",
-      "author": null
-    },
     {
       "title": "MiniMax Speech 2.8: Breathing life into AI voice - MiniMax News | MiniMax",
       "url": "https://www.minimax.io/news/minimax-speech-28",
