@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-31T04:59:53.186824+00:00",
-  "next_refresh_at": "2026-07-31T05:29:53.186824+00:00",
+  "fetched_at": "2026-07-31T08:05:02.151175+00:00",
+  "next_refresh_at": "2026-07-31T08:35:02.151175+00:00",
   "entries": [
+    {
+      "title": "豆包上车特斯拉：能聊天、能搜资讯、还能讲故事",
+      "url": "https://www.esmchina.com/news/14439.html",
+      "published_at": null,
+      "summary": "中国用豆包，美国用Grok。",
+      "author": null
+    },
     {
       "title": "SpaceX强推供应链“去中国化”，路由器也不放过",
       "url": "https://www.esmchina.com/news/14438.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14416.html",
       "published_at": null,
       "summary": "28日，中国A股、韩国股市以及隔夜美股市场中存储芯片板块出现大范围联动下跌，引发投资者广泛关注。",
-      "author": null
-    },
-    {
-      "title": "从年赚40亿到濒临亏损，保时捷宣布再裁5000人",
-      "url": "https://www.esmchina.com/news/14415.html",
-      "published_at": null,
-      "summary": "这是保时捷近期又一轮大规模裁员计划。",
       "author": null
     }
   ],

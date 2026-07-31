@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-31T04:59:38.292327+00:00",
-  "next_refresh_at": "2026-07-31T05:29:38.292327+00:00",
+  "fetched_at": "2026-07-31T08:04:46.078494+00:00",
+  "next_refresh_at": "2026-07-31T08:34:46.078494+00:00",
   "entries": [
+    {
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "published_at": "2026-07-31T15:00:00+00:00",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "author": null
+    },
     {
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "published_at": "2026-07-14T10:00:00+00:00",
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "author": null
-    },
-    {
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "author": null
     }
   ],
