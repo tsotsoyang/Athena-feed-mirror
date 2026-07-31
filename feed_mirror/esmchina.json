@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-31T08:05:02.151175+00:00",
-  "next_refresh_at": "2026-07-31T08:35:02.151175+00:00",
+  "fetched_at": "2026-07-31T11:06:01.218656+00:00",
+  "next_refresh_at": "2026-07-31T11:36:01.218656+00:00",
   "entries": [
+    {
+      "title": "澜起科技试产CXL 3.2内存扩展控制器芯片，已导入三星、SK海力士下一代产品",
+      "url": "https://www.esmchina.com/news/14441.html",
+      "published_at": null,
+      "summary": "7月31日，澜起科技正式宣布，率先在业界试产CXL 3.2内存扩展控制器（MXC）芯片。",
+      "author": null
+    },
+    {
+      "title": "医疗AI边缘架构的落地逻辑，将算力推向患者侧",
+      "url": "https://www.esmchina.com/news/14440.html",
+      "published_at": null,
+      "summary": "如今，无论走进大型医疗体系、诊断实验室，还是制药研发机构，你都会发现AI已经深度融入工作流。",
+      "author": null
+    },
     {
       "title": "豆包上车特斯拉：能聊天、能搜资讯、还能讲故事",
       "url": "https://www.esmchina.com/news/14439.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14418.html",
       "published_at": null,
       "summary": "Gartner最近的一项调查发现，72%的供应链负责人需要至少重新审议一次网络决策的最终批准，这直接导致了项目延误。",
-      "author": null
-    },
-    {
-      "title": "商务部发万字长文，阐明“产能过剩”中方立场",
-      "url": "https://www.esmchina.com/news/14417.html",
-      "published_at": null,
-      "summary": "7月28日，中国商务部正式发布了《关于所谓“产能过剩”问题的中方立场》文件。这份逾万字的系统性文件，以详实的数据和严密的逻辑，厘清了全球产能演变的客观规律，为构建开放包容的全球产供链合作格局指明了方向。",
-      "author": null
-    },
-    {
-      "title": "全线杀跌！中美韩存储芯片集体跳水",
-      "url": "https://www.esmchina.com/news/14416.html",
-      "published_at": null,
-      "summary": "28日，中国A股、韩国股市以及隔夜美股市场中存储芯片板块出现大范围联动下跌，引发投资者广泛关注。",
       "author": null
     }
   ],
