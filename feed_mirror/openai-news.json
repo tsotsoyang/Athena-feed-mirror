@@ -2,16 +2,9 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-31T19:24:54.328892+00:00",
-  "next_refresh_at": "2026-07-31T19:54:54.328892+00:00",
+  "fetched_at": "2026-07-31T20:41:42.097543+00:00",
+  "next_refresh_at": "2026-07-31T21:11:42.097543+00:00",
   "entries": [
-    {
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "author": null
-    },
     {
       "title": "Advancing responsible AI across Europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
@@ -31,6 +24,13 @@
       "url": "https://openai.com/index/unive",
       "published_at": "2026-07-31T07:00:00+00:00",
       "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "author": null
+    },
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "author": null
     },
     {
