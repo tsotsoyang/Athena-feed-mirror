@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-31T17:36:54.573295+00:00",
-  "next_refresh_at": "2026-07-31T18:06:54.573295+00:00",
+  "fetched_at": "2026-07-31T19:24:54.328892+00:00",
+  "next_refresh_at": "2026-07-31T19:54:54.328892+00:00",
   "entries": [
     {
       "title": "Disrupting a Criminal Scam Operation",
