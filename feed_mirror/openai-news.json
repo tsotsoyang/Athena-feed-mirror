@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-31T15:37:24.562188+00:00",
-  "next_refresh_at": "2026-07-31T16:07:24.562188+00:00",
+  "fetched_at": "2026-07-31T17:36:54.573295+00:00",
+  "next_refresh_at": "2026-07-31T18:06:54.573295+00:00",
   "entries": [
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "author": null
+    },
     {
       "title": "Advancing responsible AI across Europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/cars24",
       "published_at": "2026-07-16T00:00:00+00:00",
       "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "author": null
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "published_at": "2026-07-15T12:00:00+00:00",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "author": null
     }
   ],
