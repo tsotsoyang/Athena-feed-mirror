@@ -2,14 +2,21 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-31T13:14:01.366647+00:00",
-  "next_refresh_at": "2026-07-31T13:44:01.366647+00:00",
+  "fetched_at": "2026-07-31T15:37:24.562188+00:00",
+  "next_refresh_at": "2026-07-31T16:07:24.562188+00:00",
   "entries": [
     {
       "title": "Advancing responsible AI across Europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "published_at": "2026-07-31T15:00:00+00:00",
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "author": null
+    },
+    {
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "published_at": "2026-07-31T15:00:00+00:00",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "published_at": "2026-07-15T12:00:00+00:00",
       "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "author": null
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "published_at": "2026-07-15T10:00:00+00:00",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "author": null
     }
   ],
