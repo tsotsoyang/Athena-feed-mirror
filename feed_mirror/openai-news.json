@@ -2,14 +2,21 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-07-31T01:04:24.144605+00:00",
-  "next_refresh_at": "2026-07-31T01:34:24.144605+00:00",
+  "fetched_at": "2026-07-31T04:59:38.292327+00:00",
+  "next_refresh_at": "2026-07-31T05:29:38.292327+00:00",
   "entries": [
     {
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "published_at": "2026-07-30T10:00:00+00:00",
       "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "author": null
+    },
+    {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "published_at": "2026-07-14T00:00:00+00:00",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "author": null
-    },
-    {
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "author": null
     }
   ],

@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-07-31T01:04:37.056039+00:00",
-  "next_refresh_at": "2026-07-31T01:34:37.056039+00:00",
+  "fetched_at": "2026-07-31T04:59:53.186824+00:00",
+  "next_refresh_at": "2026-07-31T05:29:53.186824+00:00",
   "entries": [
+    {
+      "title": "SpaceX强推供应链“去中国化”，路由器也不放过",
+      "url": "https://www.esmchina.com/news/14438.html",
+      "published_at": null,
+      "summary": "美国太空探索技术公司(SpaceX)正以前所未有的力度，对其全球供应链展开一场彻底的“净化”审查，以试图在物理和人员层面全面隔离中国因素。",
+      "author": null
+    },
+    {
+      "title": "苹果Q3营收1094亿美元创六月季度新高，库克最后一次财报电话会交棒",
+      "url": "https://www.esmchina.com/news/14437.html",
+      "published_at": null,
+      "summary": "这是苹果功勋CEO蒂姆·库克的最后一次财报电话会。",
+      "author": null
+    },
+    {
+      "title": "长鑫破4万亿，SK海力士爆拉28%...全球科技股迎来史诗级暴涨",
+      "url": "https://www.esmchina.com/news/14436.html",
+      "published_at": null,
+      "summary": "微软单日暴增4500亿，SK海力士盘中飙升29%，A股科技赛道绝地反击！从连环爆仓到满屏两位数暴涨，这场史诗级反弹背后，究竟是谁在主导？",
+      "author": null
+    },
     {
       "title": "又涨了！MLCC全线告急，被动元件第三波涨价潮来了？",
       "url": "https://www.esmchina.com/news/14431.html",
@@ -20,7 +41,7 @@
       "author": null
     },
     {
-      "title": "宝马裁员8000人，百年巨头也扛不住了",
+      "title": "裁员8000人，百年宝马迎来艰难调整期",
       "url": "https://www.esmchina.com/news/14434.html",
       "published_at": null,
       "summary": "根据披露的重组方案，宝马计划在2027年底前在全球范围内裁减约8000个工作岗位，这一数字约占其全球15.45万名员工总数的5%。该计划将于2026年10月正式启动，并持续至2027年底。",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14415.html",
       "published_at": null,
       "summary": "这是保时捷近期又一轮大规模裁员计划。",
-      "author": null
-    },
-    {
-      "title": "三星确认HBM5采用2nm GAA工艺，速度较HBM4E提升逾50%",
-      "url": "https://www.esmchina.com/news/14414.html",
-      "published_at": null,
-      "summary": "这是三星迄今为止对HBM5技术规格最为明确、最为详细的一次公开阐述。",
-      "author": null
-    },
-    {
-      "title": "全球最强AI超算中心排名揭晓，3家中国企业入围",
-      "url": "https://www.esmchina.com/news/14413.html",
-      "published_at": null,
-      "summary": "AI研究机构Epoch AI推出的《AI Data Centers》数据库统计显示，截至2026年7 月，全球投运及在建超大规模AI算力中心数量突破60座，总算力规模折合约1200万张H100等效芯片，占据全球已落地AI总算力的27%。",
-      "author": null
-    },
-    {
-      "title": "近20家芯片企业扎堆调涨，年内第二轮涨价潮已至！【文末附表】",
-      "url": "https://www.esmchina.com/news/14412.html",
-      "published_at": null,
-      "summary": "在数月内，半导体行业经历了两轮普涨，其中第二轮涨价潮已于7月前后集中落地（文末附表格）。",
       "author": null
     }
   ],
