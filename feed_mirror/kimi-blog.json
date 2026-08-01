@@ -2,14 +2,14 @@
   "source": "kimi-blog",
   "name": "Moonshot AI / Kimi Blog",
   "feed_url": "https://www.kimi.com/blog",
-  "fetched_at": "2026-08-01T07:28:01.807591+00:00",
-  "next_refresh_at": "2026-08-01T07:58:01.807591+00:00",
+  "fetched_at": "2026-08-01T09:32:35.181493+00:00",
+  "next_refresh_at": "2026-08-01T10:02:35.181493+00:00",
   "entries": [
     {
-      "title": "Kimi K3 Tech Blog: Open Frontier Intelligence",
+      "title": "Kimi K3 Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
       "published_at": null,
-      "summary": "Kimi K3 is the world&#x27;s first open 3T-class model — frontier performance across coding, knowledge work, and reasoning, with native multimodality and 1M context.",
+      "summary": "",
       "author": null
     },
     {
