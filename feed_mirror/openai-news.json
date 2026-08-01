@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-01T04:51:24.324850+00:00",
-  "next_refresh_at": "2026-08-01T05:21:24.324850+00:00",
+  "fetched_at": "2026-08-01T07:27:45.195885+00:00",
+  "next_refresh_at": "2026-08-01T07:57:45.195885+00:00",
   "entries": [
     {
       "title": "Advancing responsible AI across Europe",
