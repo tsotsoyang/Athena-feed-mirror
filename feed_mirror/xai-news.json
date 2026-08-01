@@ -2,9 +2,16 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-07-31T23:30:25.756565+00:00",
-  "next_refresh_at": "2026-08-01T00:00:25.756565+00:00",
+  "fetched_at": "2026-08-01T01:07:40.291379+00:00",
+  "next_refresh_at": "2026-08-01T01:37:40.291379+00:00",
   "entries": [
+    {
+      "title": "Imagine Video 1.5 with References | SpaceXAI",
+      "url": "https://x.ai/news/grok-imagine-video-1-5-references",
+      "published_at": null,
+      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
+      "author": null
+    },
     {
       "title": "Introducing Grok Voice Think Fast 2.0 | SpaceXAI",
       "url": "https://x.ai/news/grok-voice-think-fast-2",
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-etoro",
       "published_at": null,
       "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
-      "author": null
-    },
-    {
-      "title": "Powering Gopuff's Go agent | SpaceXAI",
-      "url": "https://x.ai/news/grok-gopuff",
-      "published_at": null,
-      "summary": "Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models.",
       "author": null
     }
   ],
