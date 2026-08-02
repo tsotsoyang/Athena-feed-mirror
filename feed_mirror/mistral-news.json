@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-08-02T22:28:31.320941+00:00",
-  "next_refresh_at": "2026-08-02T22:58:31.320941+00:00",
+  "fetched_at": "2026-08-02T23:31:20.495032+00:00",
+  "next_refresh_at": "2026-08-03T00:01:20.495032+00:00",
   "entries": [
     {
       "title": "Your Prompts and Skills need a system of record.",
