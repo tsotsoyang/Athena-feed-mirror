@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-02T23:31:33.920983+00:00",
-  "next_refresh_at": "2026-08-03T00:01:33.920983+00:00",
+  "fetched_at": "2026-08-03T02:49:18.118260+00:00",
+  "next_refresh_at": "2026-08-03T03:19:18.118260+00:00",
   "entries": [
+    {
+      "title": "120万辆特斯拉汽车在美遭调查，悬架故障可能导致失控",
+      "url": "https://www.esmchina.com/news/14443.html",
+      "published_at": null,
+      "summary": "调查对象涵盖2018-2020款Model 3及2021-2023款Model Y。",
+      "author": null
+    },
+    {
+      "title": "小米多款手机正式涨价，第三轮调价覆盖主力机型",
+      "url": "https://www.esmchina.com/news/14442.html",
+      "published_at": null,
+      "summary": "这是小米今年以来的第三轮涨价，此前已分别于4月和6月进行过调价。",
+      "author": null
+    },
     {
       "title": "澜起科技试产CXL 3.2内存扩展控制器芯片，已导入三星、SK海力士下一代产品",
       "url": "https://www.esmchina.com/news/14441.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14421.html",
       "published_at": null,
       "summary": "当地时间28日，美国联邦通信委员会(FCC)正式将外国生产的先进机器人设备与并网电力逆变器纳入“受管制清单”，即日起生效。",
-      "author": null
-    },
-    {
-      "title": "倒闭也能赢口碑？两家停产工厂给行业“上了一课”",
-      "url": "https://www.esmchina.com/news/14419.html",
-      "published_at": null,
-      "summary": "好聚好散，体面退场。",
-      "author": null
-    },
-    {
-      "title": "72%的供应链决策被反复推翻，问题出在成本算账方式",
-      "url": "https://www.esmchina.com/news/14418.html",
-      "published_at": null,
-      "summary": "Gartner最近的一项调查发现，72%的供应链负责人需要至少重新审议一次网络决策的最终批准，这直接导致了项目延误。",
       "author": null
     }
   ],
