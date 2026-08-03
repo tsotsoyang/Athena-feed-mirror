@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-03T02:49:03.003055+00:00",
-  "next_refresh_at": "2026-08-03T03:19:03.003055+00:00",
+  "fetched_at": "2026-08-03T06:23:16.633769+00:00",
+  "next_refresh_at": "2026-08-03T06:53:16.633769+00:00",
   "entries": [
     {
       "title": "Ten advances in mathematics and theoretical computer science",
