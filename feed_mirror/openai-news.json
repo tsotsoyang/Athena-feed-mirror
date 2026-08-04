@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-04T04:19:10.147218+00:00",
-  "next_refresh_at": "2026-08-04T04:49:10.147218+00:00",
+  "fetched_at": "2026-08-04T07:13:00.673572+00:00",
+  "next_refresh_at": "2026-08-04T07:43:00.673572+00:00",
   "entries": [
+    {
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published_at": "2026-08-03T22:00:00+00:00",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "author": null
+    },
     {
       "title": "How we built a realtime system for responsive voice AI in six months",
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
       "published_at": "2026-07-20T10:00:00+00:00",
       "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "author": null
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "published_at": "2026-07-17T10:00:00+00:00",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "author": null
     }
   ],

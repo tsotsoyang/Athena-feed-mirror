@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-04T04:19:23.317058+00:00",
-  "next_refresh_at": "2026-08-04T04:49:23.317058+00:00",
+  "fetched_at": "2026-08-04T07:13:16.312504+00:00",
+  "next_refresh_at": "2026-08-04T07:43:16.312504+00:00",
   "entries": [
+    {
+      "title": "你的iCloud数据安全吗？苹果为保护用户隐私，直接把英国告了",
+      "url": "https://www.esmchina.com/news/14448.html",
+      "published_at": null,
+      "summary": "这场法律争端源于苹果2022年推出的iCloud高级数据保护功能。",
+      "author": null
+    },
+    {
+      "title": "从华强北“一米柜台”到千亿市值：嘉立创今日登陆深交所主板",
+      "url": "https://www.esmchina.com/news/14447.html",
+      "published_at": null,
+      "summary": "嘉立创成立于2006年，起步于深圳华强北的“一米柜台”，最初专注于PCB打样和小批量业务。",
+      "author": null
+    },
     {
       "title": "长鑫存储拟在京建设第二座12英寸DRAM晶圆厂",
       "url": "https://www.esmchina.com/news/14446.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14424.html",
       "published_at": null,
       "summary": "没有一款产品是全能冠军，这也意味着下一代产品的竞争才刚刚开始。",
-      "author": null
-    },
-    {
-      "title": "不只损失460亿美元，欧洲拆除中企电信设备还将拖慢6G进程？",
-      "url": "https://www.esmchina.com/news/14423.html",
-      "published_at": null,
-      "summary": "欧盟拆除并更换中国网络设备的行动，代价高达460亿美元。",
-      "author": null
-    },
-    {
-      "title": "从嵌入式到服务器：RISC-V的“必然未来”还有多远？",
-      "url": "https://www.esmchina.com/news/14386.html",
-      "published_at": null,
-      "summary": "在嵌入式电子领域留下印记之后，这一开放标准指令集架构（ISA）如今将目光投向了竞争激烈且利润丰厚的企业数据中心和服务器集群市场。",
       "author": null
     }
   ],
