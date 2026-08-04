@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-04T00:58:53.656904+00:00",
-  "next_refresh_at": "2026-08-04T01:28:53.656904+00:00",
+  "fetched_at": "2026-08-04T04:19:23.317058+00:00",
+  "next_refresh_at": "2026-08-04T04:49:23.317058+00:00",
   "entries": [
+    {
+      "title": "长鑫存储拟在京建设第二座12英寸DRAM晶圆厂",
+      "url": "https://www.esmchina.com/news/14446.html",
+      "published_at": null,
+      "summary": "长鑫存储(CXMT)正考虑在北京市亦庄地区建设其第二座12英寸DRAM晶圆厂，目前该项目已与相关地方产业平台进入早期融资洽谈阶段。",
+      "author": null
+    },
+    {
+      "title": "SK海力士联手闪迪发布HBF首个开放标准，填补HBM与SSD之间的存储空白",
+      "url": "https://www.esmchina.com/news/14445.html",
+      "published_at": null,
+      "summary": "SK海力士与闪迪联合发布了下一代存储技术——高带宽闪存的首个标准规范。",
+      "author": null
+    },
+    {
+      "title": "总理签署，新版《集成电路布图设计保护条例》颁布",
+      "url": "https://www.esmchina.com/news/14444.html",
+      "published_at": null,
+      "summary": "国务院总理李强近日签署国务院令，正式公布了修订后的《集成电路布图设计保护条例》。该《条例》已于8月3日对外发布，并将于2026年10月15日起正式施行。这是该条例自2001年公布施行以来的首次系统性修订，旨在保护集成电路布图设计专有权，鼓励技术创新，并促进科学技术发展。",
+      "author": null
+    },
     {
       "title": "120万辆特斯拉汽车在美遭调查，悬架故障可能导致失控",
       "url": "https://www.esmchina.com/news/14443.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14386.html",
       "published_at": null,
       "summary": "在嵌入式电子领域留下印记之后，这一开放标准指令集架构（ISA）如今将目光投向了竞争激烈且利润丰厚的企业数据中心和服务器集群市场。",
-      "author": null
-    },
-    {
-      "title": "美方扩大科研合作限制清单，首次拉黑复旦、交大，中方回应",
-      "url": "https://www.esmchina.com/news/14422.html",
-      "published_at": null,
-      "summary": "中方将采取必要措施，维护中方科研机构的正当合法权益，为正常科技交流合作保驾护航。",
-      "author": null
-    },
-    {
-      "title": "SK海力士2026年Q2净利率118%，上半年营收首破100万亿韩元",
-      "url": "https://www.esmchina.com/news/14420.html",
-      "published_at": null,
-      "summary": "国际电子商情讯，7月29日，SK海力士发布截至2026年6月30日的2026财年第二季度财报。",
-      "author": null
-    },
-    {
-      "title": "美国FCC全面禁售中国新型机器人与逆变器",
-      "url": "https://www.esmchina.com/news/14421.html",
-      "published_at": null,
-      "summary": "当地时间28日，美国联邦通信委员会(FCC)正式将外国生产的先进机器人设备与并网电力逆变器纳入“受管制清单”，即日起生效。",
       "author": null
     }
   ],

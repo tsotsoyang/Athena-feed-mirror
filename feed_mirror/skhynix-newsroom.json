@@ -2,9 +2,23 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-04T00:58:35.217452+00:00",
-  "next_refresh_at": "2026-08-04T01:28:35.217452+00:00",
+  "fetched_at": "2026-08-04T04:19:05.209321+00:00",
+  "next_refresh_at": "2026-08-04T04:49:05.209321+00:00",
   "entries": [
+    {
+      "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
+      "url": "https://news.skhynix.com/en/hbf-at-fms-2026-01/",
+      "published_at": "2026-08-03T23:30:50+00:00",
+      "summary": "▲ SK hynix announced on August 4 that it has unveiled the first standard specification for High Bandwidth Flash (HBF), a next-generation storage technology, in collaboration with Sandisk through the OCP.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
+      "url": "https://news.skhynix.com/en/hbf-at-fms-2026-02/",
+      "published_at": "2026-08-03T23:30:45+00:00",
+      "summary": "▲ Rendering of SK hynix’s exhibition booth at FMS 2026.",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
       "url": "https://news.skhynix.com/en/hbf-at-fms-2026/",
@@ -59,20 +73,6 @@
       "url": "https://news.skhynix.com/en/research-inside-ep1-03/",
       "published_at": "2026-07-22T05:00:46+00:00",
       "summary": "▲ [Figure 3] Differences in Channel-Hole Count due to Channel-Hole Diameter",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-04/",
-      "published_at": "2026-07-22T05:00:37+00:00",
-      "summary": "▲ [Figure 4] The New CTI Implementation Process",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-06/",
-      "published_at": "2026-07-22T05:00:20+00:00",
-      "summary": "▲ CTI explained",
       "author": "SK hynix"
     }
   ],
