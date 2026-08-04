@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-04T17:12:22.266352+00:00",
-  "next_refresh_at": "2026-08-04T17:42:22.266352+00:00",
+  "fetched_at": "2026-08-04T19:07:01.888299+00:00",
+  "next_refresh_at": "2026-08-04T19:37:01.888299+00:00",
   "entries": [
     {
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
