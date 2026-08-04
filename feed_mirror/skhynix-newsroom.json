@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-03T23:00:28.829802+00:00",
-  "next_refresh_at": "2026-08-03T23:30:28.829802+00:00",
+  "fetched_at": "2026-08-04T00:58:35.217452+00:00",
+  "next_refresh_at": "2026-08-04T01:28:35.217452+00:00",
   "entries": [
+    {
+      "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
+      "url": "https://news.skhynix.com/en/hbf-at-fms-2026/",
+      "published_at": "2026-08-03T23:30:04+00:00",
+      "summary": "▪ First HBF standard showcased within six months of consortium launch, expanding the ecosystem with participation from Google, Tenstorrent ▪ Keynote by SK hynix Executive Vice President Kim Chun-sung and Vice President Kang Uk-song on opening day, offering solutions for",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Announces 2Q26 Financial Results",
       "url": "https://news.skhynix.com/en/q2-2026-business-results-01/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/research-inside-ep1-06/",
       "published_at": "2026-07-22T05:00:20+00:00",
       "summary": "▲ CTI explained",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-05/",
-      "published_at": "2026-07-22T05:00:02+00:00",
-      "summary": "▲ [Figure 5] A Comparison of Conventional CTI with SK hynix’s New CTI Process",
       "author": "SK hynix"
     }
   ],

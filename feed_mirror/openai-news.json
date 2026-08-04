@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-03T23:00:32.390807+00:00",
-  "next_refresh_at": "2026-08-03T23:30:32.390807+00:00",
+  "fetched_at": "2026-08-04T00:58:38.788223+00:00",
+  "next_refresh_at": "2026-08-04T01:28:38.788223+00:00",
   "entries": [
     {
       "title": "How we built a realtime system for responsive voice AI in six months",
