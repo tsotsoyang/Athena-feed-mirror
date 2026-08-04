@@ -2,8 +2,8 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-04T07:13:16.312504+00:00",
-  "next_refresh_at": "2026-08-04T07:43:16.312504+00:00",
+  "fetched_at": "2026-08-04T10:09:59.653969+00:00",
+  "next_refresh_at": "2026-08-04T10:39:59.653969+00:00",
   "entries": [
     {
       "title": "你的iCloud数据安全吗？苹果为保护用户隐私，直接把英国告了",
@@ -73,13 +73,6 @@
       "url": "https://www.esmchina.com/news/14439.html",
       "published_at": null,
       "summary": "中国用豆包，美国用Grok。",
-      "author": null
-    },
-    {
-      "title": "SpaceX强推供应链“去中国化”，路由器也不放过",
-      "url": "https://www.esmchina.com/news/14438.html",
-      "published_at": null,
-      "summary": "美国太空探索技术公司(SpaceX)正以前所未有的力度，对其全球供应链展开一场彻底的“净化”审查，以试图在物理和人员层面全面隔离中国因素。",
       "author": null
     },
     {
@@ -178,6 +171,13 @@
       "url": "https://www.esmchina.com/news/14424.html",
       "published_at": null,
       "summary": "没有一款产品是全能冠军，这也意味着下一代产品的竞争才刚刚开始。",
+      "author": null
+    },
+    {
+      "title": "不只损失460亿美元，欧洲拆除中企电信设备还将拖慢6G进程？",
+      "url": "https://www.esmchina.com/news/14423.html",
+      "published_at": null,
+      "summary": "欧盟拆除并更换中国网络设备的行动，代价高达460亿美元。",
       "author": null
     }
   ],
