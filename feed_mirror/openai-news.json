@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-04T20:51:46.431626+00:00",
-  "next_refresh_at": "2026-08-04T21:21:46.431626+00:00",
+  "fetched_at": "2026-08-04T22:12:00.784211+00:00",
+  "next_refresh_at": "2026-08-04T22:42:00.784211+00:00",
   "entries": [
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "published_at": "2026-08-04T19:00:00+00:00",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "author": null
+    },
     {
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "published_at": "2026-07-21T07:00:00+00:00",
       "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "author": null
-    },
-    {
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "published_at": "2026-07-21T00:00:00+00:00",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "author": null
     }
   ],

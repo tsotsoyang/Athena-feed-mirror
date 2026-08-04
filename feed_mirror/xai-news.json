@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-04T20:52:04.845180+00:00",
-  "next_refresh_at": "2026-08-04T21:22:04.845180+00:00",
+  "fetched_at": "2026-08-04T22:12:18.969856+00:00",
+  "next_refresh_at": "2026-08-04T22:42:18.969856+00:00",
   "entries": [
     {
       "title": "Imagine Video 1.5 with References | SpaceXAI",
