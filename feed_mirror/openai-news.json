@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-04T15:00:59.660511+00:00",
-  "next_refresh_at": "2026-08-04T15:30:59.660511+00:00",
+  "fetched_at": "2026-08-04T17:12:22.266352+00:00",
+  "next_refresh_at": "2026-08-04T17:42:22.266352+00:00",
   "entries": [
+    {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "author": null
+    },
     {
       "title": "Apple is getting this wrong",
       "url": "https://openai.com/index/apple-is-getting-this-wrong",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "published_at": "2026-07-21T00:00:00+00:00",
       "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "author": null
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "published_at": "2026-07-20T10:00:00+00:00",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "author": null
     }
   ],
