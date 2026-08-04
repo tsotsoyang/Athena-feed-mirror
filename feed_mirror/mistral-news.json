@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-08-04T12:25:29.011626+00:00",
-  "next_refresh_at": "2026-08-04T12:55:29.011626+00:00",
+  "fetched_at": "2026-08-04T15:01:06.732913+00:00",
+  "next_refresh_at": "2026-08-04T15:31:06.732913+00:00",
   "entries": [
+    {
+      "title": "Introducing Shieldstral.",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "published_at": "2026-08-04T12:00:26+00:00",
+      "summary": "Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.",
+      "author": null
+    },
     {
       "title": "Your Prompts and Skills need a system of record.",
       "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -170,13 +177,6 @@
       "title": "Introducing Mistral OCR 3",
       "url": "https://mistral.ai/news/mistral-ocr-3/",
       "published_at": "2025-12-17T15:00:00+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Introducing: Devstral 2 and Mistral Vibe CLI.",
-      "url": "https://mistral.ai/news/devstral-2-vibe-cli/",
-      "published_at": "2025-12-09T12:00:00+00:00",
       "summary": "",
       "author": null
     }
