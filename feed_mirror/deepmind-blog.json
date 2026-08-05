@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-04T23:32:41.107080+00:00",
-  "next_refresh_at": "2026-08-05T00:02:41.107080+00:00",
+  "fetched_at": "2026-08-05T02:32:03.033692+00:00",
+  "next_refresh_at": "2026-08-05T03:02:03.033692+00:00",
   "entries": [
     {
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
