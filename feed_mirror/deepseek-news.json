@@ -2,8 +2,8 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-08-05T11:20:59.784362+00:00",
-  "next_refresh_at": "2026-08-05T11:50:59.784362+00:00",
+  "fetched_at": "2026-08-05T13:10:20.136183+00:00",
+  "next_refresh_at": "2026-08-05T13:40:20.136183+00:00",
   "entries": [
     {
       "title": "DeepSeek V4 Preview Release | DeepSeek API Docs",
