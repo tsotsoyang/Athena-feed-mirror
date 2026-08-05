@@ -2,8 +2,8 @@
   "source": "minimax-news",
   "name": "MiniMax News",
   "feed_url": "https://www.minimax.io/news",
-  "fetched_at": "2026-08-05T19:35:03.289335+00:00",
-  "next_refresh_at": "2026-08-05T20:05:03.289335+00:00",
+  "fetched_at": "2026-08-05T21:08:50.692083+00:00",
+  "next_refresh_at": "2026-08-05T21:38:50.692083+00:00",
   "entries": [
     {
       "title": "MiniMax Speech 2.8",
