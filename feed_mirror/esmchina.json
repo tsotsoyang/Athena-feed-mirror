@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-05T08:35:43.036889+00:00",
-  "next_refresh_at": "2026-08-05T09:05:43.036889+00:00",
+  "fetched_at": "2026-08-05T11:21:04.684266+00:00",
+  "next_refresh_at": "2026-08-05T11:51:04.684266+00:00",
   "entries": [
+    {
+      "title": "雷霆反击！商务部加强无人机对美出口管制，7家美国实体被反制",
+      "url": "https://www.esmchina.com/news/14453.html",
+      "published_at": null,
+      "summary": "8月5日，商务部宣布加强无人机相关两用物项对美国出口管制，并对数家美国实体采取反制措施。",
+      "author": null
+    },
     {
       "title": "三星、SK海力士、美光2027年DRAM与HBM产能全数分配完毕",
       "url": "https://www.esmchina.com/news/14452.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14427.html",
       "published_at": null,
       "summary": "头部和中美格局的位移值得关注。",
-      "author": null
-    },
-    {
-      "title": "高通在智能眼镜领域的布局：AI成为新UI，聚焦生态系统创新",
-      "url": "https://www.esmchina.com/news/14426.html",
-      "published_at": null,
-      "summary": "AI不再仅仅是某个应用内的功能模块，而是正在成为人与设备交互的第一层界面……",
       "author": null
     }
   ],
