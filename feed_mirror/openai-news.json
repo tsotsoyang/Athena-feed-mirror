@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-05T05:45:49.705523+00:00",
-  "next_refresh_at": "2026-08-05T06:15:49.705523+00:00",
+  "fetched_at": "2026-08-05T08:35:43.626261+00:00",
+  "next_refresh_at": "2026-08-05T09:05:43.626261+00:00",
   "entries": [
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
