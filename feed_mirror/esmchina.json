@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-05T02:32:04.457752+00:00",
-  "next_refresh_at": "2026-08-05T03:02:04.457752+00:00",
+  "fetched_at": "2026-08-05T05:45:55.397705+00:00",
+  "next_refresh_at": "2026-08-05T06:15:55.397705+00:00",
   "entries": [
+    {
+      "title": "三星、SK海力士、美光2027年DRAM与HBM产能全数分配完毕",
+      "url": "https://www.esmchina.com/news/14452.html",
+      "published_at": null,
+      "summary": "三星电子、SK海力士、美光三大DRAM原厂已完成2027年全年产能分配谈判，DRAM与HBM产能全部售罄。",
+      "author": null
+    },
+    {
+      "title": "2026Q2 DRAM市场：三星重回第一！美光紧咬海力士，长鑫成最大黑马",
+      "url": "https://www.esmchina.com/news/14451.html",
+      "published_at": null,
+      "summary": "三星受益于传统DRAM供应能力和价格优势，市场表现稳健，与去年同期排名第一的SK海力士进一步拉开差距。",
+      "author": null
+    },
     {
       "title": "SpaceX“All in”英伟达，AI算力剑指太空",
       "url": "https://www.esmchina.com/news/14449.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14426.html",
       "published_at": null,
       "summary": "AI不再仅仅是某个应用内的功能模块，而是正在成为人与设备交互的第一层界面……",
-      "author": null
-    },
-    {
-      "title": "火！全球智能眼镜CAGR达75%，Meta一家独大拿下超八成份额",
-      "url": "https://www.esmchina.com/news/14425.html",
-      "published_at": null,
-      "summary": "智能眼镜市场正经历从尝鲜到主流的转折。",
-      "author": null
-    },
-    {
-      "title": "智能眼镜拍照、摄像哪家强？DXOMARK实测7款主流产品",
-      "url": "https://www.esmchina.com/news/14424.html",
-      "published_at": null,
-      "summary": "没有一款产品是全能冠军，这也意味着下一代产品的竞争才刚刚开始。",
       "author": null
     }
   ],
