@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-06T11:40:27.744082+00:00",
-  "next_refresh_at": "2026-08-06T12:10:27.744082+00:00",
+  "fetched_at": "2026-08-06T14:09:42.888288+00:00",
+  "next_refresh_at": "2026-08-06T14:39:42.888288+00:00",
   "entries": [
+    {
+      "title": "150.8元！宇树科技IPO定价出炉",
+      "url": "https://www.esmchina.com/news/14459.html",
+      "published_at": null,
+      "summary": "宇树科技本次发行价格最终确定为150.80元/股。按照发行后总股本计算，宇树科技上市时的预计总市值将达到约609.93亿元。",
+      "author": null
+    },
     {
       "title": "科技巨头AI部门大洗牌，效力27年的首席科学家出走",
       "url": "https://www.esmchina.com/news/14458.html",
@@ -171,13 +178,6 @@
       "url": "https://www.eet-china.com/ee-live/entry/Aspencore_20260902.html?source=pop",
       "published_at": null,
       "summary": "本期EETalk将聚焦汽车电子架构升级趋势，探讨汽车产业链如何通过半导体技术创新，构建更安全、更智能、更高效的新一代汽车电子系统，共同推动智能汽车从功能创新迈向体验创新。",
-      "author": null
-    },
-    {
-      "title": "黑鲨手机官宣退场！曾占游戏手机的半壁江山",
-      "url": "https://www.esmchina.com/news/14430.html",
-      "published_at": null,
-      "summary": "官宣退场！曾占游戏手机的半壁江山，为何走到这一步？",
       "author": null
     }
   ],
