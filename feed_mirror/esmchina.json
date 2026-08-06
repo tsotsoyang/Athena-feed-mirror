@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-05T23:59:54.465494+00:00",
-  "next_refresh_at": "2026-08-06T00:29:54.465494+00:00",
+  "fetched_at": "2026-08-06T03:28:13.671358+00:00",
+  "next_refresh_at": "2026-08-06T03:58:13.671358+00:00",
   "entries": [
+    {
+      "title": "【填问卷抽盲盒】晶宇兴晶振国产化替代方案",
+      "url": "https://www.eet-china.com/RC/JFVNY2605/index.html?source=pop",
+      "published_at": null,
+      "summary": "下载任意1项资源，并填写互动问卷后即有机会抽取盲盒一次~",
+      "author": null
+    },
     {
       "title": "雷霆反击！商务部加强无人机对美出口管制，7家美国实体被反制",
       "url": "https://www.esmchina.com/news/14453.html",
@@ -20,7 +27,7 @@
       "author": null
     },
     {
-      "title": "2026Q2 DRAM市场：三星重回第一！美光紧咬海力士，长鑫成最大黑马",
+      "title": "Q2 DRAM市场：三星重回第一！长鑫成最大黑马",
       "url": "https://www.esmchina.com/news/14451.html",
       "published_at": null,
       "summary": "三星受益于传统DRAM供应能力和价格优势，市场表现稳健，与去年同期排名第一的SK海力士进一步拉开差距。",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14428.html",
       "published_at": null,
       "summary": "长江存储在声明中强调，公司始终坚持自主创新和依法合规经营。",
-      "author": null
-    },
-    {
-      "title": "《财富》世界500强：2026年 VS 2025年5大看点",
-      "url": "https://www.esmchina.com/news/14427.html",
-      "published_at": null,
-      "summary": "头部和中美格局的位移值得关注。",
       "author": null
     }
   ],
