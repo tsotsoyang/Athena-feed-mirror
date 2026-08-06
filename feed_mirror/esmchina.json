@@ -2,8 +2,8 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-06T06:12:16.850279+00:00",
-  "next_refresh_at": "2026-08-06T06:42:16.850279+00:00",
+  "fetched_at": "2026-08-06T09:21:28.464549+00:00",
+  "next_refresh_at": "2026-08-06T09:51:28.464549+00:00",
   "entries": [
     {
       "title": "科技巨头AI部门大洗牌，效力27年的首席科学家出走",
@@ -13,7 +13,7 @@
       "author": null
     },
     {
-      "title": "DeepSeek预告大幅上调API价格！网友：梁圣还是小梁就看涨幅了",
+      "title": "DeepSeek预告API大幅涨价！网友：梁圣还是小梁就看涨幅了",
       "url": "https://www.esmchina.com/news/14457.html",
       "published_at": null,
       "summary": "国产大模型领域的风向标企业DeepSeek在开发者后台发布了公告称：计划于近期整体上调API服务定价，并明确表示“预计涨幅较大”。",
