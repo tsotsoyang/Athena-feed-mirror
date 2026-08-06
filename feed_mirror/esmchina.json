@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-06T03:28:13.671358+00:00",
-  "next_refresh_at": "2026-08-06T03:58:13.671358+00:00",
+  "fetched_at": "2026-08-06T06:12:16.850279+00:00",
+  "next_refresh_at": "2026-08-06T06:42:16.850279+00:00",
   "entries": [
+    {
+      "title": "科技巨头AI部门大洗牌，效力27年的首席科学家出走",
+      "url": "https://www.esmchina.com/news/14458.html",
+      "published_at": null,
+      "summary": "AI的竞争，正在从“模型竞争”，变成“人才竞争”。",
+      "author": null
+    },
+    {
+      "title": "DeepSeek预告大幅上调API价格！网友：梁圣还是小梁就看涨幅了",
+      "url": "https://www.esmchina.com/news/14457.html",
+      "published_at": null,
+      "summary": "国产大模型领域的风向标企业DeepSeek在开发者后台发布了公告称：计划于近期整体上调API服务定价，并明确表示“预计涨幅较大”。",
+      "author": null
+    },
     {
       "title": "【填问卷抽盲盒】晶宇兴晶振国产化替代方案",
       "url": "https://www.eet-china.com/RC/JFVNY2605/index.html?source=pop",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14430.html",
       "published_at": null,
       "summary": "官宣退场！曾占游戏手机的半壁江山，为何走到这一步？",
-      "author": null
-    },
-    {
-      "title": "兆易创新朱一明拟10亿增持，释放哪些利好？",
-      "url": "https://www.esmchina.com/news/14429.html",
-      "published_at": null,
-      "summary": "29日，国内存储芯片龙头企业兆易创新（603986）发布公告，披露控股股东、实际控制人朱一明拟斥资不低于10亿元增持公司A股股份。",
-      "author": null
-    },
-    {
-      "title": "长江存储深夜辟谣：核心专利无效系误导，与美光诉讼仍在审理中",
-      "url": "https://www.esmchina.com/news/14428.html",
-      "published_at": null,
-      "summary": "长江存储在声明中强调，公司始终坚持自主创新和依法合规经营。",
       "author": null
     }
   ],
