@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-07T10:52:14.419020+00:00",
-  "next_refresh_at": "2026-08-07T11:22:14.419020+00:00",
+  "fetched_at": "2026-08-07T11:44:57.972976+00:00",
+  "next_refresh_at": "2026-08-07T12:14:57.972976+00:00",
   "entries": [
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
