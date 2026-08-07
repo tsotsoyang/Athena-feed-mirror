@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-07T05:16:48.831854+00:00",
-  "next_refresh_at": "2026-08-07T05:46:48.831854+00:00",
+  "fetched_at": "2026-08-07T06:46:31.091801+00:00",
+  "next_refresh_at": "2026-08-07T07:16:31.091801+00:00",
   "entries": [
     {
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",

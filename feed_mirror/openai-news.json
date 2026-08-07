@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-07T05:16:37.725246+00:00",
-  "next_refresh_at": "2026-08-07T05:46:37.725246+00:00",
+  "fetched_at": "2026-08-07T06:46:20.399942+00:00",
+  "next_refresh_at": "2026-08-07T07:16:20.399942+00:00",
   "entries": [
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
