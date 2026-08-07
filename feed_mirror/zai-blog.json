@@ -1,26 +1,14 @@
 {
   "source": "zai-blog",
   "name": "Z.ai (Zhipu) Blog",
-  "feed_url": "https://z.ai/blog",
-  "fetched_at": "2026-08-07T00:23:49.034678+00:00",
-  "next_refresh_at": "2026-08-07T00:53:49.034678+00:00",
+  "feed_url": "https://z.ai/blog/rss.xml",
+  "fetched_at": "2026-08-07T03:29:31.685509+00:00",
+  "next_refresh_at": "2026-08-07T03:59:31.685528+00:00",
   "entries": [],
   "errors": [
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
-    },
-    {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
-    },
-    {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
-    },
-    {
-      "stage": "fetch",
-      "message": "all candidate URLs returned 0 entries"
+      "stage": "runner",
+      "message": "RemoteDisconnected: Remote end closed connection without response"
     }
   ]
 }
