@@ -2,14 +2,14 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-08-07T18:56:58.970819+00:00",
-  "next_refresh_at": "2026-08-07T19:26:58.970819+00:00",
+  "fetched_at": "2026-08-07T19:53:27.929541+00:00",
+  "next_refresh_at": "2026-08-07T20:23:27.929541+00:00",
   "entries": [
     {
-      "title": "DeepSeek V4 Preview Release | DeepSeek API Docs",
+      "title": "Your First API Call | DeepSeek API Docs",
       "url": "https://api-docs.deepseek.com/news/news260424",
       "published_at": null,
-      "summary": "🚀 DeepSeek-V4 Preview is officially live &amp; open-sourced! Welcome to the era of cost-effective 1M context length.",
+      "summary": "The DeepSeek API uses an API format compatible with OpenAI/Anthropic. By modifying the configuration, you can use the OpenAI/Anthropic SDK or softwares compatible with the OpenAI/Anthropic API to access the DeepSeek API.",
       "author": null
     }
   ],
