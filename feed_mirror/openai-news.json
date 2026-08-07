@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-07T15:55:38.025644+00:00",
-  "next_refresh_at": "2026-08-07T16:25:38.025644+00:00",
+  "fetched_at": "2026-08-07T16:54:58.593794+00:00",
+  "next_refresh_at": "2026-08-07T17:24:58.593794+00:00",
   "entries": [
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "published_at": "2026-08-07T15:20:00+00:00",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "author": null
+    },
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "url": "https://openai.com/index/hsp-gruppe",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/how-news-organizations-are-using-ai",
       "published_at": "2026-07-22T13:00:00+00:00",
       "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "author": null
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "published_at": "2026-07-22T12:00:00+00:00",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "author": null
     }
   ],
