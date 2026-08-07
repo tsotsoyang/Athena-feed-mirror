@@ -2,9 +2,30 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-07T03:28:04.820625+00:00",
-  "next_refresh_at": "2026-08-07T03:58:04.820625+00:00",
+  "fetched_at": "2026-08-07T05:16:34.302189+00:00",
+  "next_refresh_at": "2026-08-07T05:46:34.302189+00:00",
   "entries": [
+    {
+      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+      "url": "https://news.skhynix.com/en/fms-2026-2/",
+      "published_at": "2026-08-07T05:15:17+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+      "url": "https://news.skhynix.com/en/fms-2026-1/",
+      "published_at": "2026-08-07T05:13:50+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+      "url": "https://news.skhynix.com/en/fms-2026/",
+      "published_at": "2026-08-07T05:00:04+00:00",
+      "summary": "▲ SK hynix exhibition booth overview at FMS 2026 ‘Future of Memory and Storage 2026 (FMS 2026)’, the world’s largest exhibition and conference in the memory and storage field, was held from August 4 to 6 (local time) at the",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
       "url": "https://news.skhynix.com/en/hbf-at-fms-2026-01/",
@@ -52,27 +73,6 @@
       "url": "https://news.skhynix.com/en/skhynix-nvidia-partnership-2026/",
       "published_at": "2026-07-25T04:39:50+00:00",
       "summary": "▪ SK Group and NVIDIA expand strategic collaboration with a $500 billion plus initiative spanning AI factories and next-generation memory. ▪ SK Telecom to build 2-gigawatt NVIDIA Vera Rubin, DSX AI Factory to serve global compute demand. ▪ NVIDIA and",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-01/",
-      "published_at": "2026-07-22T05:00:57+00:00",
-      "summary": "▲ [Figure 1] The NAND Flash Cell-formation Process",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-02/",
-      "published_at": "2026-07-22T05:00:51+00:00",
-      "summary": "▲ [Figure 2] The Conventional CTI Implementation Process",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-      "url": "https://news.skhynix.com/en/research-inside-ep1-03/",
-      "published_at": "2026-07-22T05:00:46+00:00",
-      "summary": "▲ [Figure 3] Differences in Channel-Hole Count due to Channel-Hole Diameter",
       "author": "SK hynix"
     }
   ],
