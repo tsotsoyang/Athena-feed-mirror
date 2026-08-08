@@ -2,8 +2,8 @@
   "source": "kimi-blog",
   "name": "Moonshot AI / Kimi Blog",
   "feed_url": "https://www.kimi.com/blog",
-  "fetched_at": "2026-08-07T23:33:35.517242+00:00",
-  "next_refresh_at": "2026-08-08T00:03:35.517242+00:00",
+  "fetched_at": "2026-08-08T01:39:45.343323+00:00",
+  "next_refresh_at": "2026-08-08T02:09:45.343323+00:00",
   "entries": [
     {
       "title": "PerceptionBench: Evaluating Atomic Visual Perception in MLLMs",
