@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-08-08T06:52:48.671310+00:00",
-  "next_refresh_at": "2026-08-08T07:22:48.671310+00:00",
+  "fetched_at": "2026-08-08T07:49:53.893692+00:00",
+  "next_refresh_at": "2026-08-08T08:19:53.893692+00:00",
   "entries": [
     {
       "title": "Introducing Shieldstral.",
