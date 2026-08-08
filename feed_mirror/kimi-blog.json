@@ -2,9 +2,16 @@
   "source": "kimi-blog",
   "name": "Moonshot AI / Kimi Blog",
   "feed_url": "https://www.kimi.com/blog",
-  "fetched_at": "2026-08-08T01:39:45.343323+00:00",
-  "next_refresh_at": "2026-08-08T02:09:45.343323+00:00",
+  "fetched_at": "2026-08-08T03:25:55.164541+00:00",
+  "next_refresh_at": "2026-08-08T03:55:55.164541+00:00",
   "entries": [
+    {
+      "title": "Kimi K3 Tech Blog: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "published_at": null,
+      "summary": "Kimi K3 is the world&#x27;s first open 3T-class model — frontier performance across coding, knowledge work, and reasoning, with native multimodality and 1M context.",
+      "author": null
+    },
     {
       "title": "PerceptionBench: Evaluating Atomic Visual Perception in MLLMs",
       "url": "https://www.kimi.com/blog/perception-bench",
@@ -59,13 +66,6 @@
       "url": "https://www.kimi.com/blog/kimi-k2",
       "published_at": null,
       "summary": "Kimi K2 is our latest Mixture-of-Experts model with 32 billion activated parameters and 1 trillion total parameters. It achieves state-of-the-art performance in frontier knowledge, math, and coding among non-thinking models.",
-      "author": null
-    },
-    {
-      "title": "Kimi K3 Tech Blog: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "published_at": null,
-      "summary": "Kimi K3 is the world&#x27;s first open 3T-class model — frontier performance across coding, knowledge work, and reasoning, with native multimodality and 1M context.",
       "author": null
     }
   ],

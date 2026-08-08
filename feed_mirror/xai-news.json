@@ -2,9 +2,16 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-08T01:39:43.248712+00:00",
-  "next_refresh_at": "2026-08-08T02:09:43.248712+00:00",
+  "fetched_at": "2026-08-08T03:25:51.373867+00:00",
+  "next_refresh_at": "2026-08-08T03:55:51.373867+00:00",
   "entries": [
+    {
+      "title": "Image 2.0 | SpaceXAI",
+      "url": "https://x.ai/news/grok-imagine-image-2",
+      "published_at": null,
+      "summary": "Precise image generation and editing, built for real creative work.",
+      "author": null
+    },
     {
       "title": "Imagine Video 1.5 with References | SpaceXAI",
       "url": "https://x.ai/news/grok-imagine-video-1-5-references",
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-plugin-marketplace",
       "published_at": null,
       "summary": "Launching the built-in plugin marketplace for Grok Build.",
-      "author": null
-    },
-    {
-      "title": "Bringing real-time market sentiment to Tori, from eToro | SpaceXAI",
-      "url": "https://x.ai/news/grok-etoro",
-      "published_at": null,
-      "summary": "Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow.",
       "author": null
     }
   ],
