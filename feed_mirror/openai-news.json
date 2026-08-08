@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-08T11:56:33.809696+00:00",
-  "next_refresh_at": "2026-08-08T12:26:33.809696+00:00",
+  "fetched_at": "2026-08-08T12:53:49.877287+00:00",
+  "next_refresh_at": "2026-08-08T13:23:49.877287+00:00",
   "entries": [
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
