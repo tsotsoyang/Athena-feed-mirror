@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-10T13:55:18.168402+00:00",
-  "next_refresh_at": "2026-08-10T14:25:18.168402+00:00",
+  "fetched_at": "2026-08-10T14:57:55.956876+00:00",
+  "next_refresh_at": "2026-08-10T15:27:55.956876+00:00",
   "entries": [
+    {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "published_at": "2026-08-10T14:00:00+00:00",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "author": null
+    },
     {
       "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "url": "https://openai.com/index/model-ml",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/health-in-chatgpt",
       "published_at": "2026-07-23T00:00:00+00:00",
       "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "author": null
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "published_at": "2026-07-22T13:00:00+00:00",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "author": null
     }
   ],
