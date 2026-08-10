@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-10T16:04:19.027025+00:00",
-  "next_refresh_at": "2026-08-10T16:34:19.027025+00:00",
+  "fetched_at": "2026-08-10T17:24:59.926568+00:00",
+  "next_refresh_at": "2026-08-10T17:54:59.926568+00:00",
   "entries": [
     {
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -17,6 +17,27 @@
       "url": "https://openai.com/index/model-ml",
       "published_at": "2026-08-10T12:00:00+00:00",
       "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "author": null
+    },
+    {
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "published_at": "2026-08-10T17:00:00+00:00",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "author": null
+    },
+    {
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "author": null
+    },
+    {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
       "author": null
     },
     {
@@ -157,27 +178,6 @@
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "published_at": "2026-07-29T00:00:00+00:00",
       "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "author": null
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "published_at": "2026-07-28T17:00:00+00:00",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "author": null
-    },
-    {
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "published_at": "2026-07-27T03:30:00+00:00",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "author": null
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "published_at": "2026-07-23T00:00:00+00:00",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "author": null
     }
   ],
