@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-10T01:48:34.347753+00:00",
-  "next_refresh_at": "2026-08-10T02:18:34.347753+00:00",
+  "fetched_at": "2026-08-10T03:55:18.770634+00:00",
+  "next_refresh_at": "2026-08-10T04:25:18.770634+00:00",
   "entries": [
+    {
+      "title": "长鑫存储芯片进入苹果测试名单，IPO后加速冲刺全球DRAM三强",
+      "url": "https://www.esmchina.com/news/14464.html",
+      "published_at": null,
+      "summary": "苹果与长鑫合作面临着复杂的合规环境。",
+      "author": null
+    },
     {
       "title": "特朗普关税大棒砸向多晶硅，最低进口价+15%关税",
       "url": "https://www.esmchina.com/news/14463.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14436.html",
       "published_at": null,
       "summary": "微软单日暴增4500亿，SK海力士盘中飙升29%，A股科技赛道绝地反击！从连环爆仓到满屏两位数暴涨，这场史诗级反弹背后，究竟是谁在主导？",
-      "author": null
-    },
-    {
-      "title": "又涨了！MLCC全线告急，被动元件第三波涨价潮来了？",
-      "url": "https://www.esmchina.com/news/14431.html",
-      "published_at": null,
-      "summary": "自2025年年中被动元器件大厂开始涨价以来，目前该领域迎来了第三轮集中涨价，新一轮涨价所涉及的产品是MLCC（多层陶瓷电容器）。",
       "author": null
     }
   ],
