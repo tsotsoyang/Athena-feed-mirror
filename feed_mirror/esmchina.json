@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-10T06:51:55.663408+00:00",
-  "next_refresh_at": "2026-08-10T07:21:55.663408+00:00",
+  "fetched_at": "2026-08-10T08:26:27.472379+00:00",
+  "next_refresh_at": "2026-08-10T08:56:27.472379+00:00",
   "entries": [
+    {
+      "title": "被举报“掏空资产、利益输送”！欧菲光回应：已报案追责",
+      "url": "https://www.esmchina.com/news/14466.html",
+      "published_at": null,
+      "summary": "此次举报恰逢欧菲光业绩低谷期。",
+      "author": null
+    },
     {
       "title": "宇树科技今日申购：发行价150.80元，中一签或赚20万元",
       "url": "https://www.esmchina.com/news/14465.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14439.html",
       "published_at": null,
       "summary": "中国用豆包，美国用Grok。",
-      "author": null
-    },
-    {
-      "title": "苹果Q3营收1094亿美元创六月季度新高，库克最后一次财报电话会交棒",
-      "url": "https://www.esmchina.com/news/14437.html",
-      "published_at": null,
-      "summary": "这是苹果功勋CEO蒂姆·库克的最后一次财报电话会。",
       "author": null
     }
   ],

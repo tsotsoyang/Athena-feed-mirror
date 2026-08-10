@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-10T06:51:38.321609+00:00",
-  "next_refresh_at": "2026-08-10T07:21:38.321609+00:00",
+  "fetched_at": "2026-08-10T08:26:07.282775+00:00",
+  "next_refresh_at": "2026-08-10T08:56:07.282775+00:00",
   "entries": [
     {
       "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
@@ -34,6 +34,20 @@
       "author": "SK hynix"
     },
     {
+      "title": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17",
+      "url": "https://news.skhynix.com/en/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17/",
+      "published_at": "2026-08-07T07:48:45+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+      "url": "https://news.skhynix.com/en/the-next-generation-memory-architecture-in-the-ai-era-sk-hynix-charts-the-direction-at-fms-2026/",
+      "published_at": "2026-08-07T07:48:03+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
       "title": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
       "url": "https://news.skhynix.com/en/fab-facility-investment-2026-2/",
       "published_at": "2026-08-07T07:40:01+00:00",
@@ -58,20 +72,6 @@
       "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
       "url": "https://news.skhynix.com/en/fms-2026-4/",
       "published_at": "2026-08-07T05:17:26+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
-      "url": "https://news.skhynix.com/en/fms-2026-3/",
-      "published_at": "2026-08-07T05:16:49+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
-      "url": "https://news.skhynix.com/en/fms-2026-2/",
-      "published_at": "2026-08-07T05:15:17+00:00",
       "summary": "",
       "author": "SK hynix"
     }
