@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-10T05:26:38.770664+00:00",
-  "next_refresh_at": "2026-08-10T05:56:38.770664+00:00",
+  "fetched_at": "2026-08-10T06:51:55.663408+00:00",
+  "next_refresh_at": "2026-08-10T07:21:55.663408+00:00",
   "entries": [
+    {
+      "title": "宇树科技今日申购：发行价150.80元，中一签或赚20万元",
+      "url": "https://www.esmchina.com/news/14465.html",
+      "published_at": null,
+      "summary": "以此测算，中一签宇树科技账面盈利有望突破20万元。",
+      "author": null
+    },
     {
       "title": "长鑫存储芯片进入苹果测试名单，IPO后加速冲刺全球DRAM三强",
       "url": "https://www.esmchina.com/news/14464.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14437.html",
       "published_at": null,
       "summary": "这是苹果功勋CEO蒂姆·库克的最后一次财报电话会。",
-      "author": null
-    },
-    {
-      "title": "长鑫破4万亿，SK海力士爆拉28%...全球科技股迎来史诗级暴涨",
-      "url": "https://www.esmchina.com/news/14436.html",
-      "published_at": null,
-      "summary": "微软单日暴增4500亿，SK海力士盘中飙升29%，A股科技赛道绝地反击！从连环爆仓到满屏两位数暴涨，这场史诗级反弹背后，究竟是谁在主导？",
       "author": null
     }
   ],
