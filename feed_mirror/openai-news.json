@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-10T12:08:04.250494+00:00",
-  "next_refresh_at": "2026-08-10T12:38:04.250494+00:00",
+  "fetched_at": "2026-08-10T13:55:18.168402+00:00",
+  "next_refresh_at": "2026-08-10T14:25:18.168402+00:00",
   "entries": [
+    {
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "published_at": "2026-08-10T12:00:00+00:00",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "author": null
+    },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "published_at": "2026-07-22T13:00:00+00:00",
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "author": null
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "published_at": "2026-07-22T13:00:00+00:00",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
       "author": null
     }
   ],
