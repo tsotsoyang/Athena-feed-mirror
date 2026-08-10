@@ -2,9 +2,37 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-09T23:30:54.654619+00:00",
-  "next_refresh_at": "2026-08-10T00:00:54.654619+00:00",
+  "fetched_at": "2026-08-10T01:48:16.192649+00:00",
+  "next_refresh_at": "2026-08-10T02:18:16.192649+00:00",
   "entries": [
+    {
+      "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insigh-ep1-3/",
+      "published_at": "2026-08-10T01:07:09+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insigh-ep1-2/",
+      "published_at": "2026-08-10T01:06:27+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insigh-ep1-1/",
+      "published_at": "2026-08-10T01:05:40+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insigh-ep1/",
+      "published_at": "2026-08-10T01:00:05+00:00",
+      "summary": "AI is no longer defined by a single model or chip. For AI to operate effectively in real-world services and industrial applications, it takes faster compute, greater memory bandwidth, higher-performance networking, more efficient storage, and stable power and cooling working",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
       "url": "https://news.skhynix.com/en/fab-facility-investment-2026-2/",
@@ -45,34 +73,6 @@
       "url": "https://news.skhynix.com/en/fms-2026-2/",
       "published_at": "2026-08-07T05:15:17+00:00",
       "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
-      "url": "https://news.skhynix.com/en/fms-2026-1/",
-      "published_at": "2026-08-07T05:13:50+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
-      "url": "https://news.skhynix.com/en/fms-2026-9/",
-      "published_at": "2026-08-07T05:00:57+00:00",
-      "summary": "▲ SK hynix’s LPDDR and UFS lineup",
-      "author": "SK hynix"
-    },
-    {
-      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
-      "url": "https://news.skhynix.com/en/fms-2026-8/",
-      "published_at": "2026-08-07T05:00:49+00:00",
-      "summary": "▲ SK hynix’s SSD lineup",
-      "author": "이유혁 yh.lee_en"
-    },
-    {
-      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
-      "url": "https://news.skhynix.com/en/fms-2026-6/",
-      "published_at": "2026-08-07T05:00:45+00:00",
-      "summary": "▲ Dell’s ‘R7625’ server system and SK hynix’s ‘64GB DDR5 RDIMM’ server DRAM",
       "author": "SK hynix"
     }
   ],
