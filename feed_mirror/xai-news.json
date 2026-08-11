@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-11T06:27:34.363375+00:00",
-  "next_refresh_at": "2026-08-11T06:57:34.363375+00:00",
+  "fetched_at": "2026-08-11T07:46:51.394366+00:00",
+  "next_refresh_at": "2026-08-11T08:16:51.394366+00:00",
   "entries": [
     {
       "title": "Imagine Image 2.0 | SpaceXAI",
