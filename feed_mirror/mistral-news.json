@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-08-11T14:57:22.200715+00:00",
-  "next_refresh_at": "2026-08-11T15:27:22.200715+00:00",
+  "fetched_at": "2026-08-11T16:03:35.972885+00:00",
+  "next_refresh_at": "2026-08-11T16:33:35.972885+00:00",
   "entries": [
+    {
+      "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+      "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+      "published_at": "2026-08-11T12:00:27+00:00",
+      "summary": "Mistral is bringing together the inference infrastructure, open models, and long-term commitments Europe needs to control its AI future, and setting a roadmap for the world.",
+      "author": null
+    },
     {
       "title": "Introducing Shieldstral.",
       "url": "https://mistral.ai/news/shieldstral/",
@@ -170,13 +177,6 @@
       "title": "Heaps do lie: debugging a memory leak in vLLM.",
       "url": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
       "published_at": "2026-01-21T16:00:00+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Introducing Mistral OCR 3",
-      "url": "https://mistral.ai/news/mistral-ocr-3/",
-      "published_at": "2025-12-17T15:00:00+00:00",
       "summary": "",
       "author": null
     }
