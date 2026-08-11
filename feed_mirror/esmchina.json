@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-11T03:44:16.718428+00:00",
-  "next_refresh_at": "2026-08-11T04:14:16.718428+00:00",
+  "fetched_at": "2026-08-11T05:08:33.701473+00:00",
+  "next_refresh_at": "2026-08-11T05:38:33.701473+00:00",
   "entries": [
+    {
+      "title": "摩尔线程启动H股上市，上半年营收增147%亏损收窄",
+      "url": "https://www.esmchina.com/news/14469.html",
+      "published_at": null,
+      "summary": "这是该公司2025年12月登陆科创板后，仅隔8个月便启动的又一次资本运作。",
+      "author": null
+    },
     {
       "title": "10万台出货在即，国产人形机器人2026迎量产大考",
       "url": "https://www.esmchina.com/news/14384.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14442.html",
       "published_at": null,
       "summary": "这是小米今年以来的第三轮涨价，此前已分别于4月和6月进行过调价。",
-      "author": null
-    },
-    {
-      "title": "澜起科技试产CXL 3.2内存扩展控制器芯片，已导入三星、SK海力士下一代产品",
-      "url": "https://www.esmchina.com/news/14441.html",
-      "published_at": null,
-      "summary": "7月31日，澜起科技正式宣布，率先在业界试产CXL 3.2内存扩展控制器（MXC）芯片。",
       "author": null
     }
   ],
