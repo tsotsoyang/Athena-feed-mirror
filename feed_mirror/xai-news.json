@@ -2,9 +2,16 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-11T16:03:48.874774+00:00",
-  "next_refresh_at": "2026-08-11T16:33:48.874774+00:00",
+  "fetched_at": "2026-08-11T17:27:17.443084+00:00",
+  "next_refresh_at": "2026-08-11T17:57:17.443084+00:00",
   "entries": [
+    {
+      "title": "Introducing Grok Bot | SpaceXAI",
+      "url": "https://x.ai/news/introducing-grok-bot",
+      "published_at": null,
+      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
+      "author": null
+    },
     {
       "title": "Imagine Image 2.0 | SpaceXAI",
       "url": "https://x.ai/news/grok-imagine-image-2",
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-warp",
       "published_at": null,
       "summary": "Use your Grok and X Premium subscription inside Warp.",
-      "author": null
-    },
-    {
-      "title": "Grok Build Plugin Marketplace | SpaceXAI",
-      "url": "https://x.ai/news/grok-plugin-marketplace",
-      "published_at": null,
-      "summary": "Launching the built-in plugin marketplace for Grok Build.",
       "author": null
     }
   ],
