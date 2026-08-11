@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-11T01:44:54.038506+00:00",
-  "next_refresh_at": "2026-08-11T02:14:54.038506+00:00",
+  "fetched_at": "2026-08-11T03:44:16.718428+00:00",
+  "next_refresh_at": "2026-08-11T04:14:16.718428+00:00",
   "entries": [
+    {
+      "title": "10万台出货在即，国产人形机器人2026迎量产大考",
+      "url": "https://www.esmchina.com/news/14384.html",
+      "published_at": null,
+      "summary": "人形机器人的规模化量产，仍需解决成本、续航、可靠性、场景适配等难题，其中的每一道关卡都在拷问机器人产业的耐心。",
+      "author": null
+    },
+    {
+      "title": "考虑出售重庆工厂？SK海力士回应来了",
+      "url": "https://www.esmchina.com/news/14467.html",
+      "published_at": null,
+      "summary": "SK海力士表示，若未来相关事项确定，将在确定之日起或一个月内再次披露。",
+      "author": null
+    },
     {
       "title": "被举报“掏空资产、利益输送”！欧菲光回应：已报案追责",
       "url": "https://www.esmchina.com/news/14466.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14441.html",
       "published_at": null,
       "summary": "7月31日，澜起科技正式宣布，率先在业界试产CXL 3.2内存扩展控制器（MXC）芯片。",
-      "author": null
-    },
-    {
-      "title": "医疗AI边缘架构的落地逻辑，将算力推向患者侧",
-      "url": "https://www.esmchina.com/news/14440.html",
-      "published_at": null,
-      "summary": "如今，无论走进大型医疗体系、诊断实验室，还是制药研发机构，你都会发现AI已经深度融入工作流。",
-      "author": null
-    },
-    {
-      "title": "豆包上车特斯拉：能聊天、能搜资讯、还能讲故事",
-      "url": "https://www.esmchina.com/news/14439.html",
-      "published_at": null,
-      "summary": "中国用豆包，美国用Grok。",
       "author": null
     }
   ],
