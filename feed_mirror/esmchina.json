@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-11T05:08:33.701473+00:00",
-  "next_refresh_at": "2026-08-11T05:38:33.701473+00:00",
+  "fetched_at": "2026-08-11T06:27:31.788515+00:00",
+  "next_refresh_at": "2026-08-11T06:57:31.788515+00:00",
   "entries": [
+    {
+      "title": "增发150亿美元、新销售官上任，英特尔要“赌”一把大的",
+      "url": "https://www.esmchina.com/news/14470.html",
+      "published_at": null,
+      "summary": "物理人工智能、专用芯片以及先进封装技术是未来主要增长领域。",
+      "author": null
+    },
     {
       "title": "摩尔线程启动H股上市，上半年营收增147%亏损收窄",
       "url": "https://www.esmchina.com/news/14469.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14443.html",
       "published_at": null,
       "summary": "调查对象涵盖2018-2020款Model 3及2021-2023款Model Y。",
-      "author": null
-    },
-    {
-      "title": "小米多款手机正式涨价，第三轮调价覆盖主力机型",
-      "url": "https://www.esmchina.com/news/14442.html",
-      "published_at": null,
-      "summary": "这是小米今年以来的第三轮涨价，此前已分别于4月和6月进行过调价。",
       "author": null
     }
   ],
