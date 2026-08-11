@@ -2,14 +2,21 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-11T20:42:41.013719+00:00",
-  "next_refresh_at": "2026-08-11T21:12:41.013719+00:00",
+  "fetched_at": "2026-08-11T21:46:49.529438+00:00",
+  "next_refresh_at": "2026-08-11T22:16:49.529438+00:00",
   "entries": [
     {
       "title": "Testing ads in ChatGPT",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "published_at": "2026-08-11T10:00:00+00:00",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "author": null
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "published_at": "2026-07-31T00:00:00+00:00",
       "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "author": null
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "published_at": "2026-07-30T10:00:00+00:00",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "author": null
     }
   ],
