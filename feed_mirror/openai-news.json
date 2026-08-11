@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-11T08:56:13.806626+00:00",
-  "next_refresh_at": "2026-08-11T09:26:13.806626+00:00",
+  "fetched_at": "2026-08-11T10:01:36.619409+00:00",
+  "next_refresh_at": "2026-08-11T10:31:36.619409+00:00",
   "entries": [
     {
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
