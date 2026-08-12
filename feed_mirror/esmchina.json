@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-12T01:56:59.237618+00:00",
-  "next_refresh_at": "2026-08-12T02:26:59.237618+00:00",
+  "fetched_at": "2026-08-12T04:11:05.033558+00:00",
+  "next_refresh_at": "2026-08-12T04:41:05.033558+00:00",
   "entries": [
+    {
+      "title": "上海印发“十五五”软件信息服务业规划，HBM、CPO、量子芯片是核心攻关环节",
+      "url": "https://www.esmchina.com/news/14471.html",
+      "published_at": null,
+      "summary": "这是目前可见范围内首次将量子芯片（QPU）、高带宽内存（HBM）、高速光互连（CPO）三项技术在同一省级产业规划中并列提出。",
+      "author": null
+    },
     {
       "title": "增发150亿美元、新销售官上任，英特尔要“赌”一把大的",
       "url": "https://www.esmchina.com/news/14470.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14444.html",
       "published_at": null,
       "summary": "国务院总理李强近日签署国务院令，正式公布了修订后的《集成电路布图设计保护条例》。该《条例》已于8月3日对外发布，并将于2026年10月15日起正式施行。这是该条例自2001年公布施行以来的首次系统性修订，旨在保护集成电路布图设计专有权，鼓励技术创新，并促进科学技术发展。",
-      "author": null
-    },
-    {
-      "title": "120万辆特斯拉汽车在美遭调查，悬架故障可能导致失控",
-      "url": "https://www.esmchina.com/news/14443.html",
-      "published_at": null,
-      "summary": "调查对象涵盖2018-2020款Model 3及2021-2023款Model Y。",
       "author": null
     }
   ],

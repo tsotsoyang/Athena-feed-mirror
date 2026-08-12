@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-12T01:56:59.568115+00:00",
-  "next_refresh_at": "2026-08-12T02:26:59.568115+00:00",
+  "fetched_at": "2026-08-12T04:11:08.842210+00:00",
+  "next_refresh_at": "2026-08-12T04:41:08.842210+00:00",
   "entries": [
     {
       "title": "Introducing Grok Bot | SpaceXAI",
