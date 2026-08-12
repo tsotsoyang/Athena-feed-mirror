@@ -2,14 +2,21 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-12T21:44:31.471051+00:00",
-  "next_refresh_at": "2026-08-12T22:14:31.471051+00:00",
+  "fetched_at": "2026-08-12T22:40:29.528885+00:00",
+  "next_refresh_at": "2026-08-12T23:10:29.528885+00:00",
   "entries": [
     {
       "title": "From assistance to execution: How enterprises put AI to work",
       "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
       "published_at": "2026-08-12T06:00:00+00:00",
       "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "author": null
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "published_at": "2026-08-12T00:00:00+00:00",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
       "author": null
     },
     {
@@ -62,17 +69,17 @@
       "author": null
     },
     {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "author": null
-    },
-    {
       "title": "How Zapier transformed core marketing processes with ChatGPT Work",
       "url": "https://openai.com/index/zapier",
       "published_at": "2026-08-10T00:00:00+00:00",
       "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "author": null
+    },
+    {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/building-abundant-intelligence",
       "published_at": "2026-07-31T15:00:00+00:00",
       "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-      "author": null
-    },
-    {
-      "title": "Univé builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "published_at": "2026-07-31T07:00:00+00:00",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "author": null
     }
   ],
