@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-12T12:09:59.255558+00:00",
-  "next_refresh_at": "2026-08-12T12:39:59.255558+00:00",
+  "fetched_at": "2026-08-12T13:56:47.519681+00:00",
+  "next_refresh_at": "2026-08-12T14:26:47.519681+00:00",
   "entries": [
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "published_at": "2026-08-12T06:00:00+00:00",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "author": null
+    },
     {
       "title": "Testing ads in ChatGPT",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/unive",
       "published_at": "2026-07-31T07:00:00+00:00",
       "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "author": null
-    },
-    {
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "author": null
     }
   ],
