@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-12T22:40:24.973583+00:00",
-  "next_refresh_at": "2026-08-12T23:10:24.973583+00:00",
+  "fetched_at": "2026-08-12T23:40:30.343456+00:00",
+  "next_refresh_at": "2026-08-13T00:10:30.343456+00:00",
   "entries": [
     {
       "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
