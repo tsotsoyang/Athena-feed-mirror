@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-12T07:24:21.777884+00:00",
-  "next_refresh_at": "2026-08-12T07:54:21.777884+00:00",
+  "fetched_at": "2026-08-12T08:47:45.192682+00:00",
+  "next_refresh_at": "2026-08-12T09:17:45.192682+00:00",
   "entries": [
+    {
+      "title": "涨价函又来了！从MCU到模拟芯片年内第二轮调价密集落地",
+      "url": "https://www.esmchina.com/news/14472.html",
+      "published_at": null,
+      "summary": "挡不住的涨价潮！",
+      "author": null
+    },
     {
       "title": "上海印发“十五五”软件信息服务业规划，HBM、CPO、量子芯片是核心攻关环节",
       "url": "https://www.esmchina.com/news/14471.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14445.html",
       "published_at": null,
       "summary": "SK海力士与闪迪联合发布了下一代存储技术——高带宽闪存的首个标准规范。",
-      "author": null
-    },
-    {
-      "title": "总理签署，新版《集成电路布图设计保护条例》颁布",
-      "url": "https://www.esmchina.com/news/14444.html",
-      "published_at": null,
-      "summary": "国务院总理李强近日签署国务院令，正式公布了修订后的《集成电路布图设计保护条例》。该《条例》已于8月3日对外发布，并将于2026年10月15日起正式施行。这是该条例自2001年公布施行以来的首次系统性修订，旨在保护集成电路布图设计专有权，鼓励技术创新，并促进科学技术发展。",
       "author": null
     }
   ],
