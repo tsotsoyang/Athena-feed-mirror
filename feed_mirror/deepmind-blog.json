@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-12T13:56:58.996737+00:00",
-  "next_refresh_at": "2026-08-12T14:26:58.996737+00:00",
+  "fetched_at": "2026-08-12T15:01:17.150230+00:00",
+  "next_refresh_at": "2026-08-12T15:31:17.150230+00:00",
   "entries": [
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "published_at": "2026-08-12T14:01:59+00:00",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "author": null
+    },
     {
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
@@ -170,13 +177,6 @@
       "title": "Introducing Gemini Omni",
       "url": "https://deepmind.google/blog/introducing-gemini-omni/",
       "published_at": "2026-05-17T19:50:57+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Introducing Google Antigravity 2.0",
-      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
-      "published_at": "2026-05-17T19:43:45+00:00",
       "summary": "",
       "author": null
     }
