@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-12T08:47:31.272757+00:00",
-  "next_refresh_at": "2026-08-12T09:17:31.272757+00:00",
+  "fetched_at": "2026-08-12T10:04:30.119646+00:00",
+  "next_refresh_at": "2026-08-12T10:34:30.119646+00:00",
   "entries": [
     {
       "title": "Testing ads in ChatGPT",
