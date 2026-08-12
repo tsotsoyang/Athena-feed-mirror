@@ -2,8 +2,8 @@
   "source": "cxl-consortium-news",
   "name": "CXL Consortium press room",
   "feed_url": "https://computeexpresslink.org/news/feed/",
-  "fetched_at": "2026-08-12T04:10:48.998727+00:00",
-  "next_refresh_at": "2026-08-12T04:40:48.998727+00:00",
+  "fetched_at": "2026-08-12T05:54:41.932173+00:00",
+  "next_refresh_at": "2026-08-12T06:24:41.932173+00:00",
   "entries": [
     {
       "title": "‘Near zero-cost memory expansion through recycling’: Meta will reuse terabytes worth of DDR4 memory using CXL tech and avoid paying the RAM tax",
