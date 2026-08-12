@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-12T10:04:44.194431+00:00",
-  "next_refresh_at": "2026-08-12T10:34:44.194431+00:00",
+  "fetched_at": "2026-08-12T11:22:28.316403+00:00",
+  "next_refresh_at": "2026-08-12T11:52:28.316403+00:00",
   "entries": [
+    {
+      "title": "iPhone 18或最高上调2000元，库克坦言产品涨价不可避免",
+      "url": "https://www.esmchina.com/news/14473.html",
+      "published_at": null,
+      "summary": "iPhone 18系列起售价将比上代至少上调2000元人民币，Pro系列基础款美版定价或达1399美元，其国行版的定价有望首次突破万元大关。",
+      "author": null
+    },
     {
       "title": "涨价函又来了！从MCU到模拟芯片年内第二轮调价密集落地",
       "url": "https://www.esmchina.com/news/14472.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14446.html",
       "published_at": null,
       "summary": "长鑫存储(CXMT)正考虑在北京市亦庄地区建设其第二座12英寸DRAM晶圆厂，目前该项目已与相关地方产业平台进入早期融资洽谈阶段。",
-      "author": null
-    },
-    {
-      "title": "SK海力士联手闪迪发布HBF首个开放标准，填补HBM与SSD之间的存储空白",
-      "url": "https://www.esmchina.com/news/14445.html",
-      "published_at": null,
-      "summary": "SK海力士与闪迪联合发布了下一代存储技术——高带宽闪存的首个标准规范。",
       "author": null
     }
   ],
