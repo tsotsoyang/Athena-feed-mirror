@@ -2,9 +2,16 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-12T15:01:22.952863+00:00",
-  "next_refresh_at": "2026-08-12T15:31:22.952863+00:00",
+  "fetched_at": "2026-08-12T16:25:42.204657+00:00",
+  "next_refresh_at": "2026-08-12T16:55:42.204657+00:00",
   "entries": [
+    {
+      "title": "Introducing Grok 4.6 | SpaceXAI",
+      "url": "https://x.ai/news/grok-4-6",
+      "published_at": null,
+      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+      "author": null
+    },
     {
       "title": "Introducing Grok Bot | SpaceXAI",
       "url": "https://x.ai/news/introducing-grok-bot",
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/agent-dashboard",
       "published_at": null,
       "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
-      "author": null
-    },
-    {
-      "title": "Use Grok in Warp | SpaceXAI",
-      "url": "https://x.ai/news/grok-warp",
-      "published_at": null,
-      "summary": "Use your Grok and X Premium subscription inside Warp.",
       "author": null
     }
   ],
