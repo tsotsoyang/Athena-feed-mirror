@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-13T09:12:14.825339+00:00",
-  "next_refresh_at": "2026-08-13T09:42:14.825339+00:00",
+  "fetched_at": "2026-08-13T10:35:58.331277+00:00",
+  "next_refresh_at": "2026-08-13T11:05:58.331277+00:00",
   "entries": [
+    {
+      "title": "中芯国际Q2单季营收首破30亿美元，毛利率创近一年新高至25.3%",
+      "url": "https://www.esmchina.com/news/14478.html",
+      "published_at": null,
+      "summary": "2026年第二季度，公司单季销售收入首次突破30亿美元大关，毛利率升至25.3%，核心财务指标全面超预期。",
+      "author": null
+    },
+    {
+      "title": "长江存储NAND出货量首入全球前三，14%份额超越铠侠",
+      "url": "https://www.esmchina.com/news/14477.html",
+      "published_at": null,
+      "summary": "这是中国NAND厂商出货量份额首次跻身全球前三甲。",
+      "author": null
+    },
     {
       "title": "从十颗芯片看RISC-V的“主力”之路：具身机器人、AI服务器、汽车电子全覆盖",
       "url": "https://www.esmchina.com/news/14476.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14452.html",
       "published_at": null,
       "summary": "三星电子、SK海力士、美光三大DRAM原厂已完成2027年全年产能分配谈判，DRAM与HBM产能全部售罄。",
-      "author": null
-    },
-    {
-      "title": "Q2 DRAM市场：三星重回第一！长鑫成最大黑马",
-      "url": "https://www.esmchina.com/news/14451.html",
-      "published_at": null,
-      "summary": "三星受益于传统DRAM供应能力和价格优势，市场表现稳健，与去年同期排名第一的SK海力士进一步拉开差距。",
-      "author": null
-    },
-    {
-      "title": "SpaceX“All in”英伟达，AI算力剑指太空",
-      "url": "https://www.esmchina.com/news/14449.html",
-      "published_at": null,
-      "summary": "从资本市场的里程碑，到AI算力路线的全面靠拢，两家公司的合作关系在数月间迅速升温。",
       "author": null
     }
   ],
