@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-13T07:41:22.783049+00:00",
-  "next_refresh_at": "2026-08-13T08:11:22.783049+00:00",
+  "fetched_at": "2026-08-13T09:12:14.825339+00:00",
+  "next_refresh_at": "2026-08-13T09:42:14.825339+00:00",
   "entries": [
+    {
+      "title": "从十颗芯片看RISC-V的“主力”之路：具身机器人、AI服务器、汽车电子全覆盖",
+      "url": "https://www.esmchina.com/news/14476.html",
+      "published_at": null,
+      "summary": "当开放架构遇到物理AI的时代机遇，RISC-V正撬动整个算力产业的格局重塑。",
+      "author": null
+    },
     {
       "title": "英伟达中国份额仅剩8%？2026年国产AI芯片将拿下90%高端市场",
       "url": "https://www.esmchina.com/news/14475.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14449.html",
       "published_at": null,
       "summary": "从资本市场的里程碑，到AI算力路线的全面靠拢，两家公司的合作关系在数月间迅速升温。",
-      "author": null
-    },
-    {
-      "title": "你的iCloud数据安全吗？苹果为保护用户隐私，直接把英国告了",
-      "url": "https://www.esmchina.com/news/14448.html",
-      "published_at": null,
-      "summary": "这场法律争端源于苹果2022年推出的iCloud高级数据保护功能。",
       "author": null
     }
   ],
