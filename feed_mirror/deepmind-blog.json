@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-13T13:10:25.936206+00:00",
-  "next_refresh_at": "2026-08-13T13:40:25.936206+00:00",
+  "fetched_at": "2026-08-13T15:58:45.709269+00:00",
+  "next_refresh_at": "2026-08-13T16:28:45.709269+00:00",
   "entries": [
     {
       "title": "Putting sign language AI into users’ hands",

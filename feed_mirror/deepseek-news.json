@@ -2,14 +2,14 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-08-13T13:10:25.581560+00:00",
-  "next_refresh_at": "2026-08-13T13:40:25.581560+00:00",
+  "fetched_at": "2026-08-13T15:58:45.325999+00:00",
+  "next_refresh_at": "2026-08-13T16:28:45.325999+00:00",
   "entries": [
     {
-      "title": "DeepSeek V4 Preview Release | DeepSeek API Docs",
-      "url": "https://api-docs.deepseek.com/news/news260424",
+      "title": "DeepSeek-V4-Pro GA Release | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/news/news260813",
       "published_at": null,
-      "summary": "🚀 DeepSeek-V4 Preview is officially live &amp; open-sourced! Welcome to the era of cost-effective 1M context length.",
+      "summary": "We’re launching DeepSeek-V4-Pro today! 🚀",
       "author": null
     }
   ],
