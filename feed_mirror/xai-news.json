@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-13T15:58:54.062912+00:00",
-  "next_refresh_at": "2026-08-13T16:28:54.062912+00:00",
+  "fetched_at": "2026-08-13T17:04:41.535118+00:00",
+  "next_refresh_at": "2026-08-13T17:34:41.535118+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.6 | SpaceXAI",
@@ -104,10 +104,10 @@
       "author": null
     },
     {
-      "title": "Grok Build is Now Open Source | SpaceXAI",
+      "title": "Grok Build is Now Open Source Explore the harness behind our coding agent and TUI. Jul 15, 2026",
       "url": "https://x.ai/news/grok-build-open-source",
       "published_at": null,
-      "summary": "Explore the harness behind our coding agent and TUI.",
+      "summary": "",
       "author": null
     },
     {
@@ -174,10 +174,10 @@
       "author": null
     },
     {
-      "title": "Agent Dashboard in Grok Build | SpaceXAI",
+      "title": "Agent Dashboard in Grok Build Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work. Jun 15, 2026",
       "url": "https://x.ai/news/agent-dashboard",
       "published_at": null,
-      "summary": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
+      "summary": "",
       "author": null
     }
   ],
