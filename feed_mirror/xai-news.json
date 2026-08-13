@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-13T18:26:53.348613+00:00",
-  "next_refresh_at": "2026-08-13T18:56:53.348613+00:00",
+  "fetched_at": "2026-08-13T19:34:51.639710+00:00",
+  "next_refresh_at": "2026-08-13T20:04:51.639710+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.6 | SpaceXAI",
@@ -55,10 +55,10 @@
       "author": null
     },
     {
-      "title": "Grok in Google Workspace Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs. Jul 24, 2026",
+      "title": "Grok in Google Workspace | SpaceXAI",
       "url": "https://x.ai/news/introducing-google-workspace-addon",
       "published_at": null,
-      "summary": "",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
       "author": null
     },
     {
@@ -90,10 +90,10 @@
       "author": null
     },
     {
-      "title": "Introducing Grok 4.5 Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work. Jul 16, 2026",
+      "title": "Introducing Grok 4.5 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.5 is SpaceXAI",
       "author": null
     },
     {
@@ -118,10 +118,10 @@
       "author": null
     },
     {
-      "title": "Introducing the Voice Agent Builder Create a personalized voice agent in under 2 minutes without a single line of code. Jul 1, 2026",
+      "title": "Introducing the Voice Agent Builder | SpaceXAI",
       "url": "https://x.ai/news/grok-voice-agent-builder",
       "published_at": null,
-      "summary": "",
+      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
       "author": null
     },
     {
