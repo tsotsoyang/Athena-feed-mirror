@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-13T05:56:58.615753+00:00",
-  "next_refresh_at": "2026-08-13T06:26:58.615753+00:00",
+  "fetched_at": "2026-08-13T07:41:09.255950+00:00",
+  "next_refresh_at": "2026-08-13T08:11:09.255950+00:00",
   "entries": [
     {
       "title": "From assistance to execution: How enterprises put AI to work",
