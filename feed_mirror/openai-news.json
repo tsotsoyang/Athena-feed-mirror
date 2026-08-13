@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-13T17:04:20.973103+00:00",
-  "next_refresh_at": "2026-08-13T17:34:20.973103+00:00",
+  "fetched_at": "2026-08-13T18:26:38.588698+00:00",
+  "next_refresh_at": "2026-08-13T18:56:38.588698+00:00",
   "entries": [
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published_at": "2026-08-13T11:00:00+00:00",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "author": null
+    },
     {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "url": "https://openai.com/index/previewing-ultrafast",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/circles",
       "published_at": "2026-08-03T00:00:00+00:00",
       "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "author": null
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "published_at": "2026-08-01T00:00:00+00:00",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "author": null
     }
   ],
