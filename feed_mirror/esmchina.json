@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-13T01:59:18.940619+00:00",
-  "next_refresh_at": "2026-08-13T02:29:18.940619+00:00",
+  "fetched_at": "2026-08-13T04:18:29.795703+00:00",
+  "next_refresh_at": "2026-08-13T04:48:29.795703+00:00",
   "entries": [
+    {
+      "title": "英伟达中国份额仅剩8%？2026年国产AI芯片将拿下90%高端市场",
+      "url": "https://www.esmchina.com/news/14475.html",
+      "published_at": null,
+      "summary": "留给英伟达、AMD等海外方案的市场空间可能仅剩一成。",
+      "author": null
+    },
+    {
+      "title": "出货360亿颗、市占突破30%、渗透率达25%，第五届滴水湖中国RISC-V产业论坛传递这些信号",
+      "url": "https://www.esmchina.com/news/14474.html",
+      "published_at": null,
+      "summary": "2026年8月13日上午，第五届滴水湖中国RISC-V产业论坛在上海滴水湖洲际酒店明珠厅开幕。",
+      "author": null
+    },
     {
       "title": "iPhone 18或最高上调2000元，库克坦言产品涨价不可避免",
       "url": "https://www.esmchina.com/news/14473.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14448.html",
       "published_at": null,
       "summary": "这场法律争端源于苹果2022年推出的iCloud高级数据保护功能。",
-      "author": null
-    },
-    {
-      "title": "从华强北“一米柜台”到千亿市值：嘉立创今日登陆深交所主板",
-      "url": "https://www.esmchina.com/news/14447.html",
-      "published_at": null,
-      "summary": "嘉立创成立于2006年，起步于深圳华强北的“一米柜台”，最初专注于PCB打样和小批量业务。",
-      "author": null
-    },
-    {
-      "title": "长鑫存储拟在京建设第二座12英寸DRAM晶圆厂",
-      "url": "https://www.esmchina.com/news/14446.html",
-      "published_at": null,
-      "summary": "长鑫存储(CXMT)正考虑在北京市亦庄地区建设其第二座12英寸DRAM晶圆厂，目前该项目已与相关地方产业平台进入早期融资洽谈阶段。",
       "author": null
     }
   ],
