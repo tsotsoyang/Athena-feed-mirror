@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-08-14T10:01:59.114773+00:00",
-  "next_refresh_at": "2026-08-14T10:31:59.114773+00:00",
+  "fetched_at": "2026-08-14T11:15:28.236181+00:00",
+  "next_refresh_at": "2026-08-14T11:45:28.236181+00:00",
   "entries": [
     {
       "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
