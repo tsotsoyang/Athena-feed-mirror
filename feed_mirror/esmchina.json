@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-14T04:11:54.313370+00:00",
-  "next_refresh_at": "2026-08-14T04:41:54.313370+00:00",
+  "fetched_at": "2026-08-14T05:55:47.197832+00:00",
+  "next_refresh_at": "2026-08-14T06:25:47.197832+00:00",
   "entries": [
+    {
+      "title": "美国对进口无人机及零部件征收最高100%关税：四档税率9月3日分级生效",
+      "url": "https://www.esmchina.com/news/14480.html",
+      "published_at": null,
+      "summary": "一般无人机及相关敏感产品的关税将于签署之日起21天后（9月3日）生效，非敏感零部件将于180天后（2027年2月9日）生效。",
+      "author": null
+    },
     {
       "title": "英特尔CEO陈立武首度暗示重返存储市场，聘前SK海力士CEO李锡熙操盘HBM",
       "url": "https://www.esmchina.com/news/14479.html",
@@ -171,13 +178,6 @@
       "url": "https://www.eet-china.com/RC/JFVNY2605/index.html?source=pop",
       "published_at": null,
       "summary": "下载任意1项资源，并填写互动问卷后即有机会抽取盲盒一次~",
-      "author": null
-    },
-    {
-      "title": "雷霆反击！商务部加强无人机对美出口管制，7家美国实体被反制",
-      "url": "https://www.esmchina.com/news/14453.html",
-      "published_at": null,
-      "summary": "8月5日，商务部宣布加强无人机相关两用物项对美国出口管制，并对数家美国实体采取反制措施。",
       "author": null
     }
   ],
