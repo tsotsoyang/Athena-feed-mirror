@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-14T01:56:48.720156+00:00",
-  "next_refresh_at": "2026-08-14T02:26:48.720156+00:00",
+  "fetched_at": "2026-08-14T04:11:54.313370+00:00",
+  "next_refresh_at": "2026-08-14T04:41:54.313370+00:00",
   "entries": [
+    {
+      "title": "英特尔CEO陈立武首度暗示重返存储市场，聘前SK海力士CEO李锡熙操盘HBM",
+      "url": "https://www.esmchina.com/news/14479.html",
+      "published_at": null,
+      "summary": "近日，英特尔CEO陈立武（Lip-Bu Tan）在TechSurge播客中首度公开暗示，公司正探索重返存储芯片市场，并明确将矛头指向HBM。",
+      "author": null
+    },
     {
       "title": "中芯国际Q2单季营收首破30亿美元，毛利率创近一年新高至25.3%",
       "url": "https://www.esmchina.com/news/14478.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14453.html",
       "published_at": null,
       "summary": "8月5日，商务部宣布加强无人机相关两用物项对美国出口管制，并对数家美国实体采取反制措施。",
-      "author": null
-    },
-    {
-      "title": "三星、SK海力士、美光2027年DRAM与HBM产能全数分配完毕",
-      "url": "https://www.esmchina.com/news/14452.html",
-      "published_at": null,
-      "summary": "三星电子、SK海力士、美光三大DRAM原厂已完成2027年全年产能分配谈判，DRAM与HBM产能全部售罄。",
       "author": null
     }
   ],
