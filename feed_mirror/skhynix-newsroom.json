@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-13T23:40:21.297079+00:00",
-  "next_refresh_at": "2026-08-14T00:10:21.297079+00:00",
+  "fetched_at": "2026-08-14T01:56:31.646841+00:00",
+  "next_refresh_at": "2026-08-14T02:26:31.646841+00:00",
   "entries": [
+    {
+      "title": "[Analyst Interview | Ryu Hyung-keun, Daishin Securities] Exploring SK hynix’s Next Opportunity Amid the Structural Growth of AI Memory",
+      "url": "https://news.skhynix.com/en/2026-analyst-interview-03/",
+      "published_at": "2026-08-13T23:59:54+00:00",
+      "summary": "SK hynix reaffirmed its leadership in AI memory by reporting record quarterly revenue and operating profit in the second quarter, while surpassing KRW 100 trillion in cumulative first-half revenue for the first time in its history. Amid these strong results,",
+      "author": "SK hynix"
+    },
     {
       "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
       "url": "https://news.skhynix.com/en/ai-infrastructure-insigh-ep1-3/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/fab-facility-investment-2026/",
       "published_at": "2026-08-07T07:21:10+00:00",
       "summary": "▪ The company to invest 35.2 trillion won in Yongin “Y2” fab and 19.1 trillion won in the Cheongju “M17” fab ▪ To execute mid-to-long-term investment strategy… Y2 to open cleanroom in June 2029 and M17 in December 2028 ▪",
-      "author": "SK hynix"
-    },
-    {
-      "title": "The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
-      "url": "https://news.skhynix.com/en/fms-2026-4/",
-      "published_at": "2026-08-07T05:17:26+00:00",
-      "summary": "",
       "author": "SK hynix"
     }
   ],
