@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-14T19:48:07.749147+00:00",
-  "next_refresh_at": "2026-08-14T20:18:07.749147+00:00",
+  "fetched_at": "2026-08-14T20:30:48.643602+00:00",
+  "next_refresh_at": "2026-08-14T21:00:48.643602+00:00",
   "entries": [
     {
       "title": "The builder’s guide to GPT‑5.6",
