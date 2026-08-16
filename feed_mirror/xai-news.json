@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-16T01:17:57.321141+00:00",
-  "next_refresh_at": "2026-08-16T01:47:57.321141+00:00",
+  "fetched_at": "2026-08-16T02:42:09.299807+00:00",
+  "next_refresh_at": "2026-08-16T03:12:09.299807+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.6 | SpaceXAI",
@@ -48,10 +48,10 @@
       "author": null
     },
     {
-      "title": "Introducing Build Mode | SpaceXAI",
+      "title": "Introducing Build Mode Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android. Jul 28, 2026",
       "url": "https://x.ai/news/grok-build-mode",
       "published_at": null,
-      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
+      "summary": "",
       "author": null
     },
     {
