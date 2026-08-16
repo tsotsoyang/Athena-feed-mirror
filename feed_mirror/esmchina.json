@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-16T09:33:44.848541+00:00",
-  "next_refresh_at": "2026-08-16T10:03:44.848541+00:00",
+  "fetched_at": "2026-08-16T10:22:46.121973+00:00",
+  "next_refresh_at": "2026-08-16T10:52:46.121973+00:00",
   "entries": [
+    {
+      "title": "从场景爆发到人才培养，七问RISC-V在边缘AI的发展机遇",
+      "url": "https://www.esmchina.com/news/14481.html",
+      "published_at": null,
+      "summary": "圆桌嘉宾（从左到右）：芯来科技创始人 胡振波；灵睿智芯联合创始人、副总裁 李华庆；华山资本合伙人 王志伟；上海开放处理器产业创新中心理事长，芯原股份董事长、首席执行官、总裁 戴伟民博士；超睿科技软件总监 夏鸣远；红帽首席软件工程师、RISC-V国际基金会大使 傅炜；创芯学院常务副院长 周平强。",
+      "author": null
+    },
     {
       "title": "美国对进口无人机及零部件征收最高100%关税：四档税率9月3日分级生效",
       "url": "https://www.esmchina.com/news/14480.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14457.html",
       "published_at": null,
       "summary": "国产大模型领域的风向标企业DeepSeek在开发者后台发布了公告称：计划于近期整体上调API服务定价，并明确表示“预计涨幅较大”。",
-      "author": null
-    },
-    {
-      "title": "【填问卷抽盲盒】晶宇兴晶振国产化替代方案",
-      "url": "https://www.eet-china.com/RC/JFVNY2605/index.html?source=pop",
-      "published_at": null,
-      "summary": "下载任意1项资源，并填写互动问卷后即有机会抽取盲盒一次~",
       "author": null
     }
   ],
