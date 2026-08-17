@@ -151,20 +151,41 @@ targets:
       GLM quietly had no official channel at all for a month — only
       second-hand Google News.
 
-      Fixed in two steps, both measured. Adding a `scrape` block (as
-      kimi-blog has) moved the error from "all candidate URLs
-      returned 0 entries" to "index fetch failed: https://z.ai/blog"
-      — i.e. the scrape ran, and z.ai's WAF rejects the GH-runner IP
-      outright, the same way x.ai's does. So the index goes through
-      the Google-Translate proxy host like xai-news, with
-      canonical_host rewriting emitted URLs back to z.ai.
-      (sl=zh-CN/tl=en leaves English text untouched.)
+      STILL BLOCKED as of 2026-08-17 — both available mechanisms were
+      tried and measured, so do not assume this target works:
 
-      If a future run reports "no matching anchors on index page"
-      instead, the proxy fetch is now succeeding and the index is
-      client-rendered — that needs a different mechanism (the docs
-      changelog, or GitHub releases on zai-org once that org starts
-      cutting them), not a deletion of this target.
+        1. Adding this `scrape` block (as kimi-blog has) moved the
+           error from "all candidate URLs returned 0 entries" to
+           "index fetch failed: https://z.ai/blog" — the scrape does
+           run; z.ai's WAF rejects the GH-runner IP outright.
+        2. Routing the index through the Google-Translate proxy, the
+           remedy that DOES work for xai-news, fails differently:
+           `z-ai.translate.goog/blog` answers **404**. Verified
+           against a control in the same probe — the equivalent
+           `x-ai.translate.goog/news` returns 200 with 74 /news/
+           anchors — so this is a missing proxy mapping for z.ai, not
+           a broken selector and not a bad probe.
+
+      The config is deliberately left in state 2 rather than reverted:
+      its error message names the real failure, whereas the original
+      feed-only config reported the uninformative "all candidate URLs
+      returned 0 entries".
+
+      What would actually work, for whoever picks this up:
+      `https://docs.z.ai/release-notes/new-released` IS reachable
+      (200, and it serves a clean markdown twin at
+      `…/new-released.md`, 9 KB, dated GLM-5.2 / GLM-5.1 / … entries).
+      But it is ONE page of `<Update label="date">` blocks, not a list
+      of article links, so neither this mirror's anchor-scraper nor
+      Athena's `fetch_html_blog` — both of which extract `<a href>`
+      from a listing — can consume it. It needs a single-page
+      content-to-entries extractor, which is a new mechanism rather
+      than a config change.
+
+      Meanwhile GLM is NOT uncovered: Athena reaches it through the
+      `zai-org` HF org (official weight releases — GLM-5, GLM-5.2)
+      and a Zhipu/z.ai-scoped Google News feed, both added and
+      yield-verified 2026-08-17.
 
   - source: mistral-news
     name: Mistral AI News
