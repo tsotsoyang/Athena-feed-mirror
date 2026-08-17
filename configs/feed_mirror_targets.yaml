@@ -138,25 +138,33 @@ targets:
       - https://z.ai/blog
     max_entries: 25
     scrape:
-      index_url: https://z.ai/blog
+      index_url: https://z-ai.translate.goog/blog?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en
       link_prefix: /blog/
+      canonical_host: z.ai
     notes: |
       z.ai (Zhipu / GLM) is connection-blocked from the Phison
       egress. No RSS anywhere on the host, so the feed-first config
       this target shipped with could never yield: every published
-      artefact from 2026-07-19 to 2026-08-17 was
-      `entries: 0` with `errors: [autodiscovery x3, fetch]`, and
-      because a mirror that answers with an empty list is not an
-      error on Athena's side, GLM quietly had no official channel at
-      all for a month — only second-hand Google News. Fixed the same
-      way kimi-blog was: `scrape` the server-rendered /blog index.
-      Channel for GLM model release posts (GLM-5 etc.).
+      artefact from 2026-07-19 to 2026-08-17 was `entries: 0` with
+      `errors: [autodiscovery x3, fetch]`, and because a mirror that
+      answers with an empty list is not an error on Athena's side,
+      GLM quietly had no official channel at all for a month — only
+      second-hand Google News.
 
-      If a future run reports "no matching anchors on index page",
-      the index is client-rendered or the WAF is rejecting the
-      GH-runner IP — switch to the translate.goog proxy form that
-      xai-news uses (index_url through z-ai.translate.goog plus
-      `canonical_host: z.ai`) rather than deleting the target.
+      Fixed in two steps, both measured. Adding a `scrape` block (as
+      kimi-blog has) moved the error from "all candidate URLs
+      returned 0 entries" to "index fetch failed: https://z.ai/blog"
+      — i.e. the scrape ran, and z.ai's WAF rejects the GH-runner IP
+      outright, the same way x.ai's does. So the index goes through
+      the Google-Translate proxy host like xai-news, with
+      canonical_host rewriting emitted URLs back to z.ai.
+      (sl=zh-CN/tl=en leaves English text untouched.)
+
+      If a future run reports "no matching anchors on index page"
+      instead, the proxy fetch is now succeeding and the index is
+      client-rendered — that needs a different mechanism (the docs
+      changelog, or GitHub releases on zai-org once that org starts
+      cutting them), not a deletion of this target.
 
   - source: mistral-news
     name: Mistral AI News
