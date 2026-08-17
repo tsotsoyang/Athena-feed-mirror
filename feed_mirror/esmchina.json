@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-17T02:30:52.991130+00:00",
-  "next_refresh_at": "2026-08-17T03:00:52.991130+00:00",
+  "fetched_at": "2026-08-17T02:41:30.630869+00:00",
+  "next_refresh_at": "2026-08-17T03:11:30.630869+00:00",
   "entries": [
+    {
+      "title": "DeepSeek API调价今日生效：高峰时段价格翻倍，最高涨幅1100%",
+      "url": "https://www.esmchina.com/news/14483.html",
+      "published_at": null,
+      "summary": "国际电子商情讯，北京时间2026年8月17日0时起，DeepSeek全新API定价方案正式生效。",
+      "author": null
+    },
     {
       "title": "莫迪独立日演讲定调：印度将新增5至8座半导体工厂，3座封测厂已投产",
       "url": "https://www.esmchina.com/news/14482.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14459.html",
       "published_at": null,
       "summary": "宇树科技本次发行价格最终确定为150.80元/股。按照发行后总股本计算，宇树科技上市时的预计总市值将达到约609.93亿元。",
-      "author": null
-    },
-    {
-      "title": "科技巨头AI部门大洗牌，效力27年的首席科学家出走",
-      "url": "https://www.esmchina.com/news/14458.html",
-      "published_at": null,
-      "summary": "AI的竞争，正在从“模型竞争”，变成“人才竞争”。",
       "author": null
     }
   ],
