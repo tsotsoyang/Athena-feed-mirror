@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-17T02:41:30.630869+00:00",
-  "next_refresh_at": "2026-08-17T03:11:30.630869+00:00",
+  "fetched_at": "2026-08-17T03:50:15.032797+00:00",
+  "next_refresh_at": "2026-08-17T04:20:15.032797+00:00",
   "entries": [
+    {
+      "title": "1600人面临调整！诺基亚杭州研发中心正式关停，核心资产已运往欧洲",
+      "url": "https://www.esmchina.com/news/14484.html",
+      "published_at": null,
+      "summary": "芬兰通信巨头诺基亚正式确认关闭其位于杭州的无线技术研发中心，这一决定直接导致约1600名研发人员面临岗位调整。",
+      "author": null
+    },
     {
       "title": "DeepSeek API调价今日生效：高峰时段价格翻倍，最高涨幅1100%",
       "url": "https://www.esmchina.com/news/14483.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14460.html",
       "published_at": null,
       "summary": "全球元器件和企业计算解决方案两大业务均展现出强劲的战略执行力。",
-      "author": null
-    },
-    {
-      "title": "150.8元！宇树科技IPO定价出炉",
-      "url": "https://www.esmchina.com/news/14459.html",
-      "published_at": null,
-      "summary": "宇树科技本次发行价格最终确定为150.80元/股。按照发行后总股本计算，宇树科技上市时的预计总市值将达到约609.93亿元。",
       "author": null
     }
   ],
