@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-17T10:32:00.506462+00:00",
-  "next_refresh_at": "2026-08-17T11:02:00.506462+00:00",
+  "fetched_at": "2026-08-17T11:24:55.199601+00:00",
+  "next_refresh_at": "2026-08-17T11:54:55.199601+00:00",
   "entries": [
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "published_at": "2026-08-17T03:15:00+00:00",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "author": null
+    },
     {
       "title": "The builder’s guide to GPT‑5.6",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "published_at": "2026-08-03T07:00:00+00:00",
       "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "author": null
-    },
-    {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "url": "https://openai.com/index/circles",
-      "published_at": "2026-08-03T00:00:00+00:00",
-      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
       "author": null
     }
   ],
