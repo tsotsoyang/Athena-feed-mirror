@@ -2,9 +2,23 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-17T12:42:40.597315+00:00",
-  "next_refresh_at": "2026-08-17T13:12:40.597315+00:00",
+  "fetched_at": "2026-08-17T13:38:48.425102+00:00",
+  "next_refresh_at": "2026-08-17T14:08:48.425102+00:00",
   "entries": [
+    {
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "published_at": "2026-08-17T05:30:00+00:00",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "author": null
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "published_at": "2026-08-17T05:00:00+00:00",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "author": null
+    },
     {
       "title": "New policy ideas for the Intelligence Age",
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
@@ -164,20 +178,6 @@
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "published_at": "2026-08-04T00:00:00+00:00",
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "author": null
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "published_at": "2026-08-03T22:00:00+00:00",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "author": null
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "author": null
     }
   ],
