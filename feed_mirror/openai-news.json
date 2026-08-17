@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-17T11:50:20.690584+00:00",
-  "next_refresh_at": "2026-08-17T12:20:20.690584+00:00",
+  "fetched_at": "2026-08-17T12:42:40.597315+00:00",
+  "next_refresh_at": "2026-08-17T13:12:40.597315+00:00",
   "entries": [
     {
       "title": "New policy ideas for the Intelligence Age",
