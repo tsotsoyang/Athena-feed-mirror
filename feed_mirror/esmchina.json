@@ -2,8 +2,8 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-17T07:53:04.428999+00:00",
-  "next_refresh_at": "2026-08-17T08:23:04.428999+00:00",
+  "fetched_at": "2026-08-17T08:42:47.785618+00:00",
+  "next_refresh_at": "2026-08-17T09:12:47.785618+00:00",
   "entries": [
     {
       "title": "美政府公开施压：不希望苹果采购中国存储芯片",
@@ -16,7 +16,7 @@
       "title": "1600人面临调整！诺基亚杭州研发中心正式关停，核心资产已运往欧洲",
       "url": "https://www.esmchina.com/news/14484.html",
       "published_at": null,
-      "summary": "芬兰通信巨头诺基亚正式确认关闭其位于杭州的无线技术研发中心，这一决定直接导致约1600名研发人员面临岗位调整。",
+      "summary": "芬兰通信巨头诺基亚确认关闭其位于杭州的无线技术研发中心，此举将导致约1600名研发人员面临岗位调整。",
       "author": null
     },
     {
