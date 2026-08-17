@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-17T01:15:37.374683+00:00",
-  "next_refresh_at": "2026-08-17T01:45:37.374683+00:00",
+  "fetched_at": "2026-08-17T02:19:56.745820+00:00",
+  "next_refresh_at": "2026-08-17T02:49:56.745820+00:00",
   "entries": [
+    {
+      "title": "莫迪独立日演讲定调：印度将新增5至8座半导体工厂，3座封测厂已投产",
+      "url": "https://www.esmchina.com/news/14482.html",
+      "published_at": null,
+      "summary": "莫迪在演讲中表示，未来数年内将有5至8座新的半导体工厂投入运营。",
+      "author": null
+    },
     {
       "title": "从场景爆发到人才培养，七问RISC-V在边缘AI的发展机遇",
       "url": "https://www.esmchina.com/news/14481.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14458.html",
       "published_at": null,
       "summary": "AI的竞争，正在从“模型竞争”，变成“人才竞争”。",
-      "author": null
-    },
-    {
-      "title": "DeepSeek预告API大幅涨价！网友：梁圣还是小梁就看涨幅了",
-      "url": "https://www.esmchina.com/news/14457.html",
-      "published_at": null,
-      "summary": "国产大模型领域的风向标企业DeepSeek在开发者后台发布了公告称：计划于近期整体上调API服务定价，并明确表示“预计涨幅较大”。",
       "author": null
     }
   ],
