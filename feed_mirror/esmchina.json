@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-18T09:32:57.155219+00:00",
-  "next_refresh_at": "2026-08-18T10:02:57.155219+00:00",
+  "fetched_at": "2026-08-18T10:28:35.031423+00:00",
+  "next_refresh_at": "2026-08-18T10:58:35.031423+00:00",
   "entries": [
+    {
+      "title": "神龙新公司股东结构首次披露，东风与Stellantis各持股13.53%",
+      "url": "https://www.esmchina.com/news/14497.html",
+      "published_at": null,
+      "summary": "这家由东风汽车集团、斯泰兰蒂斯（Stellantis）集团等六方合资设立的新能源汽车公司，标志着今年5月签署的战略合作正式进入落地实施阶段。",
+      "author": null
+    },
     {
       "title": "发回重审！大疆在美维权取得关键胜利",
       "url": "https://www.esmchina.com/news/14496.html",
@@ -13,7 +20,7 @@
       "author": null
     },
     {
-      "title": "英伟达宣布：5000亿美元入场，AI工厂计算成为可投资资产",
+      "title": "英伟达宣布：5000亿美元入场，AI工厂成为可投资资产",
       "url": "https://www.esmchina.com/news/14493.html",
       "published_at": null,
       "summary": "英伟达宣布将与多家全球顶尖金融机构携手，共同打造一个独立的融资平台。该平台计划在未来逐步调动超过5000亿美元的第三方资本，专项用于全球AI基础设施的建设。",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14470.html",
       "published_at": null,
       "summary": "物理人工智能、专用芯片以及先进封装技术是未来主要增长领域。",
-      "author": null
-    },
-    {
-      "title": "摩尔线程启动H股上市，上半年营收增147%亏损收窄",
-      "url": "https://www.esmchina.com/news/14469.html",
-      "published_at": null,
-      "summary": "这是该公司2025年12月登陆科创板后，仅隔8个月便启动的又一次资本运作。",
       "author": null
     }
   ],
