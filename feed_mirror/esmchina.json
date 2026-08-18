@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-18T06:52:43.893893+00:00",
-  "next_refresh_at": "2026-08-18T07:22:43.893893+00:00",
+  "fetched_at": "2026-08-18T07:37:48.583067+00:00",
+  "next_refresh_at": "2026-08-18T08:07:48.583067+00:00",
   "entries": [
+    {
+      "title": "IPO对赌失败引爆7.58亿元诉讼，昔日家电巨头康佳面临退市危机",
+      "url": "https://www.esmchina.com/news/14492.html",
+      "published_at": null,
+      "summary": "五起案件涉案金额合计7.58亿元。",
+      "author": null
+    },
     {
       "title": "没方向盘、没刹车踏板！特斯拉Cybercab最快月底“上岗”",
       "url": "https://www.esmchina.com/news/14491.html",
@@ -20,7 +27,7 @@
       "author": null
     },
     {
-      "title": "创始人退居幕后，吉利汽车迈入职业经理人时代",
+      "title": "创始人退居幕后，吉利“变天”了？",
       "url": "https://www.esmchina.com/news/14489.html",
       "published_at": null,
       "summary": "做实做强“一个吉利”。",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14467.html",
       "published_at": null,
       "summary": "SK海力士表示，若未来相关事项确定，将在确定之日起或一个月内再次披露。",
-      "author": null
-    },
-    {
-      "title": "被举报“掏空资产、利益输送”！欧菲光回应：已报案追责",
-      "url": "https://www.esmchina.com/news/14466.html",
-      "published_at": null,
-      "summary": "此次举报恰逢欧菲光业绩低谷期。",
       "author": null
     }
   ],
