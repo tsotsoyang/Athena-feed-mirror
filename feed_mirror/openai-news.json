@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-18T23:21:42.202632+00:00",
-  "next_refresh_at": "2026-08-18T23:51:42.202632+00:00",
+  "fetched_at": "2026-08-18T23:47:23.217814+00:00",
+  "next_refresh_at": "2026-08-19T00:17:23.217814+00:00",
   "entries": [
     {
       "title": "Strengthening democratic oversight in national security",
@@ -31,6 +31,13 @@
       "url": "https://openai.com/index/chatgpt-for-teens",
       "published_at": "2026-08-18T11:00:00+00:00",
       "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "author": null
+    },
+    {
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "published_at": "2026-08-18T00:00:00+00:00",
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "published_at": "2026-08-07T15:20:00+00:00",
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "author": null
-    },
-    {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "published_at": "2026-08-07T09:00:00+00:00",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
       "author": null
     }
   ],
