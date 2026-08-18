@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-18T03:44:09.337369+00:00",
-  "next_refresh_at": "2026-08-18T04:14:09.337369+00:00",
+  "fetched_at": "2026-08-18T04:35:09.969300+00:00",
+  "next_refresh_at": "2026-08-18T05:05:09.969300+00:00",
   "entries": [
+    {
+      "title": "没方向盘、没刹车踏板！特斯拉Cybercab最快月底“上岗”",
+      "url": "https://www.esmchina.com/news/14491.html",
+      "published_at": null,
+      "summary": "特斯拉已向内部员工传达计划，最快将于本月在美国得克萨斯州奥斯汀市向公众推出无方向盘自动驾驶出租车Cybercab。",
+      "author": null
+    },
     {
       "title": "Anthropic年化营收突破650亿美元，2028年剑指2000亿美元",
       "url": "https://www.esmchina.com/news/14490.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14466.html",
       "published_at": null,
       "summary": "此次举报恰逢欧菲光业绩低谷期。",
-      "author": null
-    },
-    {
-      "title": "宇树科技今日申购：发行价150.80元，中一签或赚20万元",
-      "url": "https://www.esmchina.com/news/14465.html",
-      "published_at": null,
-      "summary": "以此测算，中一签宇树科技账面盈利有望突破20万元。",
       "author": null
     }
   ],
