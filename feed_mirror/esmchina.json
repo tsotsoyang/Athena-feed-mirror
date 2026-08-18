@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-18T07:37:48.583067+00:00",
-  "next_refresh_at": "2026-08-18T08:07:48.583067+00:00",
+  "fetched_at": "2026-08-18T08:36:34.898245+00:00",
+  "next_refresh_at": "2026-08-18T09:06:34.898245+00:00",
   "entries": [
+    {
+      "title": "英伟达宣布：5000亿美元入场，AI工厂计算成为可投资资产",
+      "url": "https://www.esmchina.com/news/14493.html",
+      "published_at": null,
+      "summary": "英伟达宣布将与多家全球顶尖金融机构携手，共同打造一个独立的融资平台。该平台计划在未来逐步调动超过5000亿美元的第三方资本，专项用于全球AI基础设施的建设。",
+      "author": null
+    },
     {
       "title": "IPO对赌失败引爆7.58亿元诉讼，昔日家电巨头康佳面临退市危机",
       "url": "https://www.esmchina.com/news/14492.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14384.html",
       "published_at": null,
       "summary": "人形机器人的规模化量产，仍需解决成本、续航、可靠性、场景适配等难题，其中的每一道关卡都在拷问机器人产业的耐心。",
-      "author": null
-    },
-    {
-      "title": "考虑出售重庆工厂？SK海力士回应来了",
-      "url": "https://www.esmchina.com/news/14467.html",
-      "published_at": null,
-      "summary": "SK海力士表示，若未来相关事项确定，将在确定之日起或一个月内再次披露。",
       "author": null
     }
   ],
