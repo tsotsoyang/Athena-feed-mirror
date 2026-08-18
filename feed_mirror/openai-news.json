@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-18T01:13:12.550567+00:00",
-  "next_refresh_at": "2026-08-18T01:43:12.550567+00:00",
+  "fetched_at": "2026-08-18T02:35:47.354237+00:00",
+  "next_refresh_at": "2026-08-18T03:05:47.354237+00:00",
   "entries": [
     {
       "title": "The Defender’s Window",

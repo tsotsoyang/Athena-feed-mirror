@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-18T01:13:25.416390+00:00",
-  "next_refresh_at": "2026-08-18T01:43:25.416390+00:00",
+  "fetched_at": "2026-08-18T02:36:01.349880+00:00",
+  "next_refresh_at": "2026-08-18T03:06:01.349880+00:00",
   "entries": [
+    {
+      "title": "我国发布全球首个汽车芯片全产业链能力评价标准体系",
+      "url": "https://www.esmchina.com/news/14488.html",
+      "published_at": null,
+      "summary": "2025年4月，国家认监委批准该五项标准立项；2025年11月，市场监管总局发布“汽车芯片认证审查技术体系2.0版”。此次发布的五项标准是在此基础上的正式落地。",
+      "author": null
+    },
     {
       "title": "智元、宇树“神仙打架”！中国厂商包揽人形机器人97%全球份额",
       "url": "https://www.esmchina.com/news/14486.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14463.html",
       "published_at": null,
       "summary": "美国曾是该材料的世界领先生产国，但其在全球多晶硅产能中的份额已从2005年的50%下降到2024年的不足2%。",
-      "author": null
-    },
-    {
-      "title": "暴涨35.1%！全球半导体销售额冲刺1.5万亿美元",
-      "url": "https://www.esmchina.com/news/14462.html",
-      "published_at": null,
-      "summary": "美国半导体行业协会(SIA)最新公布的数据显示，2026年第二季度全球半导体销售额达4033 亿美元，较2026年第一季度增长35.1%，年内全球芯片市场规模将突破1.5万亿美元。",
       "author": null
     }
   ],
