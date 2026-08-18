@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-18T19:49:53.414428+00:00",
-  "next_refresh_at": "2026-08-18T20:19:53.414428+00:00",
+  "fetched_at": "2026-08-18T20:23:12.882528+00:00",
+  "next_refresh_at": "2026-08-18T20:53:12.882528+00:00",
   "entries": [
+    {
+      "title": "Strengthening Democratic Oversight in National Security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "published_at": "2026-08-18T19:00:00+00:00",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "author": null
+    },
     {
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "url": "https://openai.com/index/partnering-with-codeai",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/hsp-gruppe",
       "published_at": "2026-08-07T09:00:00+00:00",
       "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "author": null
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "published_at": "2026-08-06T10:00:00+00:00",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "author": null
     }
   ],
