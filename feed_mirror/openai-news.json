@@ -2,9 +2,23 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-18T10:56:54.477643+00:00",
-  "next_refresh_at": "2026-08-18T11:26:54.477643+00:00",
+  "fetched_at": "2026-08-18T11:29:16.477771+00:00",
+  "next_refresh_at": "2026-08-18T11:59:16.477771+00:00",
   "entries": [
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "author": null
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "author": null
+    },
     {
       "title": "The Defender’s Window",
       "url": "https://openai.com/index/the-defenders-window",
@@ -164,20 +178,6 @@
       "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
       "published_at": "2026-08-06T00:00:00+00:00",
       "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "author": null
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "published_at": "2026-08-04T19:00:00+00:00",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "author": null
-    },
-    {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "author": null
     }
   ],
