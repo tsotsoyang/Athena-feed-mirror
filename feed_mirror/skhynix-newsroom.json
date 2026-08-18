@@ -2,9 +2,23 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-17T23:47:02.163685+00:00",
-  "next_refresh_at": "2026-08-18T00:17:02.163685+00:00",
+  "fetched_at": "2026-08-18T01:13:06.726632+00:00",
+  "next_refresh_at": "2026-08-18T01:43:06.726632+00:00",
   "entries": [
+    {
+      "title": "[AI Ecosystem] The paradigm shift in AI computing",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1/",
+      "published_at": "2026-08-17T23:59:58+00:00",
+      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
+      "author": "Professor Jinwoo Shin, KAIST"
+    },
+    {
+      "title": "[Analyst Interview | Exploring SK hynix’s Next Opportunity Amid the Structural Growth of AI Memory]",
+      "url": "https://news.skhynix.com/en/analyst-interview-exploring-sk-hynixs-next-opportunity-amid-the-structural-growth-of-ai-memory/",
+      "published_at": "2026-08-14T00:17:06+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
     {
       "title": "[Analyst Interview | Ryu Hyung-keun, Daishin Securities] Exploring SK hynix’s Next Opportunity Amid the Structural Growth of AI Memory",
       "url": "https://news.skhynix.com/en/2026-analyst-interview-03/",
@@ -59,20 +73,6 @@
       "url": "https://news.skhynix.com/en/fab-facility-investment-2026-2/",
       "published_at": "2026-08-07T07:40:01+00:00",
       "summary": "SK hynix Mid-to-Long-Term Investment Phased Execution",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
-      "url": "https://news.skhynix.com/en/fab-facility-investment-2026-1/",
-      "published_at": "2026-08-07T07:38:38+00:00",
-      "summary": "Rendering of the M17 fab that SK hynix plans to build in Cheongju",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
-      "url": "https://news.skhynix.com/en/fab-facility-investment-2026/",
-      "published_at": "2026-08-07T07:21:10+00:00",
-      "summary": "▪ The company to invest 35.2 trillion won in Yongin “Y2” fab and 19.1 trillion won in the Cheongju “M17” fab ▪ To execute mid-to-long-term investment strategy… Y2 to open cleanroom in June 2029 and M17 in December 2028 ▪",
       "author": "SK hynix"
     }
   ],
