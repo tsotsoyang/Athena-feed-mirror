@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-18T02:36:01.349880+00:00",
-  "next_refresh_at": "2026-08-18T03:06:01.349880+00:00",
+  "fetched_at": "2026-08-18T03:44:09.337369+00:00",
+  "next_refresh_at": "2026-08-18T04:14:09.337369+00:00",
   "entries": [
+    {
+      "title": "Anthropic年化营收突破650亿美元，2028年剑指2000亿美元",
+      "url": "https://www.esmchina.com/news/14490.html",
+      "published_at": null,
+      "summary": "截至今年7月底，AI大模型龙头Anthropic的年化营收运行率已突破650亿美元。",
+      "author": null
+    },
+    {
+      "title": "创始人退居幕后，吉利汽车迈入职业经理人时代",
+      "url": "https://www.esmchina.com/news/14489.html",
+      "published_at": null,
+      "summary": "做实做强“一个吉利”。",
+      "author": null
+    },
     {
       "title": "我国发布全球首个汽车芯片全产业链能力评价标准体系",
       "url": "https://www.esmchina.com/news/14488.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14465.html",
       "published_at": null,
       "summary": "以此测算，中一签宇树科技账面盈利有望突破20万元。",
-      "author": null
-    },
-    {
-      "title": "长鑫存储芯片进入苹果测试名单，IPO后加速冲刺全球DRAM三强",
-      "url": "https://www.esmchina.com/news/14464.html",
-      "published_at": null,
-      "summary": "苹果与长鑫合作面临着复杂的合规环境。",
-      "author": null
-    },
-    {
-      "title": "特朗普关税大棒砸向多晶硅，最低进口价+15%关税",
-      "url": "https://www.esmchina.com/news/14463.html",
-      "published_at": null,
-      "summary": "美国曾是该材料的世界领先生产国，但其在全球多晶硅产能中的份额已从2005年的50%下降到2024年的不足2%。",
       "author": null
     }
   ],
