@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-18T16:31:11.035225+00:00",
-  "next_refresh_at": "2026-08-18T17:01:11.035225+00:00",
+  "fetched_at": "2026-08-18T17:26:44.355950+00:00",
+  "next_refresh_at": "2026-08-18T17:56:44.355950+00:00",
   "entries": [
     {
       "title": "Partnering with CodeAI to prepare the first AI generation",
@@ -17,6 +17,13 @@
       "url": "https://openai.com/index/chatgpt-for-teens",
       "published_at": "2026-08-18T11:00:00+00:00",
       "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "author": null
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "published_at": "2026-08-06T06:00:00+00:00",
       "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "author": null
-    },
-    {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "published_at": "2026-08-06T00:00:00+00:00",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
       "author": null
     }
   ],
