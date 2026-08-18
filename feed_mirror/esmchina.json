@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-18T08:36:34.898245+00:00",
-  "next_refresh_at": "2026-08-18T09:06:34.898245+00:00",
+  "fetched_at": "2026-08-18T09:32:57.155219+00:00",
+  "next_refresh_at": "2026-08-18T10:02:57.155219+00:00",
   "entries": [
+    {
+      "title": "发回重审！大疆在美维权取得关键胜利",
+      "url": "https://www.esmchina.com/news/14496.html",
+      "published_at": null,
+      "summary": "近日，美国哥伦比亚特区联邦巡回上诉法院作出裁定，要求下级法院重新审理大疆被列入五角大楼“中国军事企业”（CMC）黑名单一案。标志着大疆在美长达数年的法律维权取得了至关重要的程序性胜利。",
+      "author": null
+    },
     {
       "title": "英伟达宣布：5000亿美元入场，AI工厂计算成为可投资资产",
       "url": "https://www.esmchina.com/news/14493.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14469.html",
       "published_at": null,
       "summary": "这是该公司2025年12月登陆科创板后，仅隔8个月便启动的又一次资本运作。",
-      "author": null
-    },
-    {
-      "title": "10万台出货在即，国产人形机器人2026迎量产大考",
-      "url": "https://www.esmchina.com/news/14384.html",
-      "published_at": null,
-      "summary": "人形机器人的规模化量产，仍需解决成本、续航、可靠性、场景适配等难题，其中的每一道关卡都在拷问机器人产业的耐心。",
       "author": null
     }
   ],
