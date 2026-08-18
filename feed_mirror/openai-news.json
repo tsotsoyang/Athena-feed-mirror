@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-18T12:45:02.960230+00:00",
-  "next_refresh_at": "2026-08-18T13:15:02.960230+00:00",
+  "fetched_at": "2026-08-18T13:41:33.184378+00:00",
+  "next_refresh_at": "2026-08-18T14:11:33.184378+00:00",
   "entries": [
     {
       "title": "Partnering with CodeAI to prepare the first AI generation",
