@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-18T22:23:27.736871+00:00",
-  "next_refresh_at": "2026-08-18T22:53:27.736871+00:00",
+  "fetched_at": "2026-08-18T22:51:07.971827+00:00",
+  "next_refresh_at": "2026-08-18T23:21:07.971827+00:00",
   "entries": [
     {
       "title": "Introducing Gemini 3.7 Flash",
