@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-19T01:14:43.751883+00:00",
-  "next_refresh_at": "2026-08-19T01:44:43.751883+00:00",
+  "fetched_at": "2026-08-19T02:38:49.607939+00:00",
+  "next_refresh_at": "2026-08-19T03:08:49.607939+00:00",
   "entries": [
+    {
+      "title": "朱雀归巢！中国首次实现火箭陆地垂直着陆",
+      "url": "https://www.esmchina.com/news/14501.html",
+      "published_at": null,
+      "summary": "今日，蓝箭航天自主研制的朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪。这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。",
+      "author": null
+    },
+    {
+      "title": "总市值4449亿元！宇树科技上市首日高开629%",
+      "url": "https://www.esmchina.com/news/14500.html",
+      "published_at": null,
+      "summary": "中一签赚47.46万！宇树科技成为全面注册制实施以来沪深两市最赚钱的新股。",
+      "author": null
+    },
+    {
+      "title": "127%关税也拦不住？Waymo狂买3200辆中国电动车",
+      "url": "https://www.esmchina.com/news/14499.html",
+      "published_at": null,
+      "summary": "在全球贸易保护主义抬头、美国对中国电动汽车筑起高达127.5%关税高墙的背景下，美国自动驾驶巨头Waymo却反其道而行之，正以惊人的规模从中国进口电动车辆。",
+      "author": null
+    },
+    {
+      "title": "【直播中】ADI 运动控制开讲，抽华为耳机、手环",
+      "url": "https://www.eet-china.com/webinars/entry/ADI_20260819.html?source=pop",
+      "published_at": null,
+      "summary": "工业电机驱动与精密控制方案解析",
+      "author": null
+    },
     {
       "title": "深耕熔断器二十余年，威可特（VICFUSE）以UL248产品矩阵，助力北美市场电路保护",
       "url": "https://www.esmchina.com/news/14495.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14475.html",
       "published_at": null,
       "summary": "留给英伟达、AMD等海外方案的市场空间可能仅剩一成。",
-      "author": null
-    },
-    {
-      "title": "出货360亿颗、市占突破30%、渗透率达25%，第五届滴水湖中国RISC-V产业论坛传递这些信号",
-      "url": "https://www.esmchina.com/news/14474.html",
-      "published_at": null,
-      "summary": "2026年8月13日上午，第五届滴水湖中国RISC-V产业论坛在上海滴水湖洲际酒店明珠厅开幕。",
-      "author": null
-    },
-    {
-      "title": "iPhone 18或最高上调2000元，库克坦言产品涨价不可避免",
-      "url": "https://www.esmchina.com/news/14473.html",
-      "published_at": null,
-      "summary": "iPhone 18系列起售价将比上代至少上调2000元人民币，Pro系列基础款美版定价或达1399美元，其国行版的定价有望首次突破万元大关。",
-      "author": null
-    },
-    {
-      "title": "涨价函又来了！从MCU到模拟芯片年内第二轮调价密集落地",
-      "url": "https://www.esmchina.com/news/14472.html",
-      "published_at": null,
-      "summary": "挡不住的涨价潮！",
-      "author": null
-    },
-    {
-      "title": "上海印发“十五五”软件信息服务业规划，HBM、CPO、量子芯片是核心攻关环节",
-      "url": "https://www.esmchina.com/news/14471.html",
-      "published_at": null,
-      "summary": "这是目前可见范围内首次将量子芯片（QPU）、高带宽内存（HBM）、高速光互连（CPO）三项技术在同一省级产业规划中并列提出。",
       "author": null
     }
   ],
