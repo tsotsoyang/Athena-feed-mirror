@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-19T02:38:37.035934+00:00",
-  "next_refresh_at": "2026-08-19T03:08:37.035934+00:00",
+  "fetched_at": "2026-08-19T03:46:12.362798+00:00",
+  "next_refresh_at": "2026-08-19T04:16:12.362798+00:00",
   "entries": [
     {
       "title": "Strengthening democratic oversight in national security",
