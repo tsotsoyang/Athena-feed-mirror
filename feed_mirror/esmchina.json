@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-19T06:57:54.959605+00:00",
-  "next_refresh_at": "2026-08-19T07:27:54.959605+00:00",
+  "fetched_at": "2026-08-19T07:45:26.996081+00:00",
+  "next_refresh_at": "2026-08-19T08:15:26.996081+00:00",
   "entries": [
+    {
+      "title": "长江存储IPO辅导验收完成，国产NAND龙头上市进程提速",
+      "url": "https://www.esmchina.com/news/14503.html",
+      "published_at": null,
+      "summary": "存储“双雄”会师A股进程加速！",
+      "author": null
+    },
+    {
+      "title": "半导体涨价潮持续升级：ST年内三度调价、磷化铟四连涨创纪录、六氟化钨出口均价同比涨超两倍",
+      "url": "https://www.esmchina.com/news/14502.html",
+      "published_at": null,
+      "summary": "进入到2026年8月中下旬，大家担忧的芯片行业第三轮涨价已经显现。",
+      "author": null
+    },
     {
       "title": "朱雀归巢！中国首次实现火箭陆地垂直着陆",
       "url": "https://www.esmchina.com/news/14501.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14476.html",
       "published_at": null,
       "summary": "当开放架构遇到物理AI的时代机遇，RISC-V正撬动整个算力产业的格局重塑。",
-      "author": null
-    },
-    {
-      "title": "英伟达中国份额仅剩8%？2026年国产AI芯片将拿下90%高端市场",
-      "url": "https://www.esmchina.com/news/14475.html",
-      "published_at": null,
-      "summary": "留给英伟达、AMD等海外方案的市场空间可能仅剩一成。",
-      "author": null
-    },
-    {
-      "title": "出货360亿颗、市占突破30%、渗透率达25%，第五届滴水湖中国RISC-V产业论坛传递这些信号",
-      "url": "https://www.esmchina.com/news/14474.html",
-      "published_at": null,
-      "summary": "2026年8月13日上午，第五届滴水湖中国RISC-V产业论坛在上海滴水湖洲际酒店明珠厅开幕。",
       "author": null
     }
   ],
