@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-19T03:46:12.362798+00:00",
-  "next_refresh_at": "2026-08-19T04:16:12.362798+00:00",
+  "fetched_at": "2026-08-19T05:29:52.890388+00:00",
+  "next_refresh_at": "2026-08-19T05:59:52.890388+00:00",
   "entries": [
+    {
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "published_at": "2026-08-18T22:00:00+00:00",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "author": null
+    },
     {
       "title": "Strengthening democratic oversight in national security",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/zapier",
       "published_at": "2026-08-10T00:00:00+00:00",
       "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "author": null
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "published_at": "2026-08-07T15:20:00+00:00",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "author": null
     }
   ],
