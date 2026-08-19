@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-19T14:33:16.286023+00:00",
-  "next_refresh_at": "2026-08-19T15:03:16.286023+00:00",
+  "fetched_at": "2026-08-19T15:30:51.061898+00:00",
+  "next_refresh_at": "2026-08-19T16:00:51.061898+00:00",
   "entries": [
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "author": null
+    },
     {
       "title": "ChatGPT Ads expands across Europe",
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "published_at": "2026-08-10T00:00:00+00:00",
       "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "author": null
-    },
-    {
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "author": null
     }
   ],

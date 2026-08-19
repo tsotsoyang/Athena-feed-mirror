@@ -2,8 +2,8 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-19T14:33:33.772939+00:00",
-  "next_refresh_at": "2026-08-19T15:03:33.772939+00:00",
+  "fetched_at": "2026-08-19T15:31:08.271851+00:00",
+  "next_refresh_at": "2026-08-19T16:01:08.271851+00:00",
   "entries": [
     {
       "title": "长江存储IPO辅导验收完成，国产NAND龙头上市进程提速",
@@ -62,7 +62,7 @@
       "author": null
     },
     {
-      "title": "英伟达宣布：5000亿美元入场，AI工厂成为可投资资产",
+      "title": "黄仁勋撰文：5000亿美元入场，AI工厂成为可投资资产",
       "url": "https://www.esmchina.com/news/14493.html",
       "published_at": null,
       "summary": "英伟达宣布将与多家全球顶尖金融机构携手，共同打造一个独立的融资平台。该平台计划在未来逐步调动超过5000亿美元的第三方资本，专项用于全球AI基础设施的建设。",

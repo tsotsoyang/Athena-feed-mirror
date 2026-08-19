@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-19T14:33:34.815014+00:00",
-  "next_refresh_at": "2026-08-19T15:03:34.815014+00:00",
+  "fetched_at": "2026-08-19T15:31:10.794893+00:00",
+  "next_refresh_at": "2026-08-19T16:01:10.794893+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.6 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-6",
       "published_at": null,
       "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+      "author": null
+    },
+    {
+      "title": "Grok 4.6 on Amazon Bedrock | SpaceXAI",
+      "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
+      "published_at": null,
+      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-imagine-video-1-5",
       "published_at": null,
       "summary": "Improved quality at even faster speeds.",
-      "author": null
-    },
-    {
-      "title": "Grok for PowerPoint | SpaceXAI",
-      "url": "https://x.ai/news/introducing-powerpoint-addin",
-      "published_at": null,
-      "summary": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
       "author": null
     }
   ],
