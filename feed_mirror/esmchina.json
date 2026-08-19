@@ -2,8 +2,8 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-19T05:59:24.959066+00:00",
-  "next_refresh_at": "2026-08-19T06:29:24.959066+00:00",
+  "fetched_at": "2026-08-19T06:57:54.959605+00:00",
+  "next_refresh_at": "2026-08-19T07:27:54.959605+00:00",
   "entries": [
     {
       "title": "朱雀归巢！中国首次实现火箭陆地垂直着陆",
@@ -24,13 +24,6 @@
       "url": "https://www.esmchina.com/news/14499.html",
       "published_at": null,
       "summary": "在全球贸易保护主义抬头、美国对中国电动汽车筑起高达127.5%关税高墙的背景下，美国自动驾驶巨头Waymo却反其道而行之，正以惊人的规模从中国进口电动车辆。",
-      "author": null
-    },
-    {
-      "title": "【直播中】ADI 运动控制开讲，抽华为耳机、手环",
-      "url": "https://www.eet-china.com/webinars/entry/ADI_20260819.html?source=pop",
-      "published_at": null,
-      "summary": "工业电机驱动与精密控制方案解析",
       "author": null
     },
     {
@@ -178,6 +171,13 @@
       "url": "https://www.esmchina.com/news/14475.html",
       "published_at": null,
       "summary": "留给英伟达、AMD等海外方案的市场空间可能仅剩一成。",
+      "author": null
+    },
+    {
+      "title": "出货360亿颗、市占突破30%、渗透率达25%，第五届滴水湖中国RISC-V产业论坛传递这些信号",
+      "url": "https://www.esmchina.com/news/14474.html",
+      "published_at": null,
+      "summary": "2026年8月13日上午，第五届滴水湖中国RISC-V产业论坛在上海滴水湖洲际酒店明珠厅开幕。",
       "author": null
     }
   ],

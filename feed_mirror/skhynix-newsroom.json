@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-19T05:59:07.076765+00:00",
-  "next_refresh_at": "2026-08-19T06:29:07.076765+00:00",
+  "fetched_at": "2026-08-19T06:57:37.745669+00:00",
+  "next_refresh_at": "2026-08-19T07:27:37.745669+00:00",
   "entries": [
+    {
+      "title": "SK hynix Accelerates 40 Trillion won Share Repurchase and Cancellation Program, Pursues Shareholder Return Expansion to ‘Over 50% of FCF’",
+      "url": "https://news.skhynix.com/en/share-buyback-and-retirement/",
+      "published_at": "2026-08-19T06:42:05+00:00",
+      "summary": "▪ Board approves resolution on August 19 to repurchase and fully cancel 40 trillion won of treasury shares ▪ Decision reflects the view that intrinsic value—driven by business competitiveness and cash generation capability—is underrepresented in current share price ▪ Largest",
+      "author": "SK hynix"
+    },
     {
       "title": "[AI Ecosystem] The paradigm shift in AI computing",
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/the-next-generation-memory-architecture-in-the-ai-era-sk-hynix-charts-the-direction-at-fms-2026/",
       "published_at": "2026-08-07T07:48:03+00:00",
       "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
-      "url": "https://news.skhynix.com/en/fab-facility-investment-2026-2/",
-      "published_at": "2026-08-07T07:40:01+00:00",
-      "summary": "SK hynix Mid-to-Long-Term Investment Phased Execution",
       "author": "SK hynix"
     }
   ],
