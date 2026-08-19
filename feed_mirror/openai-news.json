@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-19T08:37:03.245922+00:00",
-  "next_refresh_at": "2026-08-19T09:07:03.245922+00:00",
+  "fetched_at": "2026-08-19T09:33:34.171978+00:00",
+  "next_refresh_at": "2026-08-19T10:03:34.171978+00:00",
   "entries": [
     {
       "title": "ChatGPT Ads expands across Europe",
