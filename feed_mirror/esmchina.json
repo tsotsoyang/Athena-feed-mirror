@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-18T23:47:36.766737+00:00",
-  "next_refresh_at": "2026-08-19T00:17:36.766737+00:00",
+  "fetched_at": "2026-08-19T01:14:43.751883+00:00",
+  "next_refresh_at": "2026-08-19T01:44:43.751883+00:00",
   "entries": [
+    {
+      "title": "深耕熔断器二十余年，威可特（VICFUSE）以UL248产品矩阵，助力北美市场电路保护",
+      "url": "https://www.esmchina.com/news/14495.html",
+      "published_at": null,
+      "summary": "作为亚太区首家熔断器获得UL认证的企业，深圳市威可特电子科技有限公司（VICFUSE） 深耕电路保护领域二十余年，以全系列UL248标准熔断器产品，为北美市场提供高品质、高可靠性的电路保护解决方案。",
+      "author": null
+    },
     {
       "title": "神龙新公司股东结构首次披露，东风与Stellantis各持股13.53%",
       "url": "https://www.esmchina.com/news/14497.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14471.html",
       "published_at": null,
       "summary": "这是目前可见范围内首次将量子芯片（QPU）、高带宽内存（HBM）、高速光互连（CPO）三项技术在同一省级产业规划中并列提出。",
-      "author": null
-    },
-    {
-      "title": "增发150亿美元、新销售官上任，英特尔要“赌”一把大的",
-      "url": "https://www.esmchina.com/news/14470.html",
-      "published_at": null,
-      "summary": "物理人工智能、专用芯片以及先进封装技术是未来主要增长领域。",
       "author": null
     }
   ],
