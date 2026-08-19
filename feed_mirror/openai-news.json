@@ -2,12 +2,12 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-19T19:49:35.939204+00:00",
-  "next_refresh_at": "2026-08-19T20:19:35.939204+00:00",
+  "fetched_at": "2026-08-19T20:27:02.289959+00:00",
+  "next_refresh_at": "2026-08-19T20:57:02.289959+00:00",
   "entries": [
     {
       "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "published_at": "2026-08-19T19:00:00+00:00",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "author": null
