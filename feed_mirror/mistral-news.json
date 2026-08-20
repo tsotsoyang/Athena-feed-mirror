@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-08-20T13:46:21.583055+00:00",
-  "next_refresh_at": "2026-08-20T14:16:21.583055+00:00",
+  "fetched_at": "2026-08-20T14:36:09.303034+00:00",
+  "next_refresh_at": "2026-08-20T15:06:09.303034+00:00",
   "entries": [
+    {
+      "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+      "url": "https://mistral.ai/news/agentic-search/",
+      "published_at": "2026-08-20T12:00:17+00:00",
+      "summary": "The retrieval layer that helps AI systems navigate, read, and verify information inside even the most complex documents",
+      "author": null
+    },
     {
       "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
       "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
@@ -170,13 +177,6 @@
       "title": "Terminally online Mistral Vibe.",
       "url": "https://mistral.ai/news/mistral-vibe-2-0/",
       "published_at": "2026-01-27T16:00:00+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Heaps do lie: debugging a memory leak in vLLM.",
-      "url": "https://mistral.ai/news/debugging-memory-leak-in-vllm/",
-      "published_at": "2026-01-21T16:00:00+00:00",
       "summary": "",
       "author": null
     }
