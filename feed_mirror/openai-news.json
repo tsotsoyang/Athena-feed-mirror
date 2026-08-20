@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-20T15:33:12.288781+00:00",
-  "next_refresh_at": "2026-08-20T16:03:12.288781+00:00",
+  "fetched_at": "2026-08-20T16:35:01.788276+00:00",
+  "next_refresh_at": "2026-08-20T17:05:01.788276+00:00",
   "entries": [
+    {
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "published_at": "2026-08-20T00:00:00+00:00",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "author": null
+    },
     {
       "title": "Offering Zero Data Retention for frontier models",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "published_at": "2026-08-10T10:00:00+00:00",
       "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "author": null
-    },
-    {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
       "author": null
     }
   ],
