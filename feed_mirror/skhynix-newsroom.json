@@ -2,9 +2,44 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-20T05:30:18.065693+00:00",
-  "next_refresh_at": "2026-08-20T06:00:18.065693+00:00",
+  "fetched_at": "2026-08-20T06:44:44.250825+00:00",
+  "next_refresh_at": "2026-08-20T07:14:44.250825+00:00",
   "entries": [
+    {
+      "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
+      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-5/",
+      "published_at": "2026-08-20T06:23:28+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
+      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-4/",
+      "published_at": "2026-08-20T06:10:59+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
+      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-3/",
+      "published_at": "2026-08-20T06:05:52+00:00",
+      "summary": "▲ Conceptual illustration of an optics-centric architecture in which a photonic interposer directly connects compute resources in the XPU pool with memory resources in the memory pool through optical links",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
+      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-2/",
+      "published_at": "2026-08-20T05:54:47+00:00",
+      "summary": "▲ CPO integrates optical engines ever closer to the processor. As the distance traveled by electrical signals is minimized, both bandwidth and energy efficiency improve.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
+      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-1/",
+      "published_at": "2026-08-20T05:51:51+00:00",
+      "summary": "▲ Compute throughput has typically tripled every two years, while interconnect bandwidth has advanced only about 1.4-fold, creating a “bandwidth wall.”",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
       "url": "https://news.skhynix.com/en/cpo-in-nature-electronics/",
@@ -21,57 +56,22 @@
     },
     {
       "title": "[AI Ecosystem] The paradigm shift in AI computing",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1/",
-      "published_at": "2026-08-17T23:59:58+00:00",
-      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
-      "author": "Professor Jinwoo Shin, KAIST"
-    },
-    {
-      "title": "[Analyst Interview | Exploring SK hynix’s Next Opportunity Amid the Structural Growth of AI Memory]",
-      "url": "https://news.skhynix.com/en/analyst-interview-exploring-sk-hynixs-next-opportunity-amid-the-structural-growth-of-ai-memory/",
-      "published_at": "2026-08-14T00:17:06+00:00",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-4/",
+      "published_at": "2026-08-18T05:44:03+00:00",
       "summary": "",
       "author": "SK hynix"
     },
     {
-      "title": "[Analyst Interview | Ryu Hyung-keun, Daishin Securities] Exploring SK hynix’s Next Opportunity Amid the Structural Growth of AI Memory",
-      "url": "https://news.skhynix.com/en/2026-analyst-interview-03/",
-      "published_at": "2026-08-13T23:59:54+00:00",
-      "summary": "SK hynix reaffirmed its leadership in AI memory by reporting record quarterly revenue and operating profit in the second quarter, while surpassing KRW 100 trillion in cumulative first-half revenue for the first time in its history. Amid these strong results,",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insigh-ep1-3/",
-      "published_at": "2026-08-10T01:07:09+00:00",
+      "title": "[AI Ecosystem] The paradigm shift in AI computing",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-3/",
+      "published_at": "2026-08-18T05:40:29+00:00",
       "summary": "",
       "author": "SK hynix"
     },
     {
-      "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insigh-ep1-2/",
-      "published_at": "2026-08-10T01:06:27+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insigh-ep1-1/",
-      "published_at": "2026-08-10T01:05:40+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Infrastructure Insight] What is changing inside AI data centers?",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insigh-ep1/",
-      "published_at": "2026-08-10T01:00:05+00:00",
-      "summary": "AI is no longer defined by a single model or chip. For AI to operate effectively in real-world services and industrial applications, it takes faster compute, greater memory bandwidth, higher-performance networking, more efficient storage, and stable power and cooling working",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17",
-      "url": "https://news.skhynix.com/en/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17/",
-      "published_at": "2026-08-07T07:48:45+00:00",
+      "title": "[AI Ecosystem] The paradigm shift in AI computing",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-2/",
+      "published_at": "2026-08-18T05:39:11+00:00",
       "summary": "",
       "author": "SK hynix"
     }

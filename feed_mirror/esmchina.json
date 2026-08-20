@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-20T05:30:35.994636+00:00",
-  "next_refresh_at": "2026-08-20T06:00:35.994636+00:00",
+  "fetched_at": "2026-08-20T06:45:02.793015+00:00",
+  "next_refresh_at": "2026-08-20T07:15:02.793015+00:00",
   "entries": [
+    {
+      "title": "百余人撬柜夺印！成都海威华芯发布紧急公告",
+      "url": "https://www.esmchina.com/news/14508.html",
+      "published_at": null,
+      "summary": "19日，成都海威华芯科技有限公司发布印章被抢公告，并附上成都市公安局双流区分局立案告知书，以及多张印章被抢现场照片。",
+      "author": null
+    },
     {
       "title": "台积电产能告急，三星趁势涨价：先进制程最高涨15%",
       "url": "https://www.esmchina.com/news/14507.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14481.html",
       "published_at": null,
       "summary": "圆桌嘉宾（从左到右）：芯来科技创始人 胡振波；灵睿智芯联合创始人、副总裁 李华庆；华山资本合伙人 王志伟；上海开放处理器产业创新中心理事长，芯原股份董事长、首席执行官、总裁 戴伟民博士；超睿科技软件总监 夏鸣远；红帽首席软件工程师、RISC-V国际基金会大使 傅炜；创芯学院常务副院长 周平强。",
-      "author": null
-    },
-    {
-      "title": "美国对进口无人机及零部件征收最高100%关税：四档税率9月3日分级生效",
-      "url": "https://www.esmchina.com/news/14480.html",
-      "published_at": null,
-      "summary": "一般无人机及相关敏感产品的关税将于签署之日起21天后（9月3日）生效，非敏感零部件将于180天后（2027年2月9日）生效。",
       "author": null
     }
   ],
