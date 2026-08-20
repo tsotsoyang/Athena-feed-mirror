@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-20T19:31:00.067777+00:00",
-  "next_refresh_at": "2026-08-20T20:01:00.067777+00:00",
+  "fetched_at": "2026-08-20T20:27:34.935407+00:00",
+  "next_refresh_at": "2026-08-20T20:57:34.935407+00:00",
   "entries": [
+    {
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "published_at": "2026-08-20T07:00:00+00:00",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "author": null
+    },
     {
       "title": "How ChatGPT Work helps Stampli move ideas to market",
       "url": "https://openai.com/index/stampli",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
       "published_at": "2026-08-10T10:00:00+00:00",
       "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "author": null
-    },
-    {
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
       "author": null
     }
   ],
