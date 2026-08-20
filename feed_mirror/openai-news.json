@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-20T17:28:32.133529+00:00",
-  "next_refresh_at": "2026-08-20T17:58:32.133529+00:00",
+  "fetched_at": "2026-08-20T17:58:05.678902+00:00",
+  "next_refresh_at": "2026-08-20T18:28:05.678902+00:00",
   "entries": [
     {
       "title": "How ChatGPT Work helps Stampli move ideas to market",
