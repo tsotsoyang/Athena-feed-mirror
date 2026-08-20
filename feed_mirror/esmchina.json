@@ -2,14 +2,35 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-20T01:13:52.105197+00:00",
-  "next_refresh_at": "2026-08-20T01:43:52.105197+00:00",
+  "fetched_at": "2026-08-20T02:37:09.312549+00:00",
+  "next_refresh_at": "2026-08-20T03:07:09.312549+00:00",
   "entries": [
     {
-      "title": "博通慌了？谷歌122亿美元引入Marvell，TPU供应链不再独家",
+      "title": "台积电产能告急，三星趁势涨价：先进制程最高涨15%",
+      "url": "https://www.esmchina.com/news/14507.html",
+      "published_at": null,
+      "summary": "此次涨价的直接驱动力来自AI芯片需求的持续爆发。",
+      "author": null
+    },
+    {
+      "title": "美方拟发“最后通牒”逼全球AI选边站队，中方强硬回应",
+      "url": "https://www.esmchina.com/news/14506.html",
+      "published_at": null,
+      "summary": "美国国务院正计划向签署《人工智能机遇伙伴关系联合声明》的三十多个经济体发送正式信函，警告“若相关国家加入与美方目标冲突的其他机制，将被排除在美国主导的AI联盟之外。“",
+      "author": null
+    },
+    {
+      "title": "京东百亿押注机器人，供应链背后藏着多大的芯片生意？",
+      "url": "https://www.esmchina.com/news/14505.html",
+      "published_at": null,
+      "summary": "京东作为全球战略合作伙伴，在会上正式发布机器人战略，宣布到2028年投入百亿级资源，全面布局具身智能产业生态。",
+      "author": null
+    },
+    {
+      "title": "博通慌了？谷歌122亿美元绑定Marvell，TPU供应链不再独家",
       "url": "https://www.esmchina.com/news/14504.html",
       "published_at": null,
-      "summary": "近日，Marvell宣布与谷歌达成一项半导体合作协议。该协议不仅涵盖了广泛的AI芯片定制业务，更通过一份价值高达122亿美元的认股权证，将双方的商业利益进行了史无前例的深度绑定。",
+      "summary": "近日，谷歌与Marvell达成芯片定制合作协议，不仅涵盖了广泛的AI芯片定制业务，更通过一份价值高达122亿美元的认股权证，实现了双方商业利益的史无前例的深度绑定。",
       "author": null
     },
     {
@@ -20,7 +41,7 @@
       "author": null
     },
     {
-      "title": "半导体涨价潮持续升级：ST年内三度调价、磷化铟四连涨创纪录、六氟化钨出口均价同比涨超两倍",
+      "title": "ST又一次调价，功率半导体年内第三轮涨价潮来了？",
       "url": "https://www.esmchina.com/news/14502.html",
       "published_at": null,
       "summary": "进入到2026年8月中下旬，大家担忧的芯片行业第三轮涨价已经显现。",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14480.html",
       "published_at": null,
       "summary": "一般无人机及相关敏感产品的关税将于签署之日起21天后（9月3日）生效，非敏感零部件将于180天后（2027年2月9日）生效。",
-      "author": null
-    },
-    {
-      "title": "英特尔CEO陈立武首度暗示重返存储市场，聘前SK海力士CEO李锡熙操盘HBM",
-      "url": "https://www.esmchina.com/news/14479.html",
-      "published_at": null,
-      "summary": "近日，英特尔CEO陈立武（Lip-Bu Tan）在TechSurge播客中首度公开暗示，公司正探索重返存储芯片市场，并明确将矛头指向HBM。",
-      "author": null
-    },
-    {
-      "title": "中芯国际Q2单季营收首破30亿美元，毛利率创近一年新高至25.3%",
-      "url": "https://www.esmchina.com/news/14478.html",
-      "published_at": null,
-      "summary": "2026年第二季度，公司单季销售收入首次突破30亿美元大关，毛利率升至25.3%，核心财务指标全面超预期。",
-      "author": null
-    },
-    {
-      "title": "长江存储NAND出货量首入全球前三，14%份额超越铠侠",
-      "url": "https://www.esmchina.com/news/14477.html",
-      "published_at": null,
-      "summary": "这是中国NAND厂商出货量份额首次跻身全球前三甲。",
       "author": null
     }
   ],
