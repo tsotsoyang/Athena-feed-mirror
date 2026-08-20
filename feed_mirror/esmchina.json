@@ -2,11 +2,18 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-20T06:45:02.793015+00:00",
-  "next_refresh_at": "2026-08-20T07:15:02.793015+00:00",
+  "fetched_at": "2026-08-20T07:40:25.481578+00:00",
+  "next_refresh_at": "2026-08-20T08:10:25.481578+00:00",
   "entries": [
     {
-      "title": "百余人撬柜夺印！成都海威华芯发布紧急公告",
+      "title": "入职奖8800元，富士康紧急扩招备战苹果新机",
+      "url": "https://www.esmchina.com/news/14510.html",
+      "published_at": null,
+      "summary": "富士康此次大规模扩招，直接对应苹果2026年秋季发布会的备货需求。",
+      "author": null
+    },
+    {
+      "title": "百余人撬柜抢印！成都海威华芯发布紧急公告",
       "url": "https://www.esmchina.com/news/14508.html",
       "published_at": null,
       "summary": "19日，成都海威华芯科技有限公司发布印章被抢公告，并附上成都市公安局双流区分局立案告知书，以及多张印章被抢现场照片。",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14482.html",
       "published_at": null,
       "summary": "莫迪在演讲中表示，未来数年内将有5至8座新的半导体工厂投入运营。",
-      "author": null
-    },
-    {
-      "title": "从场景爆发到人才培养，七问RISC-V在边缘AI的发展机遇",
-      "url": "https://www.esmchina.com/news/14481.html",
-      "published_at": null,
-      "summary": "圆桌嘉宾（从左到右）：芯来科技创始人 胡振波；灵睿智芯联合创始人、副总裁 李华庆；华山资本合伙人 王志伟；上海开放处理器产业创新中心理事长，芯原股份董事长、首席执行官、总裁 戴伟民博士；超睿科技软件总监 夏鸣远；红帽首席软件工程师、RISC-V国际基金会大使 傅炜；创芯学院常务副院长 周平强。",
       "author": null
     }
   ],
