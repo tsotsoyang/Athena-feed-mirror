@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-20T08:37:55.975734+00:00",
-  "next_refresh_at": "2026-08-20T09:07:55.975734+00:00",
+  "fetched_at": "2026-08-20T09:33:57.454786+00:00",
+  "next_refresh_at": "2026-08-20T10:03:57.454786+00:00",
   "entries": [
     {
       "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
@@ -56,13 +56,6 @@
     },
     {
       "title": "[AI Ecosystem] The paradigm shift in AI computing",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-4/",
-      "published_at": "2026-08-18T05:44:03+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] The paradigm shift in AI computing",
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-3/",
       "published_at": "2026-08-18T05:40:29+00:00",
       "summary": "",
@@ -72,6 +65,13 @@
       "title": "[AI Ecosystem] The paradigm shift in AI computing",
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-2/",
       "published_at": "2026-08-18T05:39:11+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Ecosystem] The paradigm shift in AI computing",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-1/",
+      "published_at": "2026-08-18T05:22:17+00:00",
       "summary": "",
       "author": "SK hynix"
     }
