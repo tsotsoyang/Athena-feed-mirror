@@ -2,8 +2,8 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-20T02:37:09.312549+00:00",
-  "next_refresh_at": "2026-08-20T03:07:09.312549+00:00",
+  "fetched_at": "2026-08-20T03:46:09.920894+00:00",
+  "next_refresh_at": "2026-08-20T04:16:09.920894+00:00",
   "entries": [
     {
       "title": "台积电产能告急，三星趁势涨价：先进制程最高涨15%",
@@ -13,7 +13,7 @@
       "author": null
     },
     {
-      "title": "美方拟发“最后通牒”逼全球AI选边站队，中方强硬回应",
+      "title": "美方拟发“最后通牒”逼全球AI选边站队，中方强势回应",
       "url": "https://www.esmchina.com/news/14506.html",
       "published_at": null,
       "summary": "美国国务院正计划向签署《人工智能机遇伙伴关系联合声明》的三十多个经济体发送正式信函，警告“若相关国家加入与美方目标冲突的其他机制，将被排除在美国主导的AI联盟之外。“",
