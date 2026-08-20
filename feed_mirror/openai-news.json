@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-20T14:36:00.846737+00:00",
-  "next_refresh_at": "2026-08-20T15:06:00.846737+00:00",
+  "fetched_at": "2026-08-20T15:33:12.288781+00:00",
+  "next_refresh_at": "2026-08-20T16:03:12.288781+00:00",
   "entries": [
     {
       "title": "Offering Zero Data Retention for frontier models",
