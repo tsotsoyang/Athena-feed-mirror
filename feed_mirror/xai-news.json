@@ -2,14 +2,14 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-20T18:51:18.349286+00:00",
-  "next_refresh_at": "2026-08-20T19:21:18.349286+00:00",
+  "fetched_at": "2026-08-20T19:31:15.696732+00:00",
+  "next_refresh_at": "2026-08-20T20:01:15.696732+00:00",
   "entries": [
     {
-      "title": "Introducing Grok 4.6 | SpaceXAI",
-      "url": "https://x.ai/news/grok-4-6",
+      "title": "Grok Build on web and mobile | SpaceXAI",
+      "url": "https://x.ai/news/grok-build-for-everyone",
       "published_at": null,
-      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+      "summary": "Grok Build is now available on every plan, on the web and on mobile.",
       "author": null
     },
     {
@@ -24,6 +24,13 @@
       "url": "https://x.ai/news/grok-4-6-github-copilot",
       "published_at": null,
       "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
+      "author": null
+    },
+    {
+      "title": "Introducing Grok 4.6 | SpaceXAI",
+      "url": "https://x.ai/news/grok-4-6",
+      "published_at": null,
+      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-amazon-bedrock",
       "published_at": null,
       "summary": "Grok models are now available via Amazon Bedrock.",
-      "author": null
-    },
-    {
-      "title": "Grok Imagine Video 1.5 | SpaceXAI",
-      "url": "https://x.ai/news/grok-imagine-video-1-5",
-      "published_at": null,
-      "summary": "Improved quality at even faster speeds.",
       "author": null
     }
   ],
