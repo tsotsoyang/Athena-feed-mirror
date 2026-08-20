@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-20T07:40:25.481578+00:00",
-  "next_refresh_at": "2026-08-20T08:10:25.481578+00:00",
+  "fetched_at": "2026-08-20T08:38:12.249902+00:00",
+  "next_refresh_at": "2026-08-20T09:08:12.249902+00:00",
   "entries": [
+    {
+      "title": "标准化接口如何释放人形机器人的商业潜力？",
+      "url": "https://www.esmchina.com/news/14509.html",
+      "published_at": null,
+      "summary": "尽管AI技术的快速发展备受关注，但人形机器人能否实现商业成功，关键在于将高度优化的机电一体化人形机器人系统架构与AI处理单元有效结合起来。",
+      "author": null
+    },
     {
       "title": "入职奖8800元，富士康紧急扩招备战苹果新机",
       "url": "https://www.esmchina.com/news/14510.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14483.html",
       "published_at": null,
       "summary": "国际电子商情讯，北京时间2026年8月17日0时起，DeepSeek全新API定价方案正式生效。",
-      "author": null
-    },
-    {
-      "title": "莫迪独立日演讲定调：印度将新增5至8座半导体工厂，3座封测厂已投产",
-      "url": "https://www.esmchina.com/news/14482.html",
-      "published_at": null,
-      "summary": "莫迪在演讲中表示，未来数年内将有5至8座新的半导体工厂投入运营。",
       "author": null
     }
   ],
