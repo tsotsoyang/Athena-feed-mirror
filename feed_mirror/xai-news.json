@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-21T17:58:26.663683+00:00",
-  "next_refresh_at": "2026-08-21T18:28:26.663683+00:00",
+  "fetched_at": "2026-08-21T18:48:59.646983+00:00",
+  "next_refresh_at": "2026-08-21T19:18:59.646983+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-more-plans",
       "published_at": null,
       "summary": "Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans.",
+      "author": null
+    },
+    {
+      "title": "Grok 4.6 on Vertex AI | SpaceXAI",
+      "url": "https://x.ai/news/grok-4-6-vertex-ai",
+      "published_at": null,
+      "summary": "Grok 4.6 is now available via Google Cloud Vertex AI.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-databricks",
       "published_at": null,
       "summary": "Grok models are now available on Databricks Agent Bricks.",
-      "author": null
-    },
-    {
-      "title": "Grok for Word | SpaceXAI",
-      "url": "https://x.ai/news/introducing-word-addin",
-      "published_at": null,
-      "summary": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
       "author": null
     }
   ],
