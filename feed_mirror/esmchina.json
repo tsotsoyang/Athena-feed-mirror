@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-21T02:44:30.567645+00:00",
-  "next_refresh_at": "2026-08-21T03:14:30.567645+00:00",
+  "fetched_at": "2026-08-21T03:50:26.194435+00:00",
+  "next_refresh_at": "2026-08-21T04:20:26.194435+00:00",
   "entries": [
+    {
+      "title": "存储缺货、电力告急、地方抵制：美国AI产业进入“基建决定论”时代",
+      "url": "https://www.esmchina.com/news/14512.html",
+      "published_at": null,
+      "summary": "特朗普明确表示，无论公众对数据中心的观感如何，他仍然坚定支持AI产业。",
+      "author": null
+    },
+    {
+      "title": "台积电1.6nm工艺Q4量产，英伟达“费曼”GPU锁定首发产能",
+      "url": "https://www.esmchina.com/news/14511.html",
+      "published_at": null,
+      "summary": "A16是台积电首个采用“超级电源轨”背面供电网络技术的埃米级CMOS平台。",
+      "author": null
+    },
     {
       "title": "下一个十年，欧洲半导体产业的价值重心从制造转向设计",
       "url": "https://www.esmchina.com/news/14487.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14486.html",
       "published_at": null,
       "summary": "SAG最新发布的《SAG Robotics 360》报告显示，2026年上半年，全球人形机器人全球出货量达到1.91万台，同比激增272%。其中，中国厂商包揽了全球超97%的出货量，拥有绝对的领先地位。",
-      "author": null
-    },
-    {
-      "title": "美政府公开施压：不希望苹果采购中国存储芯片",
-      "url": "https://www.esmchina.com/news/14485.html",
-      "published_at": null,
-      "summary": "这一表态距苹果被曝测试中国存储芯片仅过去数日。",
-      "author": null
-    },
-    {
-      "title": "1600人面临调整！诺基亚杭州研发中心正式关停",
-      "url": "https://www.esmchina.com/news/14484.html",
-      "published_at": null,
-      "summary": "芬兰通信巨头诺基亚确认关闭其位于杭州的无线技术研发中心，此举将导致约1600名研发人员面临岗位调整。",
       "author": null
     }
   ],
