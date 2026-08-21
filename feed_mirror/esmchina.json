@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-21T01:17:21.282931+00:00",
-  "next_refresh_at": "2026-08-21T01:47:21.282931+00:00",
+  "fetched_at": "2026-08-21T02:44:30.567645+00:00",
+  "next_refresh_at": "2026-08-21T03:14:30.567645+00:00",
   "entries": [
+    {
+      "title": "下一个十年，欧洲半导体产业的价值重心从制造转向设计",
+      "url": "https://www.esmchina.com/news/14487.html",
+      "published_at": null,
+      "summary": "若欧洲想要实现成为全球半导体领军者的目标，仅靠制造环节是远远不够的。",
+      "author": null
+    },
     {
       "title": "标准化接口如何释放人形机器人的商业潜力？",
       "url": "https://www.esmchina.com/news/14509.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14484.html",
       "published_at": null,
       "summary": "芬兰通信巨头诺基亚确认关闭其位于杭州的无线技术研发中心，此举将导致约1600名研发人员面临岗位调整。",
-      "author": null
-    },
-    {
-      "title": "DeepSeek API调价今日生效：高峰时段价格翻倍，最高涨幅1100%",
-      "url": "https://www.esmchina.com/news/14483.html",
-      "published_at": null,
-      "summary": "国际电子商情讯，北京时间2026年8月17日0时起，DeepSeek全新API定价方案正式生效。",
       "author": null
     }
   ],

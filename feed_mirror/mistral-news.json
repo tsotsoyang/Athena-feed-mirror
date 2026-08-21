@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-08-21T01:17:14.926716+00:00",
-  "next_refresh_at": "2026-08-21T01:47:14.926716+00:00",
+  "fetched_at": "2026-08-21T02:44:24.580955+00:00",
+  "next_refresh_at": "2026-08-21T03:14:24.580955+00:00",
   "entries": [
     {
       "title": "Agentic Search. More accurate and efficient results from your AI systems.",
