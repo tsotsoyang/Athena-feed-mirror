@@ -1,185 +1,26 @@
 {
   "source": "esmchina",
   "name": "ESM China",
-  "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-21T05:32:02.697419+00:00",
-  "next_refresh_at": "2026-08-21T06:02:02.697419+00:00",
-  "entries": [
+  "feed_url": "https://www.esmchina.com/",
+  "fetched_at": "2026-08-21T06:47:42.812471+00:00",
+  "next_refresh_at": "2026-08-21T07:17:42.812471+00:00",
+  "entries": [],
+  "errors": [
     {
-      "title": "存储缺货、电力告急、地方抵制：美国AI产业进入“基建决定论”时代",
-      "url": "https://www.esmchina.com/news/14512.html",
-      "published_at": null,
-      "summary": "特朗普明确表示，无论公众对数据中心的观感如何，他仍然坚定支持AI产业。",
-      "author": null
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
     },
     {
-      "title": "台积电1.6nm工艺Q4量产，英伟达“费曼”GPU锁定首发产能",
-      "url": "https://www.esmchina.com/news/14511.html",
-      "published_at": null,
-      "summary": "A16是台积电首个采用“超级电源轨”背面供电网络技术的埃米级CMOS平台。",
-      "author": null
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
     },
     {
-      "title": "下一个十年，欧洲半导体产业的价值重心从制造转向设计",
-      "url": "https://www.esmchina.com/news/14487.html",
-      "published_at": null,
-      "summary": "若欧洲想要实现成为全球半导体领军者的目标，仅靠制造环节是远远不够的。",
-      "author": null
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
     },
     {
-      "title": "标准化接口如何释放人形机器人的商业潜力？",
-      "url": "https://www.esmchina.com/news/14509.html",
-      "published_at": null,
-      "summary": "尽管AI技术的快速发展备受关注，但人形机器人能否实现商业成功，关键在于将高度优化的机电一体化人形机器人系统架构与AI处理单元有效结合起来。",
-      "author": null
-    },
-    {
-      "title": "入职奖8800元，富士康紧急扩招备战苹果新机",
-      "url": "https://www.esmchina.com/news/14510.html",
-      "published_at": null,
-      "summary": "富士康此次大规模扩招，直接对应苹果2026年秋季发布会的备货需求。",
-      "author": null
-    },
-    {
-      "title": "百余人撬柜抢印！成都海威华芯发布紧急公告",
-      "url": "https://www.esmchina.com/news/14508.html",
-      "published_at": null,
-      "summary": "19日，成都海威华芯科技有限公司发布印章被抢公告，并附上成都市公安局双流区分局立案告知书，以及多张印章被抢现场照片。",
-      "author": null
-    },
-    {
-      "title": "台积电产能告急，三星趁势涨价：先进制程最高涨15%",
-      "url": "https://www.esmchina.com/news/14507.html",
-      "published_at": null,
-      "summary": "此次涨价的直接驱动力来自AI芯片需求的持续爆发。",
-      "author": null
-    },
-    {
-      "title": "美国发“最后通牒”逼全球AI选边站队，中方强势回应",
-      "url": "https://www.esmchina.com/news/14506.html",
-      "published_at": null,
-      "summary": "美国国务院正计划向签署《人工智能机遇伙伴关系联合声明》的三十多个经济体发送正式信函，警告“若相关国家加入与美方目标冲突的其他机制，将被排除在美国主导的AI联盟之外。“",
-      "author": null
-    },
-    {
-      "title": "京东百亿押注机器人，供应链背后藏着多大的芯片生意？",
-      "url": "https://www.esmchina.com/news/14505.html",
-      "published_at": null,
-      "summary": "京东作为全球战略合作伙伴，在会上正式发布机器人战略，宣布到2028年投入百亿级资源，全面布局具身智能产业生态。",
-      "author": null
-    },
-    {
-      "title": "博通慌了？谷歌122亿美元绑定Marvell，TPU供应链不再独家",
-      "url": "https://www.esmchina.com/news/14504.html",
-      "published_at": null,
-      "summary": "近日，谷歌与Marvell达成芯片定制合作协议，不仅涵盖了广泛的AI芯片定制业务，更通过一份价值高达122亿美元的认股权证，实现了双方商业利益的史无前例的深度绑定。",
-      "author": null
-    },
-    {
-      "title": "长江存储IPO辅导验收完成，国产NAND龙头上市进程提速",
-      "url": "https://www.esmchina.com/news/14503.html",
-      "published_at": null,
-      "summary": "存储“双雄”会师A股进程加速！",
-      "author": null
-    },
-    {
-      "title": "ST又一次调价，功率半导体年内第三轮涨价潮来了？",
-      "url": "https://www.esmchina.com/news/14502.html",
-      "published_at": null,
-      "summary": "进入到2026年8月中下旬，大家担忧的芯片行业第三轮涨价已经显现。",
-      "author": null
-    },
-    {
-      "title": "朱雀归巢！中国首次实现火箭陆地垂直着陆",
-      "url": "https://www.esmchina.com/news/14501.html",
-      "published_at": null,
-      "summary": "今日，蓝箭航天自主研制的朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪。这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。",
-      "author": null
-    },
-    {
-      "title": "总市值4449亿元！宇树科技上市首日高开629%",
-      "url": "https://www.esmchina.com/news/14500.html",
-      "published_at": null,
-      "summary": "中一签赚47.46万！宇树科技成为全面注册制实施以来沪深两市最赚钱的新股。",
-      "author": null
-    },
-    {
-      "title": "127%关税也拦不住？Waymo狂买3200辆中国电动车",
-      "url": "https://www.esmchina.com/news/14499.html",
-      "published_at": null,
-      "summary": "在全球贸易保护主义抬头、美国对中国电动汽车筑起高达127.5%关税高墙的背景下，美国自动驾驶巨头Waymo却反其道而行之，正以惊人的规模从中国进口电动车辆。",
-      "author": null
-    },
-    {
-      "title": "深耕熔断器二十余年，威可特（VICFUSE）以UL248产品矩阵，助力北美市场电路保护",
-      "url": "https://www.esmchina.com/news/14495.html",
-      "published_at": null,
-      "summary": "作为亚太区首家熔断器获得UL认证的企业，深圳市威可特电子科技有限公司（VICFUSE） 深耕电路保护领域二十余年，以全系列UL248标准熔断器产品，为北美市场提供高品质、高可靠性的电路保护解决方案。",
-      "author": null
-    },
-    {
-      "title": "神龙新公司股东结构首次披露，东风与Stellantis各持股13.53%",
-      "url": "https://www.esmchina.com/news/14497.html",
-      "published_at": null,
-      "summary": "这家由东风汽车集团、斯泰兰蒂斯（Stellantis）集团等六方合资设立的新能源汽车公司，标志着今年5月签署的战略合作正式进入落地实施阶段。",
-      "author": null
-    },
-    {
-      "title": "发回重审！大疆在美维权取得关键胜利",
-      "url": "https://www.esmchina.com/news/14496.html",
-      "published_at": null,
-      "summary": "近日，美国哥伦比亚特区联邦巡回上诉法院作出裁定，要求下级法院重新审理大疆被列入五角大楼“中国军事企业”（CMC）黑名单一案。标志着大疆在美长达数年的法律维权取得了至关重要的程序性胜利。",
-      "author": null
-    },
-    {
-      "title": "黄仁勋撰文：5000亿美元入场，AI工厂成为可投资资产",
-      "url": "https://www.esmchina.com/news/14493.html",
-      "published_at": null,
-      "summary": "英伟达宣布将与多家全球顶尖金融机构携手，共同打造一个独立的融资平台。该平台计划在未来逐步调动超过5000亿美元的第三方资本，专项用于全球AI基础设施的建设。",
-      "author": null
-    },
-    {
-      "title": "IPO对赌失败引爆7.58亿元诉讼，昔日家电巨头康佳面临退市危机",
-      "url": "https://www.esmchina.com/news/14492.html",
-      "published_at": null,
-      "summary": "五起案件涉案金额合计7.58亿元。",
-      "author": null
-    },
-    {
-      "title": "没方向盘、没刹车踏板！特斯拉Cybercab最快月底“上岗”",
-      "url": "https://www.esmchina.com/news/14491.html",
-      "published_at": null,
-      "summary": "特斯拉已向内部员工传达计划，最快将于本月在美国得克萨斯州奥斯汀市向公众推出无方向盘自动驾驶出租车Cybercab。",
-      "author": null
-    },
-    {
-      "title": "Anthropic年化营收突破650亿美元，2028年剑指2000亿美元",
-      "url": "https://www.esmchina.com/news/14490.html",
-      "published_at": null,
-      "summary": "截至今年7月底，AI大模型龙头Anthropic的年化营收运行率已突破650亿美元。",
-      "author": null
-    },
-    {
-      "title": "创始人退居幕后，吉利“变天”了？",
-      "url": "https://www.esmchina.com/news/14489.html",
-      "published_at": null,
-      "summary": "做实做强“一个吉利”。",
-      "author": null
-    },
-    {
-      "title": "我国发布全球首个汽车芯片全产业链能力评价标准体系",
-      "url": "https://www.esmchina.com/news/14488.html",
-      "published_at": null,
-      "summary": "2025年4月，国家认监委批准该五项标准立项；2025年11月，市场监管总局发布“汽车芯片认证审查技术体系2.0版”。此次发布的五项标准是在此基础上的正式落地。",
-      "author": null
-    },
-    {
-      "title": "智元、宇树“神仙打架”！中国厂商包揽人形机器人97%全球份额",
-      "url": "https://www.esmchina.com/news/14486.html",
-      "published_at": null,
-      "summary": "SAG最新发布的《SAG Robotics 360》报告显示，2026年上半年，全球人形机器人全球出货量达到1.91万台，同比激增272%。其中，中国厂商包揽了全球超97%的出货量，拥有绝对的领先地位。",
-      "author": null
+      "stage": "fetch",
+      "message": "all candidate URLs returned 0 entries"
     }
-  ],
-  "errors": []
+  ]
 }
