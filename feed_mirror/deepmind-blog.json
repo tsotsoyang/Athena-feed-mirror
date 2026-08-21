@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-21T11:33:56.471381+00:00",
-  "next_refresh_at": "2026-08-21T12:03:56.471381+00:00",
+  "fetched_at": "2026-08-21T12:46:35.173682+00:00",
+  "next_refresh_at": "2026-08-21T13:16:35.173682+00:00",
   "entries": [
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "published_at": "2026-08-21T11:59:48+00:00",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "author": null
+    },
     {
       "title": "Introducing Gemini 3.7 Flash",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
       "published_at": "2026-05-18T18:21:39+00:00",
       "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-      "author": null
-    },
-    {
-      "title": "Simulate real-world places with Project Genie and Street View",
-      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-      "published_at": "2026-05-17T19:53:18+00:00",
-      "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
       "author": null
     }
   ],
