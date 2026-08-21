@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-21T16:34:11.563687+00:00",
-  "next_refresh_at": "2026-08-21T17:04:11.563687+00:00",
+  "fetched_at": "2026-08-21T17:28:44.329395+00:00",
+  "next_refresh_at": "2026-08-21T17:58:44.329395+00:00",
   "entries": [
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
