@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-20T23:52:34.812614+00:00",
-  "next_refresh_at": "2026-08-21T00:22:34.812614+00:00",
+  "fetched_at": "2026-08-21T01:17:23.828510+00:00",
+  "next_refresh_at": "2026-08-21T01:47:23.828510+00:00",
   "entries": [
     {
       "title": "Grok Build on web and mobile | SpaceXAI",
