@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-22T01:13:17.730325+00:00",
-  "next_refresh_at": "2026-08-22T01:43:17.730325+00:00",
+  "fetched_at": "2026-08-22T02:34:46.102523+00:00",
+  "next_refresh_at": "2026-08-22T03:04:46.102523+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
@@ -13,10 +13,10 @@
       "author": null
     },
     {
-      "title": "Grok 4.6 on Vertex AI | SpaceXAI",
+      "title": "Grok 4.6 on Google Enterprise Agent Platform | SpaceXAI",
       "url": "https://x.ai/news/grok-4-6-vertex-ai",
       "published_at": null,
-      "summary": "Grok 4.6 is now available via Google Cloud Vertex AI.",
+      "summary": "Grok 4.6 is now available via Google Enterprise Agent Platform.",
       "author": null
     },
     {
