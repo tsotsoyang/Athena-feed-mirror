@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-22T15:20:25.157592+00:00",
-  "next_refresh_at": "2026-08-22T15:50:25.157592+00:00",
+  "fetched_at": "2026-08-22T15:46:24.939620+00:00",
+  "next_refresh_at": "2026-08-22T16:16:24.939620+00:00",
   "entries": [
     {
       "title": "Introducing AI Futures",
