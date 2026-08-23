@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-23T15:47:17.235295+00:00",
-  "next_refresh_at": "2026-08-23T16:17:17.235295+00:00",
+  "fetched_at": "2026-08-23T16:25:05.531487+00:00",
+  "next_refresh_at": "2026-08-23T16:55:05.531487+00:00",
   "entries": [
     {
       "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
