@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-24T13:52:29.447316+00:00",
-  "next_refresh_at": "2026-08-24T14:22:29.447316+00:00",
+  "fetched_at": "2026-08-24T14:41:29.163200+00:00",
+  "next_refresh_at": "2026-08-24T15:11:29.163200+00:00",
   "entries": [
+    {
+      "title": "小米玄戒O3首发支持长鑫LPDDR6内存",
+      "url": "https://www.esmchina.com/news/14518.html",
+      "published_at": null,
+      "summary": "小米正式宣布，其自研旗舰处理器“玄戒O3”成为全球首款支持LPDDR6内存的芯片。据供应链消息，此次首发合作的内存供应商为国产厂商长鑫存储，这标志着国产LPDDR6内存将首次实现大规模商用落地。",
+      "author": null
+    },
     {
       "title": "存储供应链正进入“长订单时代”",
       "url": "https://www.esmchina.com/news/14455.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14497.html",
       "published_at": null,
       "summary": "这家由东风汽车集团、斯泰兰蒂斯（Stellantis）集团等六方合资设立的新能源汽车公司，标志着今年5月签署的战略合作正式进入落地实施阶段。",
-      "author": null
-    },
-    {
-      "title": "发回重审！大疆在美维权取得关键胜利",
-      "url": "https://www.esmchina.com/news/14496.html",
-      "published_at": null,
-      "summary": "近日，美国哥伦比亚特区联邦巡回上诉法院作出裁定，要求下级法院重新审理大疆被列入五角大楼“中国军事企业”（CMC）黑名单一案。标志着大疆在美长达数年的法律维权取得了至关重要的程序性胜利。",
       "author": null
     }
   ],
