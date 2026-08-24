@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-24T06:57:55.429716+00:00",
-  "next_refresh_at": "2026-08-24T07:27:55.429716+00:00",
+  "fetched_at": "2026-08-24T08:00:40.715158+00:00",
+  "next_refresh_at": "2026-08-24T08:30:40.715158+00:00",
   "entries": [
+    {
+      "title": "PCB龙头东山精密加码AI光芯片光模块：总投资上调至17亿美元",
+      "url": "https://www.esmchina.com/news/14517.html",
+      "published_at": null,
+      "summary": "从业务结构看，光模块业务已成为东山精密核心增长板块。",
+      "author": null
+    },
     {
       "title": "超200个岗位！苹果挥刀砍向Siri和Vision Pro团队",
       "url": "https://www.esmchina.com/news/14516.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14493.html",
       "published_at": null,
       "summary": "英伟达宣布将与多家全球顶尖金融机构携手，共同打造一个独立的融资平台。该平台计划在未来逐步调动超过5000亿美元的第三方资本，专项用于全球AI基础设施的建设。",
-      "author": null
-    },
-    {
-      "title": "IPO对赌失败引爆7.58亿元诉讼，昔日家电巨头康佳面临退市危机",
-      "url": "https://www.esmchina.com/news/14492.html",
-      "published_at": null,
-      "summary": "五起案件涉案金额合计7.58亿元。",
       "author": null
     }
   ],
