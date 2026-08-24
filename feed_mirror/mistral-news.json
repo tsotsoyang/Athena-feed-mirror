@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-08-24T18:39:08.986696+00:00",
-  "next_refresh_at": "2026-08-24T19:09:08.986696+00:00",
+  "fetched_at": "2026-08-24T19:29:16.930938+00:00",
+  "next_refresh_at": "2026-08-24T19:59:16.930938+00:00",
   "entries": [
+    {
+      "title": "Mistral x HUMAIN",
+      "url": "https://mistral.ai/news/mistral-x-humain/",
+      "published_at": "2026-08-24T16:02:41+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "Agentic Search. More accurate and efficient results from your AI systems.",
       "url": "https://mistral.ai/news/agentic-search/",
@@ -170,13 +177,6 @@
       "title": "Voxtral transcribes at the speed of sound.",
       "url": "https://mistral.ai/news/voxtral-transcribe-2/",
       "published_at": "2026-02-04T16:00:00+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Terminally online Mistral Vibe.",
-      "url": "https://mistral.ai/news/mistral-vibe-2-0/",
-      "published_at": "2026-01-27T16:00:00+00:00",
       "summary": "",
       "author": null
     }
