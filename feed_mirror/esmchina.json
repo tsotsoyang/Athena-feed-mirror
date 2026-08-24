@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-24T10:10:20.073238+00:00",
-  "next_refresh_at": "2026-08-24T10:40:20.073238+00:00",
+  "fetched_at": "2026-08-24T11:01:46.750990+00:00",
+  "next_refresh_at": "2026-08-24T11:31:46.750990+00:00",
   "entries": [
+    {
+      "title": "存储供应链正进入“长订单时代”",
+      "url": "https://www.esmchina.com/news/14455.html",
+      "published_at": null,
+      "summary": "AI算力需求的指数级扩张，正在倒逼存储行业重构资源分配规则。在此背景下，存储巨头调整了供应链策略，在2026年新签了一批长订单。",
+      "author": null
+    },
     {
       "title": "PCB龙头东山精密加码AI光芯片光模块：总投资上调至17亿美元",
       "url": "https://www.esmchina.com/news/14517.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14496.html",
       "published_at": null,
       "summary": "近日，美国哥伦比亚特区联邦巡回上诉法院作出裁定，要求下级法院重新审理大疆被列入五角大楼“中国军事企业”（CMC）黑名单一案。标志着大疆在美长达数年的法律维权取得了至关重要的程序性胜利。",
-      "author": null
-    },
-    {
-      "title": "黄仁勋撰文：5000亿美元入场，AI工厂成为可投资资产",
-      "url": "https://www.esmchina.com/news/14493.html",
-      "published_at": null,
-      "summary": "英伟达宣布将与多家全球顶尖金融机构携手，共同打造一个独立的融资平台。该平台计划在未来逐步调动超过5000亿美元的第三方资本，专项用于全球AI基础设施的建设。",
       "author": null
     }
   ],
