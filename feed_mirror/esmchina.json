@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-25T09:35:03.852735+00:00",
-  "next_refresh_at": "2026-08-25T10:05:03.852735+00:00",
+  "fetched_at": "2026-08-25T10:32:38.433975+00:00",
+  "next_refresh_at": "2026-08-25T11:02:38.433975+00:00",
   "entries": [
+    {
+      "title": "英飞凌收购印度C2i Semiconductors，补齐AI数据中心“电力心脏”关键一环",
+      "url": "https://www.esmchina.com/news/14524.html",
+      "published_at": null,
+      "summary": "该交易预计于2026年第三季度完成，具体金额未披露。",
+      "author": null
+    },
     {
       "title": "2026年全球半导体收入将达1.6万亿美元，存储器占比过半",
       "url": "https://www.esmchina.com/news/14523.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14503.html",
       "published_at": null,
       "summary": "存储“双雄”会师A股进程加速！",
-      "author": null
-    },
-    {
-      "title": "ST又一次调价，功率半导体年内第三轮涨价潮来了？",
-      "url": "https://www.esmchina.com/news/14502.html",
-      "published_at": null,
-      "summary": "进入到2026年8月中下旬，大家担忧的芯片行业第三轮涨价已经显现。",
       "author": null
     }
   ],
