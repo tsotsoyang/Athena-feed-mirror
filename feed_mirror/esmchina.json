@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-25T14:44:32.201952+00:00",
-  "next_refresh_at": "2026-08-25T15:14:32.201952+00:00",
+  "fetched_at": "2026-08-25T15:41:52.733850+00:00",
+  "next_refresh_at": "2026-08-25T16:11:52.733850+00:00",
   "entries": [
+    {
+      "title": "机器人本地跑大模型？英伟达Jetson Orin Nano 2给出答案",
+      "url": "https://www.esmchina.com/news/14525.html",
+      "published_at": null,
+      "summary": "越来越多的无人机、服务机器人、视觉检测设备，不再只跑简单检测算法，而是需要本地运行大语言模型、多模态视觉模型，完成环境理解、语义分析、实时决策。过去这类能力大多依赖算力更强的高端硬件，而英伟达新推出的Jetson Orin Nano™ 2，把前沿生成式AI能力下放到入门嵌入式机器人平台。",
+      "author": null
+    },
     {
       "title": "英飞凌收购印度C2i Semiconductors，补齐AI数据中心“电力心脏”关键一环",
       "url": "https://www.esmchina.com/news/14524.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14504.html",
       "published_at": null,
       "summary": "近日，谷歌与Marvell达成芯片定制合作协议，不仅涵盖了广泛的AI芯片定制业务，更通过一份价值高达122亿美元的认股权证，实现了双方商业利益的史无前例的深度绑定。",
-      "author": null
-    },
-    {
-      "title": "长江存储IPO辅导验收完成，国产NAND龙头上市进程提速",
-      "url": "https://www.esmchina.com/news/14503.html",
-      "published_at": null,
-      "summary": "存储“双雄”会师A股进程加速！",
       "author": null
     }
   ],
