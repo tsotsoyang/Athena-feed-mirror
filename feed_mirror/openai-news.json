@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-25T17:31:22.706177+00:00",
-  "next_refresh_at": "2026-08-25T18:01:22.706177+00:00",
+  "fetched_at": "2026-08-25T18:38:58.298987+00:00",
+  "next_refresh_at": "2026-08-25T19:08:58.298987+00:00",
   "entries": [
     {
       "title": "The full stack behind abundant intelligence",
@@ -24,6 +24,13 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "published_at": "2026-08-25T00:00:00+00:00",
       "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "author": null
+    },
+    {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "published_at": "2026-08-11T10:00:00+00:00",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "author": null
-    },
-    {
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "published_at": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
       "author": null
     }
   ],
