@@ -2,8 +2,8 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-25T16:37:05.453682+00:00",
-  "next_refresh_at": "2026-08-25T17:07:05.453682+00:00",
+  "fetched_at": "2026-08-25T17:31:26.217345+00:00",
+  "next_refresh_at": "2026-08-25T18:01:26.217345+00:00",
   "entries": [
     {
       "title": "机器人本地跑大模型？英伟达Jetson Orin Nano 2给出答案",
