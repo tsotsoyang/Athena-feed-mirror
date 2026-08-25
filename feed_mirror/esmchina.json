@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-25T05:31:24.401366+00:00",
-  "next_refresh_at": "2026-08-25T06:01:24.401366+00:00",
+  "fetched_at": "2026-08-25T06:47:01.792246+00:00",
+  "next_refresh_at": "2026-08-25T07:17:01.792246+00:00",
   "entries": [
+    {
+      "title": "长存控股科创板IPO获受理，拟募资330亿元创纪录",
+      "url": "https://www.esmchina.com/news/14522.html",
+      "published_at": null,
+      "summary": "两大国产存储巨头——长鑫科技主攻DRAM内存、长存控股主攻3D NAND闪存，均已完成或进入资本市场。",
+      "author": null
+    },
     {
       "title": "为什么ChatGPT越聪明，电费越烧不起？人脑早给了答案",
       "url": "https://www.esmchina.com/news/14521.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14501.html",
       "published_at": null,
       "summary": "今日，蓝箭航天自主研制的朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪。这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。",
-      "author": null
-    },
-    {
-      "title": "总市值4449亿元！宇树科技上市首日高开629%",
-      "url": "https://www.esmchina.com/news/14500.html",
-      "published_at": null,
-      "summary": "中一签赚47.46万！宇树科技成为全面注册制实施以来沪深两市最赚钱的新股。",
       "author": null
     }
   ],

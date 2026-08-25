@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-25T05:31:09.000687+00:00",
-  "next_refresh_at": "2026-08-25T06:01:09.000687+00:00",
+  "fetched_at": "2026-08-25T06:46:49.359938+00:00",
+  "next_refresh_at": "2026-08-25T07:16:49.359938+00:00",
   "entries": [
     {
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
