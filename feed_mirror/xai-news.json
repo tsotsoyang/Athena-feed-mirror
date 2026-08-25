@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-25T23:28:01.042761+00:00",
-  "next_refresh_at": "2026-08-25T23:58:01.042761+00:00",
+  "fetched_at": "2026-08-25T23:50:36.383967+00:00",
+  "next_refresh_at": "2026-08-26T00:20:36.383967+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
@@ -83,10 +83,10 @@
       "author": null
     },
     {
-      "title": "Grok 4.5 in GitHub Copilot Grok 4.5, our smartest coding model, is now available in GitHub Copilot. Jul 28, 2026",
+      "title": "Grok 4.5 in GitHub Copilot | SpaceXAI",
       "url": "https://x.ai/news/grok-github-copilot",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
       "author": null
     },
     {
@@ -132,10 +132,10 @@
       "author": null
     },
     {
-      "title": "Automations in Grok Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back. Jul 16, 2026",
+      "title": "Automations in Grok | SpaceXAI",
       "url": "https://x.ai/news/grok-automations",
       "published_at": null,
-      "summary": "",
+      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
       "author": null
     },
     {
@@ -160,10 +160,10 @@
       "author": null
     },
     {
-      "title": "Explore the markets with Interactive Brokers and Grok Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions. Jun 25, 2026",
+      "title": "Explore the markets with Interactive Brokers and Grok | SpaceXAI",
       "url": "https://x.ai/news/grok-interactive-brokers",
       "published_at": null,
-      "summary": "",
+      "summary": "Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.",
       "author": null
     },
     {
@@ -174,10 +174,10 @@
       "author": null
     },
     {
-      "title": "Grok on Databricks Grok models are now available on Databricks Agent Bricks. Jun 18, 2026",
+      "title": "Grok on Databricks | SpaceXAI",
       "url": "https://x.ai/news/grok-databricks",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok models are now available on Databricks Agent Bricks.",
       "author": null
     }
   ],
