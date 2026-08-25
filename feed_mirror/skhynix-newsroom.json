@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-25T08:41:30.144909+00:00",
-  "next_refresh_at": "2026-08-25T09:11:30.144909+00:00",
+  "fetched_at": "2026-08-25T09:34:44.456001+00:00",
+  "next_refresh_at": "2026-08-25T10:04:44.456001+00:00",
   "entries": [
     {
       "title": "[Tech Note] Hybrid Bonding: Evolving into a Foundational Technology for Improving Semiconductor Performance",

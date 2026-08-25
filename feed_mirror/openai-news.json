@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-25T08:41:32.486155+00:00",
-  "next_refresh_at": "2026-08-25T09:11:32.486155+00:00",
+  "fetched_at": "2026-08-25T09:34:48.757562+00:00",
+  "next_refresh_at": "2026-08-25T10:04:48.757562+00:00",
   "entries": [
+    {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "author": null
+    },
     {
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
       "url": "https://openai.com/index/gpt-5-6-in-kiro",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/model-ml",
       "published_at": "2026-08-10T12:00:00+00:00",
       "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "author": null
-    },
-    {
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "published_at": "2026-08-10T17:00:00+00:00",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
       "author": null
     }
   ],
