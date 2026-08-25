@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-25T19:32:00.424077+00:00",
-  "next_refresh_at": "2026-08-25T20:02:00.424077+00:00",
+  "fetched_at": "2026-08-25T20:28:44.249811+00:00",
+  "next_refresh_at": "2026-08-25T20:58:44.249811+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
@@ -13,10 +13,10 @@
       "author": null
     },
     {
-      "title": "Grok 4.6 on Gemini Enterprise Agent Platform | SpaceXAI",
+      "title": "Aug 21, 2026 Grok 4.6 on Gemini Enterprise Agent Platform",
       "url": "https://x.ai/news/grok-4-6-vertex-ai",
       "published_at": null,
-      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "summary": "",
       "author": null
     },
     {
@@ -55,10 +55,10 @@
       "author": null
     },
     {
-      "title": "Imagine Image 2.0 | SpaceXAI",
+      "title": "Imagine Image 2.0 Precise image generation and editing, built for real creative work. Aug 7, 2026",
       "url": "https://x.ai/news/grok-imagine-image-2",
       "published_at": null,
-      "summary": "Precise image generation and editing, built for real creative work.",
+      "summary": "",
       "author": null
     },
     {
@@ -69,10 +69,10 @@
       "author": null
     },
     {
-      "title": "Introducing Grok Voice Think Fast 2.0 | SpaceXAI",
+      "title": "Introducing Grok Voice Think Fast 2.0 Introducing our most capable speech-to-speech voice model. Jul 29, 2026",
       "url": "https://x.ai/news/grok-voice-think-fast-2",
       "published_at": null,
-      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "summary": "",
       "author": null
     },
     {
