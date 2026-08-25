@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-25T01:15:35.175185+00:00",
-  "next_refresh_at": "2026-08-25T01:45:35.175185+00:00",
+  "fetched_at": "2026-08-25T02:39:04.391885+00:00",
+  "next_refresh_at": "2026-08-25T03:09:04.391885+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",

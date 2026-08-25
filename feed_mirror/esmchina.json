@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-25T01:15:35.659678+00:00",
-  "next_refresh_at": "2026-08-25T01:45:35.659678+00:00",
+  "fetched_at": "2026-08-25T02:39:06.067382+00:00",
+  "next_refresh_at": "2026-08-25T03:09:06.067382+00:00",
   "entries": [
+    {
+      "title": "向散户“借钱”搞AI，软银创纪录发债1万亿日元",
+      "url": "https://www.esmchina.com/news/14520.html",
+      "published_at": null,
+      "summary": "日本软银集团宣布计划面向个人投资者发行规模高达1万亿日元（约合63亿美元）的无担保公司债。此次发行的债券期限为7年，票面利率指引区间设定在4.3%至4.9%之间，预计将于9月4日正式定价。",
+      "author": null
+    },
     {
       "title": "同比增长2216%！安世中国12英寸晶圆全新产能爆发！",
       "url": "https://www.esmchina.com/news/14519.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14499.html",
       "published_at": null,
       "summary": "在全球贸易保护主义抬头、美国对中国电动汽车筑起高达127.5%关税高墙的背景下，美国自动驾驶巨头Waymo却反其道而行之，正以惊人的规模从中国进口电动车辆。",
-      "author": null
-    },
-    {
-      "title": "深耕熔断器二十余年，威可特（VICFUSE）以UL248产品矩阵，助力北美市场电路保护",
-      "url": "https://www.esmchina.com/news/14495.html",
-      "published_at": null,
-      "summary": "作为亚太区首家熔断器获得UL认证的企业，深圳市威可特电子科技有限公司（VICFUSE） 深耕电路保护领域二十余年，以全系列UL248标准熔断器产品，为北美市场提供高品质、高可靠性的电路保护解决方案。",
       "author": null
     }
   ],
