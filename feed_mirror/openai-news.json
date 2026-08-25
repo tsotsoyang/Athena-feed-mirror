@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-25T18:38:58.298987+00:00",
-  "next_refresh_at": "2026-08-25T19:08:58.298987+00:00",
+  "fetched_at": "2026-08-25T19:31:43.992434+00:00",
+  "next_refresh_at": "2026-08-25T20:01:43.992434+00:00",
   "entries": [
     {
       "title": "The full stack behind abundant intelligence",
