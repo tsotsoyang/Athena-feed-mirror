@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-25T03:48:48.135828+00:00",
-  "next_refresh_at": "2026-08-25T04:18:48.135828+00:00",
+  "fetched_at": "2026-08-25T04:38:34.267109+00:00",
+  "next_refresh_at": "2026-08-25T05:08:34.267109+00:00",
   "entries": [
+    {
+      "title": "为什么ChatGPT越聪明，电费越烧不起？人脑早给了答案",
+      "url": "https://www.esmchina.com/news/14521.html",
+      "published_at": null,
+      "summary": "20瓦对比1兆瓦：人脑和大语言模型根本不在同一个量级上。",
+      "author": null
+    },
     {
       "title": "向散户“借钱”搞AI，软银创纪录发债1万亿日元",
       "url": "https://www.esmchina.com/news/14520.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14500.html",
       "published_at": null,
       "summary": "中一签赚47.46万！宇树科技成为全面注册制实施以来沪深两市最赚钱的新股。",
-      "author": null
-    },
-    {
-      "title": "127%关税也拦不住？Waymo狂买3200辆中国电动车",
-      "url": "https://www.esmchina.com/news/14499.html",
-      "published_at": null,
-      "summary": "在全球贸易保护主义抬头、美国对中国电动汽车筑起高达127.5%关税高墙的背景下，美国自动驾驶巨头Waymo却反其道而行之，正以惊人的规模从中国进口电动车辆。",
       "author": null
     }
   ],
