@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-25T04:38:17.213183+00:00",
-  "next_refresh_at": "2026-08-25T05:08:17.213183+00:00",
+  "fetched_at": "2026-08-25T05:31:05.175610+00:00",
+  "next_refresh_at": "2026-08-25T06:01:05.175610+00:00",
   "entries": [
     {
       "title": "[Tech Note] Hybrid Bonding: Evolving into a Foundational Technology for Improving Semiconductor Performance",
@@ -11,6 +11,13 @@
       "published_at": "2026-08-25T00:00:02+00:00",
       "summary": "AI doesn’t wait. The foundations of every industry are already cracking. This isn’t a story about one sector. Manufacturing. Finance. Healthcare. Data centers. The entire industrial order is being rebuilt around AI — and it’s happening now. Knowing about AI",
       "author": "Professor Seunghwan Joo, Inha Manufacturing Innovation School"
+    },
+    {
+      "title": "[HY-Knowledge EP.3] Physical AI: The Next Revolution After Generative AI | Professor Cho Kyu-jin",
+      "url": "https://news.skhynix.com/en/hy-knowledge-ep-3/",
+      "published_at": "2026-08-21T04:38:01+00:00",
+      "summary": "HY-Knowledge, an original series by SK hynix, explores the latest technologies shaping the AI era and the role of memory in making them possible. In the third episode, Professor Cho Kyu-jin of Seoul National University explores the world of Physical",
+      "author": "SK hynix"
     },
     {
       "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
@@ -48,6 +55,13 @@
       "author": "SK hynix"
     },
     {
+      "title": "SK hynix’s Technology Roadmap for Co-Packaged Optics Features in “Nature Electronics”",
+      "url": "https://news.skhynix.com/en/sk-hynixs-technology-roadmap-for-co-packaged-optics-features-in-nature-electronics/",
+      "published_at": "2026-08-20T04:39:35+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
       "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
       "url": "https://news.skhynix.com/en/cpo-in-nature-electronics/",
       "published_at": "2026-08-19T23:00:03+00:00",
@@ -59,20 +73,6 @@
       "url": "https://news.skhynix.com/en/share-buyback-and-retirement/",
       "published_at": "2026-08-19T06:42:05+00:00",
       "summary": "▪ Board approves resolution on August 19 to repurchase and fully cancel 40 trillion won of treasury shares ▪ Decision reflects the view that intrinsic value—driven by business competitiveness and cash generation capability—is underrepresented in current share price ▪ Largest",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] The paradigm shift in AI computing",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-3/",
-      "published_at": "2026-08-18T05:40:29+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] The paradigm shift in AI computing",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-2/",
-      "published_at": "2026-08-18T05:39:11+00:00",
-      "summary": "",
       "author": "SK hynix"
     }
   ],
