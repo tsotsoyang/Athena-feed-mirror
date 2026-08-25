@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-24T23:47:00.371667+00:00",
-  "next_refresh_at": "2026-08-25T00:17:00.371667+00:00",
+  "fetched_at": "2026-08-25T01:15:35.659678+00:00",
+  "next_refresh_at": "2026-08-25T01:45:35.659678+00:00",
   "entries": [
+    {
+      "title": "同比增长2216%！安世中国12英寸晶圆全新产能爆发！",
+      "url": "https://www.esmchina.com/news/14519.html",
+      "published_at": null,
+      "summary": "安世中国12英寸晶圆全新产能爆发！24小时全网出货17,919,236pcs！同比增长2216%，环比增长1108%！",
+      "author": null
+    },
     {
       "title": "小米玄戒O3首发支持长鑫LPDDR6内存",
       "url": "https://www.esmchina.com/news/14518.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14495.html",
       "published_at": null,
       "summary": "作为亚太区首家熔断器获得UL认证的企业，深圳市威可特电子科技有限公司（VICFUSE） 深耕电路保护领域二十余年，以全系列UL248标准熔断器产品，为北美市场提供高品质、高可靠性的电路保护解决方案。",
-      "author": null
-    },
-    {
-      "title": "神龙新公司股东结构首次披露，东风与Stellantis各持股13.53%",
-      "url": "https://www.esmchina.com/news/14497.html",
-      "published_at": null,
-      "summary": "这家由东风汽车集团、斯泰兰蒂斯（Stellantis）集团等六方合资设立的新能源汽车公司，标志着今年5月签署的战略合作正式进入落地实施阶段。",
       "author": null
     }
   ],

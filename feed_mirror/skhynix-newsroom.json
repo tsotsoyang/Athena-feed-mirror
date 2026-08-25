@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-24T23:46:42.242772+00:00",
-  "next_refresh_at": "2026-08-25T00:16:42.242772+00:00",
+  "fetched_at": "2026-08-25T01:15:14.884707+00:00",
+  "next_refresh_at": "2026-08-25T01:45:14.884707+00:00",
   "entries": [
+    {
+      "title": "[Tech Note] Hybrid Bonding: Evolving into a Foundational Technology for Improving Semiconductor Performance",
+      "url": "https://news.skhynix.com/en/tech-note-series-ep2/",
+      "published_at": "2026-08-25T00:00:02+00:00",
+      "summary": "AI doesn’t wait. The foundations of every industry are already cracking. This isn’t a story about one sector. Manufacturing. Finance. Healthcare. Data centers. The entire industrial order is being rebuilt around AI — and it’s happening now. Knowing about AI",
+      "author": "Professor Seunghwan Joo, Inha Manufacturing Innovation School"
+    },
     {
       "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
       "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-5/",
@@ -65,13 +72,6 @@
       "title": "[AI Ecosystem] The paradigm shift in AI computing",
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-2/",
       "published_at": "2026-08-18T05:39:11+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] The paradigm shift in AI computing",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep1-1/",
-      "published_at": "2026-08-18T05:22:17+00:00",
       "summary": "",
       "author": "SK hynix"
     }
