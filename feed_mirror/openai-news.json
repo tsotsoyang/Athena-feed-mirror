@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-25T11:55:49.344896+00:00",
-  "next_refresh_at": "2026-08-25T12:25:49.344896+00:00",
+  "fetched_at": "2026-08-25T12:49:25.356303+00:00",
+  "next_refresh_at": "2026-08-25T13:19:25.356303+00:00",
   "entries": [
     {
       "title": "Disrupting a new covert influence campaign from Russia",
