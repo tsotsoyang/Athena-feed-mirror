@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-26T03:53:42.214339+00:00",
-  "next_refresh_at": "2026-08-26T04:23:42.214339+00:00",
+  "fetched_at": "2026-08-26T04:39:42.598946+00:00",
+  "next_refresh_at": "2026-08-26T05:09:42.598946+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
@@ -20,10 +20,10 @@
       "author": null
     },
     {
-      "title": "Grok 4.6 on Amazon Bedrock | SpaceXAI",
+      "title": "Aug 19, 2026 Grok 4.6 on Amazon Bedrock",
       "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
       "published_at": null,
-      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
+      "summary": "",
       "author": null
     },
     {
@@ -90,10 +90,10 @@
       "author": null
     },
     {
-      "title": "Grok in Google Workspace | SpaceXAI",
+      "title": "Grok in Google Workspace Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs. Jul 24, 2026",
       "url": "https://x.ai/news/introducing-google-workspace-addon",
       "published_at": null,
-      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
+      "summary": "",
       "author": null
     },
     {
@@ -125,10 +125,10 @@
       "author": null
     },
     {
-      "title": "Introducing Grok 4.5 | SpaceXAI",
+      "title": "Introducing Grok 4.5 Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work. Jul 16, 2026",
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
-      "summary": "Grok 4.5 is SpaceXAI",
+      "summary": "",
       "author": null
     },
     {
