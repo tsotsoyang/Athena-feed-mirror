@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-26T16:53:53.312685+00:00",
-  "next_refresh_at": "2026-08-26T17:23:53.312685+00:00",
+  "fetched_at": "2026-08-26T19:01:44.800374+00:00",
+  "next_refresh_at": "2026-08-26T19:31:44.800374+00:00",
   "entries": [
+    {
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "published_at": "2026-08-26T17:01:00+00:00",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "author": null
+    },
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
       "published_at": "2026-05-21T19:46:42+00:00",
       "summary": "",
-      "author": null
-    },
-    {
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "published_at": "2026-05-18T18:21:39+00:00",
-      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
       "author": null
     }
   ],
