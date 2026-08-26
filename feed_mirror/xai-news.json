@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-26T06:49:39.772609+00:00",
-  "next_refresh_at": "2026-08-26T07:19:39.772609+00:00",
+  "fetched_at": "2026-08-26T07:46:19.395504+00:00",
+  "next_refresh_at": "2026-08-26T08:16:19.395504+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
@@ -146,10 +146,10 @@
       "author": null
     },
     {
-      "title": "21 New Flagship Grok Voices New multilingual voices for Grok Voice, plus improved naturalness for the original five. Jul 6, 2026",
+      "title": "21 New Flagship Grok Voices | SpaceXAI",
       "url": "https://x.ai/news/new-flagship-voices",
       "published_at": null,
-      "summary": "",
+      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
       "author": null
     },
     {
