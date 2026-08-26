@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-26T10:35:17.175007+00:00",
-  "next_refresh_at": "2026-08-26T11:05:17.175007+00:00",
+  "fetched_at": "2026-08-26T11:30:04.903097+00:00",
+  "next_refresh_at": "2026-08-26T12:00:04.903097+00:00",
   "entries": [
     {
       "title": "How loveholidays is making everyone a builder with Codex",
