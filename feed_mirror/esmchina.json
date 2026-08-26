@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-26T01:17:51.354623+00:00",
-  "next_refresh_at": "2026-08-26T01:47:51.354623+00:00",
+  "fetched_at": "2026-08-26T02:47:22.616936+00:00",
+  "next_refresh_at": "2026-08-26T03:17:22.616936+00:00",
   "entries": [
+    {
+      "title": "苹果发布首款2nm芯片Mac mini，AI性能暴涨4倍",
+      "url": "https://www.esmchina.com/news/14526.html",
+      "published_at": null,
+      "summary": "这很可能是蒂姆·库克卸任CEO前的最后一款重大新品。",
+      "author": null
+    },
     {
       "title": "机器人本地跑大模型？英伟达Jetson Orin Nano 2给出答案",
       "url": "https://www.esmchina.com/news/14525.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14505.html",
       "published_at": null,
       "summary": "京东作为全球战略合作伙伴，在会上正式发布机器人战略，宣布到2028年投入百亿级资源，全面布局具身智能产业生态。",
-      "author": null
-    },
-    {
-      "title": "博通慌了？谷歌122亿美元绑定Marvell，TPU供应链不再独家",
-      "url": "https://www.esmchina.com/news/14504.html",
-      "published_at": null,
-      "summary": "近日，谷歌与Marvell达成芯片定制合作协议，不仅涵盖了广泛的AI芯片定制业务，更通过一份价值高达122亿美元的认股权证，实现了双方商业利益的史无前例的深度绑定。",
       "author": null
     }
   ],

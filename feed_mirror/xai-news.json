@@ -2,14 +2,14 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-26T01:18:05.159841+00:00",
-  "next_refresh_at": "2026-08-26T01:48:05.159841+00:00",
+  "fetched_at": "2026-08-26T02:47:29.895389+00:00",
+  "next_refresh_at": "2026-08-26T03:17:29.895389+00:00",
   "entries": [
     {
-      "title": "Grok Bot is now included with more plans | SpaceXAI",
+      "title": "Aug 21, 2026 Grok Bot is now included with more plans Aug 21, 2026 Grok Bot is now included with more plans Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans. [data-slot=icon]]:-mr-1 [&amp;>[data-slot=icon]]:-mx-0.5 [&amp;>[data-slot=icon]]:size-5 [&amp;>[data-slot=icon]]:shrink-0 [&amp;>[data-slot=icon]]:sm:size-4.5\">Read More",
       "url": "https://x.ai/news/grok-bot-more-plans",
       "published_at": null,
-      "summary": "Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans.",
+      "summary": "",
       "author": null
     },
     {
@@ -104,10 +104,10 @@
       "author": null
     },
     {
-      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X | SpaceXAI",
+      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android. Jul 22, 2026",
       "url": "https://x.ai/news/grok-4-5-everywhere",
       "published_at": null,
-      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
+      "summary": "",
       "author": null
     },
     {
@@ -174,10 +174,10 @@
       "author": null
     },
     {
-      "title": "Grok on Databricks | SpaceXAI",
+      "title": "Grok on Databricks Grok models are now available on Databricks Agent Bricks. Jun 18, 2026",
       "url": "https://x.ai/news/grok-databricks",
       "published_at": null,
-      "summary": "Grok models are now available on Databricks Agent Bricks.",
+      "summary": "",
       "author": null
     }
   ],

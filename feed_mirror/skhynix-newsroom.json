@@ -2,9 +2,44 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-26T01:17:34.344127+00:00",
-  "next_refresh_at": "2026-08-26T01:47:34.344127+00:00",
+  "fetched_at": "2026-08-26T02:47:05.248004+00:00",
+  "next_refresh_at": "2026-08-26T03:17:05.248004+00:00",
   "entries": [
+    {
+      "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "url": "https://news.skhynix.com/en/dtf-2026-5/",
+      "published_at": "2026-08-26T01:32:12+00:00",
+      "summary": "▲ Youngpyo Joo, Vice President andhead of the System Architecture department, delivers the keynote",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "url": "https://news.skhynix.com/en/dtf-2026-4/",
+      "published_at": "2026-08-26T01:29:46+00:00",
+      "summary": "▲ The ‘Product &#38; System’ exhibition space, where visitors could explore SK hynix’s diverse AI memory products",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "url": "https://news.skhynix.com/en/dtf-2026-3/",
+      "published_at": "2026-08-26T01:29:00+00:00",
+      "summary": "▲ The ‘Product &#38; System’ exhibition space, where visitors could explore SK hynix’s diverse AI memory products",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "url": "https://news.skhynix.com/en/dtf-2026-2/",
+      "published_at": "2026-08-26T01:28:12+00:00",
+      "summary": "▲ The internal structure of the Scalable Data Server and the SK hynix products positioned in each area",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "url": "https://news.skhynix.com/en/dtf-2026-1/",
+      "published_at": "2026-08-26T01:27:05+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
       "url": "https://news.skhynix.com/en/dtf-2026/",
@@ -38,41 +73,6 @@
       "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-4/",
       "published_at": "2026-08-20T06:10:59+00:00",
       "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
-      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-3/",
-      "published_at": "2026-08-20T06:05:52+00:00",
-      "summary": "▲ Conceptual illustration of an optics-centric architecture in which a photonic interposer directly connects compute resources in the XPU pool with memory resources in the memory pool through optical links",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
-      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-2/",
-      "published_at": "2026-08-20T05:54:47+00:00",
-      "summary": "▲ CPO integrates optical engines ever closer to the processor. As the distance traveled by electrical signals is minimized, both bandwidth and energy efficiency improve.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
-      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics-1/",
-      "published_at": "2026-08-20T05:51:51+00:00",
-      "summary": "▲ Compute throughput has typically tripled every two years, while interconnect bandwidth has advanced only about 1.4-fold, creating a “bandwidth wall.”",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix’s Technology Roadmap for Co-Packaged Optics Features in “Nature Electronics”",
-      "url": "https://news.skhynix.com/en/sk-hynixs-technology-roadmap-for-co-packaged-optics-features-in-nature-electronics/",
-      "published_at": "2026-08-20T04:39:35+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems",
-      "url": "https://news.skhynix.com/en/cpo-in-nature-electronics/",
-      "published_at": "2026-08-19T23:00:03+00:00",
-      "summary": "▪ SK hynix has collaborated with leading global researchers to publish a roadmap for co-packaged optics (CPO), a key technology for next-generation AI infrastructure, in the prestigious scientific journal “Nature Electronics.” ▪ Extending beyond HBM innovation, the paper presents a",
       "author": "SK hynix"
     }
   ],
