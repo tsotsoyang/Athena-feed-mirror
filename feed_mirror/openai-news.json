@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-26T09:41:06.143975+00:00",
-  "next_refresh_at": "2026-08-26T10:11:06.143975+00:00",
+  "fetched_at": "2026-08-26T10:35:17.175007+00:00",
+  "next_refresh_at": "2026-08-26T11:05:17.175007+00:00",
   "entries": [
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "author": null
+    },
     {
       "title": "The full stack behind abundant intelligence",
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/ringcentral",
       "published_at": "2026-08-12T00:00:00+00:00",
       "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "author": null
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published_at": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "author": null
     }
   ],
