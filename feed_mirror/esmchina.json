@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-26T02:47:22.616936+00:00",
-  "next_refresh_at": "2026-08-26T03:17:22.616936+00:00",
+  "fetched_at": "2026-08-26T03:53:29.224119+00:00",
+  "next_refresh_at": "2026-08-26T04:23:29.224119+00:00",
   "entries": [
+    {
+      "title": "【今天下午3点开播】沉浸式带你云逛展获全套功率半导体解决方案",
+      "url": "https://www.eet-china.com/ee-live/entry/PI_20260826.html?source=pop",
+      "published_at": null,
+      "summary": "现场抽奖赢倍思四合一多功能Typce-C HUB扩展坞（共25个)。",
+      "author": null
+    },
     {
       "title": "苹果发布首款2nm芯片Mac mini，AI性能暴涨4倍",
       "url": "https://www.esmchina.com/news/14526.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14506.html",
       "published_at": null,
       "summary": "美国国务院正计划向签署《人工智能机遇伙伴关系联合声明》的三十多个经济体发送正式信函，警告“若相关国家加入与美方目标冲突的其他机制，将被排除在美国主导的AI联盟之外。“",
-      "author": null
-    },
-    {
-      "title": "京东百亿押注机器人，供应链背后藏着多大的芯片生意？",
-      "url": "https://www.esmchina.com/news/14505.html",
-      "published_at": null,
-      "summary": "京东作为全球战略合作伙伴，在会上正式发布机器人战略，宣布到2028年投入百亿级资源，全面布局具身智能产业生态。",
       "author": null
     }
   ],
