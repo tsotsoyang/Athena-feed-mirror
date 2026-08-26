@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-25T23:50:04.272678+00:00",
-  "next_refresh_at": "2026-08-26T00:20:04.272678+00:00",
+  "fetched_at": "2026-08-26T01:17:34.344127+00:00",
+  "next_refresh_at": "2026-08-26T01:47:34.344127+00:00",
   "entries": [
+    {
+      "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
+      "url": "https://news.skhynix.com/en/dtf-2026/",
+      "published_at": "2026-08-26T00:00:23+00:00",
+      "summary": "SK hynix has been broadening its collaboration with its strategic partner Dell Technologies (Dell). Following Dell Technologies World 2026, held in May in Las Vegas, US, SK hynix participated in the Dell Technologies Forum 2026 (DTF), held on Aug 25th",
+      "author": "SK hynix"
+    },
     {
       "title": "[Tech Note] Hybrid Bonding: Evolving into a Foundational Technology for Improving Semiconductor Performance",
       "url": "https://news.skhynix.com/en/tech-note-series-ep2/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/cpo-in-nature-electronics/",
       "published_at": "2026-08-19T23:00:03+00:00",
       "summary": "▪ SK hynix has collaborated with leading global researchers to publish a roadmap for co-packaged optics (CPO), a key technology for next-generation AI infrastructure, in the prestigious scientific journal “Nature Electronics.” ▪ Extending beyond HBM innovation, the paper presents a",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Accelerates 40 Trillion won Share Repurchase and Cancellation Program, Pursues Shareholder Return Expansion to ‘Over 50% of FCF’",
-      "url": "https://news.skhynix.com/en/share-buyback-and-retirement/",
-      "published_at": "2026-08-19T06:42:05+00:00",
-      "summary": "▪ Board approves resolution on August 19 to repurchase and fully cancel 40 trillion won of treasury shares ▪ Decision reflects the view that intrinsic value—driven by business competitiveness and cash generation capability—is underrepresented in current share price ▪ Largest",
       "author": "SK hynix"
     }
   ],
