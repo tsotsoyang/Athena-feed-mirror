@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-26T19:01:32.931733+00:00",
-  "next_refresh_at": "2026-08-26T19:31:32.931733+00:00",
+  "fetched_at": "2026-08-26T22:24:03.675837+00:00",
+  "next_refresh_at": "2026-08-26T22:54:03.675837+00:00",
   "entries": [
     {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
@@ -17,6 +17,13 @@
       "url": "https://openai.com/index/learning-never-stops",
       "published_at": "2026-08-26T10:00:00+00:00",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "author": null
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/previewing-ultrafast",
       "published_at": "2026-08-13T10:00:00+00:00",
       "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "author": null
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "published_at": "2026-08-13T09:00:00+00:00",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
       "author": null
     }
   ],
