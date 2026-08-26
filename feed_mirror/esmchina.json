@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-26T05:34:01.285592+00:00",
-  "next_refresh_at": "2026-08-26T06:04:01.285592+00:00",
+  "fetched_at": "2026-08-26T06:49:30.287067+00:00",
+  "next_refresh_at": "2026-08-26T07:19:30.287067+00:00",
   "entries": [
+    {
+      "title": "【有奖竞答】泰克科技AI数据中心电源测试解决方案",
+      "url": "https://www.eet-china.com/RC/Tek202607/index.html?source=pop",
+      "published_at": null,
+      "summary": "参与答题即有机会获得由泰克科技提供的小礼品~",
+      "author": null
+    },
     {
       "title": "【今天下午3点开播】沉浸式带你云逛展获全套功率半导体解决方案",
       "url": "https://www.eet-china.com/ee-live/entry/PI_20260826.html?source=pop",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14507.html",
       "published_at": null,
       "summary": "此次涨价的直接驱动力来自AI芯片需求的持续爆发。",
-      "author": null
-    },
-    {
-      "title": "美国发“最后通牒”逼全球AI选边站队，中方强势回应",
-      "url": "https://www.esmchina.com/news/14506.html",
-      "published_at": null,
-      "summary": "美国国务院正计划向签署《人工智能机遇伙伴关系联合声明》的三十多个经济体发送正式信函，警告“若相关国家加入与美方目标冲突的其他机制，将被排除在美国主导的AI联盟之外。“",
       "author": null
     }
   ],
