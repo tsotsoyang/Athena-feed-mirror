@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-26T22:24:13.789779+00:00",
-  "next_refresh_at": "2026-08-26T22:54:13.789779+00:00",
+  "fetched_at": "2026-08-27T03:27:38.824386+00:00",
+  "next_refresh_at": "2026-08-27T03:57:38.824386+00:00",
   "entries": [
     {
       "title": "Intelligent transcription with Gemini 3.5 Transcribe",

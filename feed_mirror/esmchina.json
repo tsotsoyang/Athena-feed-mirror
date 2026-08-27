@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-26T22:24:07.698735+00:00",
-  "next_refresh_at": "2026-08-26T22:54:07.698735+00:00",
+  "fetched_at": "2026-08-27T03:27:33.059369+00:00",
+  "next_refresh_at": "2026-08-27T03:57:33.059369+00:00",
   "entries": [
+    {
+      "title": "特斯拉上海数据中心“人去楼空”？官方：已报警！",
+      "url": "https://www.esmchina.com/news/14532.html",
+      "published_at": null,
+      "summary": "近日，一则关于“特斯拉上海FSD数据中心人去楼空、对接团队全面撤离”的消息在网络上迅速发酵。特斯拉中国于8月26日作出回应，强调该消息不实，并已向公安机关报案。",
+      "author": null
+    },
+    {
+      "title": "1-7月中国集成电路行业利润增18.5倍，算力芯片、存储芯片领跑",
+      "url": "https://www.esmchina.com/news/14531.html",
+      "published_at": null,
+      "summary": "以算力芯片、存储芯片为代表的集成电路行业利润同比增长18.5倍，对全部电子行业利润增长贡献率超过八成。",
+      "author": null
+    },
+    {
+      "title": "工信部：集成电路列为“十五五”新兴支柱产业之首",
+      "url": "https://www.esmchina.com/news/14530.html",
+      "published_at": null,
+      "summary": "在谈及“十五五”时期产业布局时，集成电路被明确列为新兴支柱产业的首位。",
+      "author": null
+    },
+    {
+      "title": "英伟达单季营收6468亿元！黄仁勋放话：2028财年再涨70%",
+      "url": "https://www.esmchina.com/news/14529.html",
+      "published_at": null,
+      "summary": "在截至2026年7月26日的2027财年第二季度中，英伟达实现总营收962.2亿美元，同比大增106%，创下历史新高。",
+      "author": null
+    },
     {
       "title": "【有奖竞答】泰克科技AI数据中心电源测试解决方案",
       "url": "https://www.eet-china.com/RC/Tek202607/index.html?source=pop",
@@ -13,10 +41,10 @@
       "author": null
     },
     {
-      "title": "【开播啦...】沉浸式带你云逛展获全套功率半导体解决方案",
+      "title": "【回放上线】沉浸式带你云逛展获全套功率半导体解决方案",
       "url": "https://www.eet-china.com/ee-live/entry/PI_20260826.html?source=pop",
       "published_at": null,
-      "summary": "现场抽奖赢倍思四合一多功能Typce-C HUB扩展坞（共25个)。",
+      "summary": "带领线上观众沉浸式探访 PI 展台，拆解面向新能源、电网、轨道交通、车载电子、AI 数据中心、工业家电多赛道的全套功率半导体解决方案。",
       "author": null
     },
     {
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14487.html",
       "published_at": null,
       "summary": "若欧洲想要实现成为全球半导体领军者的目标，仅靠制造环节是远远不够的。",
-      "author": null
-    },
-    {
-      "title": "标准化接口如何释放人形机器人的商业潜力？",
-      "url": "https://www.esmchina.com/news/14509.html",
-      "published_at": null,
-      "summary": "尽管AI技术的快速发展备受关注，但人形机器人能否实现商业成功，关键在于将高度优化的机电一体化人形机器人系统架构与AI处理单元有效结合起来。",
-      "author": null
-    },
-    {
-      "title": "入职奖8800元，富士康紧急扩招备战苹果新机",
-      "url": "https://www.esmchina.com/news/14510.html",
-      "published_at": null,
-      "summary": "富士康此次大规模扩招，直接对应苹果2026年秋季发布会的备货需求。",
-      "author": null
-    },
-    {
-      "title": "百余人撬柜抢印！成都海威华芯发布紧急公告",
-      "url": "https://www.esmchina.com/news/14508.html",
-      "published_at": null,
-      "summary": "19日，成都海威华芯科技有限公司发布印章被抢公告，并附上成都市公安局双流区分局立案告知书，以及多张印章被抢现场照片。",
-      "author": null
-    },
-    {
-      "title": "台积电产能告急，三星趁势涨价：先进制程最高涨15%",
-      "url": "https://www.esmchina.com/news/14507.html",
-      "published_at": null,
-      "summary": "此次涨价的直接驱动力来自AI芯片需求的持续爆发。",
       "author": null
     }
   ],

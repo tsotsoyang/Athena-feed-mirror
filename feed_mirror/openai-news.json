@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-26T22:24:03.675837+00:00",
-  "next_refresh_at": "2026-08-26T22:54:03.675837+00:00",
+  "fetched_at": "2026-08-27T03:27:31.773156+00:00",
+  "next_refresh_at": "2026-08-27T03:57:31.773156+00:00",
   "entries": [
     {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
@@ -69,10 +69,17 @@
       "author": null
     },
     {
-      "title": "Introducing AI Futures",
+      "title": "Introducing Intelligence Age",
       "url": "https://openai.com/index/introducing-ai-futures",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "author": null
+    },
+    {
+      "title": "Introducing Intelligence Age",
+      "url": "https://openai.com/index/introducing-intelligence-age",
+      "published_at": "2026-08-20T07:00:00+00:00",
+      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "published_at": "2026-08-13T11:00:00+00:00",
       "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "author": null
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "published_at": "2026-08-13T10:00:00+00:00",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
       "author": null
     }
   ],

@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-26T22:24:20.639956+00:00",
-  "next_refresh_at": "2026-08-26T22:54:20.639956+00:00",
+  "fetched_at": "2026-08-27T03:27:46.919234+00:00",
+  "next_refresh_at": "2026-08-27T03:57:46.919234+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-more-plans",
       "published_at": null,
       "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "author": null
+    },
+    {
+      "title": "Grok 4.6 on Microsoft Foundry | SpaceXAI",
+      "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
+      "published_at": null,
+      "summary": "Grok 4.6 is now available via Microsoft Foundry.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/introducing-goal",
       "published_at": null,
       "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
-      "author": null
-    },
-    {
-      "title": "Grok on Databricks | SpaceXAI",
-      "url": "https://x.ai/news/grok-databricks",
-      "published_at": null,
-      "summary": "Grok models are now available on Databricks Agent Bricks.",
       "author": null
     }
   ],
