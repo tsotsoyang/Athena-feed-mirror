@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-27T03:27:38.824386+00:00",
-  "next_refresh_at": "2026-08-27T03:57:38.824386+00:00",
+  "fetched_at": "2026-08-27T14:32:01.386787+00:00",
+  "next_refresh_at": "2026-08-27T15:02:01.386787+00:00",
   "entries": [
+    {
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "published_at": "2026-08-27T12:59:16+00:00",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "author": null
+    },
     {
       "title": "Intelligent transcription with Gemini 3.5 Transcribe",
       "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
       "published_at": "2026-06-08T13:04:59+00:00",
       "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
-      "author": null
-    },
-    {
-      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "published_at": "2026-05-21T19:46:42+00:00",
-      "summary": "",
       "author": null
     }
   ],

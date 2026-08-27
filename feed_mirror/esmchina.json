@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-27T03:27:33.059369+00:00",
-  "next_refresh_at": "2026-08-27T03:57:33.059369+00:00",
+  "fetched_at": "2026-08-27T14:31:55.279380+00:00",
+  "next_refresh_at": "2026-08-27T15:01:55.279380+00:00",
   "entries": [
+    {
+      "title": "全球芯片TOP20最新排名：谁是大赢家？",
+      "url": "https://www.esmchina.com/news/14533.html",
+      "published_at": null,
+      "summary": "2026年Q2全球半导体规模达3680亿美元，同比暴增104%创历史纪录。最新全球芯片20强榜单揭示，半导体正迎来前所未有的超级周期。",
+      "author": null
+    },
     {
       "title": "特斯拉上海数据中心“人去楼空”？官方：已报警！",
       "url": "https://www.esmchina.com/news/14532.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14511.html",
       "published_at": null,
       "summary": "A16是台积电首个采用“超级电源轨”背面供电网络技术的埃米级CMOS平台。",
-      "author": null
-    },
-    {
-      "title": "下一个十年，欧洲半导体产业的价值重心从制造转向设计",
-      "url": "https://www.esmchina.com/news/14487.html",
-      "published_at": null,
-      "summary": "若欧洲想要实现成为全球半导体领军者的目标，仅靠制造环节是远远不够的。",
       "author": null
     }
   ],

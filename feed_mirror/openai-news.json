@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-27T03:27:31.773156+00:00",
-  "next_refresh_at": "2026-08-27T03:57:31.773156+00:00",
+  "fetched_at": "2026-08-27T14:31:49.548496+00:00",
+  "next_refresh_at": "2026-08-27T15:01:49.548496+00:00",
   "entries": [
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "published_at": "2026-08-27T03:00:00+00:00",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "author": null
+    },
     {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
       "published_at": "2026-08-17T03:15:00+00:00",
       "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "author": null
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "published_at": "2026-08-13T11:00:00+00:00",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "author": null
     }
   ],
