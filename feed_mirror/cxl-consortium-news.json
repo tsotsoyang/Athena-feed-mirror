@@ -2,9 +2,37 @@
   "source": "cxl-consortium-news",
   "name": "CXL Consortium press room",
   "feed_url": "https://computeexpresslink.org/news/feed/",
-  "fetched_at": "2026-08-27T14:31:38.158721+00:00",
-  "next_refresh_at": "2026-08-27T15:01:38.158721+00:00",
+  "fetched_at": "2026-08-28T00:15:44.243636+00:00",
+  "next_refresh_at": "2026-08-28T00:45:44.243636+00:00",
   "entries": [
+    {
+      "title": "Synopsys Rolls Out First Complete CXL 4.0 IP for AI Memory Connectivity",
+      "url": "https://computeexpresslink.org/news/synopsys-rolls-out-first-complete-cxl-4-0-ip-for-ai-memory-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-rolls-out-first-complete-cxl-4-0-ip-for-ai-memory-connectivity",
+      "published_at": "2026-08-27T17:21:35+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "What Hyperscalers Should Know About CXL",
+      "url": "https://computeexpresslink.org/news/what-hyperscalers-should-know-about-cxl/?utm_source=rss&utm_medium=rss&utm_campaign=what-hyperscalers-should-know-about-cxl",
+      "published_at": "2026-08-27T17:19:16+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "Even Meta Is Using DDR4 to Get Around DDR5 Memory Shortages",
+      "url": "https://computeexpresslink.org/news/even-meta-is-using-ddr4-to-get-around-ddr5-memory-shortages/?utm_source=rss&utm_medium=rss&utm_campaign=even-meta-is-using-ddr4-to-get-around-ddr5-memory-shortages",
+      "published_at": "2026-08-27T17:16:13+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
+    {
+      "title": "CXL Growth Shown At The 2026 FMS Conference",
+      "url": "https://computeexpresslink.org/news/cxl-growth-shown-at-the-2026-fms-conference/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-growth-shown-at-the-2026-fms-conference",
+      "published_at": "2026-08-27T17:15:09+00:00",
+      "summary": "",
+      "author": "Nereus"
+    },
     {
       "title": "‘Near zero-cost memory expansion through recycling’: Meta will reuse terabytes worth of DDR4 memory using CXL tech and avoid paying the RAM tax",
       "url": "https://computeexpresslink.org/news/near-zero-cost-memory-expansion-through-recycling-meta-will-reuse-terabytes-worth-of-ddr4-memory-using-cxl-tech-and-avoid-paying-the-ram-tax/?utm_source=rss&utm_medium=rss&utm_campaign=near-zero-cost-memory-expansion-through-recycling-meta-will-reuse-terabytes-worth-of-ddr4-memory-using-cxl-tech-and-avoid-paying-the-ram-tax",
@@ -44,34 +72,6 @@
       "title": "CXL Consortium Members – Statements of Support for CXL 4.0 Specification",
       "url": "https://computeexpresslink.org/news/cxl-consortium-members-statements-of-support-for-cxl-4-0-specification/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-consortium-members-statements-of-support-for-cxl-4-0-specification",
       "published_at": "2025-11-18T13:00:43+00:00",
-      "summary": "",
-      "author": "Nereus"
-    },
-    {
-      "title": "CXL Consortium Releases the Compute Express Link 4.0 Specification Increasing Speed and Bandwidth",
-      "url": "https://computeexpresslink.org/news/cxl-consortium-releases-the-compute-express-link-4-0-specification-increasing-speed-and-bandwidth/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-consortium-releases-the-compute-express-link-4-0-specification-increasing-speed-and-bandwidth",
-      "published_at": "2025-11-18T13:00:21+00:00",
-      "summary": "",
-      "author": "Nereus"
-    },
-    {
-      "title": "Compute Can’t Handle the Truth: Why Communication Tax Prioritizes Memory and Interconnects in Modern AI Infrastructure",
-      "url": "https://computeexpresslink.org/news/compute-cant-handle-the-truth-why-communication-tax-prioritizes-memory-and-interconnects-in-modern-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=compute-cant-handle-the-truth-why-communication-tax-prioritizes-memory-and-interconnects-in-modern-ai-infrastructure",
-      "published_at": "2025-07-15T16:11:25+00:00",
-      "summary": "",
-      "author": "Nereus"
-    },
-    {
-      "title": "Panmnesia Introduces Today’s and Tomorrow’s AI Infrastructure, Including a Supercluster Architecture That Integrates NVLink, UALink, and HBM via CXL",
-      "url": "https://computeexpresslink.org/news/panmnesia-introduces-todays-and-tomorrows-ai-infrastructure-including-a-supercluster-architecture-that-integrates-nvlink-ualink-and-hbm-via-cxl/?utm_source=rss&utm_medium=rss&utm_campaign=panmnesia-introduces-todays-and-tomorrows-ai-infrastructure-including-a-supercluster-architecture-that-integrates-nvlink-ualink-and-hbm-via-cxl",
-      "published_at": "2025-07-15T16:03:59+00:00",
-      "summary": "",
-      "author": "Nereus"
-    },
-    {
-      "title": "Optimizing Data Center TCO With CXL And Compression",
-      "url": "https://computeexpresslink.org/news/optimizing-data-center-tco-with-cxl-and-compression/?utm_source=rss&utm_medium=rss&utm_campaign=optimizing-data-center-tco-with-cxl-and-compression",
-      "published_at": "2025-02-28T20:55:58+00:00",
       "summary": "",
       "author": "Nereus"
     }

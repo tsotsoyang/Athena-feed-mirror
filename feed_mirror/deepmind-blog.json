@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-27T14:32:01.386787+00:00",
-  "next_refresh_at": "2026-08-27T15:02:01.386787+00:00",
+  "fetched_at": "2026-08-28T00:16:06.810070+00:00",
+  "next_refresh_at": "2026-08-28T00:46:06.810070+00:00",
   "entries": [
+    {
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "published_at": "2026-08-27T16:11:32+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "Piloting the world's first double-blind AI evaluations",
       "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
       "published_at": "2026-06-09T14:02:33+00:00",
       "summary": "",
-      "author": null
-    },
-    {
-      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "published_at": "2026-06-08T13:04:59+00:00",
-      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
       "author": null
     }
   ],
