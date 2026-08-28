@@ -1,22 +1,220 @@
 {
   "source": "arxiv-sanity-lite",
   "name": "ArXiv-sanity Lite (top recent)",
-  "feed_url": "https://arxiv-sanity-lite.com/rss",
-  "fetched_at": "2026-08-28T00:20:52.334555+00:00",
-  "next_refresh_at": "2026-08-28T00:50:52.334555+00:00",
-  "entries": [],
-  "errors": [
+  "feed_url": "https://arxiv-sanity-lite.com/rss.xml",
+  "fetched_at": "2026-08-28T11:39:00.542099+00:00",
+  "next_refresh_at": "2026-08-28T12:09:00.542099+00:00",
+  "entries": [
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "Product Designer:in - Tegtmeier Internet Solutions GmbH at SinnKontor (Hamburg)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/sinnkontor/product-designer-in-tegtmeier-internet-solutions-gmbh-1783226941635",
+      "published_at": "2026-08-28T07:32:26+00:00",
+      "summary": "Im Auftrag unseres Mandanten Tegtmeier Internet Solutions GmbH suchen wir – Sinnkontor GmbH – eine:n Product Designer:in. Warum wir? Tegtmeier Internet Solutions: Qualität &#x26; Leidenschaft. Seit über 20 Jahren liefern...",
+      "author": null
     },
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "Senior Google Performance & Analytics Manager (m/w/d) at eFLY Marketplace Services GmbH (Stuttgart)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/efly-marketplace-services-gmbh/senior-google-performance-analytics-manager-m-w-d-1780925258867",
+      "published_at": "2026-08-28T07:00:44+00:00",
+      "summary": "In dieser neu geschaffenen Schlüsselposition bist du nicht einfach nur für ein paar Google-Ads-Kampagnen zuständig. Du bist der Architekt unseres Google-Cores. Du verbindest das gesamte Google-Universum, von High-End Per...",
+      "author": null
     },
     {
-      "stage": "fetch",
-      "message": "all candidate URLs returned 0 entries"
+      "title": "Pflichtpraktikum Online Marketing Manager (m/w/d) at eFLY Marketplace Services GmbH (Stuttgart)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/efly-marketplace-services-gmbh/pflichtpraktikum-online-marketing-manager-m-w-d-1780345546440",
+      "published_at": "2026-08-28T07:00:44+00:00",
+      "summary": "In der Rolle des Online Marketing Managers (m/w/d) kalkulierst und steuerst du die Werbebudgets unserer Kunden. Ziel ist es die bestmögliche Sichtbarkeit mit einem vorgegebenen Budget zu erreichen. Um die Fortschritte de...",
+      "author": null
+    },
+    {
+      "title": "Pflichtpraktikum im Bereich Grafikdesign (m/w/d) at eFLY Marketplace Services GmbH (Stuttgart)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/efly-marketplace-services-gmbh/pflichtpraktikum-im-bereich-grafikdesign-m-w-d-1782554606446",
+      "published_at": "2026-08-28T07:00:41+00:00",
+      "summary": "Wir suchen dich für ein spannendes Praktikum im Grafikdesign, um unser Team bei der Entwicklung kreativer und ansprechender Designs für unsere Kunden zu unterstützen. Du wirst visuelle Konzepte für verschiedene Kanäle ge...",
+      "author": null
+    },
+    {
+      "title": "Online Marketing Manager (m/w/d) at eFLY Marketplace Services GmbH (Stuttgart)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/efly-marketplace-services-gmbh/online-marketing-manager-m-w-d-1783037071344",
+      "published_at": "2026-08-28T07:00:40+00:00",
+      "summary": "In der Rolle des Online Marketing Managers (m/w/d) kalkulierst und steuerst du die Werbebudgets unserer Kunden. Ziel ist es die bestmögliche Sichtbarkeit mit einem vorgegebenen Budget zu erreichen. Um die Fortschritte de...",
+      "author": null
+    },
+    {
+      "title": "Junior Google Performance & Analytics Manager (m/w/d) at eFLY Marketplace Services GmbH (Stuttgart)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/efly-marketplace-services-gmbh/junior-google-performance-analytics-manager-m-w-d-1782934352449",
+      "published_at": "2026-08-28T07:00:37+00:00",
+      "summary": "In dieser Position bist du für die operative Umsetzung unseres Google-Marketings zuständig. Während die Strategie und das technische Setup vorgegeben werden, verantwortest du das fehlerfreie Einbuchen, die tägliche Pfleg...",
+      "author": null
+    },
+    {
+      "title": "Senior Software Engineer, D2C at sonymusicentertainment (London)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/sonymusicentertainment/senior-software-engineer-d2c-1780758179078",
+      "published_at": "2026-08-28T06:55:16+00:00",
+      "summary": "At Sony Music Entertainment, we fuel the creative journey. We’ve played a pioneering role in music history, from the first-ever music label to the invention of the flat disc record. We’ve nurtured some of music’s most ic...",
+      "author": null
+    },
+    {
+      "title": "Account Executive, Mid-Market at Hootsuite (London)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/hootsuite/account-executive-mid-market-1780992908935",
+      "published_at": "2026-08-28T06:55:10+00:00",
+      "summary": "We’re looking for an Account Executive, Mid-Market to help us develop and close new business with mid-market Hootsuite customers within our landmark industries. You will work in a fast paced sales environment selling Hoo...",
+      "author": null
+    },
+    {
+      "title": "Software Engineer, Platform - Stuttgart, Germany at Speechify (Stuttgart, Baden-Württemberg, Germany)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/speechify/software-engineer-platform-stuttgart-germany-1783168113396",
+      "published_at": "2026-08-28T06:45:28+00:00",
+      "summary": "The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news artic...",
+      "author": null
+    },
+    {
+      "title": "Senior Technical Product Manager at SumUp (Berlin, Berlin, Germany)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/sumup/senior-technical-product-manager-1780273939565",
+      "published_at": "2026-08-28T06:45:24+00:00",
+      "summary": "The Verification squad sits at the heart of SumUp's ability to operate across 37 markets. We own the systems that determine whether a merchant's identity is verified, whether that verification meets the regulatory bar in...",
+      "author": null
+    },
+    {
+      "title": "Paid Social Specialist - UK&I at Leovegasgroup (Newcastle Upon Tyne, UK)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/leovegasgroup/paid-social-specialist-uk-i-1784186369692",
+      "published_at": "2026-08-28T06:40:22+00:00",
+      "summary": "ABOUT THE ROLE:We are seeking a Paid Social Specialist to join our UK&amp;I Media team. In this role, you will be responsible for planning and executing Paid Social marketing campaigns across multiple brands. You will pl...",
+      "author": null
+    },
+    {
+      "title": "Paid Social Specialist - UK&I at Leovegasgroup (Leeds, UK)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/leovegasgroup/paid-social-specialist-uk-i-1780272505118",
+      "published_at": "2026-08-28T06:40:22+00:00",
+      "summary": "ABOUT THE ROLE:We are seeking a Paid Social Specialist to join our UK&amp;I Media team. In this role, you will be responsible for planning and executing Paid Social marketing campaigns across multiple brands. You will pl...",
+      "author": null
+    },
+    {
+      "title": "Marketing Coordinator at Pmmalliance (Hybrid or Fully Remote)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/pmmalliance/marketing-coordinator-1784212022699",
+      "published_at": "2026-08-28T06:40:21+00:00",
+      "summary": "When it comes to digital communities, The Alliance is leading the way. Product marketing, sales enablement, product-led growth, AI, customer success, CMOs, you name it, we’re home to thriving communities for them all.We ...",
+      "author": null
+    },
+    {
+      "title": "Talent Partner at Goodlord (London)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/goodlord/talent-partner-1780723369277",
+      "published_at": "2026-08-28T06:40:18+00:00",
+      "summary": "📍 Base office: We’re open to this role being based in London or Lincoln, with regular travel between our offices to stay connected and collaborate in person. Whichever office you are based, you’ll usually work 2 days a w...",
+      "author": null
+    },
+    {
+      "title": "Senior Sales Development Representative (German-speaking, UK) at Coder (London)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/coder/senior-sales-development-representative-german-speaking-uk-1784252127313",
+      "published_at": "2026-08-28T06:40:17+00:00",
+      "summary": "Coder is looking for a Senior Sales Development Representative (SDR) to fuel our growth by generating qualified pipeline for our Enterprise Account Managers. You’ll help bring Coder’s Environment-as-a-Service platform to...",
+      "author": null
+    },
+    {
+      "title": "Senior Software Engineer I (Agentic Engineering, Europe) at Coder (United Kingdom)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/coder/senior-software-engineer-i-agentic-engineering-europe-1782680967340",
+      "published_at": "2026-08-28T06:40:17+00:00",
+      "summary": "As a Senior Software Engineer on Coder’s Agentic Engineering team, you’ll build and evolve the systems behind our agentic development experience. You’ll work across the agent harness, integrations, and workflows that con...",
+      "author": null
+    },
+    {
+      "title": "GM, Sales (EMEA) at Deepgram (London, UK)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/deepgram/gm-sales-emea-1781006775936",
+      "published_at": "2026-08-28T06:40:17+00:00",
+      "summary": "Company OverviewDeepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice ag...",
+      "author": null
+    },
+    {
+      "title": "Finance Manager at Quantexa (London)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/quantexa/finance-manager-1781079446289",
+      "published_at": "2026-08-28T06:40:15+00:00",
+      "summary": "What We’re All About.Quantexa is a global leader in AI-powered Decision Intelligence. As one of the UK's fastest-growing tech companies, we're on a mission to help organizations make better, more trusted decisions. As we...",
+      "author": null
+    },
+    {
+      "title": "Product and Research Operations Manager, Voices at Cartesia (London)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/cartesia/product-and-research-operations-manager-voices-1782472197193",
+      "published_at": "2026-08-28T06:40:11+00:00",
+      "summary": "About CartesiaOur mission is to architect AI that learns from and interacts with the world like humans do.We're pioneering the model architectures that will make this possible. Our founding team met as PhDs at the Stanfo...",
+      "author": null
+    },
+    {
+      "title": "Influencer Marketing Manager (m/w/d) at eFLY Marketplace Services GmbH (Stuttgart)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/efly-marketplace-services-gmbh/influencer-marketing-manager-m-w-d-1780696077429",
+      "published_at": "2026-08-28T06:30:38+00:00",
+      "summary": "Als Amazon-Agentur wissen wir, wie Marktplätze funktionieren. Jetzt gehen wir den nächsten Schritt. In dieser neuen Schlüsselposition bist du nicht für ein paar Ads zuständig. Du bist der Architekt unseres TikTok-Cores. ...",
+      "author": null
+    },
+    {
+      "title": "Dev/Ops Platform Engineer (m/w/d) at Klaus Scholz Personalvermittlung (Dormagen)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/klaus-scholz-personalvermittlung/dev-ops-platform-engineer-m-w-d-1780954022899",
+      "published_at": "2026-08-28T06:30:35+00:00",
+      "summary": "Aufgaben Ihre Aufgaben Cloud Plattform gestalten: Sie bauen eine moderne Azure Cloud und Container Umgebung für geschäftskritische, selbst entwickelte Anwendungen auf und entwickeln diese kontinuierlich weiter Migration ...",
+      "author": null
+    },
+    {
+      "title": "Cloud Engineer (m/w/d) Azure at Klaus Scholz Personalvermittlung (Dormagen)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/klaus-scholz-personalvermittlung/cloud-engineer-m-w-d-azure-1782027676089",
+      "published_at": "2026-08-28T06:30:34+00:00",
+      "summary": "Aufgaben Ihre Aufgaben Azure Plattform gestalten: Sie entwickeln die bestehende Microsoft Azure Infrastruktur weiter und sorgen dafür, dass Cloud Services zuverlässig, sicher und skalierbar zur Verfügung stehen Cloud Inf...",
+      "author": null
+    },
+    {
+      "title": "AI Augmented Software Engineer [gn] Data Intelligence Platform at Jobgether (UK)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/jobgether/ai-augmented-software-engineer-gn-data-intelligence-platform-1780741849446",
+      "published_at": "2026-08-28T06:25:52+00:00",
+      "summary": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI Augmented Software Engineer [gn] Data Intelligence Platform based in United Kingdom. T...",
+      "author": null
+    },
+    {
+      "title": "Steuerberater (m/w/d) in Bühlerzell, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de (Bühlerzell)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/taxtalente-de/steuerberater-m-w-d-in-b-hlerzell-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90-000-1783356558488",
+      "published_at": "2026-08-28T06:02:42+00:00",
+      "summary": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise ...",
+      "author": null
+    },
+    {
+      "title": "Steuerberater (m/w/d) in Obernau, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de (Obernau)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/taxtalente-de/steuerberater-m-w-d-in-obernau-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90-000-1783610038760",
+      "published_at": "2026-08-28T06:02:41+00:00",
+      "summary": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise ...",
+      "author": null
+    },
+    {
+      "title": "Steuerberater (m/w/d) in Titisee-Neustadt, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de (Titisee-Neustadt)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/taxtalente-de/steuerberater-m-w-d-in-titisee-neustadt-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90-000-1783526883952",
+      "published_at": "2026-08-28T06:02:41+00:00",
+      "summary": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise ...",
+      "author": null
+    },
+    {
+      "title": "Steuerberater (m/w/d) in Zaisenhausen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de (Zaisenhausen)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/taxtalente-de/steuerberater-m-w-d-in-zaisenhausen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90-000-1782140349037",
+      "published_at": "2026-08-28T06:02:41+00:00",
+      "summary": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise ...",
+      "author": null
+    },
+    {
+      "title": "Steuerberater (m/w/d) in Oftersheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de (Oftersheim)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/taxtalente-de/steuerberater-m-w-d-in-oftersheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90-000-1781621696330",
+      "published_at": "2026-08-28T06:02:41+00:00",
+      "summary": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise ...",
+      "author": null
+    },
+    {
+      "title": "Steuerberater (m/w/d) in Amtzell, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de (Amtzell)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/taxtalente-de/steuerberater-m-w-d-in-amtzell-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90-000-1780388739652",
+      "published_at": "2026-08-28T06:02:41+00:00",
+      "summary": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise ...",
+      "author": null
+    },
+    {
+      "title": "Steuerberater (m/w/d) in Moosinning, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de (Moosinning)",
+      "url": "https://arxiv-sanity-lite.com/jobs/companies/taxtalente-de/steuerberater-m-w-d-in-moosinning-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90-000-1780365216068",
+      "published_at": "2026-08-28T06:02:40+00:00",
+      "summary": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise ...",
+      "author": null
     }
-  ]
+  ],
+  "errors": []
 }

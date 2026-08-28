@@ -2,9 +2,51 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-28T00:16:01.318339+00:00",
-  "next_refresh_at": "2026-08-28T00:46:01.318339+00:00",
+  "fetched_at": "2026-08-28T11:39:17.126639+00:00",
+  "next_refresh_at": "2026-08-28T12:09:17.126639+00:00",
   "entries": [
+    {
+      "title": "铠侠与闪迪联合投资310亿美元扩建日本工厂，新建K3厂房瞄准AI需求",
+      "url": "https://www.esmchina.com/news/14541.html",
+      "published_at": null,
+      "summary": "过去25年来，两家公司已在日本投资约9万亿日元（约合500亿美元）。",
+      "author": null
+    },
+    {
+      "title": "美国酝酿半导体新关税，笔记本、游戏机恐大幅涨价",
+      "url": "https://www.esmchina.com/news/14539.html",
+      "published_at": null,
+      "summary": "特朗普政府正酝酿新一轮大范围半导体关税政策，征税范围或将大幅扩大至笔记本电脑、游戏主机及数据中心服务器等终端科技产品。",
+      "author": null
+    },
+    {
+      "title": "SK海力士美国先进封装厂动工，2029年下半年量产“美国制造”HBM4E",
+      "url": "https://www.esmchina.com/news/14538.html",
+      "published_at": null,
+      "summary": "这是SK海力士在美国设立的首个HBM生产据点。",
+      "author": null
+    },
+    {
+      "title": "从“彩电一哥”到主动退市，康佳34年A股路走到尽头",
+      "url": "https://www.esmchina.com/news/14537.html",
+      "published_at": null,
+      "summary": "面对2026年末净资产转正的生死考验，康佳选择主动终止上市，为34年的A股上市之路画上句号。",
+      "author": null
+    },
+    {
+      "title": "特朗普签紧急令，美电网开启“排外模式”",
+      "url": "https://www.esmchina.com/news/14536.html",
+      "published_at": null,
+      "summary": "日前，美国总统特朗普在白宫签署了一项编号为第14420号的行政令，宣布美国进入“国家紧急状态”，并以国家安全为由，禁止在美国电网中采购、进口或安装部分外国制造的大型电力系统设备及相关软件。",
+      "author": null
+    },
+    {
+      "title": "40亿美元！SK海力士在美首座HBM工厂破土，7000个岗位来了",
+      "url": "https://www.esmchina.com/news/14534.html",
+      "published_at": null,
+      "summary": "当地时间8月27日，SK海力士在美国印第安纳州举行了盛大的奠基仪式，正式启动其在美国的首个HBM先进封装生产基地建设。",
+      "author": null
+    },
     {
       "title": "全球芯片TOP20最新排名：谁是大赢家？",
       "url": "https://www.esmchina.com/news/14533.html",
@@ -136,48 +178,6 @@
       "url": "https://www.esmchina.com/news/14516.html",
       "published_at": null,
       "summary": "资源转向AI与新设备。",
-      "author": null
-    },
-    {
-      "title": "中国MLCC厂商借AI浪潮加速崛起",
-      "url": "https://www.esmchina.com/news/14513.html",
-      "published_at": null,
-      "summary": "一款体积更小、存在感更低的元器件，正悄然成为电子供应链中最紧张的环节之一：这就是多层陶瓷电容器，即多层陶瓷电容器。",
-      "author": null
-    },
-    {
-      "title": "英伟达拟对AI服务器涨超15%，毛利率75%也扛不住",
-      "url": "https://www.esmchina.com/news/14515.html",
-      "published_at": null,
-      "summary": "据彭博社近日报道，英伟达已通知微软、谷歌、甲骨文等最大客户：搭载其AI芯片的服务器价格将上涨超过15%。",
-      "author": null
-    },
-    {
-      "title": "半导体设备行业转向“按图制造”模式",
-      "url": "https://www.esmchina.com/news/14494.html",
-      "published_at": null,
-      "summary": "通过与具备资质的电子合同制造商合作，OEM可以采用按图制造合同生产模式，在实现产能快速爬坡的同时，保持资本灵活性，并避免高昂的厂房扩建。",
-      "author": null
-    },
-    {
-      "title": "SK海力士要去日本建厂？拟投数十万亿韩元押注宫城",
-      "url": "https://www.esmchina.com/news/14514.html",
-      "published_at": null,
-      "summary": "若该计划顺利落地，这将是韩国半导体企业首次在日本大规模投资设立本地生产基地。",
-      "author": null
-    },
-    {
-      "title": "存储缺货、电力告急、地方抵制：美国AI产业进入“基建决定论”时代",
-      "url": "https://www.esmchina.com/news/14512.html",
-      "published_at": null,
-      "summary": "特朗普明确表示，无论公众对数据中心的观感如何，他仍然坚定支持AI产业。",
-      "author": null
-    },
-    {
-      "title": "台积电1.6nm工艺Q4量产，英伟达“费曼”GPU锁定首发产能",
-      "url": "https://www.esmchina.com/news/14511.html",
-      "published_at": null,
-      "summary": "A16是台积电首个采用“超级电源轨”背面供电网络技术的埃米级CMOS平台。",
       "author": null
     }
   ],

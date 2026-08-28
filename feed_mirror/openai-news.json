@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-28T00:15:56.224565+00:00",
-  "next_refresh_at": "2026-08-28T00:45:56.224565+00:00",
+  "fetched_at": "2026-08-28T11:39:03.031640+00:00",
+  "next_refresh_at": "2026-08-28T12:09:03.031640+00:00",
   "entries": [
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "published_at": "2026-08-28T02:00:00+00:00",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "author": null
+    },
     {
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/the-defenders-window",
       "published_at": "2026-08-17T05:30:00+00:00",
       "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "author": null
-    },
-    {
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "published_at": "2026-08-17T05:00:00+00:00",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
       "author": null
     }
   ],
