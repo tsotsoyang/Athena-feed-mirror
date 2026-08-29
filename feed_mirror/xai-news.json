@@ -2,14 +2,14 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-29T21:53:12.902489+00:00",
-  "next_refresh_at": "2026-08-29T22:23:12.902489+00:00",
+  "fetched_at": "2026-08-29T23:55:16.847199+00:00",
+  "next_refresh_at": "2026-08-30T00:25:16.847199+00:00",
   "entries": [
     {
-      "title": "Grok Bot is now included with more plans | SpaceXAI",
-      "url": "https://x.ai/news/grok-bot-more-plans",
+      "title": "Grok Bot now works with X | SpaceXAI",
+      "url": "https://x.ai/news/grok-bot-and-x",
       "published_at": null,
-      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "summary": "Grok Bot now has a tighter integration with X.",
       "author": null
     },
     {
@@ -20,17 +20,17 @@
       "author": null
     },
     {
+      "title": "Grok Bot is now included with more plans | SpaceXAI",
+      "url": "https://x.ai/news/grok-bot-more-plans",
+      "published_at": null,
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "author": null
+    },
+    {
       "title": "Grok 4.6 on Gemini Enterprise Agent Platform | SpaceXAI",
       "url": "https://x.ai/news/grok-4-6-vertex-ai",
       "published_at": null,
       "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
-      "author": null
-    },
-    {
-      "title": "Grok Bot now works with X | SpaceXAI",
-      "url": "https://x.ai/news/grok-bot-and-x",
-      "published_at": null,
-      "summary": "Grok Bot now has a tighter integration with X.",
       "author": null
     },
     {
