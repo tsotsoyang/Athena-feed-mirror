@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-29T19:14:49.680569+00:00",
-  "next_refresh_at": "2026-08-29T19:44:49.680569+00:00",
+  "fetched_at": "2026-08-29T21:53:12.902489+00:00",
+  "next_refresh_at": "2026-08-29T22:23:12.902489+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
@@ -24,6 +24,13 @@
       "url": "https://x.ai/news/grok-4-6-vertex-ai",
       "published_at": null,
       "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "author": null
+    },
+    {
+      "title": "Grok Bot now works with X | SpaceXAI",
+      "url": "https://x.ai/news/grok-bot-and-x",
+      "published_at": null,
+      "summary": "Grok Bot now has a tighter integration with X.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-interactive-brokers",
       "published_at": null,
       "summary": "Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.",
-      "author": null
-    },
-    {
-      "title": "Introducing /goal | SpaceXAI",
-      "url": "https://x.ai/news/introducing-goal",
-      "published_at": null,
-      "summary": "Use /goal for long-running autonomous task execution in Grok Build.",
       "author": null
     }
   ],
