@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-08-29T10:51:41.130060+00:00",
-  "next_refresh_at": "2026-08-29T11:21:41.130060+00:00",
+  "fetched_at": "2026-08-29T15:30:49.415668+00:00",
+  "next_refresh_at": "2026-08-29T16:00:49.415668+00:00",
   "entries": [
     {
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
