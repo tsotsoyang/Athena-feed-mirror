@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-28T21:45:57.070008+00:00",
-  "next_refresh_at": "2026-08-28T22:15:57.070008+00:00",
+  "fetched_at": "2026-08-29T03:32:09.504513+00:00",
+  "next_refresh_at": "2026-08-29T04:02:09.504513+00:00",
   "entries": [
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "published_at": "2026-08-28T06:00:00+00:00",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "author": null
+    },
     {
       "title": "Supporting Thailand’s next generation of AI startups",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -91,14 +98,14 @@
     },
     {
       "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-ai-futures",
+      "url": "https://openai.com/index/introducing-intelligence-age",
       "published_at": "2026-08-20T07:00:00+00:00",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "author": null
     },
     {
       "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-intelligence-age",
+      "url": "https://openai.com/index/introducing-ai-futures",
       "published_at": "2026-08-20T07:00:00+00:00",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "author": null
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/asana",
       "published_at": "2026-08-18T07:00:00+00:00",
       "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-      "author": null
-    },
-    {
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "published_at": "2026-08-17T05:30:00+00:00",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
       "author": null
     }
   ],
