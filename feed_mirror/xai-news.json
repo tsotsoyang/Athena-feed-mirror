@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-30T21:24:44.027709+00:00",
-  "next_refresh_at": "2026-08-30T21:54:44.027709+00:00",
+  "fetched_at": "2026-08-30T23:42:50.928245+00:00",
+  "next_refresh_at": "2026-08-31T00:12:50.928245+00:00",
   "entries": [
     {
       "title": "Grok Bot now works with X | SpaceXAI",
