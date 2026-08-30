@@ -2,8 +2,8 @@
   "source": "minimax-news",
   "name": "MiniMax News",
   "feed_url": "https://www.minimax.io/news",
-  "fetched_at": "2026-08-30T14:42:46.674202+00:00",
-  "next_refresh_at": "2026-08-30T15:12:46.674202+00:00",
+  "fetched_at": "2026-08-30T18:27:04.980293+00:00",
+  "next_refresh_at": "2026-08-30T18:57:04.980293+00:00",
   "entries": [
     {
       "title": "MiniMax Speech 2.8: Breathing life into AI voice - MiniMax News | MiniMax",
