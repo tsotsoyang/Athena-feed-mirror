@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-30T18:26:55.194672+00:00",
-  "next_refresh_at": "2026-08-30T18:56:55.194672+00:00",
+  "fetched_at": "2026-08-30T21:24:28.772920+00:00",
+  "next_refresh_at": "2026-08-30T21:54:28.772920+00:00",
   "entries": [
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
