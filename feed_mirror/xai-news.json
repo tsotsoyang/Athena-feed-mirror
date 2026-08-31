@@ -2,9 +2,16 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-08-31T18:04:46.154419+00:00",
-  "next_refresh_at": "2026-08-31T18:34:46.154419+00:00",
+  "fetched_at": "2026-08-31T22:58:30.549440+00:00",
+  "next_refresh_at": "2026-08-31T23:28:30.549440+00:00",
   "entries": [
+    {
+      "title": "Grok Bot is now included with more plans | SpaceXAI",
+      "url": "https://x.ai/news/grok-bot-more-plans",
+      "published_at": null,
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "author": null
+    },
     {
       "title": "Grok Bot now works with X | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-and-x",
@@ -17,13 +24,6 @@
       "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
       "published_at": null,
       "summary": "Grok 4.6 is now available via Microsoft Foundry.",
-      "author": null
-    },
-    {
-      "title": "Grok Bot is now included with more plans | SpaceXAI",
-      "url": "https://x.ai/news/grok-bot-more-plans",
-      "published_at": null,
-      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
       "author": null
     },
     {
