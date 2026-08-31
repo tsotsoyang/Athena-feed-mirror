@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-08-31T11:03:04.211936+00:00",
-  "next_refresh_at": "2026-08-31T11:33:04.211936+00:00",
+  "fetched_at": "2026-08-31T18:04:31.838532+00:00",
+  "next_refresh_at": "2026-08-31T18:34:31.838532+00:00",
   "entries": [
+    {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "published_at": "2026-08-31T04:00:00+00:00",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "author": null
+    },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
@@ -98,14 +105,14 @@
     },
     {
       "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-intelligence-age",
+      "url": "https://openai.com/index/introducing-ai-futures",
       "published_at": "2026-08-20T07:00:00+00:00",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "author": null
     },
     {
       "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-ai-futures",
+      "url": "https://openai.com/index/introducing-intelligence-age",
       "published_at": "2026-08-20T07:00:00+00:00",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "author": null
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/nvidia/chatgpt-work",
       "published_at": "2026-08-18T00:00:00+00:00",
       "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "author": null
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
       "author": null
     }
   ],
