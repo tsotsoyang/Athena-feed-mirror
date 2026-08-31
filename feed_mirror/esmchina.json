@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-30T23:42:38.373094+00:00",
-  "next_refresh_at": "2026-08-31T00:12:38.373094+00:00",
+  "fetched_at": "2026-08-31T04:04:17.880374+00:00",
+  "next_refresh_at": "2026-08-31T04:34:17.880374+00:00",
   "entries": [
+    {
+      "title": "AI数据中心“电荒”倒逼造火箭的开始造叶片：SpaceX得州铸造厂可将燃机上线提前18个月",
+      "url": "https://www.esmchina.com/news/14542.html",
+      "published_at": null,
+      "summary": "SpaceX正在美国得克萨斯州巴斯特罗普（Bastrop）筹建一座铸造厂，专门生产大型燃气轮机的叶片与导叶。",
+      "author": null
+    },
+    {
+      "title": "掘金43亿美元市场，磁传感器赛道的结构性机遇在哪里？",
+      "url": "https://www.esmchina.com/news/14468.html",
+      "published_at": null,
+      "summary": "掘金43亿美元市场，磁传感器赛道的结构性机遇在哪里？",
+      "author": null
+    },
+    {
+      "title": "MLCC景气度再升温，高端器件交期超20周",
+      "url": "https://www.esmchina.com/news/14540.html",
+      "published_at": null,
+      "summary": "据业内多渠道消息透露，MLCC景气度近期再度升温。",
+      "author": null
+    },
     {
       "title": "铠侠与闪迪联合投资310亿美元扩建日本工厂，新建K3厂房瞄准AI需求",
       "url": "https://www.esmchina.com/news/14541.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14518.html",
       "published_at": null,
       "summary": "小米正式宣布，其自研旗舰处理器“玄戒O3”成为全球首款支持LPDDR6内存的芯片。据供应链消息，此次首发合作的内存供应商为国产厂商长鑫存储，这标志着国产LPDDR6内存将首次实现大规模商用落地。",
-      "author": null
-    },
-    {
-      "title": "存储供应链正进入“长订单时代”",
-      "url": "https://www.esmchina.com/news/14455.html",
-      "published_at": null,
-      "summary": "AI算力需求的指数级扩张，正在倒逼存储行业重构资源分配规则。在此背景下，存储巨头调整了供应链策略，在2026年新签了一批长订单。",
-      "author": null
-    },
-    {
-      "title": "PCB龙头东山精密加码AI光芯片光模块：总投资上调至17亿美元",
-      "url": "https://www.esmchina.com/news/14517.html",
-      "published_at": null,
-      "summary": "从业务结构看，光模块业务已成为东山精密核心增长板块。",
-      "author": null
-    },
-    {
-      "title": "超200个岗位！苹果挥刀砍向Siri和Vision Pro团队",
-      "url": "https://www.esmchina.com/news/14516.html",
-      "published_at": null,
-      "summary": "资源转向AI与新设备。",
       "author": null
     }
   ],

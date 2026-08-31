@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-08-30T23:42:22.407539+00:00",
-  "next_refresh_at": "2026-08-31T00:12:22.407539+00:00",
+  "fetched_at": "2026-08-31T04:04:01.904858+00:00",
+  "next_refresh_at": "2026-08-31T04:34:01.904858+00:00",
   "entries": [
+    {
+      "title": "[AI Infrastructure Insight] Why faster GPUs alone can’t deliver AI performance",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2/",
+      "published_at": "2026-08-30T23:59:33+00:00",
+      "summary": "AI is no longer defined by a single model or chip. For AI to operate effectively in real-world services and industrial applications, it takes faster compute, greater memory bandwidth, higher-performance networking, more efficient storage, and stable power and cooling working",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Indiana fab breaks ground as new hub for US AI innovation",
       "url": "https://news.skhynix.com/en/indiana-groundbreaking-ceremony-sketch/",
@@ -65,13 +72,6 @@
       "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
       "url": "https://news.skhynix.com/en/dtf-2026-4/",
       "published_at": "2026-08-26T01:29:46+00:00",
-      "summary": "▲ The ‘Product &#38; System’ exhibition space, where visitors could explore SK hynix’s diverse AI memory products",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
-      "url": "https://news.skhynix.com/en/dtf-2026-3/",
-      "published_at": "2026-08-26T01:29:00+00:00",
       "summary": "▲ The ‘Product &#38; System’ exhibition space, where visitors could explore SK hynix’s diverse AI memory products",
       "author": "SK hynix"
     }
