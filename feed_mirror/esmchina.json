@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-31T04:04:17.880374+00:00",
-  "next_refresh_at": "2026-08-31T04:34:17.880374+00:00",
+  "fetched_at": "2026-08-31T11:03:08.301360+00:00",
+  "next_refresh_at": "2026-08-31T11:33:08.301360+00:00",
   "entries": [
+    {
+      "title": "长鑫存储起诉美国防部，LPDDR6量产，半年营收1503亿元",
+      "url": "https://www.esmchina.com/news/14543.html",
+      "published_at": null,
+      "summary": "自2025年1月首次被列入黑名单以来，公司声誉和商业利益持续受损，采取这一行动是为了保护商业利益。",
+      "author": null
+    },
     {
       "title": "AI数据中心“电荒”倒逼造火箭的开始造叶片：SpaceX得州铸造厂可将燃机上线提前18个月",
       "url": "https://www.esmchina.com/news/14542.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14519.html",
       "published_at": null,
       "summary": "安世中国12英寸晶圆全新产能爆发！24小时全网出货17,919,236pcs！同比增长2216%，环比增长1108%！",
-      "author": null
-    },
-    {
-      "title": "小米玄戒O3首发支持长鑫LPDDR6内存",
-      "url": "https://www.esmchina.com/news/14518.html",
-      "published_at": null,
-      "summary": "小米正式宣布，其自研旗舰处理器“玄戒O3”成为全球首款支持LPDDR6内存的芯片。据供应链消息，此次首发合作的内存供应商为国产厂商长鑫存储，这标志着国产LPDDR6内存将首次实现大规模商用落地。",
       "author": null
     }
   ],
