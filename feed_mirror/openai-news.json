@@ -2,14 +2,21 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-01T20:03:35.706052+00:00",
-  "next_refresh_at": "2026-09-01T20:33:35.706052+00:00",
+  "fetched_at": "2026-09-01T22:43:55.342794+00:00",
+  "next_refresh_at": "2026-09-01T23:13:55.342794+00:00",
   "entries": [
     {
       "title": "How AI-native companies turn workflows into operating capability",
       "url": "https://openai.com/index/ai-native-company-workflows",
       "published_at": "2026-09-01T17:00:00+00:00",
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "author": null
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "published_at": "2026-09-01T13:00:00+00:00",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "published_at": "2026-08-18T19:00:00+00:00",
       "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "author": null
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
       "author": null
     }
   ],
