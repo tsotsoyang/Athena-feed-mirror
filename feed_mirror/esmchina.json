@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-08-31T22:58:17.046303+00:00",
-  "next_refresh_at": "2026-08-31T23:28:17.046303+00:00",
+  "fetched_at": "2026-09-01T01:46:15.130874+00:00",
+  "next_refresh_at": "2026-09-01T02:16:15.130874+00:00",
   "entries": [
+    {
+      "title": "闻泰科技80亿索赔案获法院支持，誓要穷尽法律手段夺回安世",
+      "url": "https://www.esmchina.com/news/14546.html",
+      "published_at": null,
+      "summary": "退市边缘发起反击。",
+      "author": null
+    },
+    {
+      "title": "库克发告别信，15年苹果CEO生涯收官",
+      "url": "https://www.esmchina.com/news/14545.html",
+      "published_at": null,
+      "summary": "在发给全体员工的最后一封内部信中，库克写道：“无论外界如何评价我的成就，我知道一切都归功于你们。”他引用乔布斯“在宇宙中留下印记”的名言，强调苹果的力量源于团队共同的价值观，而非某个个体的天才。",
+      "author": null
+    },
+    {
+      "title": "英伟达35亿美元入股联发科，黄仁勋在下一盘什么棋？",
+      "url": "https://www.esmchina.com/news/14544.html",
+      "published_at": null,
+      "summary": "8月31日，英伟达宣布以35亿美元认购联发科发行的可转换债券，使其成为英伟达在美国以外地区最大的一笔直接投资。",
+      "author": null
+    },
     {
       "title": "长鑫存储起诉美国防部，LPDDR6量产，半年营收1503亿元",
       "url": "https://www.esmchina.com/news/14543.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14522.html",
       "published_at": null,
       "summary": "两大国产存储巨头——长鑫科技主攻DRAM内存、长存控股主攻3D NAND闪存，均已完成或进入资本市场。",
-      "author": null
-    },
-    {
-      "title": "为什么ChatGPT越聪明，电费越烧不起？人脑早给了答案",
-      "url": "https://www.esmchina.com/news/14521.html",
-      "published_at": null,
-      "summary": "20瓦对比1兆瓦：人脑和大语言模型根本不在同一个量级上。",
-      "author": null
-    },
-    {
-      "title": "向散户“借钱”搞AI，软银创纪录发债1万亿日元",
-      "url": "https://www.esmchina.com/news/14520.html",
-      "published_at": null,
-      "summary": "日本软银集团宣布计划面向个人投资者发行规模高达1万亿日元（约合63亿美元）的无担保公司债。此次发行的债券期限为7年，票面利率指引区间设定在4.3%至4.9%之间，预计将于9月4日正式定价。",
-      "author": null
-    },
-    {
-      "title": "同比增长2216%！安世中国12英寸晶圆全新产能爆发！",
-      "url": "https://www.esmchina.com/news/14519.html",
-      "published_at": null,
-      "summary": "安世中国12英寸晶圆全新产能爆发！24小时全网出货17,919,236pcs！同比增长2216%，环比增长1108%！",
       "author": null
     }
   ],
