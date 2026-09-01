@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-01T01:46:15.130874+00:00",
-  "next_refresh_at": "2026-09-01T02:16:15.130874+00:00",
+  "fetched_at": "2026-09-01T07:21:46.303221+00:00",
+  "next_refresh_at": "2026-09-01T07:51:46.303221+00:00",
   "entries": [
+    {
+      "title": "英伟达供应商欣兴电子被查“洗产地”，14名员工卷入调查",
+      "url": "https://www.esmchina.com/news/14548.html",
+      "published_at": null,
+      "summary": "近日，中国台湾桃园地方检察署指挥调查人员，大举搜查全球PCB与IC载板巨头欣兴电子（Unimicron）位于龟山的总公司及中坜合江厂。",
+      "author": null
+    },
+    {
+      "title": "华为、小米、荣耀同日集体调价，最高涨价1000元",
+      "url": "https://www.esmchina.com/news/14547.html",
+      "published_at": null,
+      "summary": "9月1日，华为、小米、荣耀三大国产手机品牌同步宣布上调多款在售机型官方售价，覆盖从千元入门机到万元旗舰的全价位段，涨幅从200元到1000元不等。这是2026年以来手机行业第三轮大规模集体调价，也是首次出现头部厂商在同一天集中调价的情况。",
+      "author": null
+    },
     {
       "title": "闻泰科技80亿索赔案获法院支持，誓要穷尽法律手段夺回安世",
       "url": "https://www.esmchina.com/news/14546.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14524.html",
       "published_at": null,
       "summary": "该交易预计于2026年第三季度完成，具体金额未披露。",
-      "author": null
-    },
-    {
-      "title": "2026年全球半导体收入将达1.6万亿美元，存储器占比过半",
-      "url": "https://www.esmchina.com/news/14523.html",
-      "published_at": null,
-      "summary": "据Gartner预测，全球半导体收入预计在2026年达到1.6万亿美元，较2025年的8090亿美元增长92%。",
-      "author": null
-    },
-    {
-      "title": "长存控股科创板IPO获受理，拟募资330亿元创纪录",
-      "url": "https://www.esmchina.com/news/14522.html",
-      "published_at": null,
-      "summary": "两大国产存储巨头——长鑫科技主攻DRAM内存、长存控股主攻3D NAND闪存，均已完成或进入资本市场。",
       "author": null
     }
   ],

@@ -2,9 +2,30 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-01T01:45:56.802923+00:00",
-  "next_refresh_at": "2026-09-01T02:15:56.802923+00:00",
+  "fetched_at": "2026-09-01T07:21:30.365973+00:00",
+  "next_refresh_at": "2026-09-01T07:51:30.365973+00:00",
   "entries": [
+    {
+      "title": "[AI Infrastructure Insight] Why faster GPUs alone can’t deliver AI performance",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2-3/",
+      "published_at": "2026-09-01T04:55:43+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Infrastructure Insight] Why faster GPUs alone can’t deliver AI performance",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2-2/",
+      "published_at": "2026-09-01T04:53:36+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Infrastructure Insight] Why faster GPUs alone can’t deliver AI performance",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2-1/",
+      "published_at": "2026-09-01T04:49:46+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
     {
       "title": "[AI Infrastructure Insight] Why faster GPUs alone can’t deliver AI performance",
       "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2/",
@@ -52,27 +73,6 @@
       "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana/",
       "published_at": "2026-08-27T16:01:24+00:00",
       "summary": "▪ Investing over $4 billion in Indiana fab and first ‘Made in USA’ next-generation HBM mass production in U.S. to begin in H2 2029 ▪ Help stabilize the U.S. semiconductor supply chain and contribute to strengthening U.S. national security and",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[LIVE] SK hynix Indiana Fab Groundbreaking Ceremony",
-      "url": "https://news.skhynix.com/en/indiana-fab-groundbreaking/",
-      "published_at": "2026-08-26T23:00:09+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
-      "url": "https://news.skhynix.com/en/dtf-2026-5/",
-      "published_at": "2026-08-26T01:32:12+00:00",
-      "summary": "▲ Youngpyo Joo, Vice President andhead of the System Architecture department, delivers the keynote",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
-      "url": "https://news.skhynix.com/en/dtf-2026-4/",
-      "published_at": "2026-08-26T01:29:46+00:00",
-      "summary": "▲ The ‘Product &#38; System’ exhibition space, where visitors could explore SK hynix’s diverse AI memory products",
       "author": "SK hynix"
     }
   ],
