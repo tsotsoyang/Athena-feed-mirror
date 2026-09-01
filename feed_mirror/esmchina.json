@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-01T12:40:50.737375+00:00",
-  "next_refresh_at": "2026-09-01T13:10:50.737375+00:00",
+  "fetched_at": "2026-09-01T17:10:55.174080+00:00",
+  "next_refresh_at": "2026-09-01T17:40:55.174080+00:00",
   "entries": [
+    {
+      "title": "从“柔性革命”到“湃迅元年”：Pragmatic半导体在中国加速深耕",
+      "url": "https://www.esmchina.com/news/14550.html",
+      "published_at": null,
+      "summary": "Pragmatic正式发布了中文品牌名称“湃迅半导体”。这一命名既保留了英文发音的相近性，又融入了“心潮澎湃”“服务迅捷”的词义。",
+      "author": null
+    },
     {
       "title": "AI转型与出海双主线：斑马技术IOTE 2026勾勒“智能运营”新图景",
       "url": "https://www.esmchina.com/news/14549.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14526.html",
       "published_at": null,
       "summary": "这很可能是蒂姆·库克卸任CEO前的最后一款重大新品。",
-      "author": null
-    },
-    {
-      "title": "机器人本地跑大模型？英伟达Jetson Orin Nano 2给出答案",
-      "url": "https://www.esmchina.com/news/14525.html",
-      "published_at": null,
-      "summary": "越来越多的无人机、服务机器人、视觉检测设备，不再只跑简单检测算法，而是需要本地运行大语言模型、多模态视觉模型，完成环境理解、语义分析、实时决策。过去这类能力大多依赖算力更强的高端硬件，而英伟达新推出的Jetson Orin Nano™ 2，把前沿生成式AI能力下放到入门嵌入式机器人平台。",
       "author": null
     }
   ],

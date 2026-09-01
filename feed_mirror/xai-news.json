@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-01T12:40:59.742201+00:00",
-  "next_refresh_at": "2026-09-01T13:10:59.742201+00:00",
+  "fetched_at": "2026-09-01T17:11:06.080711+00:00",
+  "next_refresh_at": "2026-09-01T17:41:06.080711+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-more-plans",
       "published_at": null,
       "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "author": null
+    },
+    {
+      "title": "Biosecurity at the frontier | SpaceXAI",
+      "url": "https://x.ai/news/biosafety-at-the-frontier",
+      "published_at": null,
+      "summary": "LatchBio evaluated Grok",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-voice-agent-builder",
       "published_at": null,
       "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
-      "author": null
-    },
-    {
-      "title": "Explore the markets with Interactive Brokers and Grok | SpaceXAI",
-      "url": "https://x.ai/news/grok-interactive-brokers",
-      "published_at": null,
-      "summary": "Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions.",
       "author": null
     }
   ],
