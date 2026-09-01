@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-01T07:21:30.365973+00:00",
-  "next_refresh_at": "2026-09-01T07:51:30.365973+00:00",
+  "fetched_at": "2026-09-01T12:40:32.143969+00:00",
+  "next_refresh_at": "2026-09-01T13:10:32.143969+00:00",
   "entries": [
     {
       "title": "[AI Infrastructure Insight] Why faster GPUs alone can’t deliver AI performance",

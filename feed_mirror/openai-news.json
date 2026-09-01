@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-01T07:21:43.662876+00:00",
-  "next_refresh_at": "2026-09-01T07:51:43.662876+00:00",
+  "fetched_at": "2026-09-01T12:40:45.640346+00:00",
+  "next_refresh_at": "2026-09-01T13:10:45.640346+00:00",
   "entries": [
     {
       "title": "OpenAI supports California’s bill to advance youth AI safety",

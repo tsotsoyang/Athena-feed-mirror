@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-01T07:21:46.303221+00:00",
-  "next_refresh_at": "2026-09-01T07:51:46.303221+00:00",
+  "fetched_at": "2026-09-01T12:40:50.737375+00:00",
+  "next_refresh_at": "2026-09-01T13:10:50.737375+00:00",
   "entries": [
+    {
+      "title": "AI转型与出海双主线：斑马技术IOTE 2026勾勒“智能运营”新图景",
+      "url": "https://www.esmchina.com/news/14549.html",
+      "published_at": null,
+      "summary": "AI转型与制造业出海不仅是2026年最热的两大产业话题，也是斑马技术未来一段时间在华的两大战略重点。",
+      "author": null
+    },
     {
       "title": "英伟达供应商欣兴电子被查“洗产地”，14名员工卷入调查",
       "url": "https://www.esmchina.com/news/14548.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14525.html",
       "published_at": null,
       "summary": "越来越多的无人机、服务机器人、视觉检测设备，不再只跑简单检测算法，而是需要本地运行大语言模型、多模态视觉模型，完成环境理解、语义分析、实时决策。过去这类能力大多依赖算力更强的高端硬件，而英伟达新推出的Jetson Orin Nano™ 2，把前沿生成式AI能力下放到入门嵌入式机器人平台。",
-      "author": null
-    },
-    {
-      "title": "英飞凌收购印度C2i Semiconductors，补齐AI数据中心“电力心脏”关键一环",
-      "url": "https://www.esmchina.com/news/14524.html",
-      "published_at": null,
-      "summary": "该交易预计于2026年第三季度完成，具体金额未披露。",
       "author": null
     }
   ],
