@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-02T05:29:34.552957+00:00",
-  "next_refresh_at": "2026-09-02T05:59:34.552957+00:00",
+  "fetched_at": "2026-09-02T09:51:42.021076+00:00",
+  "next_refresh_at": "2026-09-02T10:21:42.021076+00:00",
   "entries": [
     {
       "title": "Introducing agentic video understanding with Gemini",
