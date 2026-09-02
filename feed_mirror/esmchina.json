@@ -2,9 +2,44 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-02T00:51:23.599763+00:00",
-  "next_refresh_at": "2026-09-02T01:21:23.599763+00:00",
+  "fetched_at": "2026-09-02T05:29:33.968188+00:00",
+  "next_refresh_at": "2026-09-02T05:59:33.968188+00:00",
   "entries": [
+    {
+      "title": "华虹宏力21亿美元增资无锡三期：月产5.5万片12英寸产线落地",
+      "url": "https://www.esmchina.com/news/14554.html",
+      "published_at": null,
+      "summary": "华虹宏力发布对外投资公告。",
+      "author": null
+    },
+    {
+      "title": "给物联网设备装上全球流量eSIM卡：emnify以SGP.32引导连接切入中国OEM出海链路",
+      "url": "https://www.esmchina.com/news/14553.html",
+      "published_at": null,
+      "summary": "OEM计划在设备出厂前就嵌入eSIM并完成测试，让制造商彻底告别“盲盒”式发货——无论设备发往哪个国家，都能在工厂内完成连接测试与配置，显著降低SKU管理成本。",
+      "author": null
+    },
+    {
+      "title": "存储厂商扩产不停，终端依然喊缺：戴尔950亿美元订单积压暴露供应链极限",
+      "url": "https://www.esmchina.com/news/14552.html",
+      "published_at": null,
+      "summary": "他形容AI供应链正在全面飘红、火力全开。",
+      "author": null
+    },
+    {
+      "title": "AI芯片厂为什么会在意游戏市场？",
+      "url": "https://www.esmchina.com/news/14454.html",
+      "published_at": null,
+      "summary": "AI芯片厂为什么会在意游戏市场？这个问题的答案自然要从NVIDIA（英伟达）说起。",
+      "author": null
+    },
+    {
+      "title": "比亚迪半导体发布卫星架构4D毫米波雷达芯片：28nm工艺、8发8收",
+      "url": "https://www.esmchina.com/news/14551.html",
+      "published_at": null,
+      "summary": "该芯片基于28nm车规工艺打造，专为高分辨率雷达系统需求设计，可无缝对接多款主流智驾芯片平台。",
+      "author": null
+    },
     {
       "title": "从“柔性革命”到“湃迅元年”：Pragmatic半导体在中国加速深耕",
       "url": "https://www.esmchina.com/news/14550.html",
@@ -143,41 +178,6 @@
       "url": "https://www.esmchina.com/news/14531.html",
       "published_at": null,
       "summary": "以算力芯片、存储芯片为代表的集成电路行业利润同比增长18.5倍，对全部电子行业利润增长贡献率超过八成。",
-      "author": null
-    },
-    {
-      "title": "工信部：集成电路列为“十五五”新兴支柱产业之首",
-      "url": "https://www.esmchina.com/news/14530.html",
-      "published_at": null,
-      "summary": "在谈及“十五五”时期产业布局时，集成电路被明确列为新兴支柱产业的首位。",
-      "author": null
-    },
-    {
-      "title": "英伟达单季营收6468亿元！黄仁勋放话：2028财年再涨70%",
-      "url": "https://www.esmchina.com/news/14529.html",
-      "published_at": null,
-      "summary": "在截至2026年7月26日的2027财年第二季度中，英伟达实现总营收962.2亿美元，同比大增106%，创下历史新高。",
-      "author": null
-    },
-    {
-      "title": "【有奖竞答】泰克科技AI数据中心电源测试解决方案",
-      "url": "https://www.eet-china.com/RC/Tek202607/index.html?source=pop",
-      "published_at": null,
-      "summary": "参与答题即有机会获得由泰克科技提供的小礼品~",
-      "author": null
-    },
-    {
-      "title": "【回放上线】沉浸式带你云逛展获全套功率半导体解决方案",
-      "url": "https://www.eet-china.com/ee-live/entry/PI_20260826.html?source=pop",
-      "published_at": null,
-      "summary": "带领线上观众沉浸式探访 PI 展台，拆解面向新能源、电网、轨道交通、车载电子、AI 数据中心、工业家电多赛道的全套功率半导体解决方案。",
-      "author": null
-    },
-    {
-      "title": "苹果发布首款2nm芯片Mac mini，AI性能暴涨4倍",
-      "url": "https://www.esmchina.com/news/14526.html",
-      "published_at": null,
-      "summary": "这很可能是蒂姆·库克卸任CEO前的最后一款重大新品。",
       "author": null
     }
   ],

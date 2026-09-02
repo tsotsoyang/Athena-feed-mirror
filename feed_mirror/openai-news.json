@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-02T00:51:18.795105+00:00",
-  "next_refresh_at": "2026-09-02T01:21:18.795105+00:00",
+  "fetched_at": "2026-09-02T05:29:25.710303+00:00",
+  "next_refresh_at": "2026-09-02T05:59:25.710303+00:00",
   "entries": [
     {
       "title": "How AI-native companies turn workflows into operating capability",
@@ -24,6 +24,13 @@
       "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "published_at": "2026-09-01T12:00:00+00:00",
       "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "author": null
+    },
+    {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "published_at": "2026-09-01T01:00:00+00:00",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "author": null
     },
     {
@@ -76,17 +83,17 @@
       "author": null
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "author": null
-    },
-    {
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
       "published_at": "2026-08-26T10:00:00+00:00",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "author": null
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published_at": "2026-08-26T10:00:00+00:00",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "published_at": "2026-08-18T22:00:00+00:00",
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "author": null
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "published_at": "2026-08-18T19:00:00+00:00",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
       "author": null
     }
   ],
