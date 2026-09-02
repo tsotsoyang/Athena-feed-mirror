@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-02T14:08:29.003819+00:00",
-  "next_refresh_at": "2026-09-02T14:38:29.003819+00:00",
+  "fetched_at": "2026-09-02T17:59:16.108022+00:00",
+  "next_refresh_at": "2026-09-02T18:29:16.108022+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
@@ -34,10 +34,10 @@
       "author": null
     },
     {
-      "title": "Aug 21, 2026 Grok 4.6 on Gemini Enterprise Agent Platform",
+      "title": "Grok 4.6 on Gemini Enterprise Agent Platform | SpaceXAI",
       "url": "https://x.ai/news/grok-4-6-vertex-ai",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
       "author": null
     },
     {
@@ -69,17 +69,17 @@
       "author": null
     },
     {
-      "title": "Introducing Grok Bot Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7. Aug 11, 2026",
+      "title": "Introducing Grok Bot | SpaceXAI",
       "url": "https://x.ai/news/introducing-grok-bot",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
       "author": null
     },
     {
-      "title": "Imagine Image 2.0 Precise image generation and editing, built for real creative work. Aug 7, 2026",
+      "title": "Imagine Image 2.0 | SpaceXAI",
       "url": "https://x.ai/news/grok-imagine-image-2",
       "published_at": null,
-      "summary": "",
+      "summary": "Precise image generation and editing, built for real creative work.",
       "author": null
     },
     {
@@ -104,24 +104,24 @@
       "author": null
     },
     {
-      "title": "Grok 4.5 in GitHub Copilot Grok 4.5, our smartest coding model, is now available in GitHub Copilot. Jul 28, 2026",
+      "title": "Grok 4.5 in GitHub Copilot | SpaceXAI",
       "url": "https://x.ai/news/grok-github-copilot",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
       "author": null
     },
     {
-      "title": "Grok in Google Workspace Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs. Jul 24, 2026",
+      "title": "Grok in Google Workspace | SpaceXAI",
       "url": "https://x.ai/news/introducing-google-workspace-addon",
       "published_at": null,
-      "summary": "",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
       "author": null
     },
     {
-      "title": "Workflows in Grok Build Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run. Jul 23, 2026",
+      "title": "Workflows in Grok Build | SpaceXAI",
       "url": "https://x.ai/news/workflows",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
       "author": null
     },
     {

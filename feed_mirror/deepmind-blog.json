@@ -2,9 +2,23 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-02T14:08:23.172122+00:00",
-  "next_refresh_at": "2026-09-02T14:38:23.172122+00:00",
+  "fetched_at": "2026-09-02T17:59:13.510254+00:00",
+  "next_refresh_at": "2026-09-02T18:29:13.510254+00:00",
   "entries": [
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "published_at": "2026-09-02T16:24:24+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "published_at": "2026-09-02T16:18:31+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "Introducing agentic video understanding with Gemini",
       "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
@@ -164,20 +178,6 @@
       "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "published_at": "2026-06-10T10:21:19+00:00",
       "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-      "author": null
-    },
-    {
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "published_at": "2026-06-09T15:16:25+00:00",
-      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "author": null
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "published_at": "2026-06-09T14:10:19+00:00",
-      "summary": "",
       "author": null
     }
   ],

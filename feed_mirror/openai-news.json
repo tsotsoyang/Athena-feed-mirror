@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-02T14:08:16.664057+00:00",
-  "next_refresh_at": "2026-09-02T14:38:16.664057+00:00",
+  "fetched_at": "2026-09-02T17:59:02.901904+00:00",
+  "next_refresh_at": "2026-09-02T18:29:02.901904+00:00",
   "entries": [
     {
       "title": "How AI-native companies turn workflows into operating capability",
