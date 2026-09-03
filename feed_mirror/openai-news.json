@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-03T06:13:03.396354+00:00",
-  "next_refresh_at": "2026-09-03T06:43:03.396354+00:00",
+  "fetched_at": "2026-09-03T11:32:08.198240+00:00",
+  "next_refresh_at": "2026-09-03T12:02:08.198240+00:00",
   "entries": [
     {
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",

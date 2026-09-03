@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-03T06:13:08.250553+00:00",
-  "next_refresh_at": "2026-09-03T06:43:08.250553+00:00",
+  "fetched_at": "2026-09-03T11:32:15.863118+00:00",
+  "next_refresh_at": "2026-09-03T12:02:15.863118+00:00",
   "entries": [
+    {
+      "title": "传TI或酝酿年内第三轮涨价，涉及多产品系列、分型号、无统一涨幅",
+      "url": "https://www.esmchina.com/news/14557.html",
+      "published_at": null,
+      "summary": "国际电子商情讯，近日，供应链渠道传出一封落款为德州仪器（TI）的客户通知函，预告该公司即将新一轮涨价。",
+      "author": null
+    },
     {
       "title": "AI营收连续翻倍！博通Q3业绩大幅超预期",
       "url": "https://www.esmchina.com/news/14556.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14534.html",
       "published_at": null,
       "summary": "当地时间8月27日，SK海力士在美国印第安纳州举行了盛大的奠基仪式，正式启动其在美国的首个HBM先进封装生产基地建设。",
-      "author": null
-    },
-    {
-      "title": "全球芯片TOP20最新排名：谁是大赢家？",
-      "url": "https://www.esmchina.com/news/14533.html",
-      "published_at": null,
-      "summary": "2026年Q2全球半导体规模达3680亿美元，同比暴增104%创历史纪录。最新全球芯片20强榜单揭示，半导体正迎来前所未有的超级周期。",
       "author": null
     }
   ],

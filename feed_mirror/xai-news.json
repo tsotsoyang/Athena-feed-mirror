@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-03T06:13:21.330191+00:00",
-  "next_refresh_at": "2026-09-03T06:43:21.330191+00:00",
+  "fetched_at": "2026-09-03T11:32:21.818885+00:00",
+  "next_refresh_at": "2026-09-03T12:02:21.818885+00:00",
   "entries": [
     {
       "title": "Aug 26, 2026 Grok Bot is now included with more plans Aug 26, 2026 Grok Bot is now included with more plans Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans. [data-slot=icon]]:-mr-1 [&amp;>[data-slot=icon]]:-mx-0.5 [&amp;>[data-slot=icon]]:size-5 [&amp;>[data-slot=icon]]:shrink-0 [&amp;>[data-slot=icon]]:sm:size-4.5\">Read More",
@@ -27,17 +27,17 @@
       "author": null
     },
     {
-      "title": "Grok 4.6 on Microsoft Foundry | SpaceXAI",
+      "title": "Aug 26, 2026 Grok 4.6 on Microsoft Foundry",
       "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
       "published_at": null,
-      "summary": "Grok 4.6 is now available via Microsoft Foundry.",
+      "summary": "",
       "author": null
     },
     {
-      "title": "Grok 4.6 on Gemini Enterprise Agent Platform | SpaceXAI",
+      "title": "Aug 21, 2026 Grok 4.6 on Gemini Enterprise Agent Platform",
       "url": "https://x.ai/news/grok-4-6-vertex-ai",
       "published_at": null,
-      "summary": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+      "summary": "",
       "author": null
     },
     {
@@ -48,31 +48,31 @@
       "author": null
     },
     {
-      "title": "Grok Build on web and mobile Grok Build is now available on every plan, on the web and on mobile. Aug 19, 2026",
+      "title": "Grok Build on web and mobile | SpaceXAI",
       "url": "https://x.ai/news/grok-build-for-everyone",
+      "published_at": null,
+      "summary": "Grok Build is now available on every plan, on the web and on mobile.",
+      "author": null
+    },
+    {
+      "title": "Grok 4.6 in GitHub Copilot Grok 4.6, our latest coding model, is now available in GitHub Copilot. Aug 14, 2026",
+      "url": "https://x.ai/news/grok-4-6-github-copilot",
       "published_at": null,
       "summary": "",
       "author": null
     },
     {
-      "title": "Grok 4.6 in GitHub Copilot | SpaceXAI",
-      "url": "https://x.ai/news/grok-4-6-github-copilot",
-      "published_at": null,
-      "summary": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
-      "author": null
-    },
-    {
-      "title": "Introducing Grok 4.6 | SpaceXAI",
+      "title": "Introducing Grok 4.6 Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work. Aug 12, 2026",
       "url": "https://x.ai/news/grok-4-6",
       "published_at": null,
-      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+      "summary": "",
       "author": null
     },
     {
-      "title": "Introducing Grok Bot | SpaceXAI",
+      "title": "Introducing Grok Bot Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7. Aug 11, 2026",
       "url": "https://x.ai/news/introducing-grok-bot",
       "published_at": null,
-      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
+      "summary": "",
       "author": null
     },
     {
@@ -83,24 +83,24 @@
       "author": null
     },
     {
-      "title": "Imagine Video 1.5 with References | SpaceXAI",
+      "title": "Imagine Video 1.5 with References Our best video model, now with text, image, and voice references — generating up to 1080p. Jul 31, 2026",
       "url": "https://x.ai/news/grok-imagine-video-1-5-references",
-      "published_at": null,
-      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
-      "author": null
-    },
-    {
-      "title": "Introducing Grok Voice Think Fast 2.0 Introducing our most capable speech-to-speech voice model. Jul 29, 2026",
-      "url": "https://x.ai/news/grok-voice-think-fast-2",
       "published_at": null,
       "summary": "",
       "author": null
     },
     {
-      "title": "Introducing Build Mode | SpaceXAI",
+      "title": "Introducing Grok Voice Think Fast 2.0 | SpaceXAI",
+      "url": "https://x.ai/news/grok-voice-think-fast-2",
+      "published_at": null,
+      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "author": null
+    },
+    {
+      "title": "Introducing Build Mode Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android. Jul 28, 2026",
       "url": "https://x.ai/news/grok-build-mode",
       "published_at": null,
-      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
+      "summary": "",
       "author": null
     },
     {
@@ -111,24 +111,24 @@
       "author": null
     },
     {
-      "title": "Grok in Google Workspace | SpaceXAI",
+      "title": "Grok in Google Workspace Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs. Jul 24, 2026",
       "url": "https://x.ai/news/introducing-google-workspace-addon",
       "published_at": null,
-      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
+      "summary": "",
       "author": null
     },
     {
-      "title": "Workflows in Grok Build | SpaceXAI",
+      "title": "Workflows in Grok Build Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run. Jul 23, 2026",
       "url": "https://x.ai/news/workflows",
       "published_at": null,
-      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
+      "summary": "",
       "author": null
     },
     {
-      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X | SpaceXAI",
+      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android. Jul 22, 2026",
       "url": "https://x.ai/news/grok-4-5-everywhere",
       "published_at": null,
-      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
+      "summary": "",
       "author": null
     },
     {
@@ -139,38 +139,38 @@
       "author": null
     },
     {
-      "title": "Grok for Excel | SpaceXAI",
+      "title": "Grok for Excel Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook. Jul 20, 2026",
       "url": "https://x.ai/news/introducing-excel-addin",
-      "published_at": null,
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "author": null
-    },
-    {
-      "title": "Introducing Grok 4.5 | SpaceXAI",
-      "url": "https://x.ai/news/grok-4-5",
-      "published_at": null,
-      "summary": "Grok 4.5 is SpaceXAI",
-      "author": null
-    },
-    {
-      "title": "Automations in Grok | SpaceXAI",
-      "url": "https://x.ai/news/grok-automations",
-      "published_at": null,
-      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
-      "author": null
-    },
-    {
-      "title": "Grok Build is Now Open Source Explore the harness behind our coding agent and TUI. Jul 15, 2026",
-      "url": "https://x.ai/news/grok-build-open-source",
       "published_at": null,
       "summary": "",
       "author": null
     },
     {
-      "title": "21 New Flagship Grok Voices | SpaceXAI",
+      "title": "Introducing Grok 4.5 Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work. Jul 16, 2026",
+      "url": "https://x.ai/news/grok-4-5",
+      "published_at": null,
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Automations in Grok Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back. Jul 16, 2026",
+      "url": "https://x.ai/news/grok-automations",
+      "published_at": null,
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Grok Build is Now Open Source | SpaceXAI",
+      "url": "https://x.ai/news/grok-build-open-source",
+      "published_at": null,
+      "summary": "Explore the harness behind our coding agent and TUI.",
+      "author": null
+    },
+    {
+      "title": "21 New Flagship Grok Voices New multilingual voices for Grok Voice, plus improved naturalness for the original five. Jul 6, 2026",
       "url": "https://x.ai/news/new-flagship-voices",
       "published_at": null,
-      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+      "summary": "",
       "author": null
     },
     {
