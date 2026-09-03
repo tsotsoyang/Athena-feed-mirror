@@ -2,14 +2,14 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-03T19:08:43.445025+00:00",
-  "next_refresh_at": "2026-09-03T19:38:43.445025+00:00",
+  "fetched_at": "2026-09-03T21:49:17.667373+00:00",
+  "next_refresh_at": "2026-09-03T22:19:17.667373+00:00",
   "entries": [
     {
-      "title": "Grok Bot is now included with more plans | SpaceXAI",
-      "url": "https://x.ai/news/grok-bot-more-plans",
+      "title": "Grok Bot for Enterprise | SpaceXAI",
+      "url": "https://x.ai/news/grok-bot-for-enterprise",
       "published_at": null,
-      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
       "author": null
     },
     {
@@ -38,6 +38,13 @@
       "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
       "published_at": null,
       "summary": "Grok 4.6 is now available via Microsoft Foundry.",
+      "author": null
+    },
+    {
+      "title": "Grok Bot is now included with more plans | SpaceXAI",
+      "url": "https://x.ai/news/grok-bot-more-plans",
+      "published_at": null,
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-build-open-source",
       "published_at": null,
       "summary": "Explore the harness behind our coding agent and TUI.",
-      "author": null
-    },
-    {
-      "title": "21 New Flagship Grok Voices | SpaceXAI",
-      "url": "https://x.ai/news/new-flagship-voices",
-      "published_at": null,
-      "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
       "author": null
     }
   ],
