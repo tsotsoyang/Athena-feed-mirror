@@ -2,8 +2,8 @@
   "source": "cxl-consortium-news",
   "name": "CXL Consortium press room",
   "feed_url": "https://computeexpresslink.org/news/feed/",
-  "fetched_at": "2026-09-02T23:07:15.097551+00:00",
-  "next_refresh_at": "2026-09-02T23:37:15.097551+00:00",
+  "fetched_at": "2026-09-03T01:18:02.054258+00:00",
+  "next_refresh_at": "2026-09-03T01:48:02.054258+00:00",
   "entries": [
     {
       "title": "Synopsys Rolls Out First Complete CXL 4.0 IP for AI Memory Connectivity",

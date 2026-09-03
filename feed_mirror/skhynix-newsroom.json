@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-02T23:07:13.224789+00:00",
-  "next_refresh_at": "2026-09-02T23:37:13.224789+00:00",
+  "fetched_at": "2026-09-03T01:18:00.427317+00:00",
+  "next_refresh_at": "2026-09-03T01:48:00.427317+00:00",
   "entries": [
+    {
+      "title": "[AI Ecosystem] The real bottleneck: Data, not compute",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep2/",
+      "published_at": "2026-09-02T23:59:52+00:00",
+      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
+      "author": "Professor Hoi-Jun Yoo, KAIST"
+    },
     {
       "title": "[AI Infrastructure Insight] Why faster GPUs alone can’t deliver AI performance",
       "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2-3/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-01/",
       "published_at": "2026-08-27T16:21:49+00:00",
       "summary": "▲ Rendering of the AI memory advanced packaging production base being constructed by SK hynix in West Lafayette, Indiana, U.S",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-      "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana/",
-      "published_at": "2026-08-27T16:01:24+00:00",
-      "summary": "▪ Investing over $4 billion in Indiana fab and first ‘Made in USA’ next-generation HBM mass production in U.S. to begin in H2 2029 ▪ Help stabilize the U.S. semiconductor supply chain and contribute to strengthening U.S. national security and",
       "author": "SK hynix"
     }
   ],
