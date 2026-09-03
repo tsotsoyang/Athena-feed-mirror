@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-03T15:54:44.476185+00:00",
-  "next_refresh_at": "2026-09-03T16:24:44.476185+00:00",
+  "fetched_at": "2026-09-03T19:08:43.445025+00:00",
+  "next_refresh_at": "2026-09-03T19:38:43.445025+00:00",
   "entries": [
     {
       "title": "Grok Bot is now included with more plans | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-more-plans",
       "published_at": null,
       "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "author": null
+    },
+    {
+      "title": "Designing Grok Bot for a world of persistent agents | SpaceXAI",
+      "url": "https://x.ai/news/designing-grok-bot",
+      "published_at": null,
+      "summary": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/new-flagship-voices",
       "published_at": null,
       "summary": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
-      "author": null
-    },
-    {
-      "title": "Introducing the Voice Agent Builder | SpaceXAI",
-      "url": "https://x.ai/news/grok-voice-agent-builder",
-      "published_at": null,
-      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
       "author": null
     }
   ],
