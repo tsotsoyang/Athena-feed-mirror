@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-03T11:32:19.104057+00:00",
-  "next_refresh_at": "2026-09-03T12:02:19.104057+00:00",
+  "fetched_at": "2026-09-03T15:54:34.979598+00:00",
+  "next_refresh_at": "2026-09-03T16:24:34.979598+00:00",
   "entries": [
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published_at": "2026-09-03T15:02:08+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "published_at": "2026-06-10T16:24:11+00:00",
       "summary": "",
-      "author": null
-    },
-    {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "published_at": "2026-06-10T10:21:19+00:00",
-      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
       "author": null
     }
   ],
