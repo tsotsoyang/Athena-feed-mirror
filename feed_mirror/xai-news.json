@@ -2,21 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-03T01:18:28.318562+00:00",
-  "next_refresh_at": "2026-09-03T01:48:28.318562+00:00",
+  "fetched_at": "2026-09-03T06:13:21.330191+00:00",
+  "next_refresh_at": "2026-09-03T06:43:21.330191+00:00",
   "entries": [
     {
-      "title": "Grok Bot is now included with more plans | SpaceXAI",
+      "title": "Aug 26, 2026 Grok Bot is now included with more plans Aug 26, 2026 Grok Bot is now included with more plans Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans. [data-slot=icon]]:-mr-1 [&amp;>[data-slot=icon]]:-mx-0.5 [&amp;>[data-slot=icon]]:size-5 [&amp;>[data-slot=icon]]:shrink-0 [&amp;>[data-slot=icon]]:sm:size-4.5\">Read More",
       "url": "https://x.ai/news/grok-bot-more-plans",
       "published_at": null,
-      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "summary": "",
       "author": null
     },
     {
-      "title": "Biosecurity at the frontier | SpaceXAI",
+      "title": "Sep 1, 2026 Biosecurity at the frontier",
       "url": "https://x.ai/news/biosafety-at-the-frontier",
       "published_at": null,
-      "summary": "LatchBio evaluated Grok",
+      "summary": "",
       "author": null
     },
     {
@@ -41,17 +41,17 @@
       "author": null
     },
     {
-      "title": "Grok 4.6 on Amazon Bedrock | SpaceXAI",
+      "title": "Grok 4.6 on Amazon Bedrock Grok 4.6 is now available via Amazon Bedrock. Aug 19, 2026",
       "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
       "published_at": null,
-      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
+      "summary": "",
       "author": null
     },
     {
-      "title": "Grok Build on web and mobile | SpaceXAI",
+      "title": "Grok Build on web and mobile Grok Build is now available on every plan, on the web and on mobile. Aug 19, 2026",
       "url": "https://x.ai/news/grok-build-for-everyone",
       "published_at": null,
-      "summary": "Grok Build is now available on every plan, on the web and on mobile.",
+      "summary": "",
       "author": null
     },
     {
@@ -90,10 +90,10 @@
       "author": null
     },
     {
-      "title": "Introducing Grok Voice Think Fast 2.0 | SpaceXAI",
+      "title": "Introducing Grok Voice Think Fast 2.0 Introducing our most capable speech-to-speech voice model. Jul 29, 2026",
       "url": "https://x.ai/news/grok-voice-think-fast-2",
       "published_at": null,
-      "summary": "Introducing our most capable speech-to-speech voice model.",
+      "summary": "",
       "author": null
     },
     {
@@ -104,10 +104,10 @@
       "author": null
     },
     {
-      "title": "Grok 4.5 in GitHub Copilot | SpaceXAI",
+      "title": "Grok 4.5 in GitHub Copilot Grok 4.5, our smartest coding model, is now available in GitHub Copilot. Jul 28, 2026",
       "url": "https://x.ai/news/grok-github-copilot",
       "published_at": null,
-      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
+      "summary": "",
       "author": null
     },
     {
@@ -132,10 +132,10 @@
       "author": null
     },
     {
-      "title": "Grok for Outlook | SpaceXAI",
+      "title": "Grok for Outlook Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized. Jul 21, 2026",
       "url": "https://x.ai/news/introducing-outlook-addin",
       "published_at": null,
-      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
+      "summary": "",
       "author": null
     },
     {
@@ -160,10 +160,10 @@
       "author": null
     },
     {
-      "title": "Grok Build is Now Open Source | SpaceXAI",
+      "title": "Grok Build is Now Open Source Explore the harness behind our coding agent and TUI. Jul 15, 2026",
       "url": "https://x.ai/news/grok-build-open-source",
       "published_at": null,
-      "summary": "Explore the harness behind our coding agent and TUI.",
+      "summary": "",
       "author": null
     },
     {
@@ -174,10 +174,10 @@
       "author": null
     },
     {
-      "title": "Introducing the Voice Agent Builder | SpaceXAI",
+      "title": "Introducing the Voice Agent Builder Create a personalized voice agent in under 2 minutes without a single line of code. Jul 1, 2026",
       "url": "https://x.ai/news/grok-voice-agent-builder",
       "published_at": null,
-      "summary": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+      "summary": "",
       "author": null
     }
   ],

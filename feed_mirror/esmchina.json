@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-03T01:18:17.366846+00:00",
-  "next_refresh_at": "2026-09-03T01:48:17.366846+00:00",
+  "fetched_at": "2026-09-03T06:13:08.250553+00:00",
+  "next_refresh_at": "2026-09-03T06:43:08.250553+00:00",
   "entries": [
+    {
+      "title": "AI营收连续翻倍！博通Q3业绩大幅超预期",
+      "url": "https://www.esmchina.com/news/14556.html",
+      "published_at": null,
+      "summary": "AI业务扛起增长大旗！",
+      "author": null
+    },
+    {
+      "title": "三星锁定七成存储产能至2031年，HBM5路线图同步曝光",
+      "url": "https://www.esmchina.com/news/14555.html",
+      "published_at": null,
+      "summary": "AI需求推动存储厂商向HBM倾斜资源，从而压缩部分传统DRAM供应，从而加剧了全产业内存缺货。",
+      "author": null
+    },
     {
       "title": "华虹宏力21亿美元增资无锡三期：月产5.5万片12英寸产线落地",
       "url": "https://www.esmchina.com/news/14554.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14533.html",
       "published_at": null,
       "summary": "2026年Q2全球半导体规模达3680亿美元，同比暴增104%创历史纪录。最新全球芯片20强榜单揭示，半导体正迎来前所未有的超级周期。",
-      "author": null
-    },
-    {
-      "title": "特斯拉上海数据中心“人去楼空”？官方：已报警！",
-      "url": "https://www.esmchina.com/news/14532.html",
-      "published_at": null,
-      "summary": "近日，一则关于“特斯拉上海FSD数据中心人去楼空、对接团队全面撤离”的消息在网络上迅速发酵。特斯拉中国于8月26日作出回应，强调该消息不实，并已向公安机关报案。",
-      "author": null
-    },
-    {
-      "title": "1-7月中国集成电路行业利润增18.5倍，算力芯片、存储芯片领跑",
-      "url": "https://www.esmchina.com/news/14531.html",
-      "published_at": null,
-      "summary": "以算力芯片、存储芯片为代表的集成电路行业利润同比增长18.5倍，对全部电子行业利润增长贡献率超过八成。",
       "author": null
     }
   ],
