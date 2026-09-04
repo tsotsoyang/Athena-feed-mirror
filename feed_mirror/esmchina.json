@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-03T23:48:39.852264+00:00",
-  "next_refresh_at": "2026-09-04T00:18:39.852264+00:00",
+  "fetched_at": "2026-09-04T03:13:55.195381+00:00",
+  "next_refresh_at": "2026-09-04T03:43:55.195381+00:00",
   "entries": [
+    {
+      "title": "蔡司断言中国EUV光刻机落后15年，但后半句话才是关键",
+      "url": "https://www.esmchina.com/news/14561.html",
+      "published_at": null,
+      "summary": "德国蔡司集团半导体业务负责人弗兰克·罗蒙德（Frank Rohmund）日前在彭博电视的访谈中表示，中国开发出可商用的极紫外(EUV)光刻机“合理假设”仍需十五年。",
+      "author": null
+    },
+    {
+      "title": "OpenAI发布新旗舰GPT-6 Astra：关键级网安能力亮相，人形机器人战略浮出水面",
+      "url": "https://www.esmchina.com/news/14560.html",
+      "published_at": null,
+      "summary": "北京时间9月4日凌晨，OpenAI正式发布新一代旗舰模型GPT-6 Astra。",
+      "author": null
+    },
+    {
+      "title": "美商务部长证实：新一轮芯片关税已在路上",
+      "url": "https://www.esmchina.com/news/14559.html",
+      "published_at": null,
+      "summary": "近日，美国商务部长霍华德・卢特尼克对外证实，特朗普政府正在推进新一轮半导体关税方案，豁免资格将与“制造端投资承诺深度绑定”。",
+      "author": null
+    },
+    {
+      "title": "129.3亿美元！英伟达官宣收购Hugging Face",
+      "url": "https://www.esmchina.com/news/14558.html",
+      "published_at": null,
+      "summary": "9月3日，英伟达官方对外宣布将以全现金方式收购Hugging Face全部股权，交易对价包含面向原有股东的约119亿美元，以及最高10亿美元的员工留任激励。",
+      "author": null
+    },
     {
       "title": "传TI或酝酿年内第三轮涨价，涉及多产品系列、分型号、无统一涨幅",
       "url": "https://www.esmchina.com/news/14557.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14539.html",
       "published_at": null,
       "summary": "特朗普政府正酝酿新一轮大范围半导体关税政策，征税范围或将大幅扩大至笔记本电脑、游戏主机及数据中心服务器等终端科技产品。",
-      "author": null
-    },
-    {
-      "title": "SK海力士美国先进封装厂动工，2029年下半年量产“美国制造”HBM4E",
-      "url": "https://www.esmchina.com/news/14538.html",
-      "published_at": null,
-      "summary": "这是SK海力士在美国设立的首个HBM生产据点。",
-      "author": null
-    },
-    {
-      "title": "从“彩电一哥”到主动退市，康佳34年A股路走到尽头",
-      "url": "https://www.esmchina.com/news/14537.html",
-      "published_at": null,
-      "summary": "面对2026年末净资产转正的生死考验，康佳选择主动终止上市，为34年的A股上市之路画上句号。",
-      "author": null
-    },
-    {
-      "title": "特朗普签紧急令，美电网开启“排外模式”",
-      "url": "https://www.esmchina.com/news/14536.html",
-      "published_at": null,
-      "summary": "日前，美国总统特朗普在白宫签署了一项编号为第14420号的行政令，宣布美国进入“国家紧急状态”，并以国家安全为由，禁止在美国电网中采购、进口或安装部分外国制造的大型电力系统设备及相关软件。",
-      "author": null
-    },
-    {
-      "title": "40亿美元！SK海力士在美首座HBM工厂破土，7000个岗位来了",
-      "url": "https://www.esmchina.com/news/14534.html",
-      "published_at": null,
-      "summary": "当地时间8月27日，SK海力士在美国印第安纳州举行了盛大的奠基仪式，正式启动其在美国的首个HBM先进封装生产基地建设。",
       "author": null
     }
   ],

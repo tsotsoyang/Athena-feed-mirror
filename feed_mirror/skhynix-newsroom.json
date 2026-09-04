@@ -2,9 +2,44 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-03T23:48:22.900300+00:00",
-  "next_refresh_at": "2026-09-04T00:18:22.900300+00:00",
+  "fetched_at": "2026-09-04T03:13:37.056268+00:00",
+  "next_refresh_at": "2026-09-04T03:43:37.056268+00:00",
   "entries": [
+    {
+      "title": "[AI Ecosystem] The real bottleneck: Data, not compute",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep2-5/",
+      "published_at": "2026-09-04T00:52:54+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Ecosystem] The real bottleneck: Data, not compute",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep2-4/",
+      "published_at": "2026-09-04T00:51:31+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Ecosystem] The real bottleneck: Data, not compute",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep2-3/",
+      "published_at": "2026-09-04T00:36:57+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Ecosystem] The real bottleneck: Data, not compute",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep2-2/",
+      "published_at": "2026-09-04T00:34:05+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Ecosystem] The real bottleneck: Data, not compute",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep2-1/",
+      "published_at": "2026-09-04T00:32:42+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
     {
       "title": "[AI Ecosystem] The real bottleneck: Data, not compute",
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep2/",
@@ -38,41 +73,6 @@
       "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2/",
       "published_at": "2026-08-30T23:59:33+00:00",
       "summary": "AI is no longer defined by a single model or chip. For AI to operate effectively in real-world services and industrial applications, it takes faster compute, greater memory bandwidth, higher-performance networking, more efficient storage, and stable power and cooling working",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Indiana fab breaks ground as new hub for US AI innovation",
-      "url": "https://news.skhynix.com/en/indiana-groundbreaking-ceremony-sketch/",
-      "published_at": "2026-08-28T03:29:47+00:00",
-      "summary": "SK hynix held a groundbreaking ceremony for its Indiana fab on Aug. 27 (local time) at Purdue University’s Holloway Gymnasium, located in West Lafayette, Indiana, taking its first step toward securing a local AI memory production base in the United",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-      "url": "https://news.skhynix.com/en/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana-beginning-a-new-future-for-us-korea-ai/",
-      "published_at": "2026-08-28T02:46:45+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-      "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-3/",
-      "published_at": "2026-08-28T02:44:52+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-      "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-2/",
-      "published_at": "2026-08-28T02:41:28+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-      "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-01/",
-      "published_at": "2026-08-27T16:21:49+00:00",
-      "summary": "▲ Rendering of the AI memory advanced packaging production base being constructed by SK hynix in West Lafayette, Indiana, U.S",
       "author": "SK hynix"
     }
   ],
