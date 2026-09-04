@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-04T03:14:03.583390+00:00",
-  "next_refresh_at": "2026-09-04T03:44:03.583390+00:00",
+  "fetched_at": "2026-09-04T08:09:42.743043+00:00",
+  "next_refresh_at": "2026-09-04T08:39:42.743043+00:00",
   "entries": [
     {
       "title": "Grok Bot for Enterprise | SpaceXAI",
@@ -20,10 +20,10 @@
       "author": null
     },
     {
-      "title": "Sep 1, 2026 Biosecurity at the frontier",
+      "title": "Biosecurity at the frontier | SpaceXAI",
       "url": "https://x.ai/news/biosafety-at-the-frontier",
       "published_at": null,
-      "summary": "",
+      "summary": "LatchBio evaluated Grok",
       "author": null
     },
     {
@@ -76,10 +76,10 @@
       "author": null
     },
     {
-      "title": "Introducing Grok 4.6 Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work. Aug 12, 2026",
+      "title": "Introducing Grok 4.6 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-6",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
       "author": null
     },
     {
@@ -97,24 +97,24 @@
       "author": null
     },
     {
-      "title": "Imagine Video 1.5 with References Our best video model, now with text, image, and voice references — generating up to 1080p. Jul 31, 2026",
+      "title": "Imagine Video 1.5 with References | SpaceXAI",
       "url": "https://x.ai/news/grok-imagine-video-1-5-references",
       "published_at": null,
-      "summary": "",
+      "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
       "author": null
     },
     {
-      "title": "Introducing Grok Voice Think Fast 2.0 Introducing our most capable speech-to-speech voice model. Jul 29, 2026",
+      "title": "Introducing Grok Voice Think Fast 2.0 | SpaceXAI",
       "url": "https://x.ai/news/grok-voice-think-fast-2",
       "published_at": null,
-      "summary": "",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
       "author": null
     },
     {
-      "title": "Introducing Build Mode Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android. Jul 28, 2026",
+      "title": "Introducing Build Mode | SpaceXAI",
       "url": "https://x.ai/news/grok-build-mode",
       "published_at": null,
-      "summary": "",
+      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
       "author": null
     },
     {
@@ -125,10 +125,10 @@
       "author": null
     },
     {
-      "title": "Grok in Google Workspace Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs. Jul 24, 2026",
+      "title": "Grok in Google Workspace | SpaceXAI",
       "url": "https://x.ai/news/introducing-google-workspace-addon",
       "published_at": null,
-      "summary": "",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
       "author": null
     },
     {
@@ -146,17 +146,17 @@
       "author": null
     },
     {
-      "title": "Grok for Outlook Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized. Jul 21, 2026",
+      "title": "Grok for Outlook | SpaceXAI",
       "url": "https://x.ai/news/introducing-outlook-addin",
       "published_at": null,
-      "summary": "",
+      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
       "author": null
     },
     {
-      "title": "Grok for Excel Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook. Jul 20, 2026",
+      "title": "Grok for Excel | SpaceXAI",
       "url": "https://x.ai/news/introducing-excel-addin",
       "published_at": null,
-      "summary": "",
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
       "author": null
     },
     {

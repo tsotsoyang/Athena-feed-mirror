@@ -2,14 +2,21 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-04T03:13:55.195381+00:00",
-  "next_refresh_at": "2026-09-04T03:43:55.195381+00:00",
+  "fetched_at": "2026-09-04T08:09:30.552121+00:00",
+  "next_refresh_at": "2026-09-04T08:39:30.552121+00:00",
   "entries": [
     {
-      "title": "蔡司断言中国EUV光刻机落后15年，但后半句话才是关键",
+      "title": "破产重整危机暂缓，但债务未解、业绩承压：三安光电的危与机",
+      "url": "https://www.esmchina.com/news/14562.html",
+      "published_at": null,
+      "summary": "一面涨停，一面亏损。",
+      "author": null
+    },
+    {
+      "title": "蔡司：中国EUV光刻机落后15年",
       "url": "https://www.esmchina.com/news/14561.html",
       "published_at": null,
-      "summary": "德国蔡司集团半导体业务负责人弗兰克·罗蒙德（Frank Rohmund）日前在彭博电视的访谈中表示，中国开发出可商用的极紫外(EUV)光刻机“合理假设”仍需十五年。",
+      "summary": "德国蔡司集团半导体业务负责人弗兰克·罗蒙德（Frank Rohmund）日前在彭博电视的访谈中表示，开发出可商用的极紫外(EUV)光刻机仍需15年，这是一个“合理的假设”。",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14541.html",
       "published_at": null,
       "summary": "过去25年来，两家公司已在日本投资约9万亿日元（约合500亿美元）。",
-      "author": null
-    },
-    {
-      "title": "美国酝酿半导体新关税，笔记本、游戏机恐大幅涨价",
-      "url": "https://www.esmchina.com/news/14539.html",
-      "published_at": null,
-      "summary": "特朗普政府正酝酿新一轮大范围半导体关税政策，征税范围或将大幅扩大至笔记本电脑、游戏主机及数据中心服务器等终端科技产品。",
       "author": null
     }
   ],
