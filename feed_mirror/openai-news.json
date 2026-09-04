@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-04T16:45:08.842531+00:00",
-  "next_refresh_at": "2026-09-04T17:15:08.842531+00:00",
+  "fetched_at": "2026-09-04T19:19:15.430986+00:00",
+  "next_refresh_at": "2026-09-04T19:49:15.430986+00:00",
   "entries": [
     {
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",

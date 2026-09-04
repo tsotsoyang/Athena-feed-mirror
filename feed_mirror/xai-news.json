@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-04T16:45:23.227022+00:00",
-  "next_refresh_at": "2026-09-04T17:15:23.227022+00:00",
+  "fetched_at": "2026-09-04T19:19:28.733535+00:00",
+  "next_refresh_at": "2026-09-04T19:49:28.733535+00:00",
   "entries": [
     {
       "title": "Grok Bot for Enterprise | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-for-enterprise",
       "published_at": null,
       "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+      "author": null
+    },
+    {
+      "title": "Setting Grok Bot loose on procurement | SpaceXAI",
+      "url": "https://x.ai/news/grok-bot-procurement",
+      "published_at": null,
+      "summary": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-automations",
       "published_at": null,
       "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
-      "author": null
-    },
-    {
-      "title": "Grok Build is Now Open Source | SpaceXAI",
-      "url": "https://x.ai/news/grok-build-open-source",
-      "published_at": null,
-      "summary": "Explore the harness behind our coding agent and TUI.",
       "author": null
     }
   ],
