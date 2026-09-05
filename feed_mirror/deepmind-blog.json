@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-05T21:31:43.680337+00:00",
-  "next_refresh_at": "2026-09-05T22:01:43.680337+00:00",
+  "fetched_at": "2026-09-05T23:35:19.224619+00:00",
+  "next_refresh_at": "2026-09-06T00:05:19.224619+00:00",
   "entries": [
     {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
