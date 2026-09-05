@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-05T14:42:18.732945+00:00",
-  "next_refresh_at": "2026-09-05T15:12:18.732945+00:00",
+  "fetched_at": "2026-09-05T17:10:35.873667+00:00",
+  "next_refresh_at": "2026-09-05T17:40:35.873667+00:00",
   "entries": [
     {
       "title": "[AI Ecosystem] The real bottleneck: Data, not compute",
