@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-04T23:46:10.205374+00:00",
-  "next_refresh_at": "2026-09-05T00:16:10.205374+00:00",
+  "fetched_at": "2026-09-05T03:16:51.358525+00:00",
+  "next_refresh_at": "2026-09-05T03:46:51.358525+00:00",
   "entries": [
     {
       "title": "Mistral x HUMAIN",

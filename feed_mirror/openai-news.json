@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-04T23:46:02.962692+00:00",
-  "next_refresh_at": "2026-09-05T00:16:02.962692+00:00",
+  "fetched_at": "2026-09-05T03:16:47.169871+00:00",
+  "next_refresh_at": "2026-09-05T03:46:47.169871+00:00",
   "entries": [
     {
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -24,6 +24,13 @@
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "published_at": "2026-09-03T12:00:00+00:00",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "author": null
+    },
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "published_at": "2026-09-03T11:00:00+00:00",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "author": null
     },
     {
@@ -118,17 +125,17 @@
       "author": null
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "author": null
-    },
-    {
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
       "published_at": "2026-08-26T10:00:00+00:00",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "author": null
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published_at": "2026-08-26T10:00:00+00:00",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/introducing-admin-plugin",
       "published_at": "2026-08-25T00:00:00+00:00",
       "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "author": null
-    },
-    {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "published_at": "2026-08-24T12:00:00+00:00",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
       "author": null
     }
   ],
