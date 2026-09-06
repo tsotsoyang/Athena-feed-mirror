@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-06T20:39:41.330971+00:00",
-  "next_refresh_at": "2026-09-06T21:09:41.330971+00:00",
+  "fetched_at": "2026-09-06T22:43:58.666162+00:00",
+  "next_refresh_at": "2026-09-06T23:13:58.666162+00:00",
   "entries": [
     {
       "title": "An Alien Mind",
