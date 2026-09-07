@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-07T05:44:00.881366+00:00",
-  "next_refresh_at": "2026-09-07T06:14:00.881366+00:00",
+  "fetched_at": "2026-09-07T11:44:39.162754+00:00",
+  "next_refresh_at": "2026-09-07T12:14:39.162754+00:00",
   "entries": [
+    {
+      "title": "长电科技65亿元定增加码AI先进封装",
+      "url": "https://www.esmchina.com/news/14568.html",
+      "published_at": null,
+      "summary": "从“运营满产”到“算力·存力·电力”全栈卡位，国内封测龙头此轮资本动作与此前披露的上海临港78亿元项目形成合力，AI主线再添关键拼图。",
+      "author": null
+    },
+    {
+      "title": "暴雷！日本电机巨头尼得科844起造假，涉家电汽车电机，社长鞠躬：为了省钱",
+      "url": "https://www.esmchina.com/news/14567.html",
+      "published_at": null,
+      "summary": "尼得科公司创始人永守重信等高层虽未直接参与或指示造假，但其提出大幅削减成本、短期内达成较高业绩等不切实际的目标并对下属施压，促使企业形成造假之风。",
+      "author": null
+    },
+    {
+      "title": "终端需求走弱，DRAM为何仍然上涨？",
+      "url": "https://www.esmchina.com/news/14565.html",
+      "published_at": null,
+      "summary": "AI时代先进产能的影子价格，以及电子供应链应如何判断下一轮拐点",
+      "author": null
+    },
     {
       "title": "“双96”LPCAMM2首发｜晶存科技96GB容量、9600Mbps速率，为AI PC打开高性能内存新空间",
       "url": "https://www.esmchina.com/news/14564.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14543.html",
       "published_at": null,
       "summary": "自2025年1月首次被列入黑名单以来，公司声誉和商业利益持续受损，采取这一行动是为了保护商业利益。",
-      "author": null
-    },
-    {
-      "title": "AI数据中心“电荒”倒逼造火箭的开始造叶片：SpaceX得州铸造厂可将燃机上线提前18个月",
-      "url": "https://www.esmchina.com/news/14542.html",
-      "published_at": null,
-      "summary": "SpaceX正在美国得克萨斯州巴斯特罗普（Bastrop）筹建一座铸造厂，专门生产大型燃气轮机的叶片与导叶。",
-      "author": null
-    },
-    {
-      "title": "掘金43亿美元市场，磁传感器赛道的结构性机遇在哪里？",
-      "url": "https://www.esmchina.com/news/14468.html",
-      "published_at": null,
-      "summary": "掘金43亿美元市场，磁传感器赛道的结构性机遇在哪里？",
-      "author": null
-    },
-    {
-      "title": "MLCC景气度再升温，高端器件交期超20周",
-      "url": "https://www.esmchina.com/news/14540.html",
-      "published_at": null,
-      "summary": "据业内多渠道消息透露，MLCC景气度近期再度升温。",
       "author": null
     }
   ],

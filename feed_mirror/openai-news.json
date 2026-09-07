@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-07T05:43:53.483923+00:00",
-  "next_refresh_at": "2026-09-07T06:13:53.483923+00:00",
+  "fetched_at": "2026-09-07T11:44:33.096929+00:00",
+  "next_refresh_at": "2026-09-07T12:14:33.096929+00:00",
   "entries": [
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "published_at": "2026-09-07T00:00:00+00:00",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "author": null
+    },
     {
       "title": "An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind",
@@ -139,17 +146,17 @@
       "author": null
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "author": null
-    },
-    {
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
       "published_at": "2026-08-26T10:00:00+00:00",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "author": null
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published_at": "2026-08-26T10:00:00+00:00",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "published_at": "2026-08-25T07:05:00+00:00",
       "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "author": null
-    },
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "author": null
     }
   ],
