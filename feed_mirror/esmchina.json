@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-07T00:43:37.571055+00:00",
-  "next_refresh_at": "2026-09-07T01:13:37.571055+00:00",
+  "fetched_at": "2026-09-07T05:44:00.881366+00:00",
+  "next_refresh_at": "2026-09-07T06:14:00.881366+00:00",
   "entries": [
+    {
+      "title": "“双96”LPCAMM2首发｜晶存科技96GB容量、9600Mbps速率，为AI PC打开高性能内存新空间",
+      "url": "https://www.esmchina.com/news/14564.html",
+      "published_at": null,
+      "summary": "晶存科技正式首发“双96”LPCAMM2内存模组产品。",
+      "author": null
+    },
     {
       "title": "破产重整危机暂缓，但债务未解、业绩承压：三安光电的危与机",
       "url": "https://www.esmchina.com/news/14562.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14540.html",
       "published_at": null,
       "summary": "据业内多渠道消息透露，MLCC景气度近期再度升温。",
-      "author": null
-    },
-    {
-      "title": "铠侠与闪迪联合投资310亿美元扩建日本工厂，新建K3厂房瞄准AI需求",
-      "url": "https://www.esmchina.com/news/14541.html",
-      "published_at": null,
-      "summary": "过去25年来，两家公司已在日本投资约9万亿日元（约合500亿美元）。",
       "author": null
     }
   ],
