@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-08T06:18:02.660380+00:00",
-  "next_refresh_at": "2026-09-08T06:48:02.660380+00:00",
+  "fetched_at": "2026-09-08T11:35:21.679756+00:00",
+  "next_refresh_at": "2026-09-08T12:05:21.679756+00:00",
   "entries": [
+    {
+      "title": "关于合作苹果、存储缺货，长鑫科技回应市场关切",
+      "url": "https://www.esmchina.com/news/14573.html",
+      "published_at": null,
+      "summary": "国际电子商情8日讯 9月7日，DRAM厂商长鑫科技召开2026年半年度业绩说明会，管理层就苹果合作传闻、下半年DRAM价格走势、HBM进展、国产光刻机导入、周期下行风险等市场核心关切作出回应。",
+      "author": null
+    },
+    {
+      "title": "江波龙港股上市：首家A+H独立存储器厂商，半年净利暴增715倍",
+      "url": "https://www.esmchina.com/news/14572.html",
+      "published_at": null,
+      "summary": "江波龙由此成为国内首家实现“A+H”两地上市的独立存储器企业，国际化资本布局与全球业务协同由此迈入全新阶段。",
+      "author": null
+    },
     {
       "title": "传英特尔PC CPU 10月上旬再涨10%，Small Core低毛利产品线或停产退市",
       "url": "https://www.esmchina.com/news/14570.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14547.html",
       "published_at": null,
       "summary": "9月1日，华为、小米、荣耀三大国产手机品牌同步宣布上调多款在售机型官方售价，覆盖从千元入门机到万元旗舰的全价位段，涨幅从200元到1000元不等。这是2026年以来手机行业第三轮大规模集体调价，也是首次出现头部厂商在同一天集中调价的情况。",
-      "author": null
-    },
-    {
-      "title": "闻泰科技80亿索赔案获法院支持，誓要穷尽法律手段夺回安世",
-      "url": "https://www.esmchina.com/news/14546.html",
-      "published_at": null,
-      "summary": "退市边缘发起反击。",
-      "author": null
-    },
-    {
-      "title": "库克发告别信，15年苹果CEO生涯收官",
-      "url": "https://www.esmchina.com/news/14545.html",
-      "published_at": null,
-      "summary": "在发给全体员工的最后一封内部信中，库克写道：“无论外界如何评价我的成就，我知道一切都归功于你们。”他引用乔布斯“在宇宙中留下印记”的名言，强调苹果的力量源于团队共同的价值观，而非某个个体的天才。",
       "author": null
     }
   ],

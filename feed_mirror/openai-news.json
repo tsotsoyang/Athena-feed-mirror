@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-08T06:17:56.259475+00:00",
-  "next_refresh_at": "2026-09-08T06:47:56.259475+00:00",
+  "fetched_at": "2026-09-08T11:35:16.583832+00:00",
+  "next_refresh_at": "2026-09-08T12:05:16.583832+00:00",
   "entries": [
     {
       "title": "Supporting independent journalism in Ukraine",
