@@ -1,85 +1,80 @@
 {
   "source": "cxl-consortium-news",
   "name": "CXL Consortium press room",
-  "feed_url": "https://computeexpresslink.org/feed/",
-  "fetched_at": "2026-09-08T11:35:06.223750+00:00",
-  "next_refresh_at": "2026-09-08T12:05:06.223750+00:00",
+  "feed_url": "https://computeexpresslink.org/news/feed/",
+  "fetched_at": "2026-09-08T16:06:39.857062+00:00",
+  "next_refresh_at": "2026-09-08T16:36:39.857062+00:00",
   "entries": [
     {
-      "title": "Scaling AI Infrastructure with CXL at AI Infra Summit 2026",
-      "url": "https://computeexpresslink.org/blog/scaling-ai-infrastructure-with-cxl-at-ai-infra-summit-2026-4798/?utm_source=rss&utm_medium=rss&utm_campaign=scaling-ai-infrastructure-with-cxl-at-ai-infra-summit-2026",
-      "published_at": "2026-08-27T16:57:20+00:00",
-      "summary": "AI infrastructure continues to evolve to support larger models, growing datasets and increasingly memory-intensive workloads. As these demands grow, memory capacity, bandwidth, utilization and scalability are becoming critical considerations for the next generation of AI systems. At AI Infra Summit 2026, taking place September 15–17, 2026, in Santa Clara, California, the CXL Consortium will highlight [&#8230;] The post Scaling AI Infrastructure with CXL at AI Infra Summit 2026 first appeared on Compute Express Link .",
+      "title": "Synopsys Rolls Out First Complete CXL 4.0 IP for AI Memory Connectivity",
+      "url": "https://computeexpresslink.org/news/synopsys-rolls-out-first-complete-cxl-4-0-ip-for-ai-memory-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-rolls-out-first-complete-cxl-4-0-ip-for-ai-memory-connectivity",
+      "published_at": "2026-08-27T17:21:35+00:00",
+      "summary": "",
       "author": "Nereus"
     },
     {
-      "title": "Increasing Tokens-per-Dollar with CXL: FMS 2026 Recap",
-      "url": "https://computeexpresslink.org/blog/increasing-tokens-per-dollar-with-cxl-fms-2026-recap-4788/?utm_source=rss&utm_medium=rss&utm_campaign=increasing-tokens-per-dollar-with-cxl-fms-2026-recap",
-      "published_at": "2026-08-21T18:35:47+00:00",
-      "summary": "The CXL Consortium returned to Future of Memory and Storage (FMS) 2026, August 4–6 in Santa Clara, California, to showcase how CXL technology can help AI infrastructure increase tokens-per-dollar by expanding available memory, reducing storage bottlenecks and enabling more efficient use of memory resources. From video demos at the CXL Consortium kiosk and an expert [&#8230;] The post Increasing Tokens-per-Dollar with CXL: FMS 2026 Recap first appeared on Compute Express Link .",
+      "title": "What Hyperscalers Should Know About CXL",
+      "url": "https://computeexpresslink.org/news/what-hyperscalers-should-know-about-cxl/?utm_source=rss&utm_medium=rss&utm_campaign=what-hyperscalers-should-know-about-cxl",
+      "published_at": "2026-08-27T17:19:16+00:00",
+      "summary": "",
       "author": "Nereus"
     },
     {
-      "title": "Increase Tokens-per-Dollar with CXL at Future of Memory and Storage 2026",
-      "url": "https://computeexpresslink.org/blog/increase-tokens-per-dollar-with-cxl-at-future-of-memory-and-storage-2026-4762/?utm_source=rss&utm_medium=rss&utm_campaign=increase-tokens-per-dollar-with-cxl-at-future-of-memory-and-storage-2026",
-      "published_at": "2026-07-30T00:34:19+00:00",
-      "summary": "Join the CXL Consortium at Future of Memory and Storage (FMS) 2026, taking place August 4–6 at the Santa Clara Convention Center, to learn how CXL enables organizations to increase tokens-per-dollar through more efficient memory architectures, improved resource utilization, and scalable AI infrastructure. Visit the CXL Consortium in the Open Standards Pavilion (Booth #725) Stop [&#8230;] The post Increase Tokens-per-Dollar with CXL at Future of Memory and Storage 2026 first appeared on Compute Express Link .",
+      "title": "Even Meta Is Using DDR4 to Get Around DDR5 Memory Shortages",
+      "url": "https://computeexpresslink.org/news/even-meta-is-using-ddr4-to-get-around-ddr5-memory-shortages/?utm_source=rss&utm_medium=rss&utm_campaign=even-meta-is-using-ddr4-to-get-around-ddr5-memory-shortages",
+      "published_at": "2026-08-27T17:16:13+00:00",
+      "summary": "",
       "author": "Nereus"
     },
     {
-      "title": "Join the CXL Ecosystem at CXL Mini DevCon 2026",
-      "url": "https://computeexpresslink.org/blog/join-the-cxl-ecosystem-at-cxl-mini-devcon-2026-4690/?utm_source=rss&utm_medium=rss&utm_campaign=join-the-cxl-ecosystem-at-cxl-mini-devcon-2026",
-      "published_at": "2026-06-30T22:24:39+00:00",
-      "summary": "The CXL® Consortium is excited to welcome members to CXL Mini DevCon 2026, taking place on August 3, 2026, at the Santa Clara Marriott in Santa Clara, California. As CXL adoption accelerates across AI, cloud, memory expansion, and composable infrastructure, Mini DevCon provides a unique opportunity to learn directly from the experts driving innovation across [&#8230;] The post Join the CXL Ecosystem at CXL Mini DevCon 2026 first appeared on Compute Express Link .",
+      "title": "CXL Growth Shown At The 2026 FMS Conference",
+      "url": "https://computeexpresslink.org/news/cxl-growth-shown-at-the-2026-fms-conference/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-growth-shown-at-the-2026-fms-conference",
+      "published_at": "2026-08-27T17:15:09+00:00",
+      "summary": "",
       "author": "Nereus"
     },
     {
-      "title": "CXL® Consortium Member Spotlight: Teledyne LeCroy",
-      "url": "https://computeexpresslink.org/blog/cxl-consortium-member-spotlight-teledyne-lecroy-4680/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-consortium-member-spotlight-teledyne-lecroy",
-      "published_at": "2026-06-23T20:17:07+00:00",
-      "summary": "By: Gordon Getty, Director of Product Management, Teledyne LeCroy &#160; Teledyne LeCroy has been an active participant in the CXL Consortium, contributing expertise in system validation, interoperability, and technology development. In this member spotlight blog, Teledyne LeCroy shares how its involvement is helping advance CXL adoption through collaboration, identifies emerging use cases for CXL technology, [&#8230;] The post CXL® Consortium Member Spotlight: Teledyne LeCroy first appeared on Compute Express Link .",
+      "title": "‘Near zero-cost memory expansion through recycling’: Meta will reuse terabytes worth of DDR4 memory using CXL tech and avoid paying the RAM tax",
+      "url": "https://computeexpresslink.org/news/near-zero-cost-memory-expansion-through-recycling-meta-will-reuse-terabytes-worth-of-ddr4-memory-using-cxl-tech-and-avoid-paying-the-ram-tax/?utm_source=rss&utm_medium=rss&utm_campaign=near-zero-cost-memory-expansion-through-recycling-meta-will-reuse-terabytes-worth-of-ddr4-memory-using-cxl-tech-and-avoid-paying-the-ram-tax",
+      "published_at": "2026-07-06T16:37:12+00:00",
+      "summary": "",
       "author": "Nereus"
     },
     {
-      "title": "From NVDIMM-N to CXL® Persistent Memory: Bringing Persistence to the Memory Fabric",
-      "url": "https://computeexpresslink.org/blog/from-nvdimm-n-to-cxl-persistent-memory-bringing-persistence-to-the-memory-fabric-4635/?utm_source=rss&utm_medium=rss&utm_campaign=from-nvdimm-n-to-cxl-persistent-memory-bringing-persistence-to-the-memory-fabric",
-      "published_at": "2026-05-25T15:00:33+00:00",
-      "summary": "By: Netlist &#160; Introduction Early server deployments proved the value of persistent memory but also exposed a key limitation: persistence was typically constrained to socket-attached form factors and platform-specific enablement. With Compute Express Link® (CXL®), persistence can move onto a standard, cache-coherent fabric, opening new design space for scalable, composable systems. Figure 1. Persistent memory [&#8230;] The post From NVDIMM-N to CXL® Persistent Memory: Bringing Persistence to the Memory Fabric first appeared on Compute Express Link .",
+      "title": "MWC 2026: SK Telecom and Panmnesia Sign Partnership to Innovate AI Data Center Architecture, Enhancing Cost Efficiency and Performance",
+      "url": "https://computeexpresslink.org/news/mwc-2026-sk-telecom-and-panmnesia-sign-partnership-to-innovate-ai-data-center-architecture-enhancing-cost-efficiency-and-performance/?utm_source=rss&utm_medium=rss&utm_campaign=mwc-2026-sk-telecom-and-panmnesia-sign-partnership-to-innovate-ai-data-center-architecture-enhancing-cost-efficiency-and-performance",
+      "published_at": "2026-03-09T16:13:59+00:00",
+      "summary": "",
       "author": "Nereus"
     },
     {
-      "title": "Chiplet Architecture for CXL solutions",
-      "url": "https://computeexpresslink.org/blog/chiplet-architecture-for-cxl-solutions-4558/?utm_source=rss&utm_medium=rss&utm_campaign=chiplet-architecture-for-cxl-solutions",
-      "published_at": "2026-05-01T16:17:26+00:00",
-      "summary": "CXL memory expansion has long been viewed as a way to extend system memory capacity. However, recent advancements are pushing CXL far beyond simple expansion toward fundamentally new memory architectures. The first implementations of memory expansion typically have modules attached to a host CPU’s CXL bus to augment the local DRAM on the host CPU’s [&#8230;] The post Chiplet Architecture for CXL solutions first appeared on Compute Express Link .",
+      "title": "Compute Express Link Consortium debuts 4.0 spec to push past bandwidth bottlenecks",
+      "url": "https://computeexpresslink.org/news/compute-express-link-consortium-debuts-4-0-spec-to-push-past-bandwidth-bottlenecks/?utm_source=rss&utm_medium=rss&utm_campaign=compute-express-link-consortium-debuts-4-0-spec-to-push-past-bandwidth-bottlenecks",
+      "published_at": "2025-12-04T20:15:24+00:00",
+      "summary": "",
       "author": "Nereus"
     },
     {
-      "title": "Scale Your AI Performance with CXL: Insights from the Xcelerated Compute Show",
-      "url": "https://computeexpresslink.org/blog/scale-your-ai-performance-with-cxl-insights-from-the-xcelerated-compute-show-4546/?utm_source=rss&utm_medium=rss&utm_campaign=scale-your-ai-performance-with-cxl-insights-from-the-xcelerated-compute-show",
-      "published_at": "2026-04-27T22:15:49+00:00",
-      "summary": "At the inaugural Xcelerated Compute Show 2026 in New York City, the industry came together to tackle one of the most pressing challenges in modern computing: efficiently scaling infrastructure for AI. As a Media &#38; Industry Partner, the CXL Consortium was thrilled to introduce CXL – the open standard for coherent disaggregated memory. Across keynotes, [&#8230;] The post Scale Your AI Performance with CXL: Insights from the Xcelerated Compute Show first appeared on Compute Express Link .",
+      "title": "CXL Supports Higher Performance And DDN Enables Sovereign AI At SC25",
+      "url": "https://computeexpresslink.org/news/cxl-supports-higher-performance-and-ddn-enables-sovereign-ai-at-sc25/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-supports-higher-performance-and-ddn-enables-sovereign-ai-at-sc25",
+      "published_at": "2025-12-04T20:14:33+00:00",
+      "summary": "",
       "author": "Nereus"
     },
     {
-      "title": "CXL Dynamic Capacity Device Technology Demo with Live Multi-Host System Using MXC GEN3 Silicon",
-      "url": "https://computeexpresslink.org/blog/cxl-dynamic-capacity-device-technology-demo-with-live-multi-host-system-using-mxc-gen3-silicon-4527/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-dynamic-capacity-device-technology-demo-with-live-multi-host-system-using-mxc-gen3-silicon",
-      "published_at": "2026-04-17T01:41:47+00:00",
-      "summary": "By: Montage Technology &#160; The promise of memory disaggregation has moved from concept to reality. Montage Technology has successfully demonstrated a fully functional CXL® Dynamic Capacity Device (DCD) system using our new CXL 3.2 x8 memory expansion controller chip, showcasing how DCD technology with Multi-Head Device (MHD) support enables memory pooling and sharing across multiple [&#8230;] The post CXL Dynamic Capacity Device Technology Demo with Live Multi-Host System Using MXC GEN3 Silicon first appeared on Compute Express Link .",
+      "title": "CXL Adds Port Bundling to Quench AI Thirst",
+      "url": "https://computeexpresslink.org/news/cxl-adds-port-bundling-to-quench-ai-thirst/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-adds-port-bundling-to-quench-ai-thirst",
+      "published_at": "2025-12-04T20:13:30+00:00",
+      "summary": "",
       "author": "Nereus"
     },
     {
-      "title": "Scaling your AI Performance with CXL: Join us at the Xcelerated Compute Show",
-      "url": "https://computeexpresslink.org/blog/scaling-your-ai-performance-with-cxl-join-us-at-the-xcelerated-compute-show-4431/?utm_source=rss&utm_medium=rss&utm_campaign=scaling-your-ai-performance-with-cxl-join-us-at-the-xcelerated-compute-show",
-      "published_at": "2026-03-04T20:19:09+00:00",
-      "summary": "The CXL Consortium is looking forward to promoting the benefits of CXL at the Xcelerated Compute Show, taking place from March 23-24, 2026, at the Marriott Marquis Times Square in NYC. The event brings together leaders from across hyperscale, neocloud, enterprise, and the wider ecosystem. As AI and data-intensive workloads reshape infrastructure requirements, traditional server [&#8230;] The post Scaling your AI Performance with CXL: Join us at the Xcelerated Compute Show first appeared on Compute Express Link .",
+      "title": "CXL Consortium Members – Statements of Support for CXL 4.0 Specification",
+      "url": "https://computeexpresslink.org/news/cxl-consortium-members-statements-of-support-for-cxl-4-0-specification/?utm_source=rss&utm_medium=rss&utm_campaign=cxl-consortium-members-statements-of-support-for-cxl-4-0-specification",
+      "published_at": "2025-11-18T13:00:43+00:00",
+      "summary": "",
       "author": "Nereus"
     }
   ],
-  "errors": [
-    {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
-    }
-  ]
+  "errors": []
 }

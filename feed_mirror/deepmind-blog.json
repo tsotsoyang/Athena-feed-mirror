@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-08T11:35:26.579124+00:00",
-  "next_refresh_at": "2026-09-08T12:05:26.579124+00:00",
+  "fetched_at": "2026-09-08T16:07:01.508120+00:00",
+  "next_refresh_at": "2026-09-08T16:37:01.508120+00:00",
   "entries": [
+    {
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "published_at": "2026-09-08T14:00:15+00:00",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "author": null
+    },
     {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
       "published_at": "2026-06-16T15:46:31+00:00",
       "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-      "author": null
-    },
-    {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "published_at": "2026-06-10T16:24:11+00:00",
-      "summary": "",
       "author": null
     }
   ],
