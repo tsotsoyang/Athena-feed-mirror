@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-08T19:30:10.558117+00:00",
-  "next_refresh_at": "2026-09-08T20:00:10.558117+00:00",
+  "fetched_at": "2026-09-08T21:59:21.277296+00:00",
+  "next_refresh_at": "2026-09-08T22:29:21.277296+00:00",
   "entries": [
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "published_at": "2026-09-08T17:00:00+00:00",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "author": null
+    },
     {
       "title": "The Work Now Within Reach",
       "url": "https://openai.com/index/the-work-now-within-reach",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "published_at": "2026-08-28T02:00:00+00:00",
       "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "author": null
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "published_at": "2026-08-27T09:00:00+00:00",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "author": null
     }
   ],
