@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-08T01:18:20.954423+00:00",
-  "next_refresh_at": "2026-09-08T01:48:20.954423+00:00",
+  "fetched_at": "2026-09-08T06:18:02.660380+00:00",
+  "next_refresh_at": "2026-09-08T06:48:02.660380+00:00",
   "entries": [
+    {
+      "title": "传英特尔PC CPU 10月上旬再涨10%，Small Core低毛利产品线或停产退市",
+      "url": "https://www.esmchina.com/news/14570.html",
+      "published_at": null,
+      "summary": "若此消息属实，将是英特尔自2025年底以来的第三轮涨价。",
+      "author": null
+    },
+    {
+      "title": "信息通信业“十五五”规划出炉：五年累计投资3.8万亿元，首次明确”适时启动6G商用”",
+      "url": "https://www.esmchina.com/news/14569.html",
+      "published_at": null,
+      "summary": "工业和信息化部于2026年9月7日正式对外发布《信息通信行业发展“十五五”规划》。",
+      "author": null
+    },
     {
       "title": "长电科技65亿元定增加码AI先进封装",
       "url": "https://www.esmchina.com/news/14568.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14545.html",
       "published_at": null,
       "summary": "在发给全体员工的最后一封内部信中，库克写道：“无论外界如何评价我的成就，我知道一切都归功于你们。”他引用乔布斯“在宇宙中留下印记”的名言，强调苹果的力量源于团队共同的价值观，而非某个个体的天才。",
-      "author": null
-    },
-    {
-      "title": "英伟达35亿美元入股联发科，黄仁勋在下一盘什么棋？",
-      "url": "https://www.esmchina.com/news/14544.html",
-      "published_at": null,
-      "summary": "8月31日，英伟达宣布以35亿美元认购联发科发行的可转换债券，使其成为英伟达在美国以外地区最大的一笔直接投资。",
-      "author": null
-    },
-    {
-      "title": "长鑫存储起诉美国防部，LPDDR6量产，半年营收1503亿元",
-      "url": "https://www.esmchina.com/news/14543.html",
-      "published_at": null,
-      "summary": "自2025年1月首次被列入黑名单以来，公司声誉和商业利益持续受损，采取这一行动是为了保护商业利益。",
       "author": null
     }
   ],

@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-08T01:18:22.618438+00:00",
-  "next_refresh_at": "2026-09-08T01:48:22.618438+00:00",
+  "fetched_at": "2026-09-08T06:18:04.283668+00:00",
+  "next_refresh_at": "2026-09-08T06:48:04.283668+00:00",
   "entries": [
+    {
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "published_at": "2026-09-08T12:00:22+00:00",
+      "summary": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
+      "author": null
+    },
     {
       "title": "Mistral x HUMAIN",
       "url": "https://mistral.ai/news/mistral-x-humain/",
@@ -170,13 +177,6 @@
       "title": "Rails testing on autopilot: Building an agent that writes what developers won't",
       "url": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/",
       "published_at": "2026-03-11T12:00:00+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Voxtral transcribes at the speed of sound.",
-      "url": "https://mistral.ai/news/voxtral-transcribe-2/",
-      "published_at": "2026-02-04T16:00:00+00:00",
       "summary": "",
       "author": null
     }
