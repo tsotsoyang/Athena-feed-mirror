@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-09T17:55:20.752427+00:00",
-  "next_refresh_at": "2026-09-09T18:25:20.752427+00:00",
+  "fetched_at": "2026-09-09T20:32:26.717905+00:00",
+  "next_refresh_at": "2026-09-09T21:02:26.717905+00:00",
   "entries": [
     {
       "title": "Modernizing complex legacy code with AI agents.",
