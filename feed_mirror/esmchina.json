@@ -2,11 +2,25 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-09T05:00:26.354650+00:00",
-  "next_refresh_at": "2026-09-09T05:30:26.354650+00:00",
+  "fetched_at": "2026-09-09T09:36:09.969608+00:00",
+  "next_refresh_at": "2026-09-09T10:06:09.969608+00:00",
   "entries": [
     {
-      "title": "GaN市场大洗牌，中国企业稳居全球第一",
+      "title": "FieldFox外场实测：基站/卫星/雷达一次讲透",
+      "url": "https://www.eet-china.com/ee-live/entry/Keysight_20261023.html?source=popup",
+      "published_at": null,
+      "summary": "直播抽近80份礼品！基站共址评估｜卫星地面站测试｜雷达脉冲测量——真实工程案例现场拆解",
+      "author": null
+    },
+    {
+      "title": "十万卡集群密集开建，国产芯片迎来规模化大考",
+      "url": "https://www.esmchina.com/news/14577.html",
+      "published_at": null,
+      "summary": "“十五五”规划明确支持十万卡级别智算设施建设，京东、DeepSeek、中科曙光三大国产算力项目相继浮出水面。",
+      "author": null
+    },
+    {
+      "title": "功率GaN市场大洗牌，中国企业稳居全球第一",
       "url": "https://www.esmchina.com/news/14576.html",
       "published_at": null,
       "summary": "Yole Group最新发布的《Power GaN 2026》报告显示，全球氮化镓（GaN）功率器件市场正迎来强劲爆发。2025年，该市场规模预计将攀升至5.88亿美元，同比实现约63%的大幅增长。",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14552.html",
       "published_at": null,
       "summary": "他形容AI供应链正在全面飘红、火力全开。",
-      "author": null
-    },
-    {
-      "title": "AI芯片厂为什么会在意游戏市场？",
-      "url": "https://www.esmchina.com/news/14454.html",
-      "published_at": null,
-      "summary": "AI芯片厂为什么会在意游戏市场？这个问题的答案自然要从NVIDIA（英伟达）说起。",
-      "author": null
-    },
-    {
-      "title": "比亚迪半导体发布卫星架构4D毫米波雷达芯片：28nm工艺、8发8收",
-      "url": "https://www.esmchina.com/news/14551.html",
-      "published_at": null,
-      "summary": "该芯片基于28nm车规工艺打造，专为高分辨率雷达系统需求设计，可无缝对接多款主流智驾芯片平台。",
       "author": null
     }
   ],
