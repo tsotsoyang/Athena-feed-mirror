@@ -2,12 +2,33 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-09T00:02:47.894681+00:00",
-  "next_refresh_at": "2026-09-09T00:32:47.894681+00:00",
+  "fetched_at": "2026-09-09T05:00:26.354650+00:00",
+  "next_refresh_at": "2026-09-09T05:30:26.354650+00:00",
   "entries": [
     {
+      "title": "GaN市场大洗牌，中国企业稳居全球第一",
+      "url": "https://www.esmchina.com/news/14576.html",
+      "published_at": null,
+      "summary": "Yole Group最新发布的《Power GaN 2026》报告显示，全球氮化镓（GaN）功率器件市场正迎来强劲爆发。2025年，该市场规模预计将攀升至5.88亿美元，同比实现约63%的大幅增长。",
+      "author": null
+    },
+    {
+      "title": "高通携手亚马逊开发AI推理芯片，潜在采购规模可达600亿美元",
+      "url": "https://www.esmchina.com/news/14575.html",
+      "published_at": null,
+      "summary": "这项合作在未来十年内的潜在采购规模最高可达600亿美元，是高通迄今在数据中心市场拿下的最大订单。",
+      "author": null
+    },
+    {
+      "title": "半年营收逼近2000亿！14家上市分销商全员正增长，4家已超去年全年",
+      "url": "https://www.esmchina.com/news/14571.html",
+      "published_at": null,
+      "summary": "梳理各家上市分销商的业绩归因，一条清晰的主线贯穿始终：AI算力需求爆发，带动存储芯片价格飙升，进而引爆整个分销链条。",
+      "author": null
+    },
+    {
       "title": "AI重塑EDA：工程师的帮手还是对手？",
-      "url": "https://site.eet-china.com/RC/siemens_eda/index.html?s=v17",
+      "url": "http://pubads.g.doubleclick.net/gampad/clk?id=7426821485&iu=/122049170/TEXT_AD",
       "published_at": null,
       "summary": "自生成式 AI席卷科技圈，关于&amp;quot;AI 能否自动完成芯片设计&amp;quot;的讨论从未停歇。来听听西门子EDA技术大咖的解析，深度探索AI究竟给EDA行业带来了怎样的改变？拆解 AI与EDA的融合路径，探讨芯片设计的下个阶段究竟如何演进！锁定西门子EDA视频播客，解锁更多硬核思考！",
       "author": null
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14551.html",
       "published_at": null,
       "summary": "该芯片基于28nm车规工艺打造，专为高分辨率雷达系统需求设计，可无缝对接多款主流智驾芯片平台。",
-      "author": null
-    },
-    {
-      "title": "从“柔性革命”到“湃迅元年”：Pragmatic半导体在中国加速深耕",
-      "url": "https://www.esmchina.com/news/14550.html",
-      "published_at": null,
-      "summary": "Pragmatic正式发布了中文品牌名称“湃迅半导体”。这一命名既保留了英文发音的相近性，又融入了“心潮澎湃”“服务迅捷”的词义。",
-      "author": null
-    },
-    {
-      "title": "AI转型与出海双主线：斑马技术IOTE 2026勾勒“智能运营”新图景",
-      "url": "https://www.esmchina.com/news/14549.html",
-      "published_at": null,
-      "summary": "AI转型与制造业出海不仅是2026年最热的两大产业话题，也是斑马技术未来一段时间在华的两大战略重点。",
-      "author": null
-    },
-    {
-      "title": "英伟达供应商欣兴电子被查“洗产地”，14名员工卷入调查",
-      "url": "https://www.esmchina.com/news/14548.html",
-      "published_at": null,
-      "summary": "近日，中国台湾桃园地方检察署指挥调查人员，大举搜查全球PCB与IC载板巨头欣兴电子（Unimicron）位于龟山的总公司及中坜合江厂。",
       "author": null
     }
   ],
