@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-09T14:12:09.507785+00:00",
-  "next_refresh_at": "2026-09-09T14:42:09.507785+00:00",
+  "fetched_at": "2026-09-09T17:55:20.752427+00:00",
+  "next_refresh_at": "2026-09-09T18:25:20.752427+00:00",
   "entries": [
+    {
+      "title": "Modernizing complex legacy code with AI agents.",
+      "url": "https://mistral.ai/news/legacy-code-modernization/",
+      "published_at": "2026-09-09T12:00:46+00:00",
+      "summary": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++. Learn how it was done, and the lessons to carry forward.",
+      "author": null
+    },
     {
       "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
       "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
@@ -170,13 +177,6 @@
       "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
       "url": "https://mistral.ai/news/leanstral/",
       "published_at": "2026-03-16T16:00:00+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Rails testing on autopilot: Building an agent that writes what developers won't",
-      "url": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/",
-      "published_at": "2026-03-11T12:00:00+00:00",
       "summary": "",
       "author": null
     }
