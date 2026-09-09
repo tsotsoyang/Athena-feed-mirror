@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-09T20:32:19.631858+00:00",
-  "next_refresh_at": "2026-09-09T21:02:19.631858+00:00",
+  "fetched_at": "2026-09-09T22:58:52.009349+00:00",
+  "next_refresh_at": "2026-09-09T23:28:52.009349+00:00",
   "entries": [
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "published_at": "2026-09-09T11:00:00+00:00",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "author": null
+    },
     {
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "published_at": "2026-08-31T04:00:00+00:00",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "author": null
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "published_at": "2026-08-28T06:00:00+00:00",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "author": null
     }
   ],
