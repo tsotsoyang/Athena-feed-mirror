@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-08T21:59:27.316953+00:00",
-  "next_refresh_at": "2026-09-08T22:29:27.316953+00:00",
+  "fetched_at": "2026-09-09T00:02:49.516424+00:00",
+  "next_refresh_at": "2026-09-09T00:32:49.516424+00:00",
   "entries": [
     {
       "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",

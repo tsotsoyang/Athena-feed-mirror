@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-08T21:59:08.086290+00:00",
-  "next_refresh_at": "2026-09-08T22:29:08.086290+00:00",
+  "fetched_at": "2026-09-09T00:02:29.897292+00:00",
+  "next_refresh_at": "2026-09-09T00:32:29.897292+00:00",
   "entries": [
+    {
+      "title": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+      "url": "https://news.skhynix.com/en/future-forum-2026/",
+      "published_at": "2026-09-09T00:00:08+00:00",
+      "summary": "▲ A panoramic view of the 2026 SK hynix Future Forum venue On September 8, SK hynix held the 2026 SK hynix Future Forum (Future Forum) at the SUPEX Center on its Icheon Campus under the theme, “The Golden Time",
+      "author": "SK hynix"
+    },
     {
       "title": "[AI Ecosystem] The real bottleneck: Data, not compute",
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep2-5/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2-1/",
       "published_at": "2026-09-01T04:49:46+00:00",
       "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Infrastructure Insight] Why faster GPUs alone can’t deliver AI performance",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2/",
-      "published_at": "2026-08-30T23:59:33+00:00",
-      "summary": "AI is no longer defined by a single model or chip. For AI to operate effectively in real-world services and industrial applications, it takes faster compute, greater memory bandwidth, higher-performance networking, more efficient storage, and stable power and cooling working",
       "author": "SK hynix"
     }
   ],
