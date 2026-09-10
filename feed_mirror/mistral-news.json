@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-10T14:52:34.846171+00:00",
-  "next_refresh_at": "2026-09-10T15:22:34.846171+00:00",
+  "fetched_at": "2026-09-10T18:09:41.622800+00:00",
+  "next_refresh_at": "2026-09-10T18:39:41.622800+00:00",
   "entries": [
     {
       "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
@@ -153,6 +153,13 @@
       "author": null
     },
     {
+      "title": "Spaces: A CLI Built for Humans and Agents",
+      "url": "https://mistral.ai/news/spaces/",
+      "published_at": "2026-03-31T12:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
       "title": "Speaking of Voxtral",
       "url": "https://mistral.ai/news/voxtral-tts/",
       "published_at": "2026-03-23T16:00:00+00:00",
@@ -170,13 +177,6 @@
       "title": "Introducing Mistral Small 4",
       "url": "https://mistral.ai/news/mistral-small-4/",
       "published_at": "2026-03-16T21:00:00+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
-      "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
-      "published_at": "2026-03-16T20:00:00+00:00",
       "summary": "",
       "author": null
     }
