@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-10T00:58:45.982440+00:00",
-  "next_refresh_at": "2026-09-10T01:28:45.982440+00:00",
+  "fetched_at": "2026-09-10T05:48:30.671301+00:00",
+  "next_refresh_at": "2026-09-10T06:18:30.671301+00:00",
   "entries": [
     {
       "title": "Grok Bot for Enterprise | SpaceXAI",
@@ -48,10 +48,10 @@
       "author": null
     },
     {
-      "title": "Grok Bot is now included with more plans Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans. Aug 26, 2026",
+      "title": "Grok Bot is now included with more plans | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-more-plans",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
       "author": null
     },
     {
@@ -97,10 +97,10 @@
       "author": null
     },
     {
-      "title": "Imagine Image 2.0 Precise image generation and editing, built for real creative work. Aug 7, 2026",
+      "title": "Imagine Image 2.0 | SpaceXAI",
       "url": "https://x.ai/news/grok-imagine-image-2",
       "published_at": null,
-      "summary": "",
+      "summary": "Precise image generation and editing, built for real creative work.",
       "author": null
     },
     {
@@ -111,10 +111,10 @@
       "author": null
     },
     {
-      "title": "Introducing Grok Voice Think Fast 2.0 Introducing our most capable speech-to-speech voice model. Jul 29, 2026",
+      "title": "Introducing Grok Voice Think Fast 2.0 | SpaceXAI",
       "url": "https://x.ai/news/grok-voice-think-fast-2",
       "published_at": null,
-      "summary": "",
+      "summary": "Introducing our most capable speech-to-speech voice model.",
       "author": null
     },
     {
@@ -146,10 +146,10 @@
       "author": null
     },
     {
-      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android. Jul 22, 2026",
+      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X | SpaceXAI",
       "url": "https://x.ai/news/grok-4-5-everywhere",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
       "author": null
     },
     {
@@ -160,24 +160,24 @@
       "author": null
     },
     {
-      "title": "Grok for Excel Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook. Jul 20, 2026",
+      "title": "Grok for Excel | SpaceXAI",
       "url": "https://x.ai/news/introducing-excel-addin",
       "published_at": null,
-      "summary": "",
+      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
       "author": null
     },
     {
-      "title": "Introducing Grok 4.5 Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work. Jul 16, 2026",
+      "title": "Introducing Grok 4.5 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.5 is SpaceXAI",
       "author": null
     },
     {
-      "title": "Automations in Grok Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back. Jul 16, 2026",
+      "title": "Automations in Grok | SpaceXAI",
       "url": "https://x.ai/news/grok-automations",
       "published_at": null,
-      "summary": "",
+      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
       "author": null
     }
   ],

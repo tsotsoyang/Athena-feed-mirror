@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-10T00:58:36.421214+00:00",
-  "next_refresh_at": "2026-09-10T01:28:36.421214+00:00",
+  "fetched_at": "2026-09-10T05:48:22.285958+00:00",
+  "next_refresh_at": "2026-09-10T06:18:22.285958+00:00",
   "entries": [
+    {
+      "title": "90亿元！ADI全现金收购MCU公司",
+      "url": "https://www.esmchina.com/news/14581.html",
+      "published_at": null,
+      "summary": "ADI与Alif Semiconductor今日宣布，双方已签署最终协议，ADI将以13.5亿美元的全现金交易方式收购Alif。",
+      "author": null
+    },
+    {
+      "title": "苹果iPhone 18 Pro首发2nm A20 Pro，首款折叠屏iPhone Duo定档10月",
+      "url": "https://www.esmchina.com/news/14580.html",
+      "published_at": null,
+      "summary": "虽然截至目前苹果尚未公开确认长江存储或长鑫存储已进入iPhone 18核心供应链，但是《国际电子商情》认为，以上消息展现出国产存储与苹果供应链的潜在合作前景。",
+      "author": null
+    },
     {
       "title": "商务部警告：美国借“蒸馏”遏压中国AI企业，必遭坚决反制",
       "url": "https://www.esmchina.com/news/14579.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14555.html",
       "published_at": null,
       "summary": "AI需求推动存储厂商向HBM倾斜资源，从而压缩部分传统DRAM供应，从而加剧了全产业内存缺货。",
-      "author": null
-    },
-    {
-      "title": "华虹宏力21亿美元增资无锡三期：月产5.5万片12英寸产线落地",
-      "url": "https://www.esmchina.com/news/14554.html",
-      "published_at": null,
-      "summary": "华虹宏力发布对外投资公告。",
-      "author": null
-    },
-    {
-      "title": "给物联网设备装上全球流量eSIM卡：emnify以SGP.32引导连接切入中国OEM出海链路",
-      "url": "https://www.esmchina.com/news/14553.html",
-      "published_at": null,
-      "summary": "OEM计划在设备出厂前就嵌入eSIM并完成测试，让制造商彻底告别“盲盒”式发货——无论设备发往哪个国家，都能在工厂内完成连接测试与配置，显著降低SKU管理成本。",
       "author": null
     }
   ],

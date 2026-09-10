@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-10T00:58:31.480570+00:00",
-  "next_refresh_at": "2026-09-10T01:28:31.480570+00:00",
+  "fetched_at": "2026-09-10T05:48:15.226275+00:00",
+  "next_refresh_at": "2026-09-10T06:18:15.226275+00:00",
   "entries": [
     {
       "title": "The AI policy window is open. We need to act.",
