@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-10T10:46:27.447638+00:00",
-  "next_refresh_at": "2026-09-10T11:16:27.447638+00:00",
+  "fetched_at": "2026-09-10T14:52:46.143477+00:00",
+  "next_refresh_at": "2026-09-10T15:22:46.143477+00:00",
   "entries": [
     {
       "title": "Grok Bot for Enterprise | SpaceXAI",
@@ -34,17 +34,17 @@
       "author": null
     },
     {
-      "title": "Grok Bot now works with X | SpaceXAI",
+      "title": "Aug 29, 2026 Grok Bot now works with X",
       "url": "https://x.ai/news/grok-bot-and-x",
       "published_at": null,
-      "summary": "Grok Bot now has a tighter integration with X.",
+      "summary": "",
       "author": null
     },
     {
-      "title": "Grok 4.6 on Microsoft Foundry | SpaceXAI",
+      "title": "Grok 4.6 on Microsoft Foundry Grok 4.6 is now available via Microsoft Foundry. Aug 26, 2026",
       "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
       "published_at": null,
-      "summary": "Grok 4.6 is now available via Microsoft Foundry.",
+      "summary": "",
       "author": null
     },
     {

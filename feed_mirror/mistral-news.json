@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-10T10:46:17.496273+00:00",
-  "next_refresh_at": "2026-09-10T11:16:17.496273+00:00",
+  "fetched_at": "2026-09-10T14:52:34.846171+00:00",
+  "next_refresh_at": "2026-09-10T15:22:34.846171+00:00",
   "entries": [
+    {
+      "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+      "url": "https://mistral.ai/news/mistral-x-cloudera/",
+      "published_at": "2026-09-10T10:42:55+00:00",
+      "summary": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
+      "author": null
+    },
     {
       "title": "Modernizing complex legacy code with AI agents.",
       "url": "https://mistral.ai/news/legacy-code-modernization/",
@@ -170,13 +177,6 @@
       "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
       "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
       "published_at": "2026-03-16T20:00:00+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
-      "url": "https://mistral.ai/news/leanstral/",
-      "published_at": "2026-03-16T16:00:00+00:00",
       "summary": "",
       "author": null
     }
