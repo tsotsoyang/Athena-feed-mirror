@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-09T22:58:58.526330+00:00",
-  "next_refresh_at": "2026-09-09T23:28:58.526330+00:00",
+  "fetched_at": "2026-09-10T00:58:36.421214+00:00",
+  "next_refresh_at": "2026-09-10T01:28:36.421214+00:00",
   "entries": [
+    {
+      "title": "商务部警告：美国借“蒸馏”遏压中国AI企业，必遭坚决反制",
+      "url": "https://www.esmchina.com/news/14579.html",
+      "published_at": null,
+      "summary": "中方认为，美方所谓中国人工智能企业从事“工业规模”蒸馏美模型的指控，于事无凭，于法无据。美方此举，是将蒸馏这一业内正常的技术和商业问题政治化、工具化，并在实践中搞双重标准。",
+      "author": null
+    },
     {
       "title": "FieldFox外场实测：基站/卫星/雷达一次讲透",
       "url": "https://www.eet-china.com/ee-live/entry/Keysight_20261023.html?source=popup",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14553.html",
       "published_at": null,
       "summary": "OEM计划在设备出厂前就嵌入eSIM并完成测试，让制造商彻底告别“盲盒”式发货——无论设备发往哪个国家，都能在工厂内完成连接测试与配置，显著降低SKU管理成本。",
-      "author": null
-    },
-    {
-      "title": "存储厂商扩产不停，终端依然喊缺：戴尔950亿美元订单积压暴露供应链极限",
-      "url": "https://www.esmchina.com/news/14552.html",
-      "published_at": null,
-      "summary": "他形容AI供应链正在全面飘红、火力全开。",
       "author": null
     }
   ],
