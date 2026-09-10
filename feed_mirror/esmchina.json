@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-10T05:48:22.285958+00:00",
-  "next_refresh_at": "2026-09-10T06:18:22.285958+00:00",
+  "fetched_at": "2026-09-10T10:46:16.001802+00:00",
+  "next_refresh_at": "2026-09-10T11:16:16.001802+00:00",
   "entries": [
+    {
+      "title": "突发！英伟达遭反垄断调查",
+      "url": "https://www.esmchina.com/news/14583.html",
+      "published_at": null,
+      "summary": "美国司法部（DOJ）已正式对芯片巨头英伟达（NVIDIA）与AI芯片初创公司Groq之间的一笔巨额交易展开反垄断调查。",
+      "author": null
+    },
+    {
+      "title": "分化的答卷，2026中国EDA上市公司H1中报复盘",
+      "url": "https://www.esmchina.com/news/14582.html",
+      "published_at": null,
+      "summary": "本文结合三家公司2026年半年报数据，从营收、利润、研发、业务布局等维度展开全面解析，复盘三家企业当期经营表现，剖析业绩分化背后的商业模式差异与行业发展趋势。",
+      "author": null
+    },
     {
       "title": "90亿元！ADI全现金收购MCU公司",
       "url": "https://www.esmchina.com/news/14581.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14557.html",
       "published_at": null,
       "summary": "国际电子商情讯，近日，供应链渠道传出一封落款为德州仪器（TI）的客户通知函，预告该公司即将新一轮涨价。",
-      "author": null
-    },
-    {
-      "title": "AI营收连续翻倍！博通Q3业绩大幅超预期",
-      "url": "https://www.esmchina.com/news/14556.html",
-      "published_at": null,
-      "summary": "AI业务扛起增长大旗！",
-      "author": null
-    },
-    {
-      "title": "三星锁定七成存储产能至2031年，HBM5路线图同步曝光",
-      "url": "https://www.esmchina.com/news/14555.html",
-      "published_at": null,
-      "summary": "AI需求推动存储厂商向HBM倾斜资源，从而压缩部分传统DRAM供应，从而加剧了全产业内存缺货。",
       "author": null
     }
   ],

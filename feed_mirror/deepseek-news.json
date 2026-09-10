@@ -2,14 +2,14 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-09-10T05:48:25.599076+00:00",
-  "next_refresh_at": "2026-09-10T06:18:25.599076+00:00",
+  "fetched_at": "2026-09-10T10:46:21.359292+00:00",
+  "next_refresh_at": "2026-09-10T11:16:21.359292+00:00",
   "entries": [
     {
-      "title": "DeepSeek-V4-Flash-Vision-Exp Release: Multimodal API Now Live | DeepSeek API Docs",
-      "url": "https://api-docs.deepseek.com/news/news260821",
+      "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/news/news260910",
       "published_at": null,
-      "summary": "DeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀",
+      "summary": "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.",
       "author": null
     }
   ],
