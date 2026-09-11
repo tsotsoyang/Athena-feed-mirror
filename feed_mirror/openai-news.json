@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-11T21:50:47.992174+00:00",
-  "next_refresh_at": "2026-09-11T22:20:47.992174+00:00",
+  "fetched_at": "2026-09-11T23:54:40.676379+00:00",
+  "next_refresh_at": "2026-09-12T00:24:40.676379+00:00",
   "entries": [
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
@@ -41,17 +41,17 @@
       "author": null
     },
     {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "author": null
-    },
-    {
       "title": "Introducing the Agents API",
       "url": "https://openai.com/index/introducing-the-agents-api",
       "published_at": "2026-09-10T00:00:00+00:00",
       "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "author": null
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "author": null
     },
     {
@@ -153,17 +153,17 @@
       "author": null
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "published_at": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "author": null
-    },
-    {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "published_at": "2026-09-03T12:00:00+00:00",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "author": null
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published_at": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "author": null
     },
     {
