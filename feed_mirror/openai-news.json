@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-11T01:21:09.805541+00:00",
-  "next_refresh_at": "2026-09-11T01:51:09.805541+00:00",
+  "fetched_at": "2026-09-11T06:26:43.343697+00:00",
+  "next_refresh_at": "2026-09-11T06:56:43.343697+00:00",
   "entries": [
     {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",

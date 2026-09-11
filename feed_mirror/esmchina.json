@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-11T01:21:15.661279+00:00",
-  "next_refresh_at": "2026-09-11T01:51:15.661279+00:00",
+  "fetched_at": "2026-09-11T06:26:50.829673+00:00",
+  "next_refresh_at": "2026-09-11T06:56:50.829673+00:00",
   "entries": [
+    {
+      "title": "开盘暴涨188%！市值破1700亿，燧原科技登陆科创板",
+      "url": "https://www.esmchina.com/news/14587.html",
+      "published_at": null,
+      "summary": "9月11日，国产云端AI芯片领军企业燧原科技（股票代码：688801）正式在上海证券交易所科创板挂牌上市。上市首日，该股开盘即大涨188.37%，报410元/股，开盘市值突破1700亿元。",
+      "author": null
+    },
+    {
+      "title": "深科技18.5亿扩产高端存储封测，2028年底达产后还能赶上AI存储红利吗？",
+      "url": "https://www.esmchina.com/news/14584.html",
+      "published_at": null,
+      "summary": "根据深科技的公告，两个先进封装子项目计划于2028年12月建成达产。而目前距离该达产时间还有两年多，届时的市场环境具体会如何，我们目前难以精准预判。",
+      "author": null
+    },
+    {
+      "title": "多项信披违规，紫光国芯遭证监局警示",
+      "url": "https://www.esmchina.com/news/14585.html",
+      "published_at": null,
+      "summary": "根据陕西证监局发布的行政监管措施决定书，西安紫光国芯半导体股份有限公司因在信息披露和公司治理方面存在多项违规问题，被采取出具警示函的行政监管措施。",
+      "author": null
+    },
+    {
+      "title": "2026中国智能家居产业链，出海进行时",
+      "url": "https://www.esmchina.com/news/14450.html",
+      "published_at": null,
+      "summary": "2026年海外竞争已不再仅仅比拼性价比，而是比拼合规、底层技术与生态综合实力。",
+      "author": null
+    },
     {
       "title": "突发！英伟达遭反垄断调查",
       "url": "https://www.esmchina.com/news/14583.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14561.html",
       "published_at": null,
       "summary": "德国蔡司集团半导体业务负责人弗兰克·罗蒙德（Frank Rohmund）日前在彭博电视的访谈中表示，开发出可商用的极紫外(EUV)光刻机仍需15年，这是一个“合理的假设”。",
-      "author": null
-    },
-    {
-      "title": "OpenAI发布新旗舰GPT-6 Astra：关键级网安能力亮相，人形机器人战略浮出水面",
-      "url": "https://www.esmchina.com/news/14560.html",
-      "published_at": null,
-      "summary": "北京时间9月4日凌晨，OpenAI正式发布新一代旗舰模型GPT-6 Astra。",
-      "author": null
-    },
-    {
-      "title": "美商务部长证实：新一轮芯片关税已在路上",
-      "url": "https://www.esmchina.com/news/14559.html",
-      "published_at": null,
-      "summary": "近日，美国商务部长霍华德・卢特尼克对外证实，特朗普政府正在推进新一轮半导体关税方案，豁免资格将与“制造端投资承诺深度绑定”。",
-      "author": null
-    },
-    {
-      "title": "129.3亿美元！英伟达官宣收购Hugging Face",
-      "url": "https://www.esmchina.com/news/14558.html",
-      "published_at": null,
-      "summary": "9月3日，英伟达官方对外宣布将以全现金方式收购Hugging Face全部股权，交易对价包含面向原有股东的约119亿美元，以及最高10亿美元的员工留任激励。",
-      "author": null
-    },
-    {
-      "title": "传TI或酝酿年内第三轮涨价，涉及多产品系列、分型号、无统一涨幅",
-      "url": "https://www.esmchina.com/news/14557.html",
-      "published_at": null,
-      "summary": "国际电子商情讯，近日，供应链渠道传出一封落款为德州仪器（TI）的客户通知函，预告该公司即将新一轮涨价。",
       "author": null
     }
   ],
