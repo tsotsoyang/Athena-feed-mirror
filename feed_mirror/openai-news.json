@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-11T15:58:46.342181+00:00",
-  "next_refresh_at": "2026-09-11T16:28:46.342181+00:00",
+  "fetched_at": "2026-09-11T19:07:01.317616+00:00",
+  "next_refresh_at": "2026-09-11T19:37:01.317616+00:00",
   "entries": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published_at": "2026-09-11T10:00:00+00:00",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "author": null
+    },
     {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/safety-overview-gpt-6-astra",
       "published_at": "2026-09-03T00:00:00+00:00",
       "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "author": null
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "published_at": "2026-09-02T12:00:00+00:00",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "author": null
     }
   ],
