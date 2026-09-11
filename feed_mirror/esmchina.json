@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-11T06:26:50.829673+00:00",
-  "next_refresh_at": "2026-09-11T06:56:50.829673+00:00",
+  "fetched_at": "2026-09-11T11:42:45.674150+00:00",
+  "next_refresh_at": "2026-09-11T12:12:45.674150+00:00",
   "entries": [
+    {
+      "title": "三强狂奔，尾部承压：2026H1本土模拟芯片半年报冰火两重天",
+      "url": "https://www.esmchina.com/news/14589.html",
+      "published_at": null,
+      "summary": "行业不再是普惠式复苏，而是按“赛道卡位+产品矩阵+产能保障”重新分层。",
+      "author": null
+    },
+    {
+      "title": "工信部发布《“人工智能+软件”行动方案》，加速推进EDA与AI深度融合",
+      "url": "https://www.esmchina.com/news/14588.html",
+      "published_at": null,
+      "summary": "当前，人工智能正在重构软件产品形态并变革软件开发模式，智能体软件等新业态不断涌现，正是推动软件产业重塑竞争格局、实现换道超车的历史性机遇。",
+      "author": null
+    },
     {
       "title": "开盘暴涨188%！市值破1700亿，燧原科技登陆科创板",
       "url": "https://www.esmchina.com/news/14587.html",
@@ -20,7 +34,7 @@
       "author": null
     },
     {
-      "title": "多项信披违规，紫光国芯遭证监局警示",
+      "title": "多项信披违规，紫光国芯遭陕西证监局警示",
       "url": "https://www.esmchina.com/news/14585.html",
       "published_at": null,
       "summary": "根据陕西证监局发布的行政监管措施决定书，西安紫光国芯半导体股份有限公司因在信息披露和公司治理方面存在多项违规问题，被采取出具警示函的行政监管措施。",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14564.html",
       "published_at": null,
       "summary": "晶存科技正式首发“双96”LPCAMM2内存模组产品。",
-      "author": null
-    },
-    {
-      "title": "破产重整危机暂缓，但债务未解、业绩承压：三安光电的危与机",
-      "url": "https://www.esmchina.com/news/14562.html",
-      "published_at": null,
-      "summary": "一面涨停，一面亏损。",
-      "author": null
-    },
-    {
-      "title": "蔡司：中国开发可商用EUV光刻机仍需15年",
-      "url": "https://www.esmchina.com/news/14561.html",
-      "published_at": null,
-      "summary": "德国蔡司集团半导体业务负责人弗兰克·罗蒙德（Frank Rohmund）日前在彭博电视的访谈中表示，开发出可商用的极紫外(EUV)光刻机仍需15年，这是一个“合理的假设”。",
       "author": null
     }
   ],
