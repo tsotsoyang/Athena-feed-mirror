@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-12T03:26:24.312554+00:00",
-  "next_refresh_at": "2026-09-12T03:56:24.312554+00:00",
+  "fetched_at": "2026-09-12T08:05:19.737257+00:00",
+  "next_refresh_at": "2026-09-12T08:35:19.737257+00:00",
   "entries": [
     {
       "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
