@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-13T14:59:04.900846+00:00",
-  "next_refresh_at": "2026-09-13T15:29:04.900846+00:00",
+  "fetched_at": "2026-09-13T18:04:39.914044+00:00",
+  "next_refresh_at": "2026-09-13T18:34:39.914044+00:00",
   "entries": [
     {
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
