@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-13T18:04:46.173511+00:00",
-  "next_refresh_at": "2026-09-13T18:34:46.173511+00:00",
+  "fetched_at": "2026-09-13T21:02:18.550897+00:00",
+  "next_refresh_at": "2026-09-13T21:32:18.550897+00:00",
   "entries": [
     {
       "title": "Grok Bot for Enterprise | SpaceXAI",

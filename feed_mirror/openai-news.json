@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-13T18:04:31.156659+00:00",
-  "next_refresh_at": "2026-09-13T18:34:31.156659+00:00",
+  "fetched_at": "2026-09-13T21:02:01.060686+00:00",
+  "next_refresh_at": "2026-09-13T21:32:01.060686+00:00",
   "entries": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
