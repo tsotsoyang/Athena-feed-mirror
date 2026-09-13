@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-13T00:38:45.255821+00:00",
-  "next_refresh_at": "2026-09-13T01:08:45.255821+00:00",
+  "fetched_at": "2026-09-13T05:42:36.961133+00:00",
+  "next_refresh_at": "2026-09-13T06:12:36.961133+00:00",
   "entries": [
+    {
+      "title": "NAND还在缺货，下一轮供给拐点可能先发生在“bit”里",
+      "url": "https://www.esmchina.com/news/14586.html",
+      "published_at": null,
+      "summary": "三星V10 BV-NAND真正值得关注的，不只是超过400层，而是高密度节点、QLC与晶圆键合如何改变单位瓶颈资源的合格有效bit产出。在笔者看来，2026年NAND偏紧并不矛盾于2027年供给转松。下一轮供给变化未必首先来自新Fab，也可能来自“相同核心瓶颈资源能够形成更多可销售bit”的技术迁移。",
+      "author": null
+    },
     {
       "title": "三强狂奔，尾部承压：2026H1本土模拟芯片半年报冰火两重天",
       "url": "https://www.esmchina.com/news/14589.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14565.html",
       "published_at": null,
       "summary": "AI时代先进产能的影子价格，以及电子供应链应如何判断下一轮拐点",
-      "author": null
-    },
-    {
-      "title": "“双96”LPCAMM2首发｜晶存科技96GB容量、9600Mbps速率，为AI PC打开高性能内存新空间",
-      "url": "https://www.esmchina.com/news/14564.html",
-      "published_at": null,
-      "summary": "晶存科技正式首发“双96”LPCAMM2内存模组产品。",
       "author": null
     }
   ],
