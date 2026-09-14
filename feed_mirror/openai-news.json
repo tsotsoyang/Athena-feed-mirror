@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-14T06:46:36.929140+00:00",
-  "next_refresh_at": "2026-09-14T07:16:36.929140+00:00",
+  "fetched_at": "2026-09-14T13:41:45.682493+00:00",
+  "next_refresh_at": "2026-09-14T14:11:45.682493+00:00",
   "entries": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -55,17 +55,17 @@
       "author": null
     },
     {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "author": null
-    },
-    {
       "title": "Introducing the Agents API",
       "url": "https://openai.com/index/introducing-the-agents-api",
       "published_at": "2026-09-10T00:00:00+00:00",
       "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "author": null
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "author": null
     },
     {

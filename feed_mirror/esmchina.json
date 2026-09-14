@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-14T06:46:41.542725+00:00",
-  "next_refresh_at": "2026-09-14T07:16:41.542725+00:00",
+  "fetched_at": "2026-09-14T13:41:50.337401+00:00",
+  "next_refresh_at": "2026-09-14T14:11:50.337401+00:00",
   "entries": [
+    {
+      "title": "上半年38家分销商净利已超去年TOP50净利总和【附表】",
+      "url": "https://www.esmchina.com/news/14591.html",
+      "published_at": null,
+      "summary": "虽然我们仅统计了今年1至6月的业绩，但是根据当前的业绩可预判：2026年将会是元器件分销行业的丰收大年——38家上市分销商2026年H1总营收已占到2025年全年TOP50的近7成、净利润总额已超过2025年全年TOP50。",
+      "author": null
+    },
+    {
+      "title": "神话照进现实？“太乙圣莲”拟30亿入主哪吒汽车",
+      "url": "https://www.esmchina.com/news/14594.html",
+      "published_at": null,
+      "summary": "神话中，太乙真人以莲花为哪吒重塑肉身；现实中，一场名为“太乙圣莲”的资本运作正试图将濒临破产的哪吒汽车拉回生死线。",
+      "author": null
+    },
     {
       "title": "紫光国微19亿元收购瑞能半导体，实现“Fabless+IDM”战略升级",
       "url": "https://www.esmchina.com/news/14592.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14572.html",
       "published_at": null,
       "summary": "江波龙由此成为国内首家实现“A+H”两地上市的独立存储器企业，国际化资本布局与全球业务协同由此迈入全新阶段。",
-      "author": null
-    },
-    {
-      "title": "传英特尔PC CPU 10月上旬再涨10%，Small Core低毛利产品线或停产退市",
-      "url": "https://www.esmchina.com/news/14570.html",
-      "published_at": null,
-      "summary": "若此消息属实，将是英特尔自2025年底以来的第三轮涨价。",
-      "author": null
-    },
-    {
-      "title": "信息通信业“十五五”规划出炉：五年累计投资3.8万亿元，首次明确”适时启动6G商用”",
-      "url": "https://www.esmchina.com/news/14569.html",
-      "published_at": null,
-      "summary": "工业和信息化部于2026年9月7日正式对外发布《信息通信行业发展“十五五”规划》。",
       "author": null
     }
   ],
