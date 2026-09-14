@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-14T13:41:45.682493+00:00",
-  "next_refresh_at": "2026-09-14T14:11:45.682493+00:00",
+  "fetched_at": "2026-09-14T19:03:20.106183+00:00",
+  "next_refresh_at": "2026-09-14T19:33:20.106183+00:00",
   "entries": [
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "published_at": "2026-09-14T12:00:00+00:00",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "author": null
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -164,13 +171,6 @@
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "published_at": "2026-09-03T13:15:00+00:00",
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "author": null
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "published_at": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "author": null
     },
     {
