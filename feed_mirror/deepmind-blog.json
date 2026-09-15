@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-15T12:01:44.856228+00:00",
-  "next_refresh_at": "2026-09-15T12:31:44.856228+00:00",
+  "fetched_at": "2026-09-15T17:12:00.330062+00:00",
+  "next_refresh_at": "2026-09-15T17:42:00.330062+00:00",
   "entries": [
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "published_at": "2026-09-15T17:05:57+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
       "published_at": "2026-06-16T21:29:50+00:00",
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "author": null
-    },
-    {
-      "title": "Securing the future of AI agents",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "published_at": "2026-06-16T15:46:31+00:00",
-      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
       "author": null
     }
   ],

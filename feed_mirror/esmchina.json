@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-15T12:01:41.205563+00:00",
-  "next_refresh_at": "2026-09-15T12:31:41.205563+00:00",
+  "fetched_at": "2026-09-15T17:11:57.045145+00:00",
+  "next_refresh_at": "2026-09-15T17:41:57.045145+00:00",
   "entries": [
+    {
+      "title": "天玑9600 Pro发布：2nm制程+AI原生架构，多核功耗降61%",
+      "url": "https://www.esmchina.com/news/14599.html",
+      "published_at": null,
+      "summary": "MediaTek在深圳举行天玑旗舰芯片发布会，正式推出天玑9600系列5G智能体AI芯片。",
+      "author": null
+    },
     {
       "title": "ASML拟2028年产逾110台EUV光刻机：AI需求“非常非常强”，2027年产能已近售罄",
       "url": "https://www.esmchina.com/news/14598.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14575.html",
       "published_at": null,
       "summary": "这项合作在未来十年内的潜在采购规模最高可达600亿美元，是高通迄今在数据中心市场拿下的最大订单。",
-      "author": null
-    },
-    {
-      "title": "半年营收逼近2000亿！14家上市分销商全员正增长，4家已超去年全年",
-      "url": "https://www.esmchina.com/news/14571.html",
-      "published_at": null,
-      "summary": "梳理各家上市分销商的业绩归因，一条清晰的主线贯穿始终：AI算力需求爆发，带动存储芯片价格飙升，进而引爆整个分销链条。",
       "author": null
     }
   ],
