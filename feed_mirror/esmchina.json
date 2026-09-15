@@ -2,21 +2,42 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-15T01:11:52.959775+00:00",
-  "next_refresh_at": "2026-09-15T01:41:52.959775+00:00",
+  "fetched_at": "2026-09-15T06:28:41.446245+00:00",
+  "next_refresh_at": "2026-09-15T06:58:41.446245+00:00",
   "entries": [
+    {
+      "title": "ASML拟2028年产逾110台EUV光刻机：AI需求“非常非常强”，2027年产能已近售罄",
+      "url": "https://www.esmchina.com/news/14598.html",
+      "published_at": null,
+      "summary": "AI需求“非常非常强”，ASML正研究2028年生产超过110台EUV（极紫外光刻）设备。",
+      "author": null
+    },
+    {
+      "title": "对话AMD酆毅：物理AI，“从身体到大脑”的跨越",
+      "url": "https://www.esmchina.com/news/14597.html",
+      "published_at": null,
+      "summary": "在与AMD大中华区嵌入式事业部副总裁酆毅（Bob Feng）对话中，当被问及“AMD在这一轮技术迁移中处于何种位置？”时，他的回答相当简短——“Body-To-Brain，从身体到大脑。”",
+      "author": null
+    },
+    {
+      "title": "铠侠拟赴美上市募资至少100亿美元，CEO喊话“存储价格涨够了”",
+      "url": "https://www.esmchina.com/news/14596.html",
+      "published_at": null,
+      "summary": "他表示，已指示业务团队不要向数据中心客户大幅提高报价，以免打击AI产业的投资意愿。",
+      "author": null
+    },
+    {
+      "title": "智能体发威的上半年，国产AI处理器市场红得发紫",
+      "url": "https://www.esmchina.com/news/14566.html",
+      "published_at": null,
+      "summary": "我们的AI/Processor报告追踪的4大类芯片中，第一大类就是AI HPC类。",
+      "author": null
+    },
     {
       "title": "上半年38家分销商净利已超去年TOP50净利总和【附表】",
       "url": "https://www.esmchina.com/news/14591.html",
       "published_at": null,
       "summary": "虽然我们仅统计了今年1至6月的业绩，但是根据当前的业绩可预判：2026年将会是元器件分销行业的丰收大年——38家上市分销商2026年H1总营收已占到2025年全年TOP50的近7成、净利润总额已超过2025年全年TOP50。",
-      "author": null
-    },
-    {
-      "title": "神话照进现实？“太乙圣莲”拟30亿入主哪吒汽车",
-      "url": "https://www.esmchina.com/news/14594.html",
-      "published_at": null,
-      "summary": "神话中，太乙真人以莲花为哪吒重塑肉身；现实中，一场名为“太乙圣莲”的资本运作正试图将濒临破产的哪吒汽车拉回生死线。",
       "author": null
     },
     {
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14571.html",
       "published_at": null,
       "summary": "梳理各家上市分销商的业绩归因，一条清晰的主线贯穿始终：AI算力需求爆发，带动存储芯片价格飙升，进而引爆整个分销链条。",
-      "author": null
-    },
-    {
-      "title": "AI重塑EDA：工程师的帮手还是对手？",
-      "url": "http://pubads.g.doubleclick.net/gampad/clk?id=7426821485&iu=/122049170/TEXT_AD",
-      "published_at": null,
-      "summary": "自生成式 AI席卷科技圈，关于&amp;quot;AI 能否自动完成芯片设计&amp;quot;的讨论从未停歇。来听听西门子EDA技术大咖的解析，深度探索AI究竟给EDA行业带来了怎样的改变？拆解 AI与EDA的融合路径，探讨芯片设计的下个阶段究竟如何演进！锁定西门子EDA视频播客，解锁更多硬核思考！",
-      "author": null
-    },
-    {
-      "title": "关于合作苹果、存储缺货，长鑫科技回应市场关切",
-      "url": "https://www.esmchina.com/news/14573.html",
-      "published_at": null,
-      "summary": "国际电子商情8日讯 9月7日，DRAM厂商长鑫科技召开2026年半年度业绩说明会，管理层就苹果合作传闻、下半年DRAM价格走势、HBM进展、国产光刻机导入、周期下行风险等市场核心关切作出回应。",
-      "author": null
-    },
-    {
-      "title": "江波龙港股上市：首家A+H独立存储器厂商，半年净利暴增715倍",
-      "url": "https://www.esmchina.com/news/14572.html",
-      "published_at": null,
-      "summary": "江波龙由此成为国内首家实现“A+H”两地上市的独立存储器企业，国际化资本布局与全球业务协同由此迈入全新阶段。",
       "author": null
     }
   ],
