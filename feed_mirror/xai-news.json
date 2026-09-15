@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-15T06:28:51.883070+00:00",
-  "next_refresh_at": "2026-09-15T06:58:51.883070+00:00",
+  "fetched_at": "2026-09-15T12:01:53.571396+00:00",
+  "next_refresh_at": "2026-09-15T12:31:53.571396+00:00",
   "entries": [
     {
       "title": "Grok Bot for Enterprise | SpaceXAI",
@@ -13,10 +13,10 @@
       "author": null
     },
     {
-      "title": "Product · Sep 4, 2026 Setting Grok Bot loose on procurement",
+      "title": "Setting Grok Bot loose on procurement | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-procurement",
       "published_at": null,
-      "summary": "",
+      "summary": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
       "author": null
     },
     {
@@ -48,10 +48,10 @@
       "author": null
     },
     {
-      "title": "Grok Bot is now included with more plans Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans. Aug 26, 2026",
+      "title": "Grok Bot is now included with more plans | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-more-plans",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
       "author": null
     },
     {
@@ -62,10 +62,10 @@
       "author": null
     },
     {
-      "title": "Grok 4.6 on Amazon Bedrock Grok 4.6 is now available via Amazon Bedrock. Aug 19, 2026",
+      "title": "Grok 4.6 on Amazon Bedrock | SpaceXAI",
       "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
       "author": null
     },
     {
