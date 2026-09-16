@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-16T07:18:37.385044+00:00",
-  "next_refresh_at": "2026-09-16T07:48:37.385044+00:00",
+  "fetched_at": "2026-09-16T12:43:21.107363+00:00",
+  "next_refresh_at": "2026-09-16T13:13:21.107363+00:00",
   "entries": [
+    {
+      "title": "No plans have been confirmed regarding the reported talks between SK hynix and Intel on memory chip production in the U.S.",
+      "url": "https://news.skhynix.com/en/fact-10/",
+      "published_at": "2026-09-16T10:01:11+00:00",
+      "summary": "○ This relates to a recent report published on September 16, 2026, titled, “SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say.” The report states that “SK hynix",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Charts Its Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
       "url": "https://news.skhynix.com/en/sk-hynix-charts-its-direction-at-the-2026-future-forum-now-is-the-golden-time-to-leap-forward/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/future-forum-2026-4/",
       "published_at": "2026-09-09T01:31:00+00:00",
       "summary": "▲ SK hynix Vice President Jaewuk Ju, head of the Smart Manufacturing Technology/AX Advance department, delivering the first keynote presentation",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
-      "url": "https://news.skhynix.com/en/future-forum-2026-3/",
-      "published_at": "2026-09-09T01:30:06+00:00",
-      "summary": "▲ SK hynix CEO Kwak Noh-Jung delivering the welcoming remarks at the 2026 Future Forum",
       "author": "SK hynix"
     }
   ],

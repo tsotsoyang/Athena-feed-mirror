@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-16T07:18:56.589809+00:00",
-  "next_refresh_at": "2026-09-16T07:48:56.589809+00:00",
+  "fetched_at": "2026-09-16T12:43:40.985178+00:00",
+  "next_refresh_at": "2026-09-16T13:13:40.985178+00:00",
   "entries": [
+    {
+      "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "summary": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
+      "author": null
+    },
     {
       "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
       "url": "https://mistral.ai/news/mistral-x-cloudera/",
@@ -171,13 +178,6 @@
       "url": "https://mistral.ai/news/forge/",
       "published_at": "2026-03-17T16:00:00+00:00",
       "summary": "Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
-      "author": null
-    },
-    {
-      "title": "Introducing Mistral Small 4",
-      "url": "https://mistral.ai/news/mistral-small-4/",
-      "published_at": "2026-03-16T21:00:00+00:00",
-      "summary": "",
       "author": null
     }
   ],
