@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-16T01:32:41.575629+00:00",
-  "next_refresh_at": "2026-09-16T02:02:41.575629+00:00",
+  "fetched_at": "2026-09-16T07:18:55.519231+00:00",
+  "next_refresh_at": "2026-09-16T07:48:55.519231+00:00",
   "entries": [
+    {
+      "title": "以利润换空间，两大国产IP企业2026年H1财报解析",
+      "url": "https://www.esmchina.com/news/14603.html",
+      "published_at": null,
+      "summary": "本报告聚焦于国产IP领域的两大上市公司——灿芯股份与芯原股份，通过深度剖析其2026年上半年的财报，从营收、利润、业务结构到研发投入等多个维度，透视它们在复杂市场环境下的经营实况与战略抉择，并探寻其未来的发展轨迹。",
+      "author": null
+    },
+    {
+      "title": "AI需要降速吗？特朗普拟白宫召集AI领导人当面激辩",
+      "url": "https://www.esmchina.com/news/14602.html",
+      "published_at": null,
+      "summary": "AI安全还是AI速度？",
+      "author": null
+    },
+    {
+      "title": "华为内部讲话曝光：核心战略是“聚焦”，AI时代目标是成为“英伟达”",
+      "url": "https://www.esmchina.com/news/14601.html",
+      "published_at": null,
+      "summary": "在ICT业务及计算领域，华为的目标是成为“英伟达”，核心优势不在于拥有自研大模型，而在于支持客户构建优秀的大模型。",
+      "author": null
+    },
+    {
+      "title": "美光展示全球首个512GB DDR5 RDIMM：单机12TB、省电逾60%，2027年下半年量产",
+      "url": "https://www.esmchina.com/news/14600.html",
+      "published_at": null,
+      "summary": "当地时间9月15日，美光科技宣布成功在多个服务器平台上完成全球首款512GB DDR5 RDIMM的演示验证。",
+      "author": null
+    },
     {
       "title": "天玑9600 Pro发布：2nm制程+AI原生架构，多核功耗降61%",
       "url": "https://www.esmchina.com/news/14599.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14579.html",
       "published_at": null,
       "summary": "中方认为，美方所谓中国人工智能企业从事“工业规模”蒸馏美模型的指控，于事无凭，于法无据。美方此举，是将蒸馏这一业内正常的技术和商业问题政治化、工具化，并在实践中搞双重标准。",
-      "author": null
-    },
-    {
-      "title": "FieldFox外场实测：基站/卫星/雷达一次讲透",
-      "url": "https://www.eet-china.com/ee-live/entry/Keysight_20261023.html?source=popup",
-      "published_at": null,
-      "summary": "直播抽近80份礼品！基站共址评估｜卫星地面站测试｜雷达脉冲测量——真实工程案例现场拆解",
-      "author": null
-    },
-    {
-      "title": "十万卡集群密集开建，国产芯片迎来规模化大考",
-      "url": "https://www.esmchina.com/news/14577.html",
-      "published_at": null,
-      "summary": "“十五五”规划明确支持十万卡级别智算设施建设，京东、DeepSeek、中科曙光三大国产算力项目相继浮出水面。",
-      "author": null
-    },
-    {
-      "title": "功率GaN市场大洗牌，中国企业稳居全球第一",
-      "url": "https://www.esmchina.com/news/14576.html",
-      "published_at": null,
-      "summary": "Yole Group最新发布的《Power GaN 2026》报告显示，全球氮化镓（GaN）功率器件市场正迎来强劲爆发。2025年，该市场规模预计将攀升至5.88亿美元，同比实现约63%的大幅增长。",
-      "author": null
-    },
-    {
-      "title": "高通携手亚马逊开发AI推理芯片，潜在采购规模可达600亿美元",
-      "url": "https://www.esmchina.com/news/14575.html",
-      "published_at": null,
-      "summary": "这项合作在未来十年内的潜在采购规模最高可达600亿美元，是高通迄今在数据中心市场拿下的最大订单。",
       "author": null
     }
   ],
