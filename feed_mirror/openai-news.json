@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-15T23:03:39.884172+00:00",
-  "next_refresh_at": "2026-09-15T23:33:39.884172+00:00",
+  "fetched_at": "2026-09-16T01:32:38.235004+00:00",
+  "next_refresh_at": "2026-09-16T02:02:38.235004+00:00",
   "entries": [
     {
       "title": "How Fyxer built an AI executive assistant people trust",
