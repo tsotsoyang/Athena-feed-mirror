@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-16T17:30:06.598380+00:00",
-  "next_refresh_at": "2026-09-16T18:00:06.598380+00:00",
+  "fetched_at": "2026-09-16T20:23:31.975718+00:00",
+  "next_refresh_at": "2026-09-16T20:53:31.975718+00:00",
   "entries": [
     {
       "title": "Grok Bot for Enterprise | SpaceXAI",
       "url": "https://x.ai/news/grok-bot-for-enterprise",
       "published_at": null,
       "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+      "author": null
+    },
+    {
+      "title": "Memory in Grok Build | SpaceXAI",
+      "url": "https://x.ai/news/grok-build-memory",
+      "published_at": null,
+      "summary": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-4-5",
       "published_at": null,
       "summary": "Grok 4.5 is SpaceXAI",
-      "author": null
-    },
-    {
-      "title": "Automations in Grok | SpaceXAI",
-      "url": "https://x.ai/news/grok-automations",
-      "published_at": null,
-      "summary": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
       "author": null
     }
   ],
