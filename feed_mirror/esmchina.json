@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-17T07:14:30.108865+00:00",
-  "next_refresh_at": "2026-09-17T07:44:30.108865+00:00",
+  "fetched_at": "2026-09-17T12:42:43.945428+00:00",
+  "next_refresh_at": "2026-09-17T13:12:43.945428+00:00",
   "entries": [
+    {
+      "title": "安富利与香港大学成立EMUS实验室，聚焦AI硬件从原型到量产",
+      "url": "https://www.esmchina.com/news/14608.html",
+      "published_at": null,
+      "summary": "全新创新中心汇聚研究能力、工程专业知识与全球供应链资源，加速AI商业化进程。",
+      "author": null
+    },
+    {
+      "title": "这一轮存储行情到顶了吗？",
+      "url": "https://www.esmchina.com/news/14605.html",
+      "published_at": null,
+      "summary": "真正的大顶，不是价格第一次不涨，而是六个变量在同一个市场里同向转弱。本文从需求、订单、渠道、库存、有效供给到价格，分市场判断2026年存储周期的顶部位置。",
+      "author": null
+    },
+    {
+      "title": "一年两轮、累计超6亿美元：地瓜机器人完成4亿美元C轮融资",
+      "url": "https://www.esmchina.com/news/14607.html",
+      "published_at": null,
+      "summary": "9月17日，地瓜机器人宣布完成4亿美元C轮融资。本轮融资旨在强化旭日芯片的全算力段产品布局，建设贯通数据采集、模型训练、仿真验证、推理部署的全链路软件平台，以软硬一体的具身智能基础设施，满足从成熟品类到通用人形机器人的全场景开发需求，赋能机器人品类爆发。",
+      "author": null
+    },
+    {
+      "title": "华邦电子11.2亿美元收购英飞凌NOR Flash与F-RAM业务，飞索Spansion品牌回归",
+      "url": "https://www.esmchina.com/news/14606.html",
+      "published_at": null,
+      "summary": "交易完成后，标的公司将更名为“Spansion”，作为独立实体运营，总部仍设在美国。",
+      "author": null
+    },
     {
       "title": "传苹果将重返AI服务器市场：M8 Ultra芯片+英伟达NVLink Fusion",
       "url": "https://www.esmchina.com/news/14604.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14450.html",
       "published_at": null,
       "summary": "2026年海外竞争已不再仅仅比拼性价比，而是比拼合规、底层技术与生态综合实力。",
-      "author": null
-    },
-    {
-      "title": "突发！英伟达遭反垄断调查",
-      "url": "https://www.esmchina.com/news/14583.html",
-      "published_at": null,
-      "summary": "美国司法部（DOJ）已正式对芯片巨头英伟达（NVIDIA）与AI芯片初创公司Groq之间的一笔巨额交易展开反垄断调查。",
-      "author": null
-    },
-    {
-      "title": "分化的答卷，2026 H1中国EDA上市公司中报复盘",
-      "url": "https://www.esmchina.com/news/14582.html",
-      "published_at": null,
-      "summary": "本文结合三家公司2026年半年报数据，从营收、利润、研发、业务布局等维度展开全面解析，复盘三家企业当期经营表现，剖析业绩分化背后的商业模式差异与行业发展趋势。",
-      "author": null
-    },
-    {
-      "title": "90亿元！ADI全现金收购MCU公司",
-      "url": "https://www.esmchina.com/news/14581.html",
-      "published_at": null,
-      "summary": "ADI与Alif Semiconductor今日宣布，双方已签署最终协议，ADI将以13.5亿美元的全现金交易方式收购Alif。",
-      "author": null
-    },
-    {
-      "title": "苹果iPhone 18 Pro首发2nm A20 Pro，首款折叠屏iPhone Duo定档10月",
-      "url": "https://www.esmchina.com/news/14580.html",
-      "published_at": null,
-      "summary": "虽然截至目前苹果尚未公开确认长江存储或长鑫存储已进入iPhone 18核心供应链，但是《国际电子商情》认为，以上消息展现出国产存储与苹果供应链的潜在合作前景。",
       "author": null
     }
   ],
