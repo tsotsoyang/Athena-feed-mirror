@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-17T01:36:37.887179+00:00",
-  "next_refresh_at": "2026-09-17T02:06:37.887179+00:00",
+  "fetched_at": "2026-09-17T07:14:13.990306+00:00",
+  "next_refresh_at": "2026-09-17T07:44:13.990306+00:00",
   "entries": [
+    {
+      "title": "SK hynix Presents ‘New Spectrum’ for AI Infrastructure at ‘AI Infra Summit 2026’",
+      "url": "https://news.skhynix.com/en/ai-infra-summit-2026/",
+      "published_at": "2026-09-17T06:00:01+00:00",
+      "summary": "SK hynix took part in ‘AI Infra Summit 2026,’ held over three days on September 15th-17th (local time) in Santa Clara, California, US. The event served as a venue to examine the latest technology trends and discuss future directions across",
+      "author": "SK hynix"
+    },
     {
       "title": "No plans have been confirmed regarding the reported talks between SK hynix and Intel on memory chip production in the U.S.",
       "url": "https://news.skhynix.com/en/fact-10/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/future-forum-2026-5/",
       "published_at": "2026-09-09T01:32:02+00:00",
       "summary": "▲ SK hynix Vice President Euicheol Lim, head of the Solution AT department, delivering the second keynote presentation",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
-      "url": "https://news.skhynix.com/en/future-forum-2026-4/",
-      "published_at": "2026-09-09T01:31:00+00:00",
-      "summary": "▲ SK hynix Vice President Jaewuk Ju, head of the Smart Manufacturing Technology/AX Advance department, delivering the first keynote presentation",
       "author": "SK hynix"
     }
   ],

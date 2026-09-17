@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-17T01:36:56.377101+00:00",
-  "next_refresh_at": "2026-09-17T02:06:56.377101+00:00",
+  "fetched_at": "2026-09-17T07:14:30.108865+00:00",
+  "next_refresh_at": "2026-09-17T07:44:30.108865+00:00",
   "entries": [
+    {
+      "title": "传苹果将重返AI服务器市场：M8 Ultra芯片+英伟达NVLink Fusion",
+      "url": "https://www.esmchina.com/news/14604.html",
+      "published_at": null,
+      "summary": "传苹果公司正在评估重返企业服务器市场，如果消息属实，将是该公司自2011年后首次重启企业级服务器业务。",
+      "author": null
+    },
     {
       "title": "以利润换空间，两大国产IP企业2026年H1财报解析",
       "url": "https://www.esmchina.com/news/14603.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14580.html",
       "published_at": null,
       "summary": "虽然截至目前苹果尚未公开确认长江存储或长鑫存储已进入iPhone 18核心供应链，但是《国际电子商情》认为，以上消息展现出国产存储与苹果供应链的潜在合作前景。",
-      "author": null
-    },
-    {
-      "title": "商务部警告：美国借“蒸馏”遏压中国AI企业，必遭坚决反制",
-      "url": "https://www.esmchina.com/news/14579.html",
-      "published_at": null,
-      "summary": "中方认为，美方所谓中国人工智能企业从事“工业规模”蒸馏美模型的指控，于事无凭，于法无据。美方此举，是将蒸馏这一业内正常的技术和商业问题政治化、工具化，并在实践中搞双重标准。",
       "author": null
     }
   ],
