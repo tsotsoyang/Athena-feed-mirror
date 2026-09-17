@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-16T23:10:02.873654+00:00",
-  "next_refresh_at": "2026-09-16T23:40:02.873654+00:00",
+  "fetched_at": "2026-09-17T01:36:48.468510+00:00",
+  "next_refresh_at": "2026-09-17T02:06:48.468510+00:00",
   "entries": [
     {
       "title": "Helping older adults use AI in everyday life",
