@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-17T20:31:09.264464+00:00",
-  "next_refresh_at": "2026-09-17T21:01:09.264464+00:00",
+  "fetched_at": "2026-09-17T23:24:29.680684+00:00",
+  "next_refresh_at": "2026-09-17T23:54:29.680684+00:00",
   "entries": [
     {
       "title": "Introducing Astra for Law",
