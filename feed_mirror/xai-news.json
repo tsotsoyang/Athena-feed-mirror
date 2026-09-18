@@ -2,14 +2,14 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-18T15:57:06.854044+00:00",
-  "next_refresh_at": "2026-09-18T16:27:06.854044+00:00",
+  "fetched_at": "2026-09-18T18:56:59.976607+00:00",
+  "next_refresh_at": "2026-09-18T19:26:59.976607+00:00",
   "entries": [
     {
-      "title": "Grok Bot for Enterprise | SpaceXAI",
-      "url": "https://x.ai/news/grok-bot-for-enterprise",
+      "title": "Introducing Grok Voice Transcribe 2.0 | SpaceXAI",
+      "url": "https://x.ai/news/grok-voice-transcribe-2",
       "published_at": null,
-      "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+      "summary": "Announcing SpaceXAI",
       "author": null
     },
     {
@@ -31,6 +31,13 @@
       "url": "https://x.ai/news/designing-grok-bot",
       "published_at": null,
       "summary": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
+      "author": null
+    },
+    {
+      "title": "Grok Bot for Enterprise | SpaceXAI",
+      "url": "https://x.ai/news/grok-bot-for-enterprise",
+      "published_at": null,
+      "summary": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/introducing-excel-addin",
       "published_at": null,
       "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
-      "author": null
-    },
-    {
-      "title": "Introducing Grok 4.5 | SpaceXAI",
-      "url": "https://x.ai/news/grok-4-5",
-      "published_at": null,
-      "summary": "Grok 4.5 is SpaceXAI",
       "author": null
     }
   ],
