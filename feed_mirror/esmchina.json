@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-18T01:23:27.077243+00:00",
-  "next_refresh_at": "2026-09-18T01:53:27.077243+00:00",
+  "fetched_at": "2026-09-18T06:21:45.437675+00:00",
+  "next_refresh_at": "2026-09-18T06:51:45.437675+00:00",
   "entries": [
+    {
+      "title": "华为发布全球首个NPO超节点昇腾960：功耗降低550千瓦，可用度达99.8%",
+      "url": "https://www.esmchina.com/news/14610.html",
+      "published_at": null,
+      "summary": "国际电子商情讯，昨日（9月17日），华为全联接大会2026在上海启幕，华为副董事长、轮值董事长汪涛发布全球首个采用NPO（近封装光学）技术的昇腾960超节点，将4096卡规模、FP8 8 EFLOPS算力",
+      "author": null
+    },
+    {
+      "title": "安世半导体押注印度：功率器件供应链的再平衡",
+      "url": "https://www.esmchina.com/news/14609.html",
+      "published_at": null,
+      "summary": "安世半导体（Nexperia）与塔塔电子（Tata Electronics）宣布建立战略合作伙伴关系，合作范围覆盖半导体晶圆制造、封装与测试、技术协作及创新。",
+      "author": null
+    },
     {
       "title": "安富利与香港大学成立EMUS实验室，聚焦AI硬件从原型到量产",
       "url": "https://www.esmchina.com/news/14608.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14584.html",
       "published_at": null,
       "summary": "根据深科技的公告，两个先进封装子项目计划于2028年12月建成达产。而目前距离该达产时间还有两年多，届时的市场环境具体会如何，我们目前难以精准预判。",
-      "author": null
-    },
-    {
-      "title": "多项信披违规，紫光国芯遭陕西证监局警示",
-      "url": "https://www.esmchina.com/news/14585.html",
-      "published_at": null,
-      "summary": "根据陕西证监局发布的行政监管措施决定书，西安紫光国芯半导体股份有限公司因在信息披露和公司治理方面存在多项违规问题，被采取出具警示函的行政监管措施。",
-      "author": null
-    },
-    {
-      "title": "2026中国智能家居产业链，出海进行时",
-      "url": "https://www.esmchina.com/news/14450.html",
-      "published_at": null,
-      "summary": "2026年海外竞争已不再仅仅比拼性价比，而是比拼合规、底层技术与生态综合实力。",
       "author": null
     }
   ],
