@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-18T21:30:21.069784+00:00",
-  "next_refresh_at": "2026-09-18T22:00:21.069784+00:00",
+  "fetched_at": "2026-09-18T23:32:32.616543+00:00",
+  "next_refresh_at": "2026-09-19T00:02:32.616543+00:00",
   "entries": [
     {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
@@ -31,6 +31,13 @@
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "published_at": "2026-09-16T13:00:00+00:00",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "author": null
+    },
+    {
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/navier-stokes-solution",
       "published_at": "2026-09-08T10:00:00+00:00",
       "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "author": null
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "published_at": "2026-09-08T09:00:00+00:00",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
       "author": null
     }
   ],
