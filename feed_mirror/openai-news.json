@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-17T23:24:29.680684+00:00",
-  "next_refresh_at": "2026-09-17T23:54:29.680684+00:00",
+  "fetched_at": "2026-09-18T01:23:19.617892+00:00",
+  "next_refresh_at": "2026-09-18T01:53:19.617892+00:00",
   "entries": [
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "published_at": "2026-09-17T12:00:00+00:00",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "author": null
+    },
     {
       "title": "Introducing Astra for Law",
       "url": "https://openai.com/index/astra-for-law",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/teen-development-research-grants",
       "published_at": "2026-09-08T09:00:00+00:00",
       "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "author": null
-    },
-    {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "published_at": "2026-09-08T00:00:00+00:00",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "author": null
     }
   ],
