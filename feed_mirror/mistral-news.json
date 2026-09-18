@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-09-18T06:21:45.591292+00:00",
-  "next_refresh_at": "2026-09-18T06:51:45.591292+00:00",
+  "fetched_at": "2026-09-18T11:38:20.975373+00:00",
+  "next_refresh_at": "2026-09-18T12:08:20.975373+00:00",
   "entries": [
     {
       "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
