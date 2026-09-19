@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-19T08:15:50.144083+00:00",
-  "next_refresh_at": "2026-09-19T08:45:50.144083+00:00",
+  "fetched_at": "2026-09-19T12:37:59.267805+00:00",
+  "next_refresh_at": "2026-09-19T13:07:59.267805+00:00",
   "entries": [
     {
       "title": "Introducing Grok Voice Transcribe 2.0 | SpaceXAI",
