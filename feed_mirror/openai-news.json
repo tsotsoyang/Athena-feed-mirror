@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-18T23:32:32.616543+00:00",
-  "next_refresh_at": "2026-09-19T00:02:32.616543+00:00",
+  "fetched_at": "2026-09-19T03:28:05.700739+00:00",
+  "next_refresh_at": "2026-09-19T03:58:05.700739+00:00",
   "entries": [
     {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
