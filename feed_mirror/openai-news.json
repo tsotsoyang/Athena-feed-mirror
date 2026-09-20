@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-19T23:20:47.020212+00:00",
-  "next_refresh_at": "2026-09-19T23:50:47.020212+00:00",
+  "fetched_at": "2026-09-20T01:24:38.568984+00:00",
+  "next_refresh_at": "2026-09-20T01:54:38.568984+00:00",
   "entries": [
     {
       "title": "Introducing the Australian Youth Safety Blueprint",
