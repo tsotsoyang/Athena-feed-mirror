@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-20T06:42:58.724476+00:00",
-  "next_refresh_at": "2026-09-20T07:12:58.724476+00:00",
+  "fetched_at": "2026-09-20T12:02:58.335609+00:00",
+  "next_refresh_at": "2026-09-20T12:32:58.335609+00:00",
   "entries": [
+    {
+      "title": "2.7万亿美元狂飙：2026全球AI支出同比增长近50%",
+      "url": "https://www.esmchina.com/news/14614.html",
+      "published_at": null,
+      "summary": "AI基础设施投资与AI融入软件及服务这两大趋势的交汇，正推动AI支出达到前所未有的水平。",
+      "author": null
+    },
+    {
+      "title": "呼吁AI“慢下来”惹官司，四大巨头因放缓研发被起诉垄断",
+      "url": "https://www.esmchina.com/news/14613.html",
+      "published_at": null,
+      "summary": "AI安全还是AI速度？Round 2...",
+      "author": null
+    },
     {
       "title": "长鑫存储G5平台量产！DRAM工艺微缩到11.95纳米",
       "url": "https://www.esmchina.com/news/14612.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14586.html",
       "published_at": null,
       "summary": "三星V10 BV-NAND真正值得关注的，不只是超过400层，而是高密度节点、QLC与晶圆键合如何改变单位瓶颈资源的合格有效bit产出。在笔者看来，2026年NAND偏紧并不矛盾于2027年供给转松。下一轮供给变化未必首先来自新Fab，也可能来自“相同核心瓶颈资源能够形成更多可销售bit”的技术迁移。",
-      "author": null
-    },
-    {
-      "title": "三强狂奔，尾部承压：2026H1本土模拟芯片半年报冰火两重天",
-      "url": "https://www.esmchina.com/news/14589.html",
-      "published_at": null,
-      "summary": "行业不再是普惠式复苏，而是按“赛道卡位+产品矩阵+产能保障”重新分层。",
-      "author": null
-    },
-    {
-      "title": "工信部发布《“人工智能+软件”行动方案》，加速推进EDA与AI深度融合",
-      "url": "https://www.esmchina.com/news/14588.html",
-      "published_at": null,
-      "summary": "当前，人工智能正在重构软件产品形态并变革软件开发模式，智能体软件等新业态不断涌现，正是推动软件产业重塑竞争格局、实现换道超车的历史性机遇。",
       "author": null
     }
   ],
