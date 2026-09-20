@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-20T01:24:45.931141+00:00",
-  "next_refresh_at": "2026-09-20T01:54:45.931141+00:00",
+  "fetched_at": "2026-09-20T06:42:58.724476+00:00",
+  "next_refresh_at": "2026-09-20T07:12:58.724476+00:00",
   "entries": [
+    {
+      "title": "长鑫存储G5平台量产！DRAM工艺微缩到11.95纳米",
+      "url": "https://www.esmchina.com/news/14612.html",
+      "published_at": null,
+      "summary": "长鑫存储在世界制造业大会上正式宣布第五代DRAM技术平台实现量产，并同步展出基于该平台打造的大容量LPDDR5X新品。",
+      "author": null
+    },
+    {
+      "title": "从家居跨界PCB！菲林格尔拟2.14亿元收购克锐斯51%股权",
+      "url": "https://www.esmchina.com/news/14611.html",
+      "published_at": null,
+      "summary": "根据公告，2025年全球PCB压合设备市场规模约为38.78亿元，克锐斯聚焦的裁切、配板、预叠、热熔/铆钉等工序对应的市场空间约占全球PCB压合设备市场规模的一半。",
+      "author": null
+    },
     {
       "title": "华为发布全球首个NPO超节点昇腾960：功耗降低550千瓦，可用度达99.8%",
       "url": "https://www.esmchina.com/news/14610.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14588.html",
       "published_at": null,
       "summary": "当前，人工智能正在重构软件产品形态并变革软件开发模式，智能体软件等新业态不断涌现，正是推动软件产业重塑竞争格局、实现换道超车的历史性机遇。",
-      "author": null
-    },
-    {
-      "title": "开盘暴涨188%！市值破1700亿，燧原科技登陆科创板",
-      "url": "https://www.esmchina.com/news/14587.html",
-      "published_at": null,
-      "summary": "9月11日，国产云端AI芯片领军企业燧原科技（股票代码：688801）正式在上海证券交易所科创板挂牌上市。上市首日，该股开盘即大涨188.37%，报410元/股，开盘市值突破1700亿元。",
-      "author": null
-    },
-    {
-      "title": "深科技18.5亿扩产高端存储封测，2028年底达产后还能赶上AI存储红利吗？",
-      "url": "https://www.esmchina.com/news/14584.html",
-      "published_at": null,
-      "summary": "根据深科技的公告，两个先进封装子项目计划于2028年12月建成达产。而目前距离该达产时间还有两年多，届时的市场环境具体会如何，我们目前难以精准预判。",
       "author": null
     }
   ],
