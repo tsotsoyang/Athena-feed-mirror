@@ -2,9 +2,16 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-21T13:40:56.897453+00:00",
-  "next_refresh_at": "2026-09-21T14:10:56.897453+00:00",
+  "fetched_at": "2026-09-21T19:06:05.774274+00:00",
+  "next_refresh_at": "2026-09-21T19:36:05.774274+00:00",
   "entries": [
+    {
+      "title": "Introducing Grok 4.7 | SpaceXAI",
+      "url": "https://x.ai/news/grok-4-7",
+      "published_at": null,
+      "summary": "SpaceXAI",
+      "author": null
+    },
     {
       "title": "Introducing Grok Voice Transcribe 2.0 | SpaceXAI",
       "url": "https://x.ai/news/grok-voice-transcribe-2",
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/introducing-outlook-addin",
       "published_at": null,
       "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
-      "author": null
-    },
-    {
-      "title": "Grok for Excel | SpaceXAI",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "published_at": null,
-      "summary": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
       "author": null
     }
   ],

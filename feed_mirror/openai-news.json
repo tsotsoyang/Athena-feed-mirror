@@ -2,9 +2,30 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-21T13:40:43.695615+00:00",
-  "next_refresh_at": "2026-09-21T14:10:43.695615+00:00",
+  "fetched_at": "2026-09-21T19:05:49.723244+00:00",
+  "next_refresh_at": "2026-09-21T19:35:49.723244+00:00",
   "entries": [
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "author": null
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "published_at": "2026-09-21T10:00:00+00:00",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "author": null
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "author": null
+    },
     {
       "title": "How V7 gives AI agents institutional memory",
       "url": "https://openai.com/index/v7",
@@ -132,17 +153,17 @@
       "author": null
     },
     {
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "author": null
-    },
-    {
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "published_at": "2026-09-10T00:00:00+00:00",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "author": null
+    },
+    {
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "author": null
     },
     {
@@ -157,27 +178,6 @@
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "published_at": "2026-09-09T11:00:00+00:00",
       "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "author": null
-    },
-    {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "published_at": "2026-09-09T17:00:00+00:00",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "author": null
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "published_at": "2026-09-08T17:00:00+00:00",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "author": null
-    },
-    {
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "published_at": "2026-09-08T13:00:00+00:00",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "author": null
     }
   ],
