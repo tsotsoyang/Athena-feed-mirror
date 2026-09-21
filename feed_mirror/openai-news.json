@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-21T06:48:39.505279+00:00",
-  "next_refresh_at": "2026-09-21T07:18:39.505279+00:00",
+  "fetched_at": "2026-09-21T13:40:43.695615+00:00",
+  "next_refresh_at": "2026-09-21T14:10:43.695615+00:00",
   "entries": [
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "author": null
+    },
     {
       "title": "Introducing the Australian Youth Safety Blueprint",
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
@@ -125,17 +132,17 @@
       "author": null
     },
     {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "author": null
-    },
-    {
       "title": "Introducing the Agents API",
       "url": "https://openai.com/index/introducing-the-agents-api",
       "published_at": "2026-09-10T00:00:00+00:00",
       "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "author": null
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/the-work-now-within-reach",
       "published_at": "2026-09-08T13:00:00+00:00",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "author": null
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "published_at": "2026-09-08T11:30:00+00:00",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "author": null
     }
   ],

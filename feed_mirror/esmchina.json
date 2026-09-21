@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-21T06:48:45.947068+00:00",
-  "next_refresh_at": "2026-09-21T07:18:45.947068+00:00",
+  "fetched_at": "2026-09-21T13:40:48.524778+00:00",
+  "next_refresh_at": "2026-09-21T14:10:48.524778+00:00",
   "entries": [
+    {
+      "title": "11家A股存储Fabless H1净赚385亿元，已达2025年全年的5.49倍",
+      "url": "https://www.esmchina.com/news/14616.html",
+      "published_at": null,
+      "summary": "最近AspenCore旗下媒体发布了A股半导体关联企业的上半年（H1）财报文章，包括模拟、AI芯片、EDA、IP、传感器、MCU、光模块、元器件分销等，其中大部分企业在今年都迎来了显著的业绩",
+      "author": null
+    },
     {
       "title": "2.7万亿美元狂飙：2026全球AI支出同比增长近50%",
       "url": "https://www.esmchina.com/news/14614.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14596.html",
       "published_at": null,
       "summary": "他表示，已指示业务团队不要向数据中心客户大幅提高报价，以免打击AI产业的投资意愿。",
-      "author": null
-    },
-    {
-      "title": "智能体发威的上半年，国产AI处理器市场红得发紫",
-      "url": "https://www.esmchina.com/news/14566.html",
-      "published_at": null,
-      "summary": "我们的AI/Processor报告追踪的4大类芯片中，第一大类就是AI HPC类。",
       "author": null
     }
   ],
