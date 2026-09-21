@@ -2,14 +2,21 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-20T23:21:33.508870+00:00",
-  "next_refresh_at": "2026-09-20T23:51:33.508870+00:00",
+  "fetched_at": "2026-09-21T01:22:46.297614+00:00",
+  "next_refresh_at": "2026-09-21T01:52:46.297614+00:00",
   "entries": [
     {
       "title": "2.7万亿美元狂飙：2026全球AI支出同比增长近50%",
       "url": "https://www.esmchina.com/news/14614.html",
       "published_at": null,
       "summary": "AI基础设施投资与AI融入软件及服务这两大趋势的交汇，正推动AI支出达到前所未有的水平。",
+      "author": null
+    },
+    {
+      "title": "从工业、汽车、机器人到数据中心：光纤正“渗透”四大场景",
+      "url": "https://www.esmchina.com/news/14615.html",
+      "published_at": null,
+      "summary": "当算力从云端下沉到车端与机械臂，当传感器分辨率与帧率持续抬升，铜介质的带宽、重量与抗干扰天花板愈发明显，而光模块成本随规模化逐年下探。",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14590.html",
       "published_at": null,
       "summary": "此次高额奖励方案落地的直接背景，是中国台湾地区紧张的劳资关系。",
-      "author": null
-    },
-    {
-      "title": "NAND还在缺货，下一轮供给拐点可能先发生在“bit”里",
-      "url": "https://www.esmchina.com/news/14586.html",
-      "published_at": null,
-      "summary": "三星V10 BV-NAND真正值得关注的，不只是超过400层，而是高密度节点、QLC与晶圆键合如何改变单位瓶颈资源的合格有效bit产出。在笔者看来，2026年NAND偏紧并不矛盾于2027年供给转松。下一轮供给变化未必首先来自新Fab，也可能来自“相同核心瓶颈资源能够形成更多可销售bit”的技术迁移。",
       "author": null
     }
   ],

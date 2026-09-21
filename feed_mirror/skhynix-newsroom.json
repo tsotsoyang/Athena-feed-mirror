@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-20T23:21:13.429876+00:00",
-  "next_refresh_at": "2026-09-20T23:51:13.429876+00:00",
+  "fetched_at": "2026-09-21T01:22:26.389041+00:00",
+  "next_refresh_at": "2026-09-21T01:52:26.389041+00:00",
   "entries": [
+    {
+      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
+      "url": "https://news.skhynix.com/en/2026-global-forum/",
+      "published_at": "2026-09-20T23:59:55+00:00",
+      "summary": "On the 18th (local time), SK hynix hosted its ‘2026 Global Forum’ at the Marriott Hotel in Santa Clara, California, US. SK hynix has held the forum every year since 2012 to introduce its technology vision and growth direction to",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Launches ‘SK hynix Ventures’ in Silicon Valley to Expand Global AI Ecosystem Investment",
       "url": "https://news.skhynix.com/en/sk-hynix-ventures/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/future-forum-2026-7/",
       "published_at": "2026-09-09T01:34:12+00:00",
       "summary": "▲ Industry experts taking part in the panel discussion, together with SK hynix Vice President Hyungsoo Kim, head of the DRAM Design department (first from left)",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
-      "url": "https://news.skhynix.com/en/future-forum-2026-6/",
-      "published_at": "2026-09-09T01:33:23+00:00",
-      "summary": "▲ SK hynix Vice President Kyunghoon Kim, head of the Design Research Lab, delivering the third keynote presentation",
       "author": "SK hynix"
     }
   ],
