@@ -2,14 +2,42 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-21T01:22:46.297614+00:00",
-  "next_refresh_at": "2026-09-21T01:52:46.297614+00:00",
+  "fetched_at": "2026-09-21T06:48:45.947068+00:00",
+  "next_refresh_at": "2026-09-21T07:18:45.947068+00:00",
   "entries": [
     {
       "title": "2.7万亿美元狂飙：2026全球AI支出同比增长近50%",
       "url": "https://www.esmchina.com/news/14614.html",
       "published_at": null,
       "summary": "AI基础设施投资与AI融入软件及服务这两大趋势的交汇，正推动AI支出达到前所未有的水平。",
+      "author": null
+    },
+    {
+      "title": "传成熟制程代工厂正酝酿新一轮涨价",
+      "url": "https://www.esmchina.com/news/14620.html",
+      "published_at": null,
+      "summary": "联电预告将启动“有感涨价”，力积电更是被传出部分产品报价将大涨四成。",
+      "author": null
+    },
+    {
+      "title": "从“是什么”到“怎么用”：村田硅电容以宽频技术卡位光模块速率跃迁",
+      "url": "https://www.esmchina.com/news/14619.html",
+      "published_at": null,
+      "summary": "从技术完善到标准引领，村田正在以宽频硅电容为核心，为光通信和数据中心市场提供从晶圆到封装的完整解决方案。",
+      "author": null
+    },
+    {
+      "title": "美国六大汽车协会联名上书：中国车，连厂都不许建",
+      "url": "https://www.esmchina.com/news/14618.html",
+      "published_at": null,
+      "summary": "日前，代表美国汽车产业核心力量的六大行业协会联名致信特朗普，要求全面禁止中国汽车制造商在美国销售、进口或生产汽车，即便建厂也不行。",
+      "author": null
+    },
+    {
+      "title": "贾跃亭又开发布会：9款机器人，最低9990美元起售",
+      "url": "https://www.esmchina.com/news/14617.html",
+      "published_at": null,
+      "summary": "Faraday Future（FF）在美国举行年度“919”发布会，一次性推出5大型号、9款配置的EAI机器人本体，并同步发布面向K-12教育、科研、安防、巡检的四套行业生产力解决方案。",
       "author": null
     },
     {
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14566.html",
       "published_at": null,
       "summary": "我们的AI/Processor报告追踪的4大类芯片中，第一大类就是AI HPC类。",
-      "author": null
-    },
-    {
-      "title": "2026年上半年38家分销商净利已超去年TOP50净利总和【附表】",
-      "url": "https://www.esmchina.com/news/14591.html",
-      "published_at": null,
-      "summary": "虽然我们仅统计了今年1至6月的业绩，但是根据当前的业绩可预判：2026年将会是元器件分销行业的丰收大年——38家上市分销商2026年H1总营收已占到2025年全年TOP50的近7成、净利润总额已超过2025年全年TOP50。",
-      "author": null
-    },
-    {
-      "title": "紫光国微19亿元收购瑞能半导体，实现“Fabless+IDM”战略升级",
-      "url": "https://www.esmchina.com/news/14592.html",
-      "published_at": null,
-      "summary": "国内特种集成电路龙头紫光国微披露重大资产重组方案，拟以19亿元总对价收购功率半导体企业瑞能半导体100%股权。",
-      "author": null
-    },
-    {
-      "title": "股票交易异常波动后，超声电子、金安国纪齐否认供货英伟达",
-      "url": "https://www.esmchina.com/news/14593.html",
-      "published_at": null,
-      "summary": "超声电子股票于2026年9月10日、9月11日连续2个交易日收盘价格涨幅偏离值累计超过20%；金安国纪年内仍涨超394%。",
-      "author": null
-    },
-    {
-      "title": "美光发68个月史上最高奖金，中国台湾工会仍不接受",
-      "url": "https://www.esmchina.com/news/14590.html",
-      "published_at": null,
-      "summary": "此次高额奖励方案落地的直接背景，是中国台湾地区紧张的劳资关系。",
       "author": null
     }
   ],
