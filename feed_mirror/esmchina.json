@@ -2,11 +2,25 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-22T01:27:39.216749+00:00",
-  "next_refresh_at": "2026-09-22T01:57:39.216749+00:00",
+  "fetched_at": "2026-09-22T06:41:51.345922+00:00",
+  "next_refresh_at": "2026-09-22T07:11:51.345922+00:00",
   "entries": [
     {
-      "title": "AMD, 万亿美元了！",
+      "title": "台积电高雄百普先进封装园区动工：Mini-Loop验证线为CoWoS扩产提速",
+      "url": "https://www.esmchina.com/news/14624.html",
+      "published_at": null,
+      "summary": "一座“不产芯片”的台积电新厂，却是CoWoS扩产的关键一步。",
+      "author": null
+    },
+    {
+      "title": "奕斯伟计算通过港交所聆讯，“RISC-V第一股”要来了",
+      "url": "https://www.esmchina.com/news/14622.html",
+      "published_at": null,
+      "summary": "北京奕斯伟计算技术股份有限公司日前通过香港联合交易所主板上市聆讯，距离正式挂牌交易更近一步。若顺利完成发行，它有望成为港股市场乃至全球范围内具有标志意义的“RISC-V第一股”。",
+      "author": null
+    },
+    {
+      "title": "AMD, 万亿美元！",
       "url": "https://www.esmchina.com/news/14621.html",
       "published_at": null,
       "summary": "美东时间9月21日，AMD市值正式突破1万亿美元大关。这是AMD历史上首次跻身”万亿美元俱乐部“，也是继苹果、微软、英伟达之后，第四家达成该里程碑的美国科技企业。",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14599.html",
       "published_at": null,
       "summary": "MediaTek在深圳举行天玑旗舰芯片发布会，正式推出天玑9600系列5G智能体AI芯片。",
-      "author": null
-    },
-    {
-      "title": "ASML拟2028年产逾110台EUV光刻机：AI需求“非常非常强”，2027年产能已近售罄",
-      "url": "https://www.esmchina.com/news/14598.html",
-      "published_at": null,
-      "summary": "AI需求“非常非常强”，ASML正研究2028年生产超过110台EUV（极紫外光刻）设备。",
-      "author": null
-    },
-    {
-      "title": "对话AMD酆毅：物理AI，“从身体到大脑”的跨越",
-      "url": "https://www.esmchina.com/news/14597.html",
-      "published_at": null,
-      "summary": "在与AMD大中华区嵌入式事业部副总裁酆毅（Bob Feng）对话中，当被问及“AMD在这一轮技术迁移中处于何种位置？”时，他的回答相当简短——“Body-To-Brain，从身体到大脑。”",
       "author": null
     }
   ],

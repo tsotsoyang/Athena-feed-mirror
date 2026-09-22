@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-22T01:27:42.172514+00:00",
-  "next_refresh_at": "2026-09-22T01:57:42.172514+00:00",
+  "fetched_at": "2026-09-22T06:41:53.412272+00:00",
+  "next_refresh_at": "2026-09-22T07:11:53.412272+00:00",
   "entries": [
     {
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",

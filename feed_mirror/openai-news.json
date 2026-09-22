@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-22T01:27:31.791270+00:00",
-  "next_refresh_at": "2026-09-22T01:57:31.791270+00:00",
+  "fetched_at": "2026-09-22T06:41:42.077344+00:00",
+  "next_refresh_at": "2026-09-22T07:11:42.077344+00:00",
   "entries": [
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
