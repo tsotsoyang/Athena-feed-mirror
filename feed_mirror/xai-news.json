@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-22T17:09:37.701130+00:00",
-  "next_refresh_at": "2026-09-22T17:39:37.701130+00:00",
+  "fetched_at": "2026-09-22T20:23:03.308099+00:00",
+  "next_refresh_at": "2026-09-22T20:53:03.308099+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.7 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-7",
       "published_at": null,
       "summary": "SpaceXAI",
+      "author": null
+    },
+    {
+      "title": "How SpaceXAI is using Grok Bot to scale customer support | SpaceXAI",
+      "url": "https://x.ai/news/grok-bot-customer-support",
+      "published_at": null,
+      "summary": "We rebuilt the combined SpaceXAI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-4-5-everywhere",
       "published_at": null,
       "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
-      "author": null
-    },
-    {
-      "title": "Grok for Outlook | SpaceXAI",
-      "url": "https://x.ai/news/introducing-outlook-addin",
-      "published_at": null,
-      "summary": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
       "author": null
     }
   ],

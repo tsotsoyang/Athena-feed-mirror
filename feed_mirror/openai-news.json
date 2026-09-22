@@ -2,9 +2,30 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-22T17:09:21.185918+00:00",
-  "next_refresh_at": "2026-09-22T17:39:21.185918+00:00",
+  "fetched_at": "2026-09-22T20:22:46.562388+00:00",
+  "next_refresh_at": "2026-09-22T20:52:46.562388+00:00",
   "entries": [
+    {
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "published_at": "2026-09-22T21:00:00+00:00",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "author": null
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "published_at": "2026-09-22T18:00:00+00:00",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "author": null
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "author": null
+    },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
@@ -157,27 +178,6 @@
       "url": "https://openai.com/index/expanding-ai-access-us-government",
       "published_at": "2026-09-10T07:00:00+00:00",
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "author": null
-    },
-    {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "author": null
-    },
-    {
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "author": null
-    },
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "published_at": "2026-09-09T13:00:00+00:00",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "author": null
     }
   ],
