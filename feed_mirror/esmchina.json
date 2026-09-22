@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-22T06:41:51.345922+00:00",
-  "next_refresh_at": "2026-09-22T07:11:51.345922+00:00",
+  "fetched_at": "2026-09-22T12:23:55.202535+00:00",
+  "next_refresh_at": "2026-09-22T12:53:55.202535+00:00",
   "entries": [
+    {
+      "title": "UFS的下一场战争：谁掌握整台手机的“存储优化权”？",
+      "url": "https://www.esmchina.com/news/14623.html",
+      "published_at": null,
+      "summary": "从ZUFS、Android/F2FS到OEM协同：高端UFS正在从器件性能竞争走向跨层优化能力竞争",
+      "author": null
+    },
+    {
+      "title": "多地禁产“老头乐”：低速四轮车标准化路径面临重大调整",
+      "url": "https://www.esmchina.com/news/14626.html",
+      "published_at": null,
+      "summary": "江苏徐州、鲁西南部分地区已开始限制厂家生产低速电动四轮车，治理重心正从“不让上路”向“不让造”前移。",
+      "author": null
+    },
+    {
+      "title": "京东登顶，华为第4，2026中国民营企业500强发布(附榜单)",
+      "url": "https://www.esmchina.com/news/14625.html",
+      "published_at": null,
+      "summary": "22日，全国工商联在天津发布&amp;quot;2026中国民营企业500强&amp;quot;榜单。结果显示，京东集团、阿里巴巴（中国）有限公司、恒力集团有限公司位居前三，华为投资控股有限公司、比亚迪股份有限公司分列第四、第五。",
+      "author": null
+    },
     {
       "title": "台积电高雄百普先进封装园区动工：Mini-Loop验证线为CoWoS扩产提速",
       "url": "https://www.esmchina.com/news/14624.html",
@@ -27,7 +48,7 @@
       "author": null
     },
     {
-      "title": "11家A股存储Fabless H1净赚385亿元，已达2025年全年的5.49倍",
+      "title": "A股存储Fabless H1净赚385亿元，已达2025年全年的5.49倍",
       "url": "https://www.esmchina.com/news/14616.html",
       "published_at": null,
       "summary": "最近AspenCore旗下媒体发布了A股半导体关联企业的上半年（H1）财报文章，包括模拟、AI芯片、EDA、IP、传感器、MCU、光模块、元器件分销等，其中大部分企业在今年都迎来了显著的业绩",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14602.html",
       "published_at": null,
       "summary": "AI安全还是AI速度？",
-      "author": null
-    },
-    {
-      "title": "华为内部讲话曝光：核心战略是“聚焦”，AI时代目标是成为“英伟达”",
-      "url": "https://www.esmchina.com/news/14601.html",
-      "published_at": null,
-      "summary": "在ICT业务及计算领域，华为的目标是成为“英伟达”，核心优势不在于拥有自研大模型，而在于支持客户构建优秀的大模型。",
-      "author": null
-    },
-    {
-      "title": "美光展示全球首个512GB DDR5 RDIMM：单机12TB、省电逾60%，2027年下半年量产",
-      "url": "https://www.esmchina.com/news/14600.html",
-      "published_at": null,
-      "summary": "当地时间9月15日，美光科技宣布成功在多个服务器平台上完成全球首款512GB DDR5 RDIMM的演示验证。",
-      "author": null
-    },
-    {
-      "title": "天玑9600 Pro发布：2nm制程+AI原生架构，多核功耗降61%",
-      "url": "https://www.esmchina.com/news/14599.html",
-      "published_at": null,
-      "summary": "MediaTek在深圳举行天玑旗舰芯片发布会，正式推出天玑9600系列5G智能体AI芯片。",
       "author": null
     }
   ],
