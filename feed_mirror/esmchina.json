@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-21T22:43:57.499886+00:00",
-  "next_refresh_at": "2026-09-21T23:13:57.499886+00:00",
+  "fetched_at": "2026-09-22T01:27:39.216749+00:00",
+  "next_refresh_at": "2026-09-22T01:57:39.216749+00:00",
   "entries": [
+    {
+      "title": "AMD, 万亿美元了！",
+      "url": "https://www.esmchina.com/news/14621.html",
+      "published_at": null,
+      "summary": "美东时间9月21日，AMD市值正式突破1万亿美元大关。这是AMD历史上首次跻身”万亿美元俱乐部“，也是继苹果、微软、英伟达之后，第四家达成该里程碑的美国科技企业。",
+      "author": null
+    },
     {
       "title": "11家A股存储Fabless H1净赚385亿元，已达2025年全年的5.49倍",
       "url": "https://www.esmchina.com/news/14616.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14597.html",
       "published_at": null,
       "summary": "在与AMD大中华区嵌入式事业部副总裁酆毅（Bob Feng）对话中，当被问及“AMD在这一轮技术迁移中处于何种位置？”时，他的回答相当简短——“Body-To-Brain，从身体到大脑。”",
-      "author": null
-    },
-    {
-      "title": "铠侠拟赴美上市募资至少100亿美元，CEO喊话“存储价格涨够了”",
-      "url": "https://www.esmchina.com/news/14596.html",
-      "published_at": null,
-      "summary": "他表示，已指示业务团队不要向数据中心客户大幅提高报价，以免打击AI产业的投资意愿。",
       "author": null
     }
   ],

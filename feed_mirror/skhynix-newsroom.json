@@ -2,9 +2,44 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-21T22:43:39.702484+00:00",
-  "next_refresh_at": "2026-09-21T23:13:39.702484+00:00",
+  "fetched_at": "2026-09-22T01:27:21.279791+00:00",
+  "next_refresh_at": "2026-09-22T01:57:21.279791+00:00",
   "entries": [
+    {
+      "title": "SK hynix Launches ‘SK hynix Ventures’ in Silicon Valley to Expand Global AI Ecosystem Investment",
+      "url": "https://news.skhynix.com/en/sk-hynix-ventures-2/",
+      "published_at": "2026-09-22T01:26:10+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Launches ‘SK hynix Ventures’ in Silicon Valley to Expand Global AI Ecosystem Investment",
+      "url": "https://news.skhynix.com/en/sk-hynix-ventures-1/",
+      "published_at": "2026-09-22T01:23:24+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Presents ‘New Spectrum’ for AI Infrastructure at ‘AI Infra Summit 2026’",
+      "url": "https://news.skhynix.com/en/ai-infra-summit-2026-3/",
+      "published_at": "2026-09-22T01:07:11+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Presents ‘New Spectrum’ for AI Infrastructure at ‘AI Infra Summit 2026’",
+      "url": "https://news.skhynix.com/en/ai-infra-summit-2026-2/",
+      "published_at": "2026-09-22T01:02:34+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Presents ‘New Spectrum’ for AI Infrastructure at ‘AI Infra Summit 2026’",
+      "url": "https://news.skhynix.com/en/ai-infra-summit-2026-1/",
+      "published_at": "2026-09-22T00:59:35+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
       "url": "https://news.skhynix.com/en/2026-global-forum/",
@@ -38,41 +73,6 @@
       "url": "https://news.skhynix.com/en/sk-hynix-charts-its-direction-at-the-2026-future-forum-now-is-the-golden-time-to-leap-forward/",
       "published_at": "2026-09-09T07:00:45+00:00",
       "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
-      "url": "https://news.skhynix.com/en/future-forum-2026-11/",
-      "published_at": "2026-09-09T01:38:40+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
-      "url": "https://news.skhynix.com/en/future-forum-2026-10/",
-      "published_at": "2026-09-09T01:37:45+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
-      "url": "https://news.skhynix.com/en/future-forum-2026-9/",
-      "published_at": "2026-09-09T01:36:58+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
-      "url": "https://news.skhynix.com/en/future-forum-2026-8/",
-      "published_at": "2026-09-09T01:35:11+00:00",
-      "summary": "▲ SKHU President Hyeongsoo Kim delivering the closing remarks",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
-      "url": "https://news.skhynix.com/en/future-forum-2026-7/",
-      "published_at": "2026-09-09T01:34:12+00:00",
-      "summary": "▲ Industry experts taking part in the panel discussion, together with SK hynix Vice President Hyungsoo Kim, head of the DRAM Design department (first from left)",
       "author": "SK hynix"
     }
   ],
