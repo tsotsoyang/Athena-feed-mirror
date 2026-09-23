@@ -2,9 +2,23 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-23T12:55:50.388983+00:00",
-  "next_refresh_at": "2026-09-23T13:25:50.388983+00:00",
+  "fetched_at": "2026-09-23T17:44:44.507959+00:00",
+  "next_refresh_at": "2026-09-23T18:14:44.507959+00:00",
   "entries": [
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "published_at": "2026-09-23T16:00:57+00:00",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "author": null
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "published_at": "2026-09-23T15:25:14+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
@@ -164,20 +178,6 @@
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "published_at": "2026-06-30T16:02:40+00:00",
       "summary": "",
-      "author": null
-    },
-    {
-      "title": "Introducing computer use in Gemini 3.5 Flash",
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "published_at": "2026-06-24T16:30:01+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "published_at": "2026-06-16T21:29:50+00:00",
-      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
       "author": null
     }
   ],
