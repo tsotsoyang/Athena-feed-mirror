@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-23T01:39:21.345923+00:00",
-  "next_refresh_at": "2026-09-23T02:09:21.345923+00:00",
+  "fetched_at": "2026-09-23T07:25:58.497778+00:00",
+  "next_refresh_at": "2026-09-23T07:55:58.497778+00:00",
   "entries": [
     {
       "title": "Better prompt caching for GPT-6",

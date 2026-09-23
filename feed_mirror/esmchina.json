@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-23T01:39:29.189532+00:00",
-  "next_refresh_at": "2026-09-23T02:09:29.189532+00:00",
+  "fetched_at": "2026-09-23T07:26:07.029998+00:00",
+  "next_refresh_at": "2026-09-23T07:56:07.029998+00:00",
   "entries": [
+    {
+      "title": "AI被“开除”？特朗普宣布：以后只叫SI",
+      "url": "https://www.esmchina.com/news/14629.html",
+      "published_at": null,
+      "summary": "美国总统特朗普日前在联合国发言时宣布：今后所有美国政府文件将不再使用“人工智能”（Artificial Intelligence，AI）这一术语，取而代之的是“超级智能”（Super Intelligence，SI）。",
+      "author": null
+    },
+    {
+      "title": "高通骁龙峰会发布两款2nm旗舰SoC，小米18 Pro系列全球首发搭载",
+      "url": "https://www.esmchina.com/news/14628.html",
+      "published_at": null,
+      "summary": "两款芯片均基于台积电N2P改良版2nm GAA全环绕栅极工艺，是安卓阵营首批面向量产的2nm手机处理器。",
+      "author": null
+    },
+    {
+      "title": "美光在德国一审被判禁售，长江存储拿到首个实质性禁令",
+      "url": "https://www.esmchina.com/news/14627.html",
+      "published_at": null,
+      "summary": "9月18日，德国慕尼黑第一地区法院第七民事庭就长江存储诉美光系列案件作出两项一审裁判，认定美光侵犯长江存储持有的两项德国实用新型专利权，并支持长江存储提出的禁令请求。美光随后表示不认同判决，将提起上诉，并继续通过有效性程序挑战涉案权利。",
+      "author": null
+    },
     {
       "title": "UFS的下一场战争：谁掌握整台手机的“存储优化权”？",
       "url": "https://www.esmchina.com/news/14623.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14606.html",
       "published_at": null,
       "summary": "交易完成后，标的公司将更名为“Spansion”，作为独立实体运营，总部仍设在美国。",
-      "author": null
-    },
-    {
-      "title": "传苹果将重返AI服务器市场：M8 Ultra芯片+英伟达NVLink Fusion",
-      "url": "https://www.esmchina.com/news/14604.html",
-      "published_at": null,
-      "summary": "传苹果公司正在评估重返企业服务器市场，如果消息属实，将是该公司自2011年后首次重启企业级服务器业务。",
-      "author": null
-    },
-    {
-      "title": "以利润换空间，两大国产IP企业2026年H1财报解析",
-      "url": "https://www.esmchina.com/news/14603.html",
-      "published_at": null,
-      "summary": "本报告聚焦于国产IP领域的两大上市公司——灿芯股份与芯原股份，通过深度剖析其2026年上半年的财报，从营收、利润、业务结构到研发投入等多个维度，透视它们在复杂市场环境下的经营实况与战略抉择，并探寻其未来的发展轨迹。",
-      "author": null
-    },
-    {
-      "title": "AI需要降速吗？特朗普拟白宫召集AI领导人当面激辩",
-      "url": "https://www.esmchina.com/news/14602.html",
-      "published_at": null,
-      "summary": "AI安全还是AI速度？",
       "author": null
     }
   ],
