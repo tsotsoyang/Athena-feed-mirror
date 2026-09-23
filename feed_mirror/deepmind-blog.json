@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-23T17:44:44.507959+00:00",
-  "next_refresh_at": "2026-09-23T18:14:44.507959+00:00",
+  "fetched_at": "2026-09-23T21:10:35.284567+00:00",
+  "next_refresh_at": "2026-09-23T21:40:35.284567+00:00",
   "entries": [
     {
       "title": "Advancing Private AI Compute with secure, server-side memory",
