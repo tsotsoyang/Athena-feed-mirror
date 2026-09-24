@@ -2,14 +2,14 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-09-24T03:28:46.195272+00:00",
-  "next_refresh_at": "2026-09-24T03:58:46.195272+00:00",
+  "fetched_at": "2026-09-24T08:43:02.505763+00:00",
+  "next_refresh_at": "2026-09-24T09:13:02.505763+00:00",
   "entries": [
     {
-      "title": "Your First API Call | DeepSeek API Docs",
+      "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient | DeepSeek API Docs",
       "url": "https://api-docs.deepseek.com/news/news260910",
       "published_at": null,
-      "summary": "The DeepSeek API uses an API format compatible with OpenAI/Anthropic. By modifying the configuration, you can use the OpenAI/Anthropic SDK or softwares compatible with the OpenAI/Anthropic API to access the DeepSeek API.",
+      "summary": "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.",
       "author": null
     }
   ],

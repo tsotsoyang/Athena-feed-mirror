@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-24T03:28:44.723686+00:00",
-  "next_refresh_at": "2026-09-24T03:58:44.723686+00:00",
+  "fetched_at": "2026-09-24T08:43:00.937148+00:00",
+  "next_refresh_at": "2026-09-24T09:13:00.937148+00:00",
   "entries": [
+    {
+      "title": "Meta AI眼镜矩阵翻新：Muse助手接入硬件，首提“代理交易抽佣”变现",
+      "url": "https://www.esmchina.com/news/14632.html",
+      "published_at": null,
+      "summary": "涨价19%、加AI、还要付佣金：Meta智能眼镜的逻辑变了。",
+      "author": null
+    },
     {
       "title": "从技术完善到标准引领，再到全球韧性：格罗方德的硅光子布局之路",
       "url": "https://www.esmchina.com/news/14631.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14608.html",
       "published_at": null,
       "summary": "全新创新中心汇聚研究能力、工程专业知识与全球供应链资源，加速AI商业化进程。",
-      "author": null
-    },
-    {
-      "title": "这一轮存储行情到顶了吗？",
-      "url": "https://www.esmchina.com/news/14605.html",
-      "published_at": null,
-      "summary": "真正的大顶，不是价格第一次不涨，而是六个变量在同一个市场里同向转弱。本文从需求、订单、渠道、库存、有效供给到价格，分市场判断2026年存储周期的顶部位置。",
       "author": null
     }
   ],
