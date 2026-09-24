@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-23T23:52:18.405157+00:00",
-  "next_refresh_at": "2026-09-24T00:22:18.405157+00:00",
+  "fetched_at": "2026-09-24T03:28:44.723686+00:00",
+  "next_refresh_at": "2026-09-24T03:58:44.723686+00:00",
   "entries": [
+    {
+      "title": "从技术完善到标准引领，再到全球韧性：格罗方德的硅光子布局之路",
+      "url": "https://www.esmchina.com/news/14631.html",
+      "published_at": null,
+      "summary": "在AI数据中心对带宽与能效的极致追求下，光互连技术正从实验室走向量产前夜。格罗方德在硅光子领域的布局并非停留在晶圆制造层面，而是延伸到了平台能力、方案能力与量产保证。",
+      "author": null
+    },
+    {
+      "title": "马斯克：中国两三年内可依靠光刻与制造补齐算力缺口",
+      "url": "https://www.esmchina.com/news/14630.html",
+      "published_at": null,
+      "summary": "马斯克认为，中国解决算力问题的速度会比大多数人预想得更快。",
+      "author": null
+    },
     {
       "title": "AI被“开除”？特朗普宣布：以后只有SI",
       "url": "https://www.esmchina.com/news/14629.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14605.html",
       "published_at": null,
       "summary": "真正的大顶，不是价格第一次不涨，而是六个变量在同一个市场里同向转弱。本文从需求、订单、渠道、库存、有效供给到价格，分市场判断2026年存储周期的顶部位置。",
-      "author": null
-    },
-    {
-      "title": "一年两轮、累计超6亿美元：地瓜机器人完成4亿美元C轮融资",
-      "url": "https://www.esmchina.com/news/14607.html",
-      "published_at": null,
-      "summary": "9月17日，地瓜机器人宣布完成4亿美元C轮融资。本轮融资旨在强化旭日芯片的全算力段产品布局，建设贯通数据采集、模型训练、仿真验证、推理部署的全链路软件平台，以软硬一体的具身智能基础设施，满足从成熟品类到通用人形机器人的全场景开发需求，赋能机器人品类爆发。",
-      "author": null
-    },
-    {
-      "title": "华邦电子11.2亿美元收购英飞凌NOR Flash与F-RAM业务，飞索Spansion品牌回归",
-      "url": "https://www.esmchina.com/news/14606.html",
-      "published_at": null,
-      "summary": "交易完成后，标的公司将更名为“Spansion”，作为独立实体运营，总部仍设在美国。",
       "author": null
     }
   ],
