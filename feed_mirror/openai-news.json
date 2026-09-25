@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-24T22:01:03.208978+00:00",
-  "next_refresh_at": "2026-09-24T22:31:03.208978+00:00",
+  "fetched_at": "2026-09-25T00:40:38.007391+00:00",
+  "next_refresh_at": "2026-09-25T01:10:38.007391+00:00",
   "entries": [
     {
       "title": "Two years of OpenAI Academy",
