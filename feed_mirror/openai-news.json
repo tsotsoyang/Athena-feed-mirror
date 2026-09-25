@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-25T15:53:13.163691+00:00",
-  "next_refresh_at": "2026-09-25T16:23:13.163691+00:00",
+  "fetched_at": "2026-09-25T19:51:59.409283+00:00",
+  "next_refresh_at": "2026-09-25T20:21:59.409283+00:00",
   "entries": [
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "published_at": "2026-09-25T19:00:00+00:00",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "author": null
+    },
     {
       "title": "Two years of OpenAI Academy",
       "url": "https://openai.com/index/two-years-of-openai-academy",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "published_at": "2026-09-16T13:00:00+00:00",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "author": null
-    },
-    {
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
-      "published_at": "2026-09-16T12:00:00+00:00",
-      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
       "author": null
     }
   ],
