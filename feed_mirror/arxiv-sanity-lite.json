@@ -2,8 +2,8 @@
   "source": "arxiv-sanity-lite",
   "name": "ArXiv-sanity Lite (top recent)",
   "feed_url": "https://arxiv-sanity-lite.com/rss",
-  "fetched_at": "2026-09-25T23:12:26.772775+00:00",
-  "next_refresh_at": "2026-09-25T23:42:26.772775+00:00",
+  "fetched_at": "2026-09-26T01:53:59.447134+00:00",
+  "next_refresh_at": "2026-09-26T02:23:59.447134+00:00",
   "entries": [],
   "errors": [
     {
