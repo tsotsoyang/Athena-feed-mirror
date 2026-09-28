@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-09-28T01:52:48.172151+00:00",
-  "next_refresh_at": "2026-09-28T02:22:48.172151+00:00",
+  "fetched_at": "2026-09-28T08:18:35.507559+00:00",
+  "next_refresh_at": "2026-09-28T08:48:35.507559+00:00",
   "entries": [
     {
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
