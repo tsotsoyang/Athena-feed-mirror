@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-09-28T16:54:38.820049+00:00",
-  "next_refresh_at": "2026-09-28T17:24:38.820049+00:00",
+  "fetched_at": "2026-09-28T22:25:39.813061+00:00",
+  "next_refresh_at": "2026-09-28T22:55:39.813061+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.7 | SpaceXAI",
       "url": "https://x.ai/news/grok-4-7",
       "published_at": null,
       "summary": "SpaceXAI",
+      "author": null
+    },
+    {
+      "title": "Team Bots: AI coworkers that learn from your team | SpaceXAI",
+      "url": "https://x.ai/news/team-bots",
+      "published_at": null,
+      "summary": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/workflows",
       "published_at": null,
       "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
-      "author": null
-    },
-    {
-      "title": "Bringing Grok 4.5 to iOS, Android, Web, and X | SpaceXAI",
-      "url": "https://x.ai/news/grok-4-5-everywhere",
-      "published_at": null,
-      "summary": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
       "author": null
     }
   ],
