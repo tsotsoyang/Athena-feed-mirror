@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-28T08:18:32.117036+00:00",
-  "next_refresh_at": "2026-09-28T08:48:32.117036+00:00",
+  "fetched_at": "2026-09-28T16:54:28.255245+00:00",
+  "next_refresh_at": "2026-09-28T17:24:28.255245+00:00",
   "entries": [
+    {
+      "title": "VSMC新加坡首座300毫米晶圆厂正式启用",
+      "url": "https://www.esmchina.com/news/14637.html",
+      "published_at": null,
+      "summary": "9月28日，由世界先进积体电路与恩智浦半导体在2024年9月合资设立的VisionPower Semiconductor Manufacturing Company（VSMC），在新加坡淡滨尼为其首座12英寸晶圆厂举行启用仪式。",
+      "author": null
+    },
     {
       "title": "澜起科技DDR5第五子代RCD芯片量产：8000 MT/s锁定AI服务器“运力”底座",
       "url": "https://www.esmchina.com/news/14636.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14613.html",
       "published_at": null,
       "summary": "AI安全还是AI速度？Round 2...",
-      "author": null
-    },
-    {
-      "title": "长鑫存储G5平台量产！DRAM工艺微缩到11.95纳米",
-      "url": "https://www.esmchina.com/news/14612.html",
-      "published_at": null,
-      "summary": "长鑫存储在世界制造业大会上正式宣布第五代DRAM技术平台实现量产，并同步展出基于该平台打造的大容量LPDDR5X新品。",
       "author": null
     }
   ],
