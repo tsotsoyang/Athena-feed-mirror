@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-27T23:16:16.436549+00:00",
-  "next_refresh_at": "2026-09-27T23:46:16.436549+00:00",
+  "fetched_at": "2026-09-28T01:52:38.983016+00:00",
+  "next_refresh_at": "2026-09-28T02:22:38.983016+00:00",
   "entries": [
     {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
