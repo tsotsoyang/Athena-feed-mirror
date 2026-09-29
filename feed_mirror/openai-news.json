@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-29T08:53:03.999395+00:00",
-  "next_refresh_at": "2026-09-29T09:23:03.999395+00:00",
+  "fetched_at": "2026-09-29T15:24:31.250754+00:00",
+  "next_refresh_at": "2026-09-29T15:54:31.250754+00:00",
   "entries": [
     {
       "title": "How we will do better for Australia",
