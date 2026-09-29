@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-28T22:25:25.892231+00:00",
-  "next_refresh_at": "2026-09-28T22:55:25.892231+00:00",
+  "fetched_at": "2026-09-29T02:11:09.653500+00:00",
+  "next_refresh_at": "2026-09-29T02:41:09.653500+00:00",
   "entries": [
+    {
+      "title": "长鑫存储宣布349亿元重大项目投资",
+      "url": "https://www.esmchina.com/news/14639.html",
+      "published_at": null,
+      "summary": "9月28日，长鑫科技发布公告，计划动用180亿元IPO超募资金，落地DRAM技术研发以及存储器晶圆后道测试基地二期项目，合计总投资349亿元。",
+      "author": null
+    },
+    {
+      "title": "82亿美元！AMD收购李飞飞World Labs，两大AI女神携手",
+      "url": "https://www.esmchina.com/news/14638.html",
+      "published_at": null,
+      "summary": "9月28日，AMD官宣以82亿美元全股票交易收购AI初创实验室World Labs。交割完成后，World Labs创始人李飞飞将出任AMD执行副总裁兼首席科学家，直接向AMD CEO苏姿丰汇报。",
+      "author": null
+    },
     {
       "title": "VSMC新加坡首座300毫米晶圆厂正式启用",
       "url": "https://www.esmchina.com/news/14637.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14617.html",
       "published_at": null,
       "summary": "Faraday Future（FF）在美国举行年度“919”发布会，一次性推出5大型号、9款配置的EAI机器人本体，并同步发布面向K-12教育、科研、安防、巡检的四套行业生产力解决方案。",
-      "author": null
-    },
-    {
-      "title": "从工业、汽车、机器人到数据中心：光纤正“渗透”四大场景",
-      "url": "https://www.esmchina.com/news/14615.html",
-      "published_at": null,
-      "summary": "当算力从云端下沉到车端与机械臂，当传感器分辨率与帧率持续抬升，铜介质的带宽、重量与抗干扰天花板愈发明显，而光模块成本随规模化逐年下探。",
-      "author": null
-    },
-    {
-      "title": "呼吁AI“慢下来”惹官司，四大巨头因放缓研发被起诉垄断",
-      "url": "https://www.esmchina.com/news/14613.html",
-      "published_at": null,
-      "summary": "AI安全还是AI速度？Round 2...",
       "author": null
     }
   ],
