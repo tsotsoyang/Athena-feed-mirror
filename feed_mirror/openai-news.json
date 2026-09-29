@@ -2,14 +2,28 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-29T15:24:31.250754+00:00",
-  "next_refresh_at": "2026-09-29T15:54:31.250754+00:00",
+  "fetched_at": "2026-09-29T20:08:46.396990+00:00",
+  "next_refresh_at": "2026-09-29T20:38:46.396990+00:00",
   "entries": [
     {
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published_at": "2026-09-28T19:00:00+00:00",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "author": null
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "author": null
+    },
+    {
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "published_at": "2026-09-29T00:00:00+00:00",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "author": null
     },
     {
@@ -17,6 +31,13 @@
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "published_at": "2026-09-28T19:00:00+00:00",
       "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "author": null
+    },
+    {
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "author": null
     },
     {
@@ -69,17 +90,17 @@
       "author": null
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "author": null
-    },
-    {
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "published_at": "2026-09-23T12:00:00+00:00",
       "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "author": null
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "author": null
     },
     {
@@ -146,13 +167,6 @@
       "author": null
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "published_at": "2026-09-21T12:00:00+00:00",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "author": null
-    },
-    {
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "published_at": "2026-09-21T12:00:00+00:00",
@@ -160,24 +174,10 @@
       "author": null
     },
     {
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "published_at": "2026-09-21T10:00:00+00:00",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "author": null
-    },
-    {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "published_at": "2026-09-21T07:00:00+00:00",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "author": null
-    },
-    {
-      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-      "url": "https://openai.com/index/v7",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "author": null
     }
   ],
