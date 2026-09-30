@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-29T23:53:17.237320+00:00",
-  "next_refresh_at": "2026-09-30T00:23:17.237320+00:00",
+  "fetched_at": "2026-09-30T04:19:20.390282+00:00",
+  "next_refresh_at": "2026-09-30T04:49:20.390282+00:00",
   "entries": [
     {
       "title": "Introducing GPT-6.1 Sol",
@@ -23,7 +23,7 @@
       "title": "Introducing dots",
       "url": "https://openai.com/index/introducing-dots",
       "published_at": "2026-09-29T00:00:00+00:00",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "author": null
     },
     {

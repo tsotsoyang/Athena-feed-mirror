@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-29T23:53:23.266270+00:00",
-  "next_refresh_at": "2026-09-30T00:23:23.266270+00:00",
+  "fetched_at": "2026-09-30T04:19:25.941947+00:00",
+  "next_refresh_at": "2026-09-30T04:49:25.941947+00:00",
   "entries": [
+    {
+      "title": "特朗普给美国AI送“救命药”：自己管自己",
+      "url": "https://www.esmchina.com/news/14645.html",
+      "published_at": null,
+      "summary": "特朗普会晤科技巨头，签署AI“道德约束”协议，提出“自我监管”应对风险。",
+      "author": null
+    },
+    {
+      "title": "印度大力推进OSAT，瞄准2.5D先进封装",
+      "url": "https://www.esmchina.com/news/14642.html",
+      "published_at": null,
+      "summary": "印度不断扩大的OSAT（外包半导体封装与测试）生态系统正从传统封装逐步迈向倒装芯片（Flip-Chip）封装、芯粒（Chiplet）技术，以及2.5D先进封装能力领域。",
+      "author": null
+    },
     {
       "title": "PCB龙头景旺电子A+H双重落地，开盘破发后翻红涨超10%",
       "url": "https://www.esmchina.com/news/14644.html",
@@ -13,7 +27,7 @@
       "author": null
     },
     {
-      "title": "“这叫做竞争”，黄仁勋回应模型蒸馏“盗窃”指控",
+      "title": "“这叫竞争”，黄仁勋回应模型蒸馏“盗窃”指控",
       "url": "https://www.esmchina.com/news/14643.html",
       "published_at": null,
       "summary": "当被问到模型蒸馏算不算“劫掠”时，黄仁勋回答说，“这叫做竞争，你完全可以尽情测试别家的产品”。",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14621.html",
       "published_at": null,
       "summary": "美东时间9月21日，AMD市值正式突破1万亿美元大关。这是AMD历史上首次跻身”万亿美元俱乐部“，也是继苹果、微软、英伟达之后，第四家达成该里程碑的美国科技企业。",
-      "author": null
-    },
-    {
-      "title": "A股存储Fabless H1净赚385亿元，已达2025年全年的5.49倍",
-      "url": "https://www.esmchina.com/news/14616.html",
-      "published_at": null,
-      "summary": "最近AspenCore旗下媒体发布了A股半导体关联企业的上半年（H1）财报文章，包括模拟、AI芯片、EDA、IP、传感器、MCU、光模块、元器件分销等，其中大部分企业在今年都迎来了显著的业绩",
-      "author": null
-    },
-    {
-      "title": "2.7万亿美元狂飙：2026全球AI支出同比增长近50%",
-      "url": "https://www.esmchina.com/news/14614.html",
-      "published_at": null,
-      "summary": "AI基础设施投资与AI融入软件及服务这两大趋势的交汇，正推动AI支出达到前所未有的水平。",
       "author": null
     }
   ],

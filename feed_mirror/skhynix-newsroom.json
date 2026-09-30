@@ -2,14 +2,56 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-29T23:53:04.338726+00:00",
-  "next_refresh_at": "2026-09-30T00:23:04.338726+00:00",
+  "fetched_at": "2026-09-30T04:19:10.090279+00:00",
+  "next_refresh_at": "2026-09-30T04:49:10.090279+00:00",
   "entries": [
+    {
+      "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3/",
+      "published_at": "2026-09-29T23:59:07+00:00",
+      "summary": "AI is no longer defined by a single model or AI processor. For AI to operate effectively in real-world services and industrial applications, it takes faster compute, wider memory bandwidth, higher-performance networks, more efficient storage, and more stable power and",
+      "author": "SK hynix"
+    },
     {
       "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
       "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026/",
       "published_at": "2026-09-28T05:23:44+00:00",
       "summary": "At the TSMC Open Innovation Platform(OIP) Conference, held on the 23rd(local time) in Santa Clara, California, US, SK hynix shared its next-generation memory portfolio and development strategy, and reaffirmed its solid partnership with TSMC by receiving the Partner of the",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
+      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-5/",
+      "published_at": "2026-09-28T00:31:11+00:00",
+      "summary": "▲ Daesik Park, a distinguished engineer in PCIe Design, delivers a presentation",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
+      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-4/",
+      "published_at": "2026-09-28T00:30:53+00:00",
+      "summary": "▲ SK hynix’s next-generation server DRAM lineup featured in this exhibition",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
+      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-3/",
+      "published_at": "2026-09-28T00:24:39+00:00",
+      "summary": "▲ NVIDIA’s superchip “Vera Rubin,” equipped with SK hynix’s 12-layer 36GB HBM4 and 96GB SOCAMM2",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
+      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-2/",
+      "published_at": "2026-09-28T00:23:53+00:00",
+      "summary": "▲ The SK hynix booth design, carrying a message that emphasizes the importance of memory in the AI era",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
+      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-1/",
+      "published_at": "2026-09-28T00:21:24+00:00",
+      "summary": "",
       "author": "SK hynix"
     },
     {
@@ -30,48 +72,6 @@
       "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
       "url": "https://news.skhynix.com/en/2026-global-forum-14/",
       "published_at": "2026-09-22T02:32:56+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
-      "url": "https://news.skhynix.com/en/2026-global-forum-13/",
-      "published_at": "2026-09-22T02:30:21+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
-      "url": "https://news.skhynix.com/en/2026-global-forum-12/",
-      "published_at": "2026-09-22T02:28:34+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
-      "url": "https://news.skhynix.com/en/2026-global-forum-11/",
-      "published_at": "2026-09-22T02:25:57+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
-      "url": "https://news.skhynix.com/en/2026-global-forum-10/",
-      "published_at": "2026-09-22T02:20:37+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
-      "url": "https://news.skhynix.com/en/2026-global-forum-9/",
-      "published_at": "2026-09-22T02:15:38+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
-      "url": "https://news.skhynix.com/en/2026-global-forum-8/",
-      "published_at": "2026-09-22T02:08:11+00:00",
       "summary": "",
       "author": "SK hynix"
     }
