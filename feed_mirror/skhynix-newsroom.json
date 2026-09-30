@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-30T10:39:06.707079+00:00",
-  "next_refresh_at": "2026-09-30T11:09:06.707079+00:00",
+  "fetched_at": "2026-09-30T16:40:52.455142+00:00",
+  "next_refresh_at": "2026-09-30T17:10:52.455142+00:00",
   "entries": [
     {
       "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
