@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-09-30T04:19:20.390282+00:00",
-  "next_refresh_at": "2026-09-30T04:49:20.390282+00:00",
+  "fetched_at": "2026-09-30T10:39:17.679745+00:00",
+  "next_refresh_at": "2026-09-30T11:09:17.679745+00:00",
   "entries": [
     {
       "title": "Introducing GPT-6.1 Sol",

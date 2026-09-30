@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-09-30T04:19:25.941947+00:00",
-  "next_refresh_at": "2026-09-30T04:49:25.941947+00:00",
+  "fetched_at": "2026-09-30T10:39:24.814340+00:00",
+  "next_refresh_at": "2026-09-30T11:09:24.814340+00:00",
   "entries": [
+    {
+      "title": "华为官宣，DeepSeek开源昇腾基础组件",
+      "url": "https://www.esmchina.com/news/14648.html",
+      "published_at": null,
+      "summary": "9月30日，华为和DeepSeek官方宣布，DeepSeek已正式开源面向昇腾算力平台的基础设施组件。这意味着在主流GPU路径之外，国产算力平台首次获得了来自头部大模型厂商的、成体系的基础设施级支撑。",
+      "author": null
+    },
     {
       "title": "特朗普给美国AI送“救命药”：自己管自己",
       "url": "https://www.esmchina.com/news/14645.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14622.html",
       "published_at": null,
       "summary": "北京奕斯伟计算技术股份有限公司日前通过香港联合交易所主板上市聆讯，距离正式挂牌交易更近一步。若顺利完成发行，它有望成为港股市场乃至全球范围内具有标志意义的“RISC-V第一股”。",
-      "author": null
-    },
-    {
-      "title": "AMD, 万亿美元！",
-      "url": "https://www.esmchina.com/news/14621.html",
-      "published_at": null,
-      "summary": "美东时间9月21日，AMD市值正式突破1万亿美元大关。这是AMD历史上首次跻身”万亿美元俱乐部“，也是继苹果、微软、英伟达之后，第四家达成该里程碑的美国科技企业。",
       "author": null
     }
   ],

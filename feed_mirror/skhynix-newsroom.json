@@ -2,9 +2,30 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-09-30T04:19:10.090279+00:00",
-  "next_refresh_at": "2026-09-30T04:49:10.090279+00:00",
+  "fetched_at": "2026-09-30T10:39:06.707079+00:00",
+  "next_refresh_at": "2026-09-30T11:09:06.707079+00:00",
   "entries": [
+    {
+      "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3-4/",
+      "published_at": "2026-09-30T00:00:37+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3-1/",
+      "published_at": "2026-09-30T00:00:31+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3-2/",
+      "published_at": "2026-09-30T00:00:01+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
     {
       "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
       "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3/",
@@ -51,27 +72,6 @@
       "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
       "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-1/",
       "published_at": "2026-09-28T00:21:24+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
-      "url": "https://news.skhynix.com/en/2026-global-forum-16/",
-      "published_at": "2026-09-22T02:36:18+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
-      "url": "https://news.skhynix.com/en/2026-global-forum-15/",
-      "published_at": "2026-09-22T02:35:04+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts ‘2026 Global Forum,’ Sharing Its Technology Vision and Future Strategy for the AI Era",
-      "url": "https://news.skhynix.com/en/2026-global-forum-14/",
-      "published_at": "2026-09-22T02:32:56+00:00",
       "summary": "",
       "author": "SK hynix"
     }
