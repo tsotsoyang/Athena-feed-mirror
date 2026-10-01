@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-10-01T14:15:45.547962+00:00",
-  "next_refresh_at": "2026-10-01T14:45:45.547962+00:00",
+  "fetched_at": "2026-10-01T19:42:23.146313+00:00",
+  "next_refresh_at": "2026-10-01T20:12:23.146313+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.7 | SpaceXAI",
@@ -13,7 +13,7 @@
       "author": null
     },
     {
-      "title": "Team Bots: AI coworkers that learn from your team | SpaceXAI",
+      "title": "Team Bots: shared AI teammates that learn as they work | SpaceXAI",
       "url": "https://x.ai/news/team-bots",
       "published_at": null,
       "summary": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
