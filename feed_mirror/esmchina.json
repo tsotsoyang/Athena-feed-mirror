@@ -1,185 +1,26 @@
 {
   "source": "esmchina",
   "name": "ESM China",
-  "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-01T00:42:08.110115+00:00",
-  "next_refresh_at": "2026-10-01T01:12:08.110115+00:00",
-  "entries": [
+  "feed_url": "https://www.esmchina.com/",
+  "fetched_at": "2026-10-01T06:56:12.249299+00:00",
+  "next_refresh_at": "2026-10-01T07:26:12.249299+00:00",
+  "entries": [],
+  "errors": [
     {
-      "title": "华为官宣，DeepSeek开源昇腾基础组件",
-      "url": "https://www.esmchina.com/news/14648.html",
-      "published_at": null,
-      "summary": "9月30日，华为和DeepSeek官方宣布，DeepSeek已正式开源面向昇腾算力平台的基础设施组件。这意味着在主流GPU路径之外，国产算力平台首次获得了来自头部大模型厂商的、成体系的基础设施级支撑。",
-      "author": null
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
     },
     {
-      "title": "特朗普给美国AI送“救命药”：自己管自己",
-      "url": "https://www.esmchina.com/news/14645.html",
-      "published_at": null,
-      "summary": "特朗普会晤科技巨头，签署AI“道德约束”协议，提出“自我监管”应对风险。",
-      "author": null
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
     },
     {
-      "title": "印度大力推进OSAT，瞄准2.5D先进封装",
-      "url": "https://www.esmchina.com/news/14642.html",
-      "published_at": null,
-      "summary": "印度不断扩大的OSAT（外包半导体封装与测试）生态系统正从传统封装逐步迈向倒装芯片（Flip-Chip）封装、芯粒（Chiplet）技术，以及2.5D先进封装能力领域。",
-      "author": null
+      "stage": "autodiscovery",
+      "message": "no alternate links found"
     },
     {
-      "title": "PCB龙头景旺电子A+H双重落地，开盘破发后翻红涨超10%",
-      "url": "https://www.esmchina.com/news/14644.html",
-      "published_at": null,
-      "summary": "国际电子商情29日讯 9月29日，深圳市景旺电子股份有限公司H股在香港联合交易所主板挂牌交易，H股代码3228.HK，A股代码603228.SH，公司由此实现“A+H”双重上市布局。",
-      "author": null
-    },
-    {
-      "title": "“这叫竞争”，黄仁勋回应模型蒸馏“盗窃”指控",
-      "url": "https://www.esmchina.com/news/14643.html",
-      "published_at": null,
-      "summary": "当被问到模型蒸馏算不算“劫掠”时，黄仁勋回答说，“这叫做竞争，你完全可以尽情测试别家的产品”。",
-      "author": null
-    },
-    {
-      "title": "Anthropic发布Claude Sonnet 5.5，速度提升三成、成本最高可省三成",
-      "url": "https://www.esmchina.com/news/14641.html",
-      "published_at": null,
-      "summary": "Sonnet 5.5编程能力干翻旗舰，价格不变。",
-      "author": null
-    },
-    {
-      "title": "1500亿美元！英伟达又有大动作",
-      "url": "https://www.esmchina.com/news/14640.html",
-      "published_at": null,
-      "summary": "AI热潮带来强劲现金流。",
-      "author": null
-    },
-    {
-      "title": "长鑫存储宣布349亿元重大项目投资",
-      "url": "https://www.esmchina.com/news/14639.html",
-      "published_at": null,
-      "summary": "9月28日，长鑫科技发布公告，计划动用180亿元IPO超募资金，落地DRAM技术研发以及存储器晶圆后道测试基地二期项目，合计总投资349亿元。",
-      "author": null
-    },
-    {
-      "title": "82亿美元！AMD收购李飞飞World Labs，两大AI女神携手",
-      "url": "https://www.esmchina.com/news/14638.html",
-      "published_at": null,
-      "summary": "9月28日，AMD官宣以82亿美元全股票交易收购AI初创实验室World Labs。交割完成后，World Labs创始人李飞飞将出任AMD执行副总裁兼首席科学家，直接向AMD CEO苏姿丰汇报。",
-      "author": null
-    },
-    {
-      "title": "VSMC新加坡首座300毫米晶圆厂正式启用",
-      "url": "https://www.esmchina.com/news/14637.html",
-      "published_at": null,
-      "summary": "9月28日，由世界先进积体电路与恩智浦半导体在2024年9月合资设立的VisionPower Semiconductor Manufacturing Company（VSMC），在新加坡淡滨尼为其首座12英寸晶圆厂举行启用仪式。",
-      "author": null
-    },
-    {
-      "title": "澜起科技DDR5第五子代RCD芯片量产：8000 MT/s锁定AI服务器“运力”底座",
-      "url": "https://www.esmchina.com/news/14636.html",
-      "published_at": null,
-      "summary": "一颗不起眼的接口芯片，撑起了AI服务器的内存“运力”",
-      "author": null
-    },
-    {
-      "title": "壁仞科技1.74亿元拿下国产智算中心大单",
-      "url": "https://www.esmchina.com/news/14635.html",
-      "published_at": null,
-      "summary": "日前，青海项目信息网发布昆仑领奕智算中心项目（一期）的询比采购结果公告。公告显示，上海GPU龙头企业壁仞科技拿下包一，中标金额为1.74亿元。",
-      "author": null
-    },
-    {
-      "title": "1-8月规上工业企业利润增15.7%，电子行业利润增1.1倍贡献率超六成",
-      "url": "https://www.esmchina.com/news/14634.html",
-      "published_at": null,
-      "summary": "以人工智能为代表的新技术应用加快拓展，带动相关领域需求扩大，推动电子行业利润高速增长。",
-      "author": null
-    },
-    {
-      "title": "新加坡正推动量子研究迈向商业化",
-      "url": "https://www.esmchina.com/news/14633.html",
-      "published_at": null,
-      "summary": "新加坡通过政府资金支持、科研基础设施建设以及聚焦商业化的发展策略，正在打造一个蓬勃发展的区域性量子技术中心。",
-      "author": null
-    },
-    {
-      "title": "Meta AI眼镜矩阵翻新：Muse助手接入硬件，首提“代理交易抽佣”变现",
-      "url": "https://www.esmchina.com/news/14632.html",
-      "published_at": null,
-      "summary": "涨价19%、加AI、还要付佣金：Meta智能眼镜的逻辑变了。",
-      "author": null
-    },
-    {
-      "title": "从技术完善到标准引领，再到全球韧性：格罗方德的硅光子布局之路",
-      "url": "https://www.esmchina.com/news/14631.html",
-      "published_at": null,
-      "summary": "在AI数据中心对带宽与能效的极致追求下，光互连技术正从实验室走向量产前夜。格罗方德在硅光子领域的布局并非停留在晶圆制造层面，而是延伸到了平台能力、方案能力与量产保证。",
-      "author": null
-    },
-    {
-      "title": "马斯克：中国两三年内可依靠光刻与制造补齐算力缺口",
-      "url": "https://www.esmchina.com/news/14630.html",
-      "published_at": null,
-      "summary": "马斯克认为，中国解决算力问题的速度会比大多数人预想得更快。",
-      "author": null
-    },
-    {
-      "title": "AI被“开除”？特朗普宣布：以后只有SI",
-      "url": "https://www.esmchina.com/news/14629.html",
-      "published_at": null,
-      "summary": "美国总统特朗普日前在联合国发言时宣布：今后所有美国政府文件将不再使用“人工智能”（Artificial Intelligence，AI）这一术语，取而代之的是“超级智能”（Super Intelligence，SI）。",
-      "author": null
-    },
-    {
-      "title": "高通骁龙峰会发布两款2nm旗舰SoC，小米18 Pro系列全球首发搭载",
-      "url": "https://www.esmchina.com/news/14628.html",
-      "published_at": null,
-      "summary": "两款芯片均基于台积电N2P改良版2nm GAA全环绕栅极工艺，是安卓阵营首批面向量产的2nm手机处理器。",
-      "author": null
-    },
-    {
-      "title": "美光在德国一审被判禁售，长江存储拿到首个实质性禁令",
-      "url": "https://www.esmchina.com/news/14627.html",
-      "published_at": null,
-      "summary": "9月18日，德国慕尼黑第一地区法院第七民事庭就长江存储诉美光系列案件作出两项一审裁判，认定美光侵犯长江存储持有的两项德国实用新型专利权，并支持长江存储提出的禁令请求。美光随后表示不认同判决，将提起上诉，并继续通过有效性程序挑战涉案权利。",
-      "author": null
-    },
-    {
-      "title": "UFS的下一场战争：谁掌握整台手机的“存储优化权”？",
-      "url": "https://www.esmchina.com/news/14623.html",
-      "published_at": null,
-      "summary": "从ZUFS、Android/F2FS到OEM协同：高端UFS正在从器件性能竞争走向跨层优化能力竞争",
-      "author": null
-    },
-    {
-      "title": "多地禁产“老头乐”：低速四轮车标准化路径面临重大调整",
-      "url": "https://www.esmchina.com/news/14626.html",
-      "published_at": null,
-      "summary": "江苏徐州、鲁西南部分地区已开始限制厂家生产低速电动四轮车，治理重心正从“不让上路”向“不让造”前移。",
-      "author": null
-    },
-    {
-      "title": "京东登顶，华为第4，2026中国民营企业500强发布(附榜单)",
-      "url": "https://www.esmchina.com/news/14625.html",
-      "published_at": null,
-      "summary": "22日，全国工商联在天津发布&amp;quot;2026中国民营企业500强&amp;quot;榜单。结果显示，京东集团、阿里巴巴（中国）有限公司、恒力集团有限公司位居前三，华为投资控股有限公司、比亚迪股份有限公司分列第四、第五。",
-      "author": null
-    },
-    {
-      "title": "台积电高雄百普先进封装园区动工：Mini-Loop验证线为CoWoS扩产提速",
-      "url": "https://www.esmchina.com/news/14624.html",
-      "published_at": null,
-      "summary": "一座“不产芯片”的台积电新厂，却是CoWoS扩产的关键一步。",
-      "author": null
-    },
-    {
-      "title": "奕斯伟计算通过港交所聆讯，“RISC-V第一股”要来了",
-      "url": "https://www.esmchina.com/news/14622.html",
-      "published_at": null,
-      "summary": "北京奕斯伟计算技术股份有限公司日前通过香港联合交易所主板上市聆讯，距离正式挂牌交易更近一步。若顺利完成发行，它有望成为港股市场乃至全球范围内具有标志意义的“RISC-V第一股”。",
-      "author": null
+      "stage": "fetch",
+      "message": "all candidate URLs returned 0 entries"
     }
-  ],
-  "errors": []
+  ]
 }

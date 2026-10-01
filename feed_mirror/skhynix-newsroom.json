@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-01T00:41:51.202123+00:00",
-  "next_refresh_at": "2026-10-01T01:11:51.202123+00:00",
+  "fetched_at": "2026-10-01T06:54:41.803781+00:00",
+  "next_refresh_at": "2026-10-01T07:24:41.803781+00:00",
   "entries": [
+    {
+      "title": "Clarification Regarding Recent Media Reports on Solidigm",
+      "url": "https://news.skhynix.com/en/fact-11/",
+      "published_at": "2026-10-01T01:22:33+00:00",
+      "summary": "▪ Regarding Solidigm, no matters have been determined as of the date hereof. ▪ Whether utilizing external or internal capital, any approach must be evaluated not only by its structure, but also by its overall economic impact on existing shareholders.",
+      "author": "SK hynix"
+    },
     {
       "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
       "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3-4/",
@@ -41,6 +48,13 @@
       "author": "SK hynix"
     },
     {
+      "title": "SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
+      "url": "https://news.skhynix.com/en/sk-hynix-shares-its-next-generation-memory-portfolio-at-the-tsmc-oip-conference/",
+      "published_at": "2026-09-28T03:09:48+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
       "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
       "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-5/",
       "published_at": "2026-09-28T00:31:11+00:00",
@@ -59,20 +73,6 @@
       "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-3/",
       "published_at": "2026-09-28T00:24:39+00:00",
       "summary": "▲ NVIDIA’s superchip “Vera Rubin,” equipped with SK hynix’s 12-layer 36GB HBM4 and 96GB SOCAMM2",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
-      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-2/",
-      "published_at": "2026-09-28T00:23:53+00:00",
-      "summary": "▲ The SK hynix booth design, carrying a message that emphasizes the importance of memory in the AI era",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
-      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-1/",
-      "published_at": "2026-09-28T00:21:24+00:00",
-      "summary": "",
       "author": "SK hynix"
     }
   ],
