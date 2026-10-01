@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-01T06:54:51.275078+00:00",
-  "next_refresh_at": "2026-10-01T07:24:51.275078+00:00",
+  "fetched_at": "2026-10-01T14:15:31.296040+00:00",
+  "next_refresh_at": "2026-10-01T14:45:31.296040+00:00",
   "entries": [
     {
       "title": "Disrupting a coordinated model-distillation campaign",
