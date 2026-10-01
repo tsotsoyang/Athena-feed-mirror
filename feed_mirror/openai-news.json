@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-01T19:42:06.344525+00:00",
-  "next_refresh_at": "2026-10-01T20:12:06.344525+00:00",
+  "fetched_at": "2026-10-01T23:42:44.034901+00:00",
+  "next_refresh_at": "2026-10-02T00:12:44.034901+00:00",
   "entries": [
     {
       "title": "The eternal complement",
@@ -17,6 +17,13 @@
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "published_at": "2026-10-01T16:00:00+00:00",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "author": null
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "author": null
     },
     {
@@ -34,17 +41,17 @@
       "author": null
     },
     {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "author": null
-    },
-    {
       "title": "Introducing GPT-6.1 Sol",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "published_at": "2026-09-29T10:00:00+00:00",
       "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "author": null
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "author": null
     },
     {
@@ -55,17 +62,17 @@
       "author": null
     },
     {
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "published_at": "2026-09-28T19:00:00+00:00",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "author": null
-    },
-    {
       "title": "How we will do better for Australia",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "published_at": "2026-09-28T19:00:00+00:00",
       "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "author": null
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "author": null
     },
     {
@@ -111,10 +118,10 @@
       "author": null
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "published_at": "2026-09-23T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
       "author": null
     },
     {
@@ -125,17 +132,17 @@
       "author": null
     },
     {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "author": null
-    },
-    {
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
       "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "published_at": "2026-09-23T12:00:00+00:00",
       "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "author": null
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "published_at": "2026-09-22T21:00:00+00:00",
       "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "author": null
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "published_at": "2026-09-22T18:00:00+00:00",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
       "author": null
     }
   ],
