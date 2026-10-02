@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-02T04:23:29.334324+00:00",
-  "next_refresh_at": "2026-10-02T04:53:29.334324+00:00",
+  "fetched_at": "2026-10-02T10:39:43.522335+00:00",
+  "next_refresh_at": "2026-10-02T11:09:43.522335+00:00",
   "entries": [
     {
       "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
@@ -42,6 +42,27 @@
     },
     {
       "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3-2/",
+      "published_at": "2026-10-02T00:00:41+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3-1/",
+      "published_at": "2026-10-02T00:00:29+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3-3/",
+      "published_at": "2026-10-02T00:00:20+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3/",
       "published_at": "2026-10-01T23:59:03+00:00",
       "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
@@ -52,27 +73,6 @@
       "url": "https://news.skhynix.com/en/fact-11/",
       "published_at": "2026-10-01T01:22:33+00:00",
       "summary": "▪ Regarding Solidigm, no matters have been determined as of the date hereof. ▪ Whether utilizing external or internal capital, any approach must be evaluated not only by its structure, but also by its overall economic impact on existing shareholders.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3-4/",
-      "published_at": "2026-09-30T00:00:37+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3-1/",
-      "published_at": "2026-09-30T00:00:31+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3-2/",
-      "published_at": "2026-09-30T00:00:01+00:00",
-      "summary": "",
       "author": "SK hynix"
     }
   ],
