@@ -2,9 +2,51 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-01T23:42:34.522767+00:00",
-  "next_refresh_at": "2026-10-02T00:12:34.522767+00:00",
+  "fetched_at": "2026-10-02T04:23:29.334324+00:00",
+  "next_refresh_at": "2026-10-02T04:53:29.334324+00:00",
   "entries": [
+    {
+      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
+      "url": "https://news.skhynix.com/en/skhynix-ventures-story-4/",
+      "published_at": "2026-10-02T01:10:53+00:00",
+      "summary": "▲ Chung Heejin, SVP and Head of Venture Investment at SK hynix, outlines the vision and roadmap for SK hynix Ventures at SK hynix Ventures Day in Silicon Valley last September.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
+      "url": "https://news.skhynix.com/en/skhynix-ventures-story-3/",
+      "published_at": "2026-10-02T01:09:32+00:00",
+      "summary": "▲ SK hynix employees discuss technologies and collaboration opportunities with global partners at the SK hynix Ventures launch event.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
+      "url": "https://news.skhynix.com/en/skhynix-ventures-story-2/",
+      "published_at": "2026-10-02T01:08:12+00:00",
+      "summary": "▲ SK hynix employees discuss technologies and collaboration opportunities with global partners at the SK hynix Ventures launch event.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
+      "url": "https://news.skhynix.com/en/skhynix-ventures-story-1/",
+      "published_at": "2026-10-02T01:06:29+00:00",
+      "summary": "▲ A scene from SK hynix Ventures Day, held in Silicon Valley in September",
+      "author": "SK hynix"
+    },
+    {
+      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
+      "url": "https://news.skhynix.com/en/skhynix-ventures-story/",
+      "published_at": "2026-10-02T00:59:17+00:00",
+      "summary": "Identifying promising technologies early and investing in them is one challenge. Turning those technologies into businesses is another. That requires assessing what problems a technology can solve, refining it with research and development teams, and evaluating its potential for deployment",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3/",
+      "published_at": "2026-10-01T23:59:03+00:00",
+      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
+      "author": "Onur Mutlu ETH Zurich Professor"
+    },
     {
       "title": "Clarification Regarding Recent Media Reports on Solidigm",
       "url": "https://news.skhynix.com/en/fact-11/",
@@ -31,48 +73,6 @@
       "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3-2/",
       "published_at": "2026-09-30T00:00:01+00:00",
       "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI infrastructure insight] Why power and cooling have become the next challenge for AI data centers",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep3/",
-      "published_at": "2026-09-29T23:59:07+00:00",
-      "summary": "AI is no longer defined by a single model or AI processor. For AI to operate effectively in real-world services and industrial applications, it takes faster compute, wider memory bandwidth, higher-performance networks, more efficient storage, and more stable power and",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
-      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026/",
-      "published_at": "2026-09-28T05:23:44+00:00",
-      "summary": "At the TSMC Open Innovation Platform(OIP) Conference, held on the 23rd(local time) in Santa Clara, California, US, SK hynix shared its next-generation memory portfolio and development strategy, and reaffirmed its solid partnership with TSMC by receiving the Partner of the",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
-      "url": "https://news.skhynix.com/en/sk-hynix-shares-its-next-generation-memory-portfolio-at-the-tsmc-oip-conference/",
-      "published_at": "2026-09-28T03:09:48+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
-      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-5/",
-      "published_at": "2026-09-28T00:31:11+00:00",
-      "summary": "▲ Daesik Park, a distinguished engineer in PCIe Design, delivers a presentation",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
-      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-4/",
-      "published_at": "2026-09-28T00:30:53+00:00",
-      "summary": "▲ SK hynix’s next-generation server DRAM lineup featured in this exhibition",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Behind AI’s Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
-      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026-3/",
-      "published_at": "2026-09-28T00:24:39+00:00",
-      "summary": "▲ NVIDIA’s superchip “Vera Rubin,” equipped with SK hynix’s 12-layer 36GB HBM4 and 96GB SOCAMM2",
       "author": "SK hynix"
     }
   ],

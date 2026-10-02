@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-01T23:42:53.364424+00:00",
-  "next_refresh_at": "2026-10-02T00:12:53.364424+00:00",
+  "fetched_at": "2026-10-02T04:23:47.485815+00:00",
+  "next_refresh_at": "2026-10-02T04:53:47.485815+00:00",
   "entries": [
+    {
+      "title": "新官上任三把火：砍层级、快迭代、拓收入，新CEO重塑苹果",
+      "url": "https://www.esmchina.com/news/14646.html",
+      "published_at": null,
+      "summary": "具体职位调整、发布日历与服务方案以苹果后续内部执行及公开信息为准。",
+      "author": null
+    },
     {
       "title": "台积电，再建11座工厂？",
       "url": "https://www.esmchina.com/news/14647.html",
@@ -149,7 +156,7 @@
       "title": "美光在德国一审被判禁售，长江存储拿到首个实质性禁令",
       "url": "https://www.esmchina.com/news/14627.html",
       "published_at": null,
-      "summary": "9月18日，德国慕尼黑第一地区法院第七民事庭就长江存储诉美光系列案件作出两项一审裁判，认定美光侵犯长江存储持有的两项德国实用新型专利权，并支持长江存储提出的禁令请求。美光随后表示不认同判决，将提起上诉，并继续通过有效性程序挑战涉案权利。",
+      "summary": "9月18日，德国慕尼黑第一地区法院第七民事庭就长江存储诉美光系列案件作出两项一审裁判，认定美光侵犯长江存储持有的两项德国实用新型专利权，并支持长江存储提出的禁令请求。",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14625.html",
       "published_at": null,
       "summary": "22日，全国工商联在天津发布&amp;quot;2026中国民营企业500强&amp;quot;榜单。结果显示，京东集团、阿里巴巴（中国）有限公司、恒力集团有限公司位居前三，华为投资控股有限公司、比亚迪股份有限公司分列第四、第五。",
-      "author": null
-    },
-    {
-      "title": "台积电高雄百普先进封装园区动工：Mini-Loop验证线为CoWoS扩产提速",
-      "url": "https://www.esmchina.com/news/14624.html",
-      "published_at": null,
-      "summary": "一座“不产芯片”的台积电新厂，却是CoWoS扩产的关键一步。",
       "author": null
     }
   ],
