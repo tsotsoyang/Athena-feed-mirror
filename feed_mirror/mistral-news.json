@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-02T10:40:02.153925+00:00",
-  "next_refresh_at": "2026-10-02T11:10:02.153925+00:00",
+  "fetched_at": "2026-10-02T16:31:01.692887+00:00",
+  "next_refresh_at": "2026-10-02T17:01:01.692887+00:00",
   "entries": [
     {
       "title": "Hallo, Deutschland!",
