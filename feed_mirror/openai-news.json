@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-03T15:49:28.361535+00:00",
-  "next_refresh_at": "2026-10-03T16:19:28.361535+00:00",
+  "fetched_at": "2026-10-03T19:02:04.366061+00:00",
+  "next_refresh_at": "2026-10-03T19:32:04.366061+00:00",
   "entries": [
     {
       "title": "A model guide for the GPT-6 family",
