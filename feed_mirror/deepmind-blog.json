@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-04T13:44:39.242809+00:00",
-  "next_refresh_at": "2026-10-04T14:14:39.242809+00:00",
+  "fetched_at": "2026-10-04T18:00:12.128701+00:00",
+  "next_refresh_at": "2026-10-04T18:30:12.128701+00:00",
   "entries": [
     {
       "title": "Gemini 4 Argon: our next era of frontier intelligence",

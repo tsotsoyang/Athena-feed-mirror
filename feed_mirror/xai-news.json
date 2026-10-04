@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-10-04T13:44:43.839103+00:00",
-  "next_refresh_at": "2026-10-04T14:14:43.839103+00:00",
+  "fetched_at": "2026-10-04T18:00:37.274784+00:00",
+  "next_refresh_at": "2026-10-04T18:30:37.274784+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.7 | SpaceXAI",
@@ -27,10 +27,10 @@
       "author": null
     },
     {
-      "title": "Introducing Grok Voice Transcribe 2.0 | SpaceXAI",
+      "title": "Sep 18, 2026 Introducing Grok Voice Transcribe 2.0",
       "url": "https://x.ai/news/grok-voice-transcribe-2",
       "published_at": null,
-      "summary": "Announcing SpaceXAI",
+      "summary": "",
       "author": null
     },
     {
