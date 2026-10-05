@@ -2,30 +2,9 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-05T15:07:35.469267+00:00",
-  "next_refresh_at": "2026-10-05T15:37:35.469267+00:00",
+  "fetched_at": "2026-10-05T22:07:25.840882+00:00",
+  "next_refresh_at": "2026-10-05T22:37:25.840882+00:00",
   "entries": [
-    {
-      "title": "Hallo, Deutschland!",
-      "url": "https://mistral.ai/news/hallo-deutschland/",
-      "published_at": "2026-09-28T15:57:59+00:00",
-      "summary": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
-      "author": null
-    },
-    {
-      "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "published_at": "2026-09-16T12:00:00+00:00",
-      "summary": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
-      "author": null
-    },
-    {
-      "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
-      "url": "https://mistral.ai/news/mistral-x-cloudera/",
-      "published_at": "2026-09-10T10:42:55+00:00",
-      "summary": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
-      "author": null
-    },
     {
       "title": "Modernizing complex legacy code with AI agents.",
       "url": "https://mistral.ai/news/legacy-code-modernization/",
@@ -178,6 +157,27 @@
       "url": "https://mistral.ai/news/voxtral-tts/",
       "published_at": "2026-03-23T16:00:00+00:00",
       "summary": "Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.",
+      "author": null
+    },
+    {
+      "title": "Introducing Forge",
+      "url": "https://mistral.ai/news/forge/",
+      "published_at": "2026-03-17T16:00:00+00:00",
+      "summary": "Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
+      "author": null
+    },
+    {
+      "title": "Introducing Mistral Small 4",
+      "url": "https://mistral.ai/news/mistral-small-4/",
+      "published_at": "2026-03-16T21:00:00+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
+      "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+      "published_at": "2026-03-16T20:00:00+00:00",
+      "summary": "",
       "author": null
     }
   ],

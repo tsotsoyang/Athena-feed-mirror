@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-05T15:07:40.954066+00:00",
-  "next_refresh_at": "2026-10-05T15:37:40.954066+00:00",
+  "fetched_at": "2026-10-05T22:07:29.192648+00:00",
+  "next_refresh_at": "2026-10-05T22:37:29.192648+00:00",
   "entries": [
+    {
+      "title": "2026年上半年全球AI眼镜出货量同比增长263%，无显示屏超九成",
+      "url": "https://www.esmchina.com/news/14650.html",
+      "published_at": null,
+      "summary": "2026年上半年，AI眼镜市场加速发展，主要得益于无显示设备的兴起、Meta的主导地位以及AR和AI应用的不断普及。",
+      "author": null
+    },
     {
       "title": "近25万台！专业服务机器人全球销量增长24%",
       "url": "https://www.esmchina.com/news/14649.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14623.html",
       "published_at": null,
       "summary": "从ZUFS、Android/F2FS到OEM协同：高端UFS正在从器件性能竞争走向跨层优化能力竞争",
-      "author": null
-    },
-    {
-      "title": "多地禁产“老头乐”：低速四轮车标准化路径面临重大调整",
-      "url": "https://www.esmchina.com/news/14626.html",
-      "published_at": null,
-      "summary": "江苏徐州、鲁西南部分地区已开始限制厂家生产低速电动四轮车，治理重心正从“不让上路”向“不让造”前移。",
       "author": null
     }
   ],
