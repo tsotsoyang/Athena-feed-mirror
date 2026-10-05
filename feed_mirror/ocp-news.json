@@ -1,30 +1,80 @@
 {
   "source": "ocp-news",
   "name": "Open Compute Project news",
-  "feed_url": "https://www.opencompute.org/projects/storage/",
-  "fetched_at": "2026-10-05T06:03:00.648347+00:00",
-  "next_refresh_at": "2026-10-05T06:33:00.648347+00:00",
-  "entries": [],
-  "errors": [
+  "feed_url": "https://www.opencompute.org/news/feed/",
+  "fetched_at": "2026-10-05T15:07:25.433443+00:00",
+  "next_refresh_at": "2026-10-05T15:37:25.433443+00:00",
+  "entries": [
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "Explore 22 Tracks at the 2026 OCP Global Summit",
+      "url": "https://www.opencompute.org/news/explore-22-tracks-at-the-2026-ocp-global-summit/",
+      "published_at": "2026-09-30T20:00:00+00:00",
+      "summary": "The 2026 OCP Global Summit, October 12–15 in San Jose, brings the OCP Community together across 22 technical tracks addressing the technologies shaping the next generation of open infrastructure. From compute, networking and silicon to power, cooling, storage, firmware and validation, the program goes deep into the engineering challenges behind increasingly complex AI systems—while also [&#8230;] The post Explore 22 Tracks at the 2026 OCP Global Summit appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
     },
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "OCP Global Summit 2026: Innovation Village & Future Technologies Symposium (FTS) Demo Lineup",
+      "url": "https://www.opencompute.org/news/ocp-global-summit-2026-innovation-village-future-technologies-symposium-fts-demo-lineup/",
+      "published_at": "2026-09-22T20:00:00+00:00",
+      "summary": "See emerging infrastructure technologies in action at the 2026 OCP Global Summit’s Innovation Village, featuring demonstrations from the Future Technologies Symposium (FTS) and across the OCP Community. Explore the lineup below, organized by technical zone, for working prototypes, live demos and interactive displays spanning liquid cooling, power delivery, chiplets, optical networking and data center robotics—and [&#8230;] The post OCP Global Summit 2026: Innovation Village &amp; Future Technologies Symposium (FTS) Demo Lineup appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
     },
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "OCP Global Summit is moving to a new location!",
+      "url": "https://www.opencompute.org/news/ocp-global-summit-is-moving-to-a-new-location/",
+      "published_at": "2026-09-01T00:48:54+00:00",
+      "summary": "Beginning in 2027, the annual OCP Global Summit is moving to a new location! The OCP Global Summit will move to the Moscone Center in downtown San Francisco, California, marking an exciting new chapter for our global event and Community. San Jose has been an important home for the OCP Global Summit for many years, [&#8230;] The post OCP Global Summit is moving to a new location! appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
     },
     {
-      "stage": "autodiscovery",
-      "message": "no alternate links found"
+      "title": "2026 OCP APAC Summit: By the Numbers",
+      "url": "https://www.opencompute.org/news/2026-ocp-apac-summit-by-the-numbers/",
+      "published_at": "2026-08-27T20:00:00+00:00",
+      "summary": "The 2026 OCP APAC Summit brought nearly 2,500 attendees of the global OCP Community together at TaiNEX2 in Taipei City, Taiwan, on August 11–12, making this year&#8217;s gathering a tremendous success and demonstrating the continued growth and importance of the OCP Community across the Asia Pacific region. Thank you to our Members, Sponsors, Partners, Volunteers, [&#8230;] The post 2026 OCP APAC Summit: By the Numbers appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
     },
     {
-      "stage": "fetch",
-      "message": "all candidate URLs returned 0 entries"
+      "title": "Powering the Next Era of AI: How Google, Microsoft and Nvidia Are Standardizing and Accelerating the Industry Transition to LVDC",
+      "url": "https://www.opencompute.org/news/powering-the-next-era-of-ai-how-google-microsoft-and-nvidia-are-standardizing-and-accelerating-the-industry-transition-to-lvdc/",
+      "published_at": "2026-08-11T00:00:00+00:00",
+      "summary": "Three of the world’s largest AI infrastructure builders are collaborating within OCP to establish 800 VDC as the open, standardized power architecture for next-generation AI data centers and to make sure the entire industry can adopt it safely, at scale. A Shared Problem Demands a Shared Standard AI infrastructure is entering a new power era. [&#8230;] The post Powering the Next Era of AI: How Google, Microsoft and Nvidia Are Standardizing and Accelerating the Industry Transition to LVDC appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
+    {
+      "title": "Developing AI-Native Automated Virtual Chiplet Eco-systems: Shift Left, Shift Up, and Shift Out to accelerate Chiplet adoption",
+      "url": "https://www.opencompute.org/news/developing-ai-native-automated-virtual-chiplet-eco-systems-shift-left-shift-up-and-shift-out-to-accelerate-chiplet-adoption/",
+      "published_at": "2026-07-28T00:00:00+00:00",
+      "summary": "Key Takeaways: Attend the panel session on this topic at OCP Global Summit as part of Server &#8211; Open Chiplet Economy track on October 15, 2026 in San Jose, CA. Talk 9060 — “AI-native Virtual Chiplet Eco-systems with industry best practices to accelerate Chiplet adoption”, Raghu Shankar (Entrepreneur), Matt Holdrege (Microchip), Marc Meunier (ARM), Nandan [&#8230;] The post Developing AI-Native Automated Virtual Chiplet Eco-systems: Shift Left, Shift Up, and Shift Out to accelerate Chiplet adoption appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
+    {
+      "title": "Numana and Open Compute Project Establish Quantum Collaboration",
+      "url": "https://www.opencompute.org/news/numana-and-open-compute-project-establish-quantum-collaboration/",
+      "published_at": "2026-06-11T00:00:00+00:00",
+      "summary": "1st Quantum Communication OCP Experience Center Now Available for Public Research June 11, 2026 – the Open Compute Project Foundation (OCP), the global non-profit organization bringing hyperscale innovations to all and Numana, a non-profit organization that acts as a Macro-accelerator catalyst for technological ecosystems today announced as a part of their collaborations that the quantum [&#8230;] The post Numana and Open Compute Project Establish Quantum Collaboration appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
+    {
+      "title": "How the OCP EMEA Summit Became Europe’s Premier Open Infrastructure Event",
+      "url": "https://www.opencompute.org/news/how-the-ocp-emea-summit-became-europes-premier-open-infrastructure-event/",
+      "published_at": "2026-06-02T00:00:00+00:00",
+      "summary": "The Open Compute Project&#8217;s EMEA Summit has undergone a transformation that stands out even against the event&#8217;s longer history. First held in 2014 in Paris, the Summit has long served as Europe&#8217;s home for open infrastructure collaboration — but the growth from 2024 to 2026 marks a step change in a different category. What was [&#8230;] The post How the OCP EMEA Summit Became Europe&#8217;s Premier Open Infrastructure Event appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
+    {
+      "title": "Celebrating a Decade of Innovation: RISE ICE Data Center and Its Pivotal Role as an OCP Experience Center",
+      "url": "https://www.opencompute.org/news/celebrating-a-decade-of-innovation-rise-ice-data-center-and-its-pivotal-role-as-an-ocp-experience-center/",
+      "published_at": "2026-06-02T00:00:00+00:00",
+      "summary": "The RISE ICE (Infrastructure and Cloud Research and Test Environment) Datacenter in Luleå, Sweden, is marking a significant milestone: 10 years of groundbreaking research, collaboration, and innovation in sustainable digital infrastructure. Over the past decade, ICE has evolved from a bold vision into a leading full-scale research facility, shaping the future of data centers through [&#8230;] The post Celebrating a Decade of Innovation: RISE ICE Data Center and Its Pivotal Role as an OCP Experience Center appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
+    {
+      "title": "Seizing Data Center Heat Reuse Opportunities: Open Compute Project Foundation Guidelines for Local Authorities",
+      "url": "https://www.opencompute.org/news/seizing-data-center-heat-reuse-opportunities-open-compute-project-foundation-guidelines-for-local-authorities/",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "summary": "Introduction As data centers expand throughout the world, large amounts of electricity to power and cool their servers will continue to be needed. Almost all the energy entering a data center converts into a byproduct in the form of excess heat, which is often released into the atmosphere by evaporating water in cooling towers without [&#8230;] The post Seizing Data Center Heat Reuse Opportunities: Open Compute Project Foundation Guidelines for Local Authorities appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
     }
-  ]
+  ],
+  "errors": []
 }
