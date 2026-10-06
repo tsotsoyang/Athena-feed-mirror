@@ -1,7 +1,9 @@
 # Athena-feed-mirror targets — feeds that Athena's egress can't reach
 # but GitHub-Actions egress can. See README.md for the shape contract.
 #
-# Add new entries here; the runner picks them up on the next 30-min cron.
+# Add new entries here; the runner picks them up on the next cron run (every 4 h).
+# Optional per target: `fetch_content: false` skips full-article fetching for that
+# source (feed summaries are still mirrored). See README "Full-text content".
 # `source` doubles as the JSON filename — keep it lowercase + hyphen-only.
 
 targets:

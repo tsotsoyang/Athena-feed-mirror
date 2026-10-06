@@ -1,30 +1,40 @@
 name: feed-mirror
 
-# Every 30 minutes — see configs/feed_mirror_targets.yaml for the
+# Every 4 hours (KP-R11) — see configs/feed_mirror_targets.yaml for the
 # target list and README.md for the JSON contract Athena consumes.
+#
+# Why not */30: GitHub already throttles a */30 schedule to a handful of runs a
+# day, a run now takes ~8 minutes (feeds ~5 + article text <= 2 + commit), and
+# Athena searches once a day (20:00 Asia/Taipei). Minute 23 avoids the
+# top-of-the-hour queue. 6 runs/day x ~8 min = ~1,440 Actions min/month.
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "23 */4 * * *"
   workflow_dispatch: {}
   push:
     paths:
       - "configs/feed_mirror_targets.yaml"
       - "scripts/run_feed_mirror.py"
+      - "requirements.txt"
       - ".github/workflows/feed-mirror.yml"
 
 permissions:
   contents: write   # needs write to commit feed_mirror/*.json back to main
 
 concurrency:
-  # Skip overlap if a previous run takes >30 min for any reason; the
-  # next cron tick will pick up.
+  # Skip overlap if a previous run is still going; the next cron tick
+  # will pick up.
   group: feed-mirror
   cancel-in-progress: false
 
 jobs:
   mirror:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # Job ceiling. The measured feed phase is ~5.2 min; article text adds at
+    # most CONTENT_RUN_BUDGET_S (120 s) + one in-flight item. The old ceiling
+    # of 10 minutes sat only ~1 minute above the feed phase, and a job that
+    # times out never reaches the commit step - the feed update would be lost.
+    timeout-minutes: 20
 
     steps:
       - name: Checkout
@@ -44,6 +54,11 @@ jobs:
 
       - name: Run mirror
         id: mirror
+        # Step ceiling below the job ceiling: if the runner ever hangs, THIS
+        # step is killed and (continue-on-error) the commit step below still
+        # publishes whatever was written - feed JSON is written before any
+        # article text is fetched, and every file is replaced atomically.
+        timeout-minutes: 15
         run: python scripts/run_feed_mirror.py
         continue-on-error: true
 
@@ -55,8 +70,9 @@ jobs:
             for f in feed_mirror/*.json; do
               name=$(basename "$f" .json)
               entries=$(python -c "import json,sys; print(len(json.load(open('$f'))['entries']))")
+              content=$(python -c "import json,sys; print(sum(1 for e in json.load(open('$f'))['entries'] if e.get('content')))")
               errors=$(python -c "import json,sys; print(len(json.load(open('$f'))['errors']))")
-              echo "- **$name** — $entries entries, $errors errors" >> "$GITHUB_STEP_SUMMARY"
+              echo "- **$name** — $entries entries, $content with content, $errors errors" >> "$GITHUB_STEP_SUMMARY"
             done
           fi
 
