@@ -12,6 +12,9 @@ on:
     - cron: "23 */4 * * *"
   workflow_dispatch: {}
   push:
+    # main only: a push to a feature branch must never run the mirror (it
+    # would fetch article text and commit it to that branch).
+    branches: [main]
     paths:
       - "configs/feed_mirror_targets.yaml"
       - "scripts/run_feed_mirror.py"
