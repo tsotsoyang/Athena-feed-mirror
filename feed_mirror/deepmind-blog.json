@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-06T16:07:52.304521+00:00",
-  "next_refresh_at": "2026-10-06T16:37:52.304521+00:00",
+  "fetched_at": "2026-10-06T21:07:08.053228+00:00",
+  "next_refresh_at": "2026-10-06T21:37:08.053228+00:00",
   "entries": [
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "published_at": "2026-10-06T19:57:04+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "published_at": "2026-07-17T15:00:11+00:00",
       "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-      "author": null
-    },
-    {
-      "title": "Our approach to bioresilience",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "published_at": "2026-07-16T09:30:42+00:00",
-      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
       "author": null
     }
   ],
