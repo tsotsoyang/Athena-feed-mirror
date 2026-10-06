@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-06T09:13:48.135160+00:00",
-  "next_refresh_at": "2026-10-06T09:43:48.135160+00:00",
+  "fetched_at": "2026-10-06T16:07:44.498240+00:00",
+  "next_refresh_at": "2026-10-06T16:37:44.498240+00:00",
   "entries": [
+    {
+      "title": "Introducing Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "published_at": "2026-10-06T12:00:27+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "Hallo, Deutschland!",
       "url": "https://mistral.ai/news/hallo-deutschland/",
@@ -171,13 +178,6 @@
       "url": "https://mistral.ai/news/spaces/",
       "published_at": "2026-03-31T12:00:00+00:00",
       "summary": "",
-      "author": null
-    },
-    {
-      "title": "Speaking of Voxtral",
-      "url": "https://mistral.ai/news/voxtral-tts/",
-      "published_at": "2026-03-23T16:00:00+00:00",
-      "summary": "Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.",
       "author": null
     }
   ],
