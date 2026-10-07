@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-07T06:53:03.547758+00:00",
-  "next_refresh_at": "2026-10-07T07:23:03.547758+00:00",
+  "fetched_at": "2026-10-07T14:14:32.262113+00:00",
+  "next_refresh_at": "2026-10-07T14:44:32.262113+00:00",
   "entries": [
     {
       "title": "How Jump Trading is scaling quant research with ChatGPT",
