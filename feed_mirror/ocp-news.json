@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-07T14:14:31.709572+00:00",
-  "next_refresh_at": "2026-10-07T14:44:31.709572+00:00",
+  "fetched_at": "2026-10-07T20:04:18.063834+00:00",
+  "next_refresh_at": "2026-10-07T20:34:18.063834+00:00",
   "entries": [
     {
       "title": "Explore 22 Tracks at the 2026 OCP Global Summit",
