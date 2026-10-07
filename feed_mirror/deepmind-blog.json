@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-07T00:54:53.671225+00:00",
-  "next_refresh_at": "2026-10-07T01:24:53.671225+00:00",
+  "fetched_at": "2026-10-07T06:53:16.733744+00:00",
+  "next_refresh_at": "2026-10-07T07:23:16.733744+00:00",
   "entries": [
     {
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
