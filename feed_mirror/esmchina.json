@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-06T21:07:07.693867+00:00",
-  "next_refresh_at": "2026-10-06T21:37:07.693867+00:00",
+  "fetched_at": "2026-10-07T00:54:53.452708+00:00",
+  "next_refresh_at": "2026-10-07T01:24:53.452708+00:00",
   "entries": [
+    {
+      "title": "2025年全球在役工业机器人达500万台，2026年装机量预计65.5万台",
+      "url": "https://www.esmchina.com/news/14651.html",
+      "published_at": null,
+      "summary": "全球机器人需求预计将延续其长期增长态势。",
+      "author": null
+    },
     {
       "title": "2026年上半年全球AI眼镜出货量同比增长263%，无显示屏超九成",
       "url": "https://www.esmchina.com/news/14650.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14627.html",
       "published_at": null,
       "summary": "9月18日，德国慕尼黑第一地区法院第七民事庭就长江存储诉美光系列案件作出两项一审裁判，认定美光侵犯长江存储持有的两项德国实用新型专利权，并支持长江存储提出的禁令请求。",
-      "author": null
-    },
-    {
-      "title": "UFS的下一场战争：谁掌握整台手机的“存储优化权”？",
-      "url": "https://www.esmchina.com/news/14623.html",
-      "published_at": null,
-      "summary": "从ZUFS、Android/F2FS到OEM协同：高端UFS正在从器件性能竞争走向跨层优化能力竞争",
       "author": null
     }
   ],
