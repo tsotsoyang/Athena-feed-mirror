@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-08T06:28:30.773473+00:00",
-  "next_refresh_at": "2026-10-08T06:58:30.773473+00:00",
+  "fetched_at": "2026-10-08T13:54:56.025721+00:00",
+  "next_refresh_at": "2026-10-08T14:24:56.025721+00:00",
   "entries": [
     {
       "title": "Helping teens learn, plan, and shape the future of AI",

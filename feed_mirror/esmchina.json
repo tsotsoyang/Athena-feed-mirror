@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-08T06:28:46.608380+00:00",
-  "next_refresh_at": "2026-10-08T06:58:46.608380+00:00",
+  "fetched_at": "2026-10-08T13:55:11.527864+00:00",
+  "next_refresh_at": "2026-10-08T14:25:11.527864+00:00",
   "entries": [
+    {
+      "title": "1.49万亿！台积电Q3营收碾压预期",
+      "url": "https://www.esmchina.com/news/14657.html",
+      "published_at": null,
+      "summary": "台积电第三季度营收的强劲增长，主要受AI应用需求的持续拉动。",
+      "author": null
+    },
     {
       "title": "高通起诉Arm：停付5年授权费，强制授权V10",
       "url": "https://www.esmchina.com/news/14656.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14633.html",
       "published_at": null,
       "summary": "新加坡通过政府资金支持、科研基础设施建设以及聚焦商业化的发展策略，正在打造一个蓬勃发展的区域性量子技术中心。",
-      "author": null
-    },
-    {
-      "title": "Meta AI眼镜矩阵翻新：Muse助手接入硬件，首提“代理交易抽佣”变现",
-      "url": "https://www.esmchina.com/news/14632.html",
-      "published_at": null,
-      "summary": "涨价19%、加AI、还要付佣金：Meta智能眼镜的逻辑变了。",
       "author": null
     }
   ],
