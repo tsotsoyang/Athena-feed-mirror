@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-08T00:19:04.890664+00:00",
-  "next_refresh_at": "2026-10-08T00:49:04.890664+00:00",
+  "fetched_at": "2026-10-08T06:28:30.773473+00:00",
+  "next_refresh_at": "2026-10-08T06:58:30.773473+00:00",
   "entries": [
     {
       "title": "Helping teens learn, plan, and shape the future of AI",
@@ -118,6 +118,13 @@
       "author": null
     },
     {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published_at": "2026-09-29T17:00:00+00:00",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "author": null
+    },
+    {
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
       "published_at": "2026-09-29T10:00:00+00:00",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "published_at": "2026-09-28T00:00:00+00:00",
       "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "author": null
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "published_at": "2026-09-25T19:00:00+00:00",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
       "author": null
     }
   ],

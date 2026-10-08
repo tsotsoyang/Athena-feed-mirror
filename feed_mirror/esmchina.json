@@ -2,9 +2,44 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-08T00:19:19.294147+00:00",
-  "next_refresh_at": "2026-10-08T00:49:19.294147+00:00",
+  "fetched_at": "2026-10-08T06:28:46.608380+00:00",
+  "next_refresh_at": "2026-10-08T06:58:46.608380+00:00",
   "entries": [
+    {
+      "title": "高通起诉Arm：停付5年授权费，强制授权V10",
+      "url": "https://www.esmchina.com/news/14656.html",
+      "published_at": null,
+      "summary": "高通技术公司起诉Arm Holdings一案于美国当地时间10月5日在特拉华州地区法院开始为期五天的陪审团审判，案由为合同违约。",
+      "author": null
+    },
+    {
+      "title": "GPT-6全量上线：训练动用超10万张GPU，API价格下调50%",
+      "url": "https://www.esmchina.com/news/14655.html",
+      "published_at": null,
+      "summary": "10万张GPU练出的GPT-6，今天推给了12亿人",
+      "author": null
+    },
+    {
+      "title": "高通，买了华为的专利",
+      "url": "https://www.esmchina.com/news/14654.html",
+      "published_at": null,
+      "summary": "华为与高通宣布达成广泛的专利许可协议。",
+      "author": null
+    },
+    {
+      "title": "SK海力士旗下Solidigm敲定赴美IPO承销团，拟募资100亿美元、估值或达1000亿美元",
+      "url": "https://www.esmchina.com/news/14652.html",
+      "published_at": null,
+      "summary": "高盛集团与摩根士丹利将主导本次上市，摩根大通、花旗集团与瑞银集团也已获选加入承销团队。",
+      "author": null
+    },
+    {
+      "title": "三星，日赚59亿元",
+      "url": "https://www.esmchina.com/news/14653.html",
+      "published_at": null,
+      "summary": "三星电子预计2026年第三季度（7-9月）营业利润将达到107.4万亿韩元，同比增幅高达782.5%，这也是该公司营业利润首次突破100万亿韩元关口。",
+      "author": null
+    },
     {
       "title": "2025年全球在役工业机器人达500万台，2026年装机量预计65.5万台",
       "url": "https://www.esmchina.com/news/14651.html",
@@ -143,41 +178,6 @@
       "url": "https://www.esmchina.com/news/14632.html",
       "published_at": null,
       "summary": "涨价19%、加AI、还要付佣金：Meta智能眼镜的逻辑变了。",
-      "author": null
-    },
-    {
-      "title": "从技术完善到标准引领，再到全球韧性：格罗方德的硅光子布局之路",
-      "url": "https://www.esmchina.com/news/14631.html",
-      "published_at": null,
-      "summary": "在AI数据中心对带宽与能效的极致追求下，光互连技术正从实验室走向量产前夜。格罗方德在硅光子领域的布局并非停留在晶圆制造层面，而是延伸到了平台能力、方案能力与量产保证。",
-      "author": null
-    },
-    {
-      "title": "马斯克：中国两三年内可依靠光刻与制造补齐算力缺口",
-      "url": "https://www.esmchina.com/news/14630.html",
-      "published_at": null,
-      "summary": "马斯克认为，中国解决算力问题的速度会比大多数人预想得更快。",
-      "author": null
-    },
-    {
-      "title": "AI被“开除”？特朗普宣布：以后只有SI",
-      "url": "https://www.esmchina.com/news/14629.html",
-      "published_at": null,
-      "summary": "美国总统特朗普日前在联合国发言时宣布：今后所有美国政府文件将不再使用“人工智能”（Artificial Intelligence，AI）这一术语，取而代之的是“超级智能”（Super Intelligence，SI）。",
-      "author": null
-    },
-    {
-      "title": "高通骁龙峰会发布两款2nm旗舰SoC，小米18 Pro系列全球首发搭载",
-      "url": "https://www.esmchina.com/news/14628.html",
-      "published_at": null,
-      "summary": "两款芯片均基于台积电N2P改良版2nm GAA全环绕栅极工艺，是安卓阵营首批面向量产的2nm手机处理器。",
-      "author": null
-    },
-    {
-      "title": "美光在德国一审被判禁售，长江存储拿到首个实质性禁令",
-      "url": "https://www.esmchina.com/news/14627.html",
-      "published_at": null,
-      "summary": "9月18日，德国慕尼黑第一地区法院第七民事庭就长江存储诉美光系列案件作出两项一审裁判，认定美光侵犯长江存储持有的两项德国实用新型专利权，并支持长江存储提出的禁令请求。",
       "author": null
     }
   ],
