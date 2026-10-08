@@ -2,9 +2,16 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-08T13:54:55.331028+00:00",
-  "next_refresh_at": "2026-10-08T14:24:55.331028+00:00",
+  "fetched_at": "2026-10-08T19:41:00.908407+00:00",
+  "next_refresh_at": "2026-10-08T20:11:00.908407+00:00",
   "entries": [
+    {
+      "title": "Introducing OSPA: Unifying the Switch Platform Layer for Open Networking",
+      "url": "https://www.opencompute.org/news/236226/",
+      "published_at": "2026-10-08T16:44:16+00:00",
+      "summary": "Introducing OSPA: Unifying the Switch Platform Layer for Open Networking Tao Ren, Meta New Switch Platform Standardization Effort Announced at OCP The Open Compute Project Foundation (OCP) is happy to announced a new in-progress contribution to the OCP Networking Project: the Open Switch Platform Architecture (OSPA) specification, which is currently undergoing Foundation review as part [&#8230;] The post Introducing OSPA: Unifying the Switch Platform Layer for Open Networking appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
     {
       "title": "Explore 22 Tracks at the 2026 OCP Global Summit",
       "url": "https://www.opencompute.org/news/explore-22-tracks-at-the-2026-ocp-global-summit/",
@@ -66,13 +73,6 @@
       "url": "https://www.opencompute.org/news/celebrating-a-decade-of-innovation-rise-ice-data-center-and-its-pivotal-role-as-an-ocp-experience-center/",
       "published_at": "2026-06-02T00:00:00+00:00",
       "summary": "The RISE ICE (Infrastructure and Cloud Research and Test Environment) Datacenter in Luleå, Sweden, is marking a significant milestone: 10 years of groundbreaking research, collaboration, and innovation in sustainable digital infrastructure. Over the past decade, ICE has evolved from a bold vision into a leading full-scale research facility, shaping the future of data centers through [&#8230;] The post Celebrating a Decade of Innovation: RISE ICE Data Center and Its Pivotal Role as an OCP Experience Center appeared first on Open Compute Project .",
-      "author": "OCP Editorial"
-    },
-    {
-      "title": "Seizing Data Center Heat Reuse Opportunities: Open Compute Project Foundation Guidelines for Local Authorities",
-      "url": "https://www.opencompute.org/news/seizing-data-center-heat-reuse-opportunities-open-compute-project-foundation-guidelines-for-local-authorities/",
-      "published_at": "2026-05-20T00:00:00+00:00",
-      "summary": "Introduction As data centers expand throughout the world, large amounts of electricity to power and cool their servers will continue to be needed. Almost all the energy entering a data center converts into a byproduct in the form of excess heat, which is often released into the atmosphere by evaporating water in cooling towers without [&#8230;] The post Seizing Data Center Heat Reuse Opportunities: Open Compute Project Foundation Guidelines for Local Authorities appeared first on Open Compute Project .",
       "author": "OCP Editorial"
     }
   ],
