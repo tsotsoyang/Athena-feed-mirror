@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-07T20:04:19.079623+00:00",
-  "next_refresh_at": "2026-10-07T20:34:19.079623+00:00",
+  "fetched_at": "2026-10-08T00:19:04.890664+00:00",
+  "next_refresh_at": "2026-10-08T00:49:04.890664+00:00",
   "entries": [
     {
       "title": "Helping teens learn, plan, and shape the future of AI",
@@ -139,17 +139,17 @@
       "author": null
     },
     {
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published_at": "2026-09-28T19:00:00+00:00",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "author": null
-    },
-    {
       "title": "Towards safety cases for frontier AI training",
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "published_at": "2026-09-28T19:00:00+00:00",
       "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "author": null
+    },
+    {
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "author": null
     },
     {
