@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-08T19:41:01.535426+00:00",
-  "next_refresh_at": "2026-10-08T20:11:01.535426+00:00",
+  "fetched_at": "2026-10-09T00:09:29.483321+00:00",
+  "next_refresh_at": "2026-10-09T00:39:29.483321+00:00",
   "entries": [
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -17,6 +17,13 @@
       "url": "https://openai.com/index/pollo-ai",
       "published_at": "2026-10-08T12:00:00+00:00",
       "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "author": null
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "published_at": "2026-10-08T12:00:00+00:00",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "author": null
     },
     {
@@ -139,17 +146,17 @@
       "author": null
     },
     {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "author": null
-    },
-    {
       "title": "Introducing GPT-6.1 Sol",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "published_at": "2026-09-29T10:00:00+00:00",
       "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "author": null
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "author": null
     },
     {
@@ -160,13 +167,6 @@
       "author": null
     },
     {
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published_at": "2026-09-28T19:00:00+00:00",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "author": null
-    },
-    {
       "title": "Towards safety cases for frontier AI training",
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "published_at": "2026-09-28T19:00:00+00:00",
@@ -174,10 +174,10 @@
       "author": null
     },
     {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "author": null
     }
   ],

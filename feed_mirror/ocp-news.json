@@ -2,14 +2,14 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-08T19:41:00.908407+00:00",
-  "next_refresh_at": "2026-10-08T20:11:00.908407+00:00",
+  "fetched_at": "2026-10-09T00:09:28.901518+00:00",
+  "next_refresh_at": "2026-10-09T00:39:28.901518+00:00",
   "entries": [
     {
       "title": "Introducing OSPA: Unifying the Switch Platform Layer for Open Networking",
-      "url": "https://www.opencompute.org/news/236226/",
+      "url": "https://www.opencompute.org/news/introducing-ospa-unifying-the-switch-platform-layer-for-open-networking/",
       "published_at": "2026-10-08T16:44:16+00:00",
-      "summary": "Introducing OSPA: Unifying the Switch Platform Layer for Open Networking Tao Ren, Meta New Switch Platform Standardization Effort Announced at OCP The Open Compute Project Foundation (OCP) is happy to announced a new in-progress contribution to the OCP Networking Project: the Open Switch Platform Architecture (OSPA) specification, which is currently undergoing Foundation review as part [&#8230;] The post Introducing OSPA: Unifying the Switch Platform Layer for Open Networking appeared first on Open Compute Project .",
+      "summary": "Tao Ren, Meta New Switch Platform Standardization Effort Announced at OCP The Open Compute Project Foundation (OCP) is happy to announced a new in-progress contribution to the OCP Networking Project: the Open Switch Platform Architecture (OSPA) specification, which is currently undergoing Foundation review as part of the OCP contribution process. OSPA establishes a vendor-neutral reference [&#8230;] The post Introducing OSPA: Unifying the Switch Platform Layer for Open Networking appeared first on Open Compute Project .",
       "author": "OCP Editorial"
     },
     {
