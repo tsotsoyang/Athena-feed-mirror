@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-09T19:17:29.314391+00:00",
-  "next_refresh_at": "2026-10-09T19:47:29.314391+00:00",
+  "fetched_at": "2026-10-09T23:24:26.080322+00:00",
+  "next_refresh_at": "2026-10-09T23:54:26.080322+00:00",
   "entries": [
     {
       "title": "Introducing Mistral Large 4",
