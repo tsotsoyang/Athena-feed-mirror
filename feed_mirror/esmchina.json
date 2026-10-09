@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-09T00:09:44.280244+00:00",
-  "next_refresh_at": "2026-10-09T00:39:44.280244+00:00",
+  "fetched_at": "2026-10-09T06:29:58.940089+00:00",
+  "next_refresh_at": "2026-10-09T06:59:58.940089+00:00",
   "entries": [
+    {
+      "title": "传三星LSI将撤出车载AP赛道",
+      "url": "https://www.esmchina.com/news/14661.html",
+      "published_at": null,
+      "summary": "“拿下订单”和“赢回下一代”是两件截然不同的事。",
+      "author": null
+    },
+    {
+      "title": "安森美年内第二轮涨价10月10日生效，AI数据中心从“成本转嫁”变“价值升级”",
+      "url": "https://www.esmchina.com/news/14660.html",
+      "published_at": null,
+      "summary": "安森美明日起正式涨价，覆盖范围比上半年更广",
+      "author": null
+    },
+    {
+      "title": "特朗普向黄仁勋、马斯克等六位科技领袖颁发国家科学奖章",
+      "url": "https://www.esmchina.com/news/14659.html",
+      "published_at": null,
+      "summary": "8日，美国总统特朗普在华盛顿特区举办的“科学：新黄金时代”峰会上，正式向六位科技行业领袖颁发了国家科学奖章（National Medal of Science）和国家技术与创新奖章（National Medal of Technology and Innovation），旨在表彰获奖者在推动美国科技创新与产业发展方面做出的杰出贡献。",
+      "author": null
+    },
+    {
+      "title": "Skyworks官宣完成与Qorvo的合并",
+      "url": "https://www.esmchina.com/news/14658.html",
+      "published_at": null,
+      "summary": "Skyworks正式宣布，其与Qorvo的合并交易已顺利完成。这笔交易将两家半导体巨头合二为一，缔造出一家在高性能射频、电源管理以及模拟与混合信号半导体解决方案领域举足轻重的行业新势力。",
+      "author": null
+    },
     {
       "title": "1.49万亿！台积电Q3营收碾压预期",
       "url": "https://www.esmchina.com/news/14657.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14637.html",
       "published_at": null,
       "summary": "9月28日，由世界先进积体电路与恩智浦半导体在2024年9月合资设立的VisionPower Semiconductor Manufacturing Company（VSMC），在新加坡淡滨尼为其首座12英寸晶圆厂举行启用仪式。",
-      "author": null
-    },
-    {
-      "title": "澜起科技DDR5第五子代RCD芯片量产：8000 MT/s锁定AI服务器“运力”底座",
-      "url": "https://www.esmchina.com/news/14636.html",
-      "published_at": null,
-      "summary": "一颗不起眼的接口芯片，撑起了AI服务器的内存“运力”",
-      "author": null
-    },
-    {
-      "title": "壁仞科技1.74亿元拿下国产智算中心大单",
-      "url": "https://www.esmchina.com/news/14635.html",
-      "published_at": null,
-      "summary": "日前，青海项目信息网发布昆仑领奕智算中心项目（一期）的询比采购结果公告。公告显示，上海GPU龙头企业壁仞科技拿下包一，中标金额为1.74亿元。",
-      "author": null
-    },
-    {
-      "title": "1-8月规上工业企业利润增15.7%，电子行业利润增1.1倍贡献率超六成",
-      "url": "https://www.esmchina.com/news/14634.html",
-      "published_at": null,
-      "summary": "以人工智能为代表的新技术应用加快拓展，带动相关领域需求扩大，推动电子行业利润高速增长。",
-      "author": null
-    },
-    {
-      "title": "新加坡正推动量子研究迈向商业化",
-      "url": "https://www.esmchina.com/news/14633.html",
-      "published_at": null,
-      "summary": "新加坡通过政府资金支持、科研基础设施建设以及聚焦商业化的发展策略，正在打造一个蓬勃发展的区域性量子技术中心。",
       "author": null
     }
   ],
