@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-09T06:29:58.940089+00:00",
-  "next_refresh_at": "2026-10-09T06:59:58.940089+00:00",
+  "fetched_at": "2026-10-09T13:40:02.067235+00:00",
+  "next_refresh_at": "2026-10-09T14:10:02.067235+00:00",
   "entries": [
+    {
+      "title": "1",
+      "url": "https://www.esmchina.com/preview/14664.html",
+      "published_at": null,
+      "summary": "1",
+      "author": null
+    },
+    {
+      "title": "Ternus上任首秀：苹果10月双场发布会，智能家居先炸场",
+      "url": "https://www.esmchina.com/news/14663.html",
+      "published_at": null,
+      "summary": "这两场发布均发生在John Ternus接任首席执行官之后。",
+      "author": null
+    },
+    {
+      "title": "英伟达再下重注！未来五年投入10亿美元",
+      "url": "https://www.esmchina.com/news/14662.html",
+      "published_at": null,
+      "summary": "押注美国“超级智能”科研。",
+      "author": null
+    },
     {
       "title": "传三星LSI将撤出车载AP赛道",
       "url": "https://www.esmchina.com/news/14661.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14640.html",
       "published_at": null,
       "summary": "AI热潮带来强劲现金流。",
-      "author": null
-    },
-    {
-      "title": "长鑫存储宣布349亿元重大项目投资",
-      "url": "https://www.esmchina.com/news/14639.html",
-      "published_at": null,
-      "summary": "9月28日，长鑫科技发布公告，计划动用180亿元IPO超募资金，落地DRAM技术研发以及存储器晶圆后道测试基地二期项目，合计总投资349亿元。",
-      "author": null
-    },
-    {
-      "title": "82亿美元！AMD收购李飞飞World Labs，两大AI女神携手",
-      "url": "https://www.esmchina.com/news/14638.html",
-      "published_at": null,
-      "summary": "9月28日，AMD官宣以82亿美元全股票交易收购AI初创实验室World Labs。交割完成后，World Labs创始人李飞飞将出任AMD执行副总裁兼首席科学家，直接向AMD CEO苏姿丰汇报。",
-      "author": null
-    },
-    {
-      "title": "VSMC新加坡首座300毫米晶圆厂正式启用",
-      "url": "https://www.esmchina.com/news/14637.html",
-      "published_at": null,
-      "summary": "9月28日，由世界先进积体电路与恩智浦半导体在2024年9月合资设立的VisionPower Semiconductor Manufacturing Company（VSMC），在新加坡淡滨尼为其首座12英寸晶圆厂举行启用仪式。",
       "author": null
     }
   ],
