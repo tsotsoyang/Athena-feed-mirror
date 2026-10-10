@@ -2,9 +2,51 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-10T02:34:13.583087+00:00",
-  "next_refresh_at": "2026-10-10T03:04:13.583087+00:00",
+  "fetched_at": "2026-10-10T09:30:21.178474+00:00",
+  "next_refresh_at": "2026-10-10T10:00:21.178474+00:00",
   "entries": [
+    {
+      "title": "美国ITC发起337调查，立讯、富士康、台达被卷入",
+      "url": "https://www.esmchina.com/news/14670.html",
+      "published_at": null,
+      "summary": "10月9日，美国国际贸易委员会投票决定对特定垂直电力传输系统、其组件及含有该系统的计算系统启动337调查，案号337-TA-1526。",
+      "author": null
+    },
+    {
+      "title": "ASML对韩国光刻机备件统一涨价10%，三星和SK海力士已点头",
+      "url": "https://www.esmchina.com/news/14669.html",
+      "published_at": null,
+      "summary": "“六个月前，我们以为增长停滞了，然后订单爆炸。”",
+      "author": null
+    },
+    {
+      "title": "产能售罄到2029年，FCC限制传闻发酵：全球光模块到底卡在哪里？",
+      "url": "https://www.esmchina.com/news/14668.html",
+      "published_at": null,
+      "summary": "光通信产业链正在同时面对两股力量：一边是AI数据中心拉动的高速光器件需求持续超预期，另一边是关于美国潜在监管规则的远期担忧。前者已经体现在订单和产能上，后者仍停留在政策",
+      "author": null
+    },
+    {
+      "title": "苹果也受不了内存太贵，传iPhone 18 Pro系列10月减单15%",
+      "url": "https://www.esmchina.com/news/14667.html",
+      "published_at": null,
+      "summary": "此次传出iPhone 18 Pro系列减产的主要原因在于数个季度以来BOM的持续提升。",
+      "author": null
+    },
+    {
+      "title": "AI算力需求外溢，全球晶圆代工单季营收966亿美元",
+      "url": "https://www.esmchina.com/news/14666.html",
+      "published_at": null,
+      "summary": "Counterpoint Research最新发布的晶圆代工供应追踪报告显示，2026年第二季度全球晶圆代工2.0市场营收达到966亿美元，同比增长25%，增速较上一季度进一步加快。",
+      "author": null
+    },
+    {
+      "title": "全固态电池2030年初步规模化，政策主线转向全链条创新",
+      "url": "https://www.esmchina.com/news/14665.html",
+      "published_at": null,
+      "summary": "“制造+回收+应用+服务”的网状产业生态。",
+      "author": null
+    },
     {
       "title": "1",
       "url": "https://www.esmchina.com/preview/14664.html",
@@ -62,7 +104,7 @@
       "author": null
     },
     {
-      "title": "高通起诉Arm：停付5年授权费，强制授权V10",
+      "title": "高通起诉Arm：停付5年授权费，强制授权V10架构",
       "url": "https://www.esmchina.com/news/14656.html",
       "published_at": null,
       "summary": "高通技术公司起诉Arm Holdings一案于美国当地时间10月5日在特拉华州地区法院开始为期五天的陪审团审判，案由为合同违约。",
@@ -136,48 +178,6 @@
       "url": "https://www.esmchina.com/news/14648.html",
       "published_at": null,
       "summary": "9月30日，华为和DeepSeek官方宣布，DeepSeek已正式开源面向昇腾算力平台的基础设施组件。这意味着在主流GPU路径之外，国产算力平台首次获得了来自头部大模型厂商的、成体系的基础设施级支撑。",
-      "author": null
-    },
-    {
-      "title": "特朗普给美国AI送“救命药”：自己管自己",
-      "url": "https://www.esmchina.com/news/14645.html",
-      "published_at": null,
-      "summary": "特朗普会晤科技巨头，签署AI“道德约束”协议，提出“自我监管”应对风险。",
-      "author": null
-    },
-    {
-      "title": "印度大力推进OSAT，瞄准2.5D先进封装",
-      "url": "https://www.esmchina.com/news/14642.html",
-      "published_at": null,
-      "summary": "印度不断扩大的OSAT（外包半导体封装与测试）生态系统正从传统封装逐步迈向倒装芯片（Flip-Chip）封装、芯粒（Chiplet）技术，以及2.5D先进封装能力领域。",
-      "author": null
-    },
-    {
-      "title": "PCB龙头景旺电子A+H双重落地，开盘破发后翻红涨超10%",
-      "url": "https://www.esmchina.com/news/14644.html",
-      "published_at": null,
-      "summary": "国际电子商情29日讯 9月29日，深圳市景旺电子股份有限公司H股在香港联合交易所主板挂牌交易，H股代码3228.HK，A股代码603228.SH，公司由此实现“A+H”双重上市布局。",
-      "author": null
-    },
-    {
-      "title": "“这叫竞争”，黄仁勋回应模型蒸馏“盗窃”指控",
-      "url": "https://www.esmchina.com/news/14643.html",
-      "published_at": null,
-      "summary": "当被问到模型蒸馏算不算“劫掠”时，黄仁勋回答说，“这叫做竞争，你完全可以尽情测试别家的产品”。",
-      "author": null
-    },
-    {
-      "title": "Anthropic发布Claude Sonnet 5.5，速度提升三成、成本最高可省三成",
-      "url": "https://www.esmchina.com/news/14641.html",
-      "published_at": null,
-      "summary": "Sonnet 5.5编程能力干翻旗舰，价格不变。",
-      "author": null
-    },
-    {
-      "title": "1500亿美元！英伟达又有大动作",
-      "url": "https://www.esmchina.com/news/14640.html",
-      "published_at": null,
-      "summary": "AI热潮带来强劲现金流。",
       "author": null
     }
   ],
