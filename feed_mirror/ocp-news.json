@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-10T19:49:47.572678+00:00",
-  "next_refresh_at": "2026-10-10T20:19:47.572678+00:00",
+  "fetched_at": "2026-10-10T23:17:03.646994+00:00",
+  "next_refresh_at": "2026-10-10T23:47:03.646994+00:00",
   "entries": [
     {
       "title": "Introducing OSPA: Unifying the Switch Platform Layer for Open Networking",
