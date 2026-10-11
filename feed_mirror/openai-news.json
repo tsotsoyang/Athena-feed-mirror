@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-11T02:03:38.745057+00:00",
-  "next_refresh_at": "2026-10-11T02:33:38.745057+00:00",
+  "fetched_at": "2026-10-11T09:10:24.114163+00:00",
+  "next_refresh_at": "2026-10-11T09:40:24.114163+00:00",
   "entries": [
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
