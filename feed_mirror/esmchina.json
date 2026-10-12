@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-12T04:40:02.492978+00:00",
-  "next_refresh_at": "2026-10-12T05:10:02.492978+00:00",
+  "fetched_at": "2026-10-12T12:47:55.482619+00:00",
+  "next_refresh_at": "2026-10-12T13:17:55.482619+00:00",
   "entries": [
+    {
+      "title": "华为年研发1923亿，专利超16.5万件",
+      "url": "https://www.esmchina.com/news/14677.html",
+      "published_at": null,
+      "summary": "华为是全球最大的专利持有企业之一。",
+      "author": null
+    },
+    {
+      "title": "中国厂商包揽全球人形机器人收入前五，量产、降价、进工厂同步跑",
+      "url": "https://www.esmchina.com/news/14676.html",
+      "published_at": null,
+      "summary": "以收入计算，全球人形机器人市场规模2025年全年为5亿美元，2026年上半年为5.4亿美元。",
+      "author": null
+    },
     {
       "title": "美国多州起诉TP-Link路由器安全宣传不实",
       "url": "https://www.esmchina.com/news/14674.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14653.html",
       "published_at": null,
       "summary": "三星电子预计2026年第三季度（7-9月）营业利润将达到107.4万亿韩元，同比增幅高达782.5%，这也是该公司营业利润首次突破100万亿韩元关口。",
-      "author": null
-    },
-    {
-      "title": "2025年全球在役工业机器人达500万台，2026年装机量预计65.5万台",
-      "url": "https://www.esmchina.com/news/14651.html",
-      "published_at": null,
-      "summary": "全球机器人需求预计将延续其长期增长态势。",
-      "author": null
-    },
-    {
-      "title": "2026年上半年全球AI眼镜出货量同比增长263%，无显示屏超九成",
-      "url": "https://www.esmchina.com/news/14650.html",
-      "published_at": null,
-      "summary": "2026年上半年，AI眼镜市场加速发展，主要得益于无显示设备的兴起、Meta的主导地位以及AR和AI应用的不断普及。",
       "author": null
     }
   ],
