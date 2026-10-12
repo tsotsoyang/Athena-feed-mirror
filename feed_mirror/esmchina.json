@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-11T23:31:20.418502+00:00",
-  "next_refresh_at": "2026-10-12T00:01:20.418502+00:00",
+  "fetched_at": "2026-10-12T04:40:02.492978+00:00",
+  "next_refresh_at": "2026-10-12T05:10:02.492978+00:00",
   "entries": [
+    {
+      "title": "美国多州起诉TP-Link路由器安全宣传不实",
+      "url": "https://www.esmchina.com/news/14674.html",
+      "published_at": null,
+      "summary": "作为美国消费级Wi-Fi路由器市场份额头部厂商，TP-Link正遭遇来自美国多个州检察长的协同法律攻势。",
+      "author": null
+    },
+    {
+      "title": "英伟达正洽谈收购Reflection AI，后者估值一年翻45倍至250亿美元",
+      "url": "https://www.esmchina.com/news/14673.html",
+      "published_at": null,
+      "summary": "一年估值翻45倍！英伟达计划“吞下”这家美版DeepSeek公司",
+      "author": null
+    },
+    {
+      "title": "立讯精密、工业富联双双回应美国337调查：不影响当期业绩",
+      "url": "https://www.esmchina.com/news/14671.html",
+      "published_at": null,
+      "summary": "值得一提的是，Vicor的专利主张对象是全球范围内的垂直供电产品供应商，并非专门针对中国企业。",
+      "author": null
+    },
+    {
+      "title": "Synaptics并购案再起波澜，Cirrus Logic加入竞购",
+      "url": "https://www.esmchina.com/news/14672.html",
+      "published_at": null,
+      "summary": "Cirrus Logic上月向Synaptics发出过一项未经请求的收购要约，试图搅局安森美半导体对Synaptics的并购交易。",
+      "author": null
+    },
     {
       "title": "美国ITC发起337调查，立讯、富士康、台达被卷入",
       "url": "https://www.esmchina.com/news/14670.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14650.html",
       "published_at": null,
       "summary": "2026年上半年，AI眼镜市场加速发展，主要得益于无显示设备的兴起、Meta的主导地位以及AR和AI应用的不断普及。",
-      "author": null
-    },
-    {
-      "title": "近25万台！专业服务机器人全球销量增长24%",
-      "url": "https://www.esmchina.com/news/14649.html",
-      "published_at": null,
-      "summary": "运输与物流机器人以11.7万台的规模位居销售首位。",
-      "author": null
-    },
-    {
-      "title": "新官上任三把火：砍层级、快迭代、拓收入，新CEO重塑苹果",
-      "url": "https://www.esmchina.com/news/14646.html",
-      "published_at": null,
-      "summary": "具体职位调整、发布日历与服务方案以苹果后续内部执行及公开信息为准。",
-      "author": null
-    },
-    {
-      "title": "台积电，再建11座工厂？",
-      "url": "https://www.esmchina.com/news/14647.html",
-      "published_at": null,
-      "summary": "台积电新一轮扩产传闻升温，包括在美国得州达拉斯及北德州地区再增建6座晶圆厂，以及中国台湾嘉义科学园区三期再新增5座先进封装厂。",
-      "author": null
-    },
-    {
-      "title": "华为官宣，DeepSeek开源昇腾基础组件",
-      "url": "https://www.esmchina.com/news/14648.html",
-      "published_at": null,
-      "summary": "9月30日，华为和DeepSeek官方宣布，DeepSeek已正式开源面向昇腾算力平台的基础设施组件。这意味着在主流GPU路径之外，国产算力平台首次获得了来自头部大模型厂商的、成体系的基础设施级支撑。",
       "author": null
     }
   ],
