@@ -2,9 +2,23 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-12T12:47:37.893529+00:00",
-  "next_refresh_at": "2026-10-12T13:17:37.893529+00:00",
+  "fetched_at": "2026-10-12T21:34:43.534388+00:00",
+  "next_refresh_at": "2026-10-12T22:04:43.534388+00:00",
   "entries": [
+    {
+      "title": "Realizing the OCP Open Data Center Ecosystem Vision",
+      "url": "https://www.opencompute.org/news/realizing-the-ocp-open-data-center-ecosystem-vision/",
+      "published_at": "2026-10-12T20:38:00+00:00",
+      "summary": "In just four years AI has transformed the data center world from the ground up, with unprecedented compute needs driving new technology from chip to grid, with power densities on track to reach and then surpass 1MW in a single rack. The OCP Community has dramatically expanded, as hundreds of new companies from diverse industries [&#8230;] The post Realizing the OCP Open Data Center Ecosystem Vision appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
+    {
+      "title": "Open Compute Project Foundation Launches OCP Nexus to Make 15 Years of Open Hardware Knowledge Easier to Explore",
+      "url": "https://www.opencompute.org/news/open-compute-project-foundation-launches-ocp-nexus-to-make-15-years-of-open-hardware-knowledge-easier-to-explore/",
+      "published_at": "2026-10-12T15:00:00+00:00",
+      "summary": "New AI assistant provides conversational access to OCP technical resources and helps attendees navigate the 2026 OCP Global Summit The Open Compute Project (OCP) Foundation today announced OCP Nexus™, an AI knowledge assistant that helps engineers, architects, procurement teams and other community members find and explore OCP resources through natural-language conversations. Launching in conjunction with [&#8230;] The post Open Compute Project Foundation Launches OCP Nexus to Make 15 Years of Open Hardware Knowledge Easier to Explore appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
     {
       "title": "Introducing OSPA: Unifying the Switch Platform Layer for Open Networking",
       "url": "https://www.opencompute.org/news/introducing-ospa-unifying-the-switch-platform-layer-for-open-networking/",
@@ -59,20 +73,6 @@
       "url": "https://www.opencompute.org/news/numana-and-open-compute-project-establish-quantum-collaboration/",
       "published_at": "2026-06-11T00:00:00+00:00",
       "summary": "1st Quantum Communication OCP Experience Center Now Available for Public Research June 11, 2026 – the Open Compute Project Foundation (OCP), the global non-profit organization bringing hyperscale innovations to all and Numana, a non-profit organization that acts as a Macro-accelerator catalyst for technological ecosystems today announced as a part of their collaborations that the quantum [&#8230;] The post Numana and Open Compute Project Establish Quantum Collaboration appeared first on Open Compute Project .",
-      "author": "OCP Editorial"
-    },
-    {
-      "title": "How the OCP EMEA Summit Became Europe’s Premier Open Infrastructure Event",
-      "url": "https://www.opencompute.org/news/how-the-ocp-emea-summit-became-europes-premier-open-infrastructure-event/",
-      "published_at": "2026-06-02T00:00:00+00:00",
-      "summary": "The Open Compute Project&#8217;s EMEA Summit has undergone a transformation that stands out even against the event&#8217;s longer history. First held in 2014 in Paris, the Summit has long served as Europe&#8217;s home for open infrastructure collaboration — but the growth from 2024 to 2026 marks a step change in a different category. What was [&#8230;] The post How the OCP EMEA Summit Became Europe&#8217;s Premier Open Infrastructure Event appeared first on Open Compute Project .",
-      "author": "OCP Editorial"
-    },
-    {
-      "title": "Celebrating a Decade of Innovation: RISE ICE Data Center and Its Pivotal Role as an OCP Experience Center",
-      "url": "https://www.opencompute.org/news/celebrating-a-decade-of-innovation-rise-ice-data-center-and-its-pivotal-role-as-an-ocp-experience-center/",
-      "published_at": "2026-06-02T00:00:00+00:00",
-      "summary": "The RISE ICE (Infrastructure and Cloud Research and Test Environment) Datacenter in Luleå, Sweden, is marking a significant milestone: 10 years of groundbreaking research, collaboration, and innovation in sustainable digital infrastructure. Over the past decade, ICE has evolved from a bold vision into a leading full-scale research facility, shaping the future of data centers through [&#8230;] The post Celebrating a Decade of Innovation: RISE ICE Data Center and Its Pivotal Role as an OCP Experience Center appeared first on Open Compute Project .",
       "author": "OCP Editorial"
     }
   ],
