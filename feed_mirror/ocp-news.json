@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-12T21:34:43.534388+00:00",
-  "next_refresh_at": "2026-10-12T22:04:43.534388+00:00",
+  "fetched_at": "2026-10-13T02:51:11.701636+00:00",
+  "next_refresh_at": "2026-10-13T03:21:11.701636+00:00",
   "entries": [
     {
       "title": "Realizing the OCP Open Data Center Ecosystem Vision",

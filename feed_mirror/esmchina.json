@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-12T21:35:02.546409+00:00",
-  "next_refresh_at": "2026-10-12T22:05:02.546409+00:00",
+  "fetched_at": "2026-10-13T02:51:31.261759+00:00",
+  "next_refresh_at": "2026-10-13T03:21:31.261759+00:00",
   "entries": [
+    {
+      "title": "粤芯半导体登陆创业板，首日大涨275%，市值破千亿",
+      "url": "https://www.esmchina.com/news/14678.html",
+      "published_at": null,
+      "summary": "10月13日，粤芯半导体技术股份有限公司正式在深圳证券交易所创业板挂牌。上市首日，粤芯半导体开盘上涨274.69%，股价报45元/股。按开盘价计算，中一签（500股）浮盈约1.65万元。",
+      "author": null
+    },
     {
       "title": "华为年研发1923亿，专利超16.5万件",
       "url": "https://www.esmchina.com/news/14677.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14652.html",
       "published_at": null,
       "summary": "高盛集团与摩根士丹利将主导本次上市，摩根大通、花旗集团与瑞银集团也已获选加入承销团队。",
-      "author": null
-    },
-    {
-      "title": "三星，日赚59亿元",
-      "url": "https://www.esmchina.com/news/14653.html",
-      "published_at": null,
-      "summary": "三星电子预计2026年第三季度（7-9月）营业利润将达到107.4万亿韩元，同比增幅高达782.5%，这也是该公司营业利润首次突破100万亿韩元关口。",
       "author": null
     }
   ],

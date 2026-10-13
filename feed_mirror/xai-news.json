@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-10-12T21:34:55.540319+00:00",
-  "next_refresh_at": "2026-10-12T22:04:55.540319+00:00",
+  "fetched_at": "2026-10-13T02:51:25.801080+00:00",
+  "next_refresh_at": "2026-10-13T03:21:25.801080+00:00",
   "entries": [
     {
       "title": "Introducing Grok 4.7 | SpaceXSI",
       "url": "https://x.ai/news/grok-4-7",
       "published_at": null,
       "summary": "SpaceXSI",
+      "author": null
+    },
+    {
+      "title": "Introducing The X Subscription | SpaceXSI",
+      "url": "https://x.ai/news/x-subscription",
+      "published_at": null,
+      "summary": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/introducing-google-workspace-addon",
       "published_at": null,
       "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
-      "author": null
-    },
-    {
-      "title": "Workflows in Grok Build | SpaceXSI",
-      "url": "https://x.ai/news/workflows",
-      "published_at": null,
-      "summary": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
       "author": null
     }
   ],
