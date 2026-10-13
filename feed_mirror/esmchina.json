@@ -2,14 +2,28 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-13T02:51:31.261759+00:00",
-  "next_refresh_at": "2026-10-13T03:21:31.261759+00:00",
+  "fetched_at": "2026-10-13T10:10:17.562970+00:00",
+  "next_refresh_at": "2026-10-13T10:40:17.562970+00:00",
   "entries": [
+    {
+      "title": "摆脱外部GPU依赖？微软发布2nm自研AI芯片Maia 300",
+      "url": "https://www.esmchina.com/news/14680.html",
+      "published_at": null,
+      "summary": "在OCP开放计算全球峰会上，微软对外披露了第三代自研AI加速器Azure Maia 300相关规划，这款芯片计划于2027年正式投入生产部署。",
+      "author": null
+    },
+    {
+      "title": "半导体再现整合潮：单日并购破百亿，先进封装与AI芯片成两大焦点",
+      "url": "https://www.esmchina.com/news/14679.html",
+      "published_at": null,
+      "summary": "芯片公司集体买买买，一天砸下百亿美元，他们到底在抢什么？",
+      "author": null
+    },
     {
       "title": "粤芯半导体登陆创业板，首日大涨275%，市值破千亿",
       "url": "https://www.esmchina.com/news/14678.html",
       "published_at": null,
-      "summary": "10月13日，粤芯半导体技术股份有限公司正式在深圳证券交易所创业板挂牌。上市首日，粤芯半导体开盘上涨274.69%，股价报45元/股。按开盘价计算，中一签（500股）浮盈约1.65万元。",
+      "summary": "10月13日，粤芯半导体技术股份有限公司正式在深圳证券交易所创业板挂牌。上市首日，粤芯半导体开盘上涨274.69%，股价报45元/股，市值接近1300亿元。",
       "author": null
     },
     {
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14655.html",
       "published_at": null,
       "summary": "10万张GPU练出的GPT-6，今天推给了12亿人",
-      "author": null
-    },
-    {
-      "title": "高通，买了华为的专利",
-      "url": "https://www.esmchina.com/news/14654.html",
-      "published_at": null,
-      "summary": "华为与高通宣布达成广泛的专利许可协议。",
-      "author": null
-    },
-    {
-      "title": "SK海力士旗下Solidigm敲定赴美IPO承销团，拟募资100亿美元、估值或达1000亿美元",
-      "url": "https://www.esmchina.com/news/14652.html",
-      "published_at": null,
-      "summary": "高盛集团与摩根士丹利将主导本次上市，摩根大通、花旗集团与瑞银集团也已获选加入承销团队。",
       "author": null
     }
   ],
