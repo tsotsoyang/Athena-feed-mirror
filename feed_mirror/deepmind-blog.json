@@ -2,9 +2,23 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-13T10:10:08.250586+00:00",
-  "next_refresh_at": "2026-10-13T10:40:08.250586+00:00",
+  "fetched_at": "2026-10-13T17:43:13.144974+00:00",
+  "next_refresh_at": "2026-10-13T18:13:13.144974+00:00",
   "entries": [
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "published_at": "2026-10-13T16:01:58+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "published_at": "2026-10-13T16:01:52+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
@@ -164,20 +178,6 @@
       "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
       "published_at": "2026-07-22T13:38:54+00:00",
       "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-      "author": null
-    },
-    {
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "published_at": "2026-07-21T15:16:30+00:00",
-      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "author": null
-    },
-    {
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "published_at": "2026-07-17T15:00:11+00:00",
-      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
       "author": null
     }
   ],

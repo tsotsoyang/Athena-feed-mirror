@@ -2,9 +2,16 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-13T10:10:03.695770+00:00",
-  "next_refresh_at": "2026-10-13T10:40:03.695770+00:00",
+  "fetched_at": "2026-10-13T17:43:04.804923+00:00",
+  "next_refresh_at": "2026-10-13T18:13:04.804923+00:00",
   "entries": [
+    {
+      "title": "IDC Raises 2029 Forecast for OCP-Recognized Infrastructure Spending by 2.7x to $800 Billion",
+      "url": "https://www.opencompute.org/news/idc-raises-2029-forecast-for-ocp-recognized-infrastructure-spending-by-2-7x-to-800-billion/",
+      "published_at": "2026-10-13T14:52:06+00:00",
+      "summary": "Annual study commissioned by the Open Compute Project Foundation projects spending will reach $892 billion in 2030 as AI investment and adoption expand The Open Compute Project (OCP) Foundation today announced a sharp increase in IDC’s forecast for worldwide spending on OCP-recognized IT equipment. The 2026 IDC Market Impact Study projects annual spending of approximately [&#8230;] The post IDC Raises 2029 Forecast for OCP-Recognized Infrastructure Spending by 2.7x to $800 Billion appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
     {
       "title": "Realizing the OCP Open Data Center Ecosystem Vision",
       "url": "https://www.opencompute.org/news/realizing-the-ocp-open-data-center-ecosystem-vision/",
@@ -66,13 +73,6 @@
       "url": "https://www.opencompute.org/news/developing-ai-native-automated-virtual-chiplet-eco-systems-shift-left-shift-up-and-shift-out-to-accelerate-chiplet-adoption/",
       "published_at": "2026-07-28T00:00:00+00:00",
       "summary": "Key Takeaways: Attend the panel session on this topic at OCP Global Summit as part of Server &#8211; Open Chiplet Economy track on October 15, 2026 in San Jose, CA. Talk 9060 — “AI-native Virtual Chiplet Eco-systems with industry best practices to accelerate Chiplet adoption”, Raghu Shankar (Entrepreneur), Matt Holdrege (Microchip), Marc Meunier (ARM), Nandan [&#8230;] The post Developing AI-Native Automated Virtual Chiplet Eco-systems: Shift Left, Shift Up, and Shift Out to accelerate Chiplet adoption appeared first on Open Compute Project .",
-      "author": "OCP Editorial"
-    },
-    {
-      "title": "Numana and Open Compute Project Establish Quantum Collaboration",
-      "url": "https://www.opencompute.org/news/numana-and-open-compute-project-establish-quantum-collaboration/",
-      "published_at": "2026-06-11T00:00:00+00:00",
-      "summary": "1st Quantum Communication OCP Experience Center Now Available for Public Research June 11, 2026 – the Open Compute Project Foundation (OCP), the global non-profit organization bringing hyperscale innovations to all and Numana, a non-profit organization that acts as a Macro-accelerator catalyst for technological ecosystems today announced as a part of their collaborations that the quantum [&#8230;] The post Numana and Open Compute Project Establish Quantum Collaboration appeared first on Open Compute Project .",
       "author": "OCP Editorial"
     }
   ],

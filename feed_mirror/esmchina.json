@@ -2,11 +2,11 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-13T10:10:17.562970+00:00",
-  "next_refresh_at": "2026-10-13T10:40:17.562970+00:00",
+  "fetched_at": "2026-10-13T17:43:24.367772+00:00",
+  "next_refresh_at": "2026-10-13T18:13:24.367772+00:00",
   "entries": [
     {
-      "title": "摆脱外部GPU依赖？微软发布2nm自研AI芯片Maia 300",
+      "title": "加速“去英伟达化”？微软发布2nm自研AI芯片Maia 300",
       "url": "https://www.esmchina.com/news/14680.html",
       "published_at": null,
       "summary": "在OCP开放计算全球峰会上，微软对外披露了第三代自研AI加速器Azure Maia 300相关规划，这款芯片计划于2027年正式投入生产部署。",
