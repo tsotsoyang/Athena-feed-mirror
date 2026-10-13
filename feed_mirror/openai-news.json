@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-13T17:43:06.331469+00:00",
-  "next_refresh_at": "2026-10-13T18:13:06.331469+00:00",
+  "fetched_at": "2026-10-13T22:21:20.170475+00:00",
+  "next_refresh_at": "2026-10-13T22:51:20.170475+00:00",
   "entries": [
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "published_at": "2026-10-13T12:00:00+00:00",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "author": null
+    },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "published_at": "2026-09-29T10:00:00+00:00",
       "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "author": null
-    },
-    {
-      "title": "Introducing dots",
-      "url": "https://openai.com/index/introducing-dots",
-      "published_at": "2026-09-29T00:00:00+00:00",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "author": null
     }
   ],
