@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-14T06:31:00.725470+00:00",
-  "next_refresh_at": "2026-10-14T07:01:00.725470+00:00",
+  "fetched_at": "2026-10-14T12:40:34.912227+00:00",
+  "next_refresh_at": "2026-10-14T13:10:34.912227+00:00",
   "entries": [
+    {
+      "title": "多家车企密集发声！比亚迪、吉利、奇瑞齐回应中欧混动共识",
+      "url": "https://www.esmchina.com/news/14685.html",
+      "published_at": null,
+      "summary": "根据中国海关数据，今年上半年，中国对欧盟27个成员国的混动汽车出口额达到75亿美元，为去年同期的三倍、2021年全年出口额的9倍。",
+      "author": null
+    },
+    {
+      "title": "2000万月活救不了自己！AI独角兽Character.AI申请破产保护",
+      "url": "https://www.esmchina.com/news/14684.html",
+      "published_at": null,
+      "summary": "曾经，Character.AI也红极一时。2023年3月，Character.AI宣布完成1.5亿美元，估值为10亿美元。",
+      "author": null
+    },
     {
       "title": "苹果重构智能家居打法：HomeView成中枢，Siri AI绑定身份识别",
       "url": "https://www.esmchina.com/news/14683.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14659.html",
       "published_at": null,
       "summary": "8日，美国总统特朗普在华盛顿特区举办的“科学：新黄金时代”峰会上，正式向六位科技行业领袖颁发了国家科学奖章（National Medal of Science）和国家技术与创新奖章（National Medal of Technology and Innovation），旨在表彰获奖者在推动美国科技创新与产业发展方面做出的杰出贡献。",
-      "author": null
-    },
-    {
-      "title": "Skyworks官宣完成与Qorvo的合并",
-      "url": "https://www.esmchina.com/news/14658.html",
-      "published_at": null,
-      "summary": "Skyworks正式宣布，其与Qorvo的合并交易已顺利完成。这笔交易将两家半导体巨头合二为一，缔造出一家在高性能射频、电源管理以及模拟与混合信号半导体解决方案领域举足轻重的行业新势力。",
-      "author": null
-    },
-    {
-      "title": "1.49万亿！台积电Q3营收碾压预期",
-      "url": "https://www.esmchina.com/news/14657.html",
-      "published_at": null,
-      "summary": "台积电第三季度营收的强劲增长，主要受AI应用需求的持续拉动。",
       "author": null
     }
   ],
