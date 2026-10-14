@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-14T01:20:05.616598+00:00",
-  "next_refresh_at": "2026-10-14T01:50:05.616598+00:00",
+  "fetched_at": "2026-10-14T06:31:00.725470+00:00",
+  "next_refresh_at": "2026-10-14T07:01:00.725470+00:00",
   "entries": [
+    {
+      "title": "苹果重构智能家居打法：HomeView成中枢，Siri AI绑定身份识别",
+      "url": "https://www.esmchina.com/news/14683.html",
+      "published_at": null,
+      "summary": "需要注意的是，中国大陆此次仅上架HomePod mini 2，其他新品均未公布国行销售计划。",
+      "author": null
+    },
     {
       "title": "2026Q3全球智能手机出货同比跌20%，创14年新低",
       "url": "https://www.esmchina.com/news/14682.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14657.html",
       "published_at": null,
       "summary": "台积电第三季度营收的强劲增长，主要受AI应用需求的持续拉动。",
-      "author": null
-    },
-    {
-      "title": "高通起诉Arm：停付5年授权费，强制授权V10架构",
-      "url": "https://www.esmchina.com/news/14656.html",
-      "published_at": null,
-      "summary": "高通技术公司起诉Arm Holdings一案于美国当地时间10月5日在特拉华州地区法院开始为期五天的陪审团审判，案由为合同违约。",
       "author": null
     }
   ],

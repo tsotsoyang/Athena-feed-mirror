@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-14T01:19:56.404333+00:00",
-  "next_refresh_at": "2026-10-14T01:49:56.404333+00:00",
+  "fetched_at": "2026-10-14T06:30:53.187517+00:00",
+  "next_refresh_at": "2026-10-14T07:00:53.187517+00:00",
   "entries": [
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "published_at": "2026-10-14T02:00:14+00:00",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "author": null
+    },
     {
       "title": "Developing Gemini 4 Argon responsibly and safely",
       "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
@@ -170,13 +177,6 @@
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
       "published_at": "2026-07-29T16:02:10+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "published_at": "2026-07-28T13:21:37+00:00",
       "summary": "",
       "author": null
     }

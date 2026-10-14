@@ -2,9 +2,44 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-14T01:19:45.632700+00:00",
-  "next_refresh_at": "2026-10-14T01:49:45.632700+00:00",
+  "fetched_at": "2026-10-14T06:30:42.968318+00:00",
+  "next_refresh_at": "2026-10-14T07:00:42.968318+00:00",
   "entries": [
+    {
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-6/",
+      "published_at": "2026-10-14T01:27:53+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-5/",
+      "published_at": "2026-10-14T01:26:05+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-4/",
+      "published_at": "2026-10-14T01:24:28+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-3/",
+      "published_at": "2026-10-14T01:21:53+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-2/",
+      "published_at": "2026-10-14T01:19:48+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
     {
       "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
       "url": "https://news.skhynix.com/en/research-inside-ep2-1/",
@@ -38,41 +73,6 @@
       "url": "https://news.skhynix.com/en/skhynix-ventures-story-2/",
       "published_at": "2026-10-02T01:08:12+00:00",
       "summary": "▲ SK hynix employees discuss technologies and collaboration opportunities with global partners at the SK hynix Ventures launch event.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
-      "url": "https://news.skhynix.com/en/skhynix-ventures-story-1/",
-      "published_at": "2026-10-02T01:06:29+00:00",
-      "summary": "▲ A scene from SK hynix Ventures Day, held in Silicon Valley in September",
-      "author": "SK hynix"
-    },
-    {
-      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
-      "url": "https://news.skhynix.com/en/skhynix-ventures-story/",
-      "published_at": "2026-10-02T00:59:17+00:00",
-      "summary": "Identifying promising technologies early and investing in them is one challenge. Turning those technologies into businesses is another. That requires assessing what problems a technology can solve, refining it with research and development teams, and evaluating its potential for deployment",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3-2/",
-      "published_at": "2026-10-02T00:00:41+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3-1/",
-      "published_at": "2026-10-02T00:00:29+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3-3/",
-      "published_at": "2026-10-02T00:00:20+00:00",
-      "summary": "",
       "author": "SK hynix"
     }
   ],
