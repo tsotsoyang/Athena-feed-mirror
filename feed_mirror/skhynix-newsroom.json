@@ -2,9 +2,23 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-13T22:21:17.693006+00:00",
-  "next_refresh_at": "2026-10-13T22:51:17.693006+00:00",
+  "fetched_at": "2026-10-14T01:19:45.632700+00:00",
+  "next_refresh_at": "2026-10-14T01:49:45.632700+00:00",
   "entries": [
+    {
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-1/",
+      "published_at": "2026-10-14T01:18:35+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "url": "https://news.skhynix.com/en/research-inside-ep2/",
+      "published_at": "2026-10-14T00:00:04+00:00",
+      "summary": "SK hynix offers a full-stack portfolio of AI memory solutions optimized for AI systems across all major memory categories, including High Bandwidth Memory(HBM), DRAM, and NAND flash. To highlight the research that underpins these solutions as well as the company’s",
+      "author": "SK hynix"
+    },
     {
       "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
       "url": "https://news.skhynix.com/en/skhynix-ventures-story-4/",
@@ -59,20 +73,6 @@
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3-3/",
       "published_at": "2026-10-02T00:00:20+00:00",
       "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep3/",
-      "published_at": "2026-10-01T23:59:03+00:00",
-      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
-      "author": "Onur Mutlu ETH Zurich Professor"
-    },
-    {
-      "title": "Clarification Regarding Recent Media Reports on Solidigm",
-      "url": "https://news.skhynix.com/en/fact-11/",
-      "published_at": "2026-10-01T01:22:33+00:00",
-      "summary": "▪ Regarding Solidigm, no matters have been determined as of the date hereof. ▪ Whether utilizing external or internal capital, any approach must be evaluated not only by its structure, but also by its overall economic impact on existing shareholders.",
       "author": "SK hynix"
     }
   ],

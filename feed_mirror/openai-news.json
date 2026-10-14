@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-13T22:21:20.170475+00:00",
-  "next_refresh_at": "2026-10-13T22:51:20.170475+00:00",
+  "fetched_at": "2026-10-14T01:19:48.132541+00:00",
+  "next_refresh_at": "2026-10-14T01:49:48.132541+00:00",
   "entries": [
     {
       "title": "Higgsfield takes AI video from 1 minute to over 10",

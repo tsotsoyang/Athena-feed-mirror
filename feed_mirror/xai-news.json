@@ -2,14 +2,14 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-10-13T22:21:29.873374+00:00",
-  "next_refresh_at": "2026-10-13T22:51:29.873374+00:00",
+  "fetched_at": "2026-10-14T01:19:58.059806+00:00",
+  "next_refresh_at": "2026-10-14T01:49:58.059806+00:00",
   "entries": [
     {
-      "title": "Grok 4.7 Sep 21, 2026 Introducing Grok 4.7 SpaceXSI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models. [data-slot=icon]]:-mx-0.5 [&amp;>[data-slot=icon]]:size-5 [&amp;>[data-slot=icon]]:shrink-0 [&amp;>[data-slot=icon]]:sm:size-4.5\">Read More",
+      "title": "Introducing Grok 4.7 | SpaceXSI",
       "url": "https://x.ai/news/grok-4-7",
       "published_at": null,
-      "summary": "",
+      "summary": "SpaceXSI",
       "author": null
     },
     {
@@ -20,17 +20,17 @@
       "author": null
     },
     {
-      "title": "Product · Sep 28, 2026 Team Bots: shared AI teammates that learn as they work",
+      "title": "Team Bots: shared AI teammates that learn as they work | SpaceXSI",
       "url": "https://x.ai/news/team-bots",
       "published_at": null,
-      "summary": "",
+      "summary": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
       "author": null
     },
     {
-      "title": "Product · Sep 22, 2026 How SpaceXSI is using Grok Bot to scale customer support",
+      "title": "How SpaceXSI is using Grok Bot to scale customer support | SpaceXSI",
       "url": "https://x.ai/news/grok-bot-customer-support",
       "published_at": null,
-      "summary": "",
+      "summary": "We rebuilt the combined SpaceXSI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
       "author": null
     },
     {
@@ -41,17 +41,17 @@
       "author": null
     },
     {
-      "title": "Memory in Grok Build Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project. Sep 16, 2026",
+      "title": "Memory in Grok Build | SpaceXSI",
       "url": "https://x.ai/news/grok-build-memory",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
       "author": null
     },
     {
-      "title": "Setting Grok Bot loose on procurement We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings. Sep 4, 2026",
+      "title": "Setting Grok Bot loose on procurement | SpaceXSI",
       "url": "https://x.ai/news/grok-bot-procurement",
       "published_at": null,
-      "summary": "",
+      "summary": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
       "author": null
     },
     {
@@ -83,10 +83,10 @@
       "author": null
     },
     {
-      "title": "Grok 4.6 on Microsoft Foundry Grok 4.6 is now available via Microsoft Foundry. Aug 26, 2026",
+      "title": "Grok 4.6 on Microsoft Foundry | SpaceXSI",
       "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.6 is now available via Microsoft Foundry.",
       "author": null
     },
     {
@@ -104,10 +104,10 @@
       "author": null
     },
     {
-      "title": "Grok 4.6 on Amazon Bedrock Grok 4.6 is now available via Amazon Bedrock. Aug 19, 2026",
+      "title": "Grok 4.6 on Amazon Bedrock | SpaceXSI",
       "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
       "published_at": null,
-      "summary": "",
+      "summary": "Grok 4.6 is now available via Amazon Bedrock.",
       "author": null
     },
     {
@@ -160,10 +160,10 @@
       "author": null
     },
     {
-      "title": "Introducing Build Mode Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android. Jul 28, 2026",
+      "title": "Introducing Build Mode | SpaceXSI",
       "url": "https://x.ai/news/grok-build-mode",
       "published_at": null,
-      "summary": "",
+      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
       "author": null
     },
     {
@@ -174,10 +174,10 @@
       "author": null
     },
     {
-      "title": "Grok in Google Workspace Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs. Jul 24, 2026",
+      "title": "Grok in Google Workspace | SpaceXSI",
       "url": "https://x.ai/news/introducing-google-workspace-addon",
       "published_at": null,
-      "summary": "",
+      "summary": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
       "author": null
     }
   ],

@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-13T22:21:37.413264+00:00",
-  "next_refresh_at": "2026-10-13T22:51:37.413264+00:00",
+  "fetched_at": "2026-10-14T01:20:05.616598+00:00",
+  "next_refresh_at": "2026-10-14T01:50:05.616598+00:00",
   "entries": [
+    {
+      "title": "2026Q3全球智能手机出货同比跌20%，创14年新低",
+      "url": "https://www.esmchina.com/news/14682.html",
+      "published_at": null,
+      "summary": "14年最冷Q3：全球智能手机出货同比跌20%，平均售价反涨20%",
+      "author": null
+    },
     {
       "title": "加速“去英伟达化”？微软发布2nm自研AI芯片Maia 300",
       "url": "https://www.esmchina.com/news/14680.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14656.html",
       "published_at": null,
       "summary": "高通技术公司起诉Arm Holdings一案于美国当地时间10月5日在特拉华州地区法院开始为期五天的陪审团审判，案由为合同违约。",
-      "author": null
-    },
-    {
-      "title": "GPT-6全量上线：训练动用超10万张GPU，API价格下调50%",
-      "url": "https://www.esmchina.com/news/14655.html",
-      "published_at": null,
-      "summary": "10万张GPU练出的GPT-6，今天推给了12亿人",
       "author": null
     }
   ],
