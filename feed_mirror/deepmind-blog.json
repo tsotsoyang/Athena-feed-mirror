@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-14T17:48:33.509938+00:00",
-  "next_refresh_at": "2026-10-14T18:18:33.509938+00:00",
+  "fetched_at": "2026-10-14T21:19:51.835276+00:00",
+  "next_refresh_at": "2026-10-14T21:49:51.835276+00:00",
   "entries": [
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
