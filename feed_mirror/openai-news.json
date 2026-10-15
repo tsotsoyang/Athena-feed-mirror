@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-14T21:19:43.301182+00:00",
-  "next_refresh_at": "2026-10-14T21:49:43.301182+00:00",
+  "fetched_at": "2026-10-15T00:00:20.627820+00:00",
+  "next_refresh_at": "2026-10-15T00:30:20.627820+00:00",
   "entries": [
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -24,6 +24,13 @@
       "url": "https://openai.com/index/third-moment-research",
       "published_at": "2026-10-14T07:00:00+00:00",
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "author": null
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "published_at": "2026-10-01T16:00:00+00:00",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "author": null
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "published_at": "2026-10-01T00:00:00+00:00",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "author": null
     }
   ],

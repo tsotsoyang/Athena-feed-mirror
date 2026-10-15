@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-14T21:19:40.854151+00:00",
-  "next_refresh_at": "2026-10-14T21:49:40.854151+00:00",
+  "fetched_at": "2026-10-15T00:00:18.826038+00:00",
+  "next_refresh_at": "2026-10-15T00:30:18.826038+00:00",
   "entries": [
     {
       "title": "IDC Raises 2029 Forecast for OCP-Recognized Infrastructure Spending by 2.7x to $800 Billion",
