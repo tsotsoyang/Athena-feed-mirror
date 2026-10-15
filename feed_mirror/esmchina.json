@@ -2,9 +2,44 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-15T00:00:34.876171+00:00",
-  "next_refresh_at": "2026-10-15T00:30:34.876171+00:00",
+  "fetched_at": "2026-10-15T04:59:46.300033+00:00",
+  "next_refresh_at": "2026-10-15T05:29:46.300033+00:00",
   "entries": [
+    {
+      "title": "需求快于产能释放，半导体产业链最新动向与观察节点",
+      "url": "https://www.esmchina.com/news/14689.html",
+      "published_at": null,
+      "summary": "需求追着产能跑，四组信号看懂半导体供应链现状。",
+      "author": null
+    },
+    {
+      "title": "AI智能眼镜的芯片突围战",
+      "url": "https://www.esmchina.com/news/14563.html",
+      "published_at": null,
+      "summary": "中国AI眼镜发展如火如荼，但终端消费市场为何“叫好不叫座”？",
+      "author": null
+    },
+    {
+      "title": "ASML三季度净销售额117亿欧元创单季新高，客户订单已谈至2029至2030年",
+      "url": "https://www.esmchina.com/news/14688.html",
+      "published_at": null,
+      "summary": "第三季度共售出全新光刻系统113台、二手光刻系统8台。",
+      "author": null
+    },
+    {
+      "title": "英特尔以色列工厂突发爆炸：危化品泄漏，3人重伤",
+      "url": "https://www.esmchina.com/news/14687.html",
+      "published_at": null,
+      "summary": "当地时间10月14日下午，美国芯片制造商英特尔位于以色列南部基里亚特加特拉宾工业园区的晶圆工厂发生爆炸，造成3名工人受伤，并引发厂区危险物质泄漏。",
+      "author": null
+    },
+    {
+      "title": "90%国产化率，国产EUV光源系统样机首次公开亮相",
+      "url": "https://www.esmchina.com/news/14686.html",
+      "published_at": null,
+      "summary": "国产EUV光源系统样机近日亮相，其国产化率达90%，验证了技术路线可行性。不过该样机目前仍处于工程验证阶段，距离商用量产仍需3-5年。",
+      "author": null
+    },
     {
       "title": "多家车企密集发声！比亚迪、吉利、奇瑞齐回应中欧混动共识",
       "url": "https://www.esmchina.com/news/14685.html",
@@ -143,41 +178,6 @@
       "url": "https://www.esmchina.com/preview/14664.html",
       "published_at": null,
       "summary": "1",
-      "author": null
-    },
-    {
-      "title": "Ternus上任首秀：苹果10月双场发布会，智能家居先炸场",
-      "url": "https://www.esmchina.com/news/14663.html",
-      "published_at": null,
-      "summary": "这两场发布均发生在John Ternus接任首席执行官之后。",
-      "author": null
-    },
-    {
-      "title": "英伟达再下重注！未来五年投入10亿美元",
-      "url": "https://www.esmchina.com/news/14662.html",
-      "published_at": null,
-      "summary": "押注美国“超级智能”科研。",
-      "author": null
-    },
-    {
-      "title": "传三星LSI将撤出车载AP赛道",
-      "url": "https://www.esmchina.com/news/14661.html",
-      "published_at": null,
-      "summary": "“拿下订单”和“赢回下一代”是两件截然不同的事。",
-      "author": null
-    },
-    {
-      "title": "安森美年内第二轮涨价10月10日生效，AI数据中心从“成本转嫁”变“价值升级”",
-      "url": "https://www.esmchina.com/news/14660.html",
-      "published_at": null,
-      "summary": "安森美明日起正式涨价，覆盖范围比上半年更广",
-      "author": null
-    },
-    {
-      "title": "特朗普向黄仁勋、马斯克等六位科技领袖颁发国家科学奖章",
-      "url": "https://www.esmchina.com/news/14659.html",
-      "published_at": null,
-      "summary": "8日，美国总统特朗普在华盛顿特区举办的“科学：新黄金时代”峰会上，正式向六位科技行业领袖颁发了国家科学奖章（National Medal of Science）和国家技术与创新奖章（National Medal of Technology and Innovation），旨在表彰获奖者在推动美国科技创新与产业发展方面做出的杰出贡献。",
       "author": null
     }
   ],
