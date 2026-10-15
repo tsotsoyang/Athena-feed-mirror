@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-15T04:59:46.300033+00:00",
-  "next_refresh_at": "2026-10-15T05:29:46.300033+00:00",
+  "fetched_at": "2026-10-15T09:45:54.867119+00:00",
+  "next_refresh_at": "2026-10-15T10:15:54.867119+00:00",
   "entries": [
+    {
+      "title": "迪拜D33议程下的中企机遇：AI、未来出行与韧性供应链",
+      "url": "https://www.esmchina.com/news/14692.html",
+      "published_at": null,
+      "summary": "本届论坛超过三分之二的议程围绕人工智能展开，而随团来华的逾百名迪拜政企代表，创下了迪拜商会参与国际活动以来的最大代表团规模。",
+      "author": null
+    },
+    {
+      "title": "判了！Arm向高通支付2美元象征性赔偿",
+      "url": "https://www.esmchina.com/news/14690.html",
+      "published_at": null,
+      "summary": "这一结果与此前高通寻求的数十亿美元赔偿形成巨大反差。",
+      "author": null
+    },
     {
       "title": "需求快于产能释放，半导体产业链最新动向与观察节点",
       "url": "https://www.esmchina.com/news/14689.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14666.html",
       "published_at": null,
       "summary": "Counterpoint Research最新发布的晶圆代工供应追踪报告显示，2026年第二季度全球晶圆代工2.0市场营收达到966亿美元，同比增长25%，增速较上一季度进一步加快。",
-      "author": null
-    },
-    {
-      "title": "全固态电池2030年初步规模化，政策主线转向全链条创新",
-      "url": "https://www.esmchina.com/news/14665.html",
-      "published_at": null,
-      "summary": "“制造+回收+应用+服务”的网状产业生态。",
-      "author": null
-    },
-    {
-      "title": "1",
-      "url": "https://www.esmchina.com/preview/14664.html",
-      "published_at": null,
-      "summary": "1",
       "author": null
     }
   ],
