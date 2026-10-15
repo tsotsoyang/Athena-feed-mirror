@@ -2,9 +2,16 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-15T14:41:35.885008+00:00",
-  "next_refresh_at": "2026-10-15T15:11:35.885008+00:00",
+  "fetched_at": "2026-10-15T18:53:37.580650+00:00",
+  "next_refresh_at": "2026-10-15T19:23:37.580650+00:00",
   "entries": [
+    {
+      "title": "New Study Finds Open Compute Project Delivers Up to 150x ROI and Accelerates Data Center Deployment by 15%",
+      "url": "https://www.opencompute.org/news/new-study-finds-open-compute-project-delivers-up-to-150x-roi-and-accelerates-data-center-deployment-by-15/",
+      "published_at": "2026-10-15T17:52:36+00:00",
+      "summary": "The Open Compute Project (OCP) Foundation today announced the results of a comprehensive end-user value study, revealing that participation in the OCP Community delivers significant economic, operational, and strategic benefits across the global data center ecosystem. The study was based on more than 170 industry interviews and 450 survey responses, shows that OCP enables organizations [&#8230;] The post New Study Finds Open Compute Project Delivers Up to 150x ROI and Accelerates Data Center Deployment by 15% appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
     {
       "title": "IDC Raises 2029 Forecast for OCP-Recognized Infrastructure Spending by 2.7x to $800 Billion",
       "url": "https://www.opencompute.org/news/idc-raises-2029-forecast-for-ocp-recognized-infrastructure-spending-by-2-7x-to-800-billion/",
@@ -66,13 +73,6 @@
       "url": "https://www.opencompute.org/news/powering-the-next-era-of-ai-how-google-microsoft-and-nvidia-are-standardizing-and-accelerating-the-industry-transition-to-lvdc/",
       "published_at": "2026-08-11T00:00:00+00:00",
       "summary": "Three of the world’s largest AI infrastructure builders are collaborating within OCP to establish 800 VDC as the open, standardized power architecture for next-generation AI data centers and to make sure the entire industry can adopt it safely, at scale. A Shared Problem Demands a Shared Standard AI infrastructure is entering a new power era. [&#8230;] The post Powering the Next Era of AI: How Google, Microsoft and Nvidia Are Standardizing and Accelerating the Industry Transition to LVDC appeared first on Open Compute Project .",
-      "author": "OCP Editorial"
-    },
-    {
-      "title": "Developing AI-Native Automated Virtual Chiplet Eco-systems: Shift Left, Shift Up, and Shift Out to accelerate Chiplet adoption",
-      "url": "https://www.opencompute.org/news/developing-ai-native-automated-virtual-chiplet-eco-systems-shift-left-shift-up-and-shift-out-to-accelerate-chiplet-adoption/",
-      "published_at": "2026-07-28T00:00:00+00:00",
-      "summary": "Key Takeaways: Attend the panel session on this topic at OCP Global Summit as part of Server &#8211; Open Chiplet Economy track on October 15, 2026 in San Jose, CA. Talk 9060 — “AI-native Virtual Chiplet Eco-systems with industry best practices to accelerate Chiplet adoption”, Raghu Shankar (Entrepreneur), Matt Holdrege (Microchip), Marc Meunier (ARM), Nandan [&#8230;] The post Developing AI-Native Automated Virtual Chiplet Eco-systems: Shift Left, Shift Up, and Shift Out to accelerate Chiplet adoption appeared first on Open Compute Project .",
       "author": "OCP Editorial"
     }
   ],

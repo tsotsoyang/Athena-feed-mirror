@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-15T14:41:42.504292+00:00",
-  "next_refresh_at": "2026-10-15T15:11:42.504292+00:00",
+  "fetched_at": "2026-10-15T18:53:44.146411+00:00",
+  "next_refresh_at": "2026-10-15T19:23:44.146411+00:00",
   "entries": [
+    {
+      "title": "Introducing Timestral",
+      "url": "https://mistral.ai/news/timestral/",
+      "published_at": "2026-10-15T12:00:00+00:00",
+      "summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+      "author": null
+    },
     {
       "title": "Introducing Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/",
@@ -171,13 +178,6 @@
       "url": "https://mistral.ai/news/workflows/",
       "published_at": "2026-04-27T12:00:23+00:00",
       "summary": "Workflows is now in public preview.",
-      "author": null
-    },
-    {
-      "title": "Spaces: A CLI Built for Humans and Agents",
-      "url": "https://mistral.ai/news/spaces/",
-      "published_at": "2026-03-31T12:00:00+00:00",
-      "summary": "",
       "author": null
     }
   ],
