@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-15T18:53:40.131061+00:00",
-  "next_refresh_at": "2026-10-15T19:23:40.131061+00:00",
+  "fetched_at": "2026-10-15T21:57:44.984719+00:00",
+  "next_refresh_at": "2026-10-15T22:27:44.984719+00:00",
   "entries": [
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published_at": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "author": null
+    },
     {
       "title": "Teaching students to think and learn through questions",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
@@ -55,17 +62,17 @@
       "author": null
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "author": null
-    },
-    {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
       "published_at": "2026-10-09T07:00:00+00:00",
       "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "author": null
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/chatham-financial",
       "published_at": "2026-10-02T00:00:00+00:00",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "author": null
-    },
-    {
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "published_at": "2026-10-01T17:00:00+00:00",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "author": null
     }
   ],
