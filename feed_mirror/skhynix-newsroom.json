@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-15T09:45:35.757909+00:00",
-  "next_refresh_at": "2026-10-15T10:15:35.757909+00:00",
+  "fetched_at": "2026-10-15T14:41:35.557909+00:00",
+  "next_refresh_at": "2026-10-15T15:11:35.557909+00:00",
   "entries": [
     {
       "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
