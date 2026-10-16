@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-15T21:57:44.984719+00:00",
-  "next_refresh_at": "2026-10-15T22:27:44.984719+00:00",
+  "fetched_at": "2026-10-16T00:12:11.039934+00:00",
+  "next_refresh_at": "2026-10-16T00:42:11.039934+00:00",
   "entries": [
     {
       "title": "Bringing GPT-Rosalind to academic research labs",

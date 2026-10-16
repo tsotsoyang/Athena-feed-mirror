@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-15T21:57:42.960440+00:00",
-  "next_refresh_at": "2026-10-15T22:27:42.960440+00:00",
+  "fetched_at": "2026-10-16T00:12:08.783594+00:00",
+  "next_refresh_at": "2026-10-16T00:42:08.783594+00:00",
   "entries": [
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026/",
+      "published_at": "2026-10-16T00:00:16+00:00",
+      "summary": "As the volume of data handled by AI grows explosively, data bottlenecks have emerged as a new challenge. Can next-generation memory technology offer the solution? There is now an opportunity to hear SK hynix’s answer to this question. SK hynix",
+      "author": "SK hynix"
+    },
     {
       "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
       "url": "https://news.skhynix.com/en/research-inside-ep2-6/",
@@ -65,13 +72,6 @@
       "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
       "url": "https://news.skhynix.com/en/skhynix-ventures-story-3/",
       "published_at": "2026-10-02T01:09:32+00:00",
-      "summary": "▲ SK hynix employees discuss technologies and collaboration opportunities with global partners at the SK hynix Ventures launch event.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
-      "url": "https://news.skhynix.com/en/skhynix-ventures-story-2/",
-      "published_at": "2026-10-02T01:08:12+00:00",
       "summary": "▲ SK hynix employees discuss technologies and collaboration opportunities with global partners at the SK hynix Ventures launch event.",
       "author": "SK hynix"
     }
