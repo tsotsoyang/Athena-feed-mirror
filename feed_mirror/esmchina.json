@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-16T00:12:27.833482+00:00",
-  "next_refresh_at": "2026-10-16T00:42:27.833482+00:00",
+  "fetched_at": "2026-10-16T04:49:44.092594+00:00",
+  "next_refresh_at": "2026-10-16T05:19:44.092594+00:00",
   "entries": [
+    {
+      "title": "深圳华强前三季度净利预增60%-90%，存储产品线出货额大幅增长",
+      "url": "https://www.esmchina.com/news/14696.html",
+      "published_at": null,
+      "summary": "净利同比+60%至90%！这家本土分销巨头公布前三季业绩预告",
+      "author": null
+    },
+    {
+      "title": "江波龙Q3单季净利环比回落超三成，存储涨价红利开始收敛",
+      "url": "https://www.esmchina.com/news/14695.html",
+      "published_at": null,
+      "summary": "这家存储模组大厂Q3净利环比回落超三成，存储涨价红利收窄了？",
+      "author": null
+    },
+    {
+      "title": "罚1.72亿元！OLED显示面板企业清越科技被查实欺诈发行、财务造假",
+      "url": "https://www.esmchina.com/news/14694.html",
+      "published_at": null,
+      "summary": "锁定退市，百亿市值灰飞烟灭。",
+      "author": null
+    },
     {
       "title": "迪拜D33议程下的中企机遇：AI、未来出行与韧性供应链",
       "url": "https://www.esmchina.com/news/14692.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14669.html",
       "published_at": null,
       "summary": "“六个月前，我们以为增长停滞了，然后订单爆炸。”",
-      "author": null
-    },
-    {
-      "title": "产能售罄到2029年，FCC限制传闻发酵：全球光模块到底卡在哪里？",
-      "url": "https://www.esmchina.com/news/14668.html",
-      "published_at": null,
-      "summary": "光通信产业链正在同时面对两股力量：一边是AI数据中心拉动的高速光器件需求持续超预期，另一边是关于美国潜在监管规则的远期担忧。前者已经体现在订单和产能上，后者仍停留在政策",
-      "author": null
-    },
-    {
-      "title": "苹果也受不了内存太贵，传iPhone 18 Pro系列10月减单15%",
-      "url": "https://www.esmchina.com/news/14667.html",
-      "published_at": null,
-      "summary": "此次传出iPhone 18 Pro系列减产的主要原因在于数个季度以来BOM的持续提升。",
-      "author": null
-    },
-    {
-      "title": "AI算力需求外溢，全球晶圆代工单季营收966亿美元",
-      "url": "https://www.esmchina.com/news/14666.html",
-      "published_at": null,
-      "summary": "Counterpoint Research最新发布的晶圆代工供应追踪报告显示，2026年第二季度全球晶圆代工2.0市场营收达到966亿美元，同比增长25%，增速较上一季度进一步加快。",
       "author": null
     }
   ],
