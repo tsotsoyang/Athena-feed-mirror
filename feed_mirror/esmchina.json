@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-16T09:31:25.495115+00:00",
-  "next_refresh_at": "2026-10-16T10:01:25.495115+00:00",
+  "fetched_at": "2026-10-16T14:34:49.031561+00:00",
+  "next_refresh_at": "2026-10-16T15:04:49.031561+00:00",
   "entries": [
+    {
+      "title": "理想芯片子公司马赫心首轮融资16.25亿元，最高估值171亿",
+      "url": "https://www.esmchina.com/news/14699.html",
+      "published_at": null,
+      "summary": "理想汽车宣布，旗下芯片及域控制器平台上海马赫心科技有限公司已签署首轮股权融资协议，融资金额达16.25亿元人民币。",
+      "author": null
+    },
     {
       "title": "苹果与Meta破冰合作：“爸妈和好”，AI逼的",
       "url": "https://www.esmchina.com/news/14698.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14671.html",
       "published_at": null,
       "summary": "值得一提的是，Vicor的专利主张对象是全球范围内的垂直供电产品供应商，并非专门针对中国企业。",
-      "author": null
-    },
-    {
-      "title": "Synaptics并购案再起波澜，Cirrus Logic加入竞购",
-      "url": "https://www.esmchina.com/news/14672.html",
-      "published_at": null,
-      "summary": "Cirrus Logic上月向Synaptics发出过一项未经请求的收购要约，试图搅局安森美半导体对Synaptics的并购交易。",
       "author": null
     }
   ],
