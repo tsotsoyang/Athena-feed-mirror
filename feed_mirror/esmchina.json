@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-16T04:49:44.092594+00:00",
-  "next_refresh_at": "2026-10-16T05:19:44.092594+00:00",
+  "fetched_at": "2026-10-16T09:31:25.495115+00:00",
+  "next_refresh_at": "2026-10-16T10:01:25.495115+00:00",
   "entries": [
+    {
+      "title": "苹果与Meta破冰合作：“爸妈和好”，AI逼的",
+      "url": "https://www.esmchina.com/news/14698.html",
+      "published_at": null,
+      "summary": "苹果与Meta之间长期处于对立状态。",
+      "author": null
+    },
+    {
+      "title": "“我们愿意往前走一步”——安富利以工程实力推动AI从云端走向物理世界",
+      "url": "https://www.esmchina.com/news/14697.html",
+      "published_at": null,
+      "summary": "“安富利将紧跟时代发展趋势，同客户一起推进业务发展。”",
+      "author": null
+    },
     {
       "title": "深圳华强前三季度净利预增60%-90%，存储产品线出货额大幅增长",
       "url": "https://www.esmchina.com/news/14696.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14672.html",
       "published_at": null,
       "summary": "Cirrus Logic上月向Synaptics发出过一项未经请求的收购要约，试图搅局安森美半导体对Synaptics的并购交易。",
-      "author": null
-    },
-    {
-      "title": "美国ITC发起337调查，立讯、富士康、台达被卷入",
-      "url": "https://www.esmchina.com/news/14670.html",
-      "published_at": null,
-      "summary": "10月9日，美国国际贸易委员会投票决定对特定垂直电力传输系统、其组件及含有该系统的计算系统启动337调查，案号337-TA-1526。",
-      "author": null
-    },
-    {
-      "title": "ASML对韩国光刻机备件统一涨价10%，三星和SK海力士已点头",
-      "url": "https://www.esmchina.com/news/14669.html",
-      "published_at": null,
-      "summary": "“六个月前，我们以为增长停滞了，然后订单爆炸。”",
       "author": null
     }
   ],
