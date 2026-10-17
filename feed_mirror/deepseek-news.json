@@ -2,14 +2,14 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-10-17T09:01:51.635993+00:00",
-  "next_refresh_at": "2026-10-17T09:31:51.635993+00:00",
+  "fetched_at": "2026-10-17T13:05:34.269574+00:00",
+  "next_refresh_at": "2026-10-17T13:35:34.269574+00:00",
   "entries": [
     {
-      "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient | DeepSeek API Docs",
-      "url": "https://api-docs.deepseek.com/news/news260910",
+      "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/news/news261017",
       "published_at": null,
-      "summary": "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.",
+      "summary": "🚀 DeepSeek-V4.1-Flash-1017 is here!",
       "author": null
     }
   ],
