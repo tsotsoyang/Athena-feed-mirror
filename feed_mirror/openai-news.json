@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-17T19:02:34.455953+00:00",
-  "next_refresh_at": "2026-10-17T19:32:34.455953+00:00",
+  "fetched_at": "2026-10-17T21:36:22.558253+00:00",
+  "next_refresh_at": "2026-10-17T22:06:22.558253+00:00",
   "entries": [
     {
       "title": "How Itaú is building generative AI for its entire customer base",
