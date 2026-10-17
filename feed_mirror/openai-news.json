@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-17T04:49:52.611434+00:00",
-  "next_refresh_at": "2026-10-17T05:19:52.611434+00:00",
+  "fetched_at": "2026-10-17T09:01:48.071869+00:00",
+  "next_refresh_at": "2026-10-17T09:31:48.071869+00:00",
   "entries": [
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -17,6 +17,13 @@
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "published_at": "2026-10-16T00:00:00+00:00",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "author": null
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/atlassian-partnership",
       "published_at": "2026-10-06T16:00:00+00:00",
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "author": null
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "published_at": "2026-10-05T15:00:00+00:00",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
       "author": null
     }
   ],
