@@ -2,8 +2,8 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-10-16T21:55:45.627654+00:00",
-  "next_refresh_at": "2026-10-16T22:25:45.627654+00:00",
+  "fetched_at": "2026-10-17T00:11:32.011734+00:00",
+  "next_refresh_at": "2026-10-17T00:41:32.011734+00:00",
   "entries": [
     {
       "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient | DeepSeek API Docs",

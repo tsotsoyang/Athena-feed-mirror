@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-16T21:55:42.452047+00:00",
-  "next_refresh_at": "2026-10-16T22:25:42.452047+00:00",
+  "fetched_at": "2026-10-17T00:11:28.659915+00:00",
+  "next_refresh_at": "2026-10-17T00:41:28.659915+00:00",
   "entries": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "published_at": "2026-10-16T19:00:00+00:00",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "author": null
+    },
     {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/eu-text-provenance",
       "published_at": "2026-10-05T15:00:00+00:00",
       "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "author": null
-    },
-    {
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "author": null
     }
   ],
