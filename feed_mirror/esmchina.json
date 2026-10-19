@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-18T23:31:15.374206+00:00",
-  "next_refresh_at": "2026-10-19T00:01:15.374206+00:00",
+  "fetched_at": "2026-10-19T03:33:05.918109+00:00",
+  "next_refresh_at": "2026-10-19T04:03:05.918109+00:00",
   "entries": [
+    {
+      "title": "13.12亿股全冻结、82亿股轮候：三安光电控股股东被申请破产重整",
+      "url": "https://www.esmchina.com/news/14701.html",
+      "published_at": null,
+      "summary": "LED龙头三安光电控股股东全部股份被轮候冻结，同日被债权人申请破产重整。",
+      "author": null
+    },
+    {
+      "title": "中国拟新增40项技术出口管制：AI、生物医药、光伏入列",
+      "url": "https://www.esmchina.com/news/14700.html",
+      "published_at": null,
+      "summary": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》，将人工智能、生物医药、光伏三大领域共40项关键技术纳入禁止或限制出口范围，并同步实施出口前登记管理。",
+      "author": null
+    },
     {
       "title": "理想芯片子公司马赫心首轮融资16.25亿元，最高估值171亿",
       "url": "https://www.esmchina.com/news/14699.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14674.html",
       "published_at": null,
       "summary": "作为美国消费级Wi-Fi路由器市场份额头部厂商，TP-Link正遭遇来自美国多个州检察长的协同法律攻势。",
-      "author": null
-    },
-    {
-      "title": "英伟达正洽谈收购Reflection AI，后者估值一年翻45倍至250亿美元",
-      "url": "https://www.esmchina.com/news/14673.html",
-      "published_at": null,
-      "summary": "一年估值翻45倍！英伟达计划“吞下”这家美版DeepSeek公司",
-      "author": null
-    },
-    {
-      "title": "立讯精密、工业富联双双回应美国337调查：不影响当期业绩",
-      "url": "https://www.esmchina.com/news/14671.html",
-      "published_at": null,
-      "summary": "值得一提的是，Vicor的专利主张对象是全球范围内的垂直供电产品供应商，并非专门针对中国企业。",
       "author": null
     }
   ],
