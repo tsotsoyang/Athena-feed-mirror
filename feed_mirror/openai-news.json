@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-19T03:32:49.635001+00:00",
-  "next_refresh_at": "2026-10-19T04:02:49.635001+00:00",
+  "fetched_at": "2026-10-19T09:38:23.698541+00:00",
+  "next_refresh_at": "2026-10-19T10:08:23.698541+00:00",
   "entries": [
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -90,17 +90,17 @@
       "author": null
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "author": null
-    },
-    {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "url": "https://openai.com/index/asana-browser-agent",
       "published_at": "2026-10-09T07:00:00+00:00",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "author": null
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "author": null
     },
     {
