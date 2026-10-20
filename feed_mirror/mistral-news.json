@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-19T21:20:53.896009+00:00",
-  "next_refresh_at": "2026-10-19T21:50:53.896009+00:00",
+  "fetched_at": "2026-10-20T00:30:58.047062+00:00",
+  "next_refresh_at": "2026-10-20T01:00:58.047062+00:00",
   "entries": [
     {
       "title": "Introducing Timestral",

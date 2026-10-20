@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-19T21:20:57.280049+00:00",
-  "next_refresh_at": "2026-10-19T21:50:57.280049+00:00",
+  "fetched_at": "2026-10-20T00:31:01.761405+00:00",
+  "next_refresh_at": "2026-10-20T01:01:01.761405+00:00",
   "entries": [
     {
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
