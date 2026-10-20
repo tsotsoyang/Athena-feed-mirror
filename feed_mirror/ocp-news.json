@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-20T00:30:51.505448+00:00",
-  "next_refresh_at": "2026-10-20T01:00:51.505448+00:00",
+  "fetched_at": "2026-10-20T05:41:54.063429+00:00",
+  "next_refresh_at": "2026-10-20T06:11:54.063429+00:00",
   "entries": [
     {
       "title": "New Study Finds Open Compute Project Delivers Up to 150x ROI and Accelerates Data Center Deployment by 15%",

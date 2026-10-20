@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-20T00:31:03.835044+00:00",
-  "next_refresh_at": "2026-10-20T01:01:03.835044+00:00",
+  "fetched_at": "2026-10-20T05:42:10.278556+00:00",
+  "next_refresh_at": "2026-10-20T06:12:10.278556+00:00",
   "entries": [
+    {
+      "title": "同比降10%！中国智能手机Q3出货量创14年以来新低",
+      "url": "https://www.esmchina.com/news/14705.html",
+      "published_at": null,
+      "summary": "根据Counterpoint Research市场监测服务初步数据，2026年第三季度中国智能手机出货量同比下降10%，创下自2012年以来第三季度的最低水平。",
+      "author": null
+    },
+    {
+      "title": "中国，无人机出口管制再升级",
+      "url": "https://www.esmchina.com/news/14704.html",
+      "published_at": null,
+      "summary": "10月19日，商务部、海关总署、中央军委装备发展部联合发布2026年第49号公告，公布优化调整无人机相关物项出口管制措施的决定。",
+      "author": null
+    },
+    {
+      "title": "一边求豁免一边破10万：美中机器人产业加速分化",
+      "url": "https://www.esmchina.com/news/14703.html",
+      "published_at": null,
+      "summary": "今年上半年，中国人形机器人整机产品突破400款，产量超4万台，预计全年将突破10万台。",
+      "author": null
+    },
     {
       "title": "​​​​​​​2028，CPO供应链准备好了吗？",
       "url": "https://www.esmchina.com/news/14693.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14680.html",
       "published_at": null,
       "summary": "在OCP开放计算全球峰会上，微软对外披露了第三代自研AI加速器Azure Maia 300相关规划，这款芯片计划于2027年正式投入生产部署。",
-      "author": null
-    },
-    {
-      "title": "半导体再现整合潮：单日并购破百亿，先进封装与AI芯片成两大焦点",
-      "url": "https://www.esmchina.com/news/14679.html",
-      "published_at": null,
-      "summary": "芯片公司集体买买买，一天砸下百亿美元，他们到底在抢什么？",
-      "author": null
-    },
-    {
-      "title": "粤芯半导体登陆创业板，首日大涨275%，市值破千亿",
-      "url": "https://www.esmchina.com/news/14678.html",
-      "published_at": null,
-      "summary": "10月13日，粤芯半导体技术股份有限公司正式在深圳证券交易所创业板挂牌。上市首日，粤芯半导体开盘上涨274.69%，股价报45元/股，市值接近1300亿元。",
-      "author": null
-    },
-    {
-      "title": "华为年研发1923亿，专利超16.5万件",
-      "url": "https://www.esmchina.com/news/14677.html",
-      "published_at": null,
-      "summary": "华为是全球最大的专利持有企业之一。",
       "author": null
     }
   ],
