@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-20T19:50:53.435613+00:00",
-  "next_refresh_at": "2026-10-20T20:20:53.435613+00:00",
+  "fetched_at": "2026-10-20T22:57:26.889137+00:00",
+  "next_refresh_at": "2026-10-20T23:27:26.889137+00:00",
   "entries": [
     {
       "title": "Voxtral 3",
