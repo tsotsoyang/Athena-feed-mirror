@@ -2,9 +2,16 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-20T15:36:56.755265+00:00",
-  "next_refresh_at": "2026-10-20T16:06:56.755265+00:00",
+  "fetched_at": "2026-10-20T19:50:49.631056+00:00",
+  "next_refresh_at": "2026-10-20T20:20:49.631056+00:00",
   "entries": [
+    {
+      "title": "2026 OCP Global Summit By the Numbers",
+      "url": "https://www.opencompute.org/news/2026-ocp-global-summit-by-the-numbers/",
+      "published_at": "2026-10-20T18:38:49+00:00",
+      "summary": "2026 OCP Global Summit: Record Growth, Open Innovation and the Future of AI Infrastructure The 2026 OCP Global Summit brought 15,000 attendees to San Jose, California, October 12–15 — a 38% increase over the 10,835 who attended in 2025. With a sold out event, it was the largest Global Summit in the Open Compute Project&#8217;s [&#8230;] The post 2026 OCP Global Summit By the Numbers appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
     {
       "title": "New Study Finds Open Compute Project Delivers Up to 150x ROI and Accelerates Data Center Deployment by 15%",
       "url": "https://www.opencompute.org/news/new-study-finds-open-compute-project-delivers-up-to-150x-roi-and-accelerates-data-center-deployment-by-15/",
@@ -66,13 +73,6 @@
       "url": "https://www.opencompute.org/news/2026-ocp-apac-summit-by-the-numbers/",
       "published_at": "2026-08-27T20:00:00+00:00",
       "summary": "The 2026 OCP APAC Summit brought nearly 2,500 attendees of the global OCP Community together at TaiNEX2 in Taipei City, Taiwan, on August 11–12, making this year&#8217;s gathering a tremendous success and demonstrating the continued growth and importance of the OCP Community across the Asia Pacific region. Thank you to our Members, Sponsors, Partners, Volunteers, [&#8230;] The post 2026 OCP APAC Summit: By the Numbers appeared first on Open Compute Project .",
-      "author": "OCP Editorial"
-    },
-    {
-      "title": "Powering the Next Era of AI: How Google, Microsoft and Nvidia Are Standardizing and Accelerating the Industry Transition to LVDC",
-      "url": "https://www.opencompute.org/news/powering-the-next-era-of-ai-how-google-microsoft-and-nvidia-are-standardizing-and-accelerating-the-industry-transition-to-lvdc/",
-      "published_at": "2026-08-11T00:00:00+00:00",
-      "summary": "Three of the world’s largest AI infrastructure builders are collaborating within OCP to establish 800 VDC as the open, standardized power architecture for next-generation AI data centers and to make sure the entire industry can adopt it safely, at scale. A Shared Problem Demands a Shared Standard AI infrastructure is entering a new power era. [&#8230;] The post Powering the Next Era of AI: How Google, Microsoft and Nvidia Are Standardizing and Accelerating the Industry Transition to LVDC appeared first on Open Compute Project .",
       "author": "OCP Editorial"
     }
   ],

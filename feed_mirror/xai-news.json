@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-10-20T15:37:07.301004+00:00",
-  "next_refresh_at": "2026-10-20T16:07:07.301004+00:00",
+  "fetched_at": "2026-10-20T19:51:04.794059+00:00",
+  "next_refresh_at": "2026-10-20T20:21:04.794059+00:00",
   "entries": [
     {
       "title": "Introducing Grok Voice 3.0 | SpaceXSI",
       "url": "https://x.ai/news/grok-voice-3",
       "published_at": null,
       "summary": "The world’s most intelligent voice model.",
+      "author": null
+    },
+    {
+      "title": "Using Grok Bot to detect and respond to incidents | SpaceXSI",
+      "url": "https://x.ai/news/incident-sweep",
+      "published_at": null,
+      "summary": "IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-build-mode",
       "published_at": null,
       "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
-      "author": null
-    },
-    {
-      "title": "Grok 4.5 in GitHub Copilot | SpaceXSI",
-      "url": "https://x.ai/news/grok-github-copilot",
-      "published_at": null,
-      "summary": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
       "author": null
     }
   ],
