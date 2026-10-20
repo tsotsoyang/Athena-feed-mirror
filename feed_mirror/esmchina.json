@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-20T05:42:10.278556+00:00",
-  "next_refresh_at": "2026-10-20T06:12:10.278556+00:00",
+  "fetched_at": "2026-10-20T11:00:20.629881+00:00",
+  "next_refresh_at": "2026-10-20T11:30:20.629881+00:00",
   "entries": [
+    {
+      "title": "2万亿！SK海力士联合银行及政府出手，扶持韩国半导体供应商",
+      "url": "https://www.esmchina.com/news/14707.html",
+      "published_at": null,
+      "summary": "但受益公司的名称并未对外公开。",
+      "author": null
+    },
+    {
+      "title": "DeepSeek遭美国联邦民事机构禁用",
+      "url": "https://www.esmchina.com/news/14706.html",
+      "published_at": null,
+      "summary": "美国国土安全部正式要求联邦民事行政机构停止采购DeepSeek及其关联实体产品，并从IT系统中移除相关产品及基于其技术开发的第三方服务。",
+      "author": null
+    },
     {
       "title": "同比降10%！中国智能手机Q3出货量创14年以来新低",
       "url": "https://www.esmchina.com/news/14705.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14683.html",
       "published_at": null,
       "summary": "需要注意的是，中国大陆此次仅上架HomePod mini 2，其他新品均未公布国行销售计划。",
-      "author": null
-    },
-    {
-      "title": "2026Q3全球智能手机出货同比跌20%，创14年新低",
-      "url": "https://www.esmchina.com/news/14682.html",
-      "published_at": null,
-      "summary": "14年最冷Q3：全球智能手机出货同比跌20%，平均售价反涨20%",
-      "author": null
-    },
-    {
-      "title": "加速“去英伟达化”？微软发布2nm自研AI芯片Maia 300",
-      "url": "https://www.esmchina.com/news/14680.html",
-      "published_at": null,
-      "summary": "在OCP开放计算全球峰会上，微软对外披露了第三代自研AI加速器Azure Maia 300相关规划，这款芯片计划于2027年正式投入生产部署。",
       "author": null
     }
   ],

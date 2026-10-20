@@ -2,77 +2,77 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-20T05:41:53.604124+00:00",
-  "next_refresh_at": "2026-10-20T06:11:53.604124+00:00",
+  "fetched_at": "2026-10-20T11:00:04.266156+00:00",
+  "next_refresh_at": "2026-10-20T11:30:04.266156+00:00",
   "entries": [
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-9/",
+      "published_at": "2026-10-16T00:09:01+00:00",
+      "summary": "▲ Vice President Youngpyo Joo, head of the System Architecture department, taking part in the panel discussion",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-8/",
+      "published_at": "2026-10-16T00:08:56+00:00",
+      "summary": "▲ Vice President Hosik Kim, head of the Memory Systems Research department, during his presentation",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-7/",
+      "published_at": "2026-10-16T00:07:47+00:00",
+      "summary": "▲ A graphic conveying SK hynix’s vision, located on the outer wall of the booth",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-6/",
+      "published_at": "2026-10-16T00:06:21+00:00",
+      "summary": "▲ A model showing the structure of HBF",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-5/",
+      "published_at": "2026-10-16T00:05:51+00:00",
+      "summary": "▲ A touchscreen where visitors can check product information",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-4/",
+      "published_at": "2026-10-16T00:04:48+00:00",
+      "summary": "▲ SK hynix’s main server DRAM products",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-3/",
+      "published_at": "2026-10-16T00:03:28+00:00",
+      "summary": "▲ SK hynix’s main eSSD products",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-2/",
+      "published_at": "2026-10-16T00:02:27+00:00",
+      "summary": "▲ SK hynix’s exhibition booth",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-1/",
+      "published_at": "2026-10-16T00:01:49+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
     {
       "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
       "url": "https://news.skhynix.com/en/ocp-global-summit-2026/",
       "published_at": "2026-10-16T00:00:16+00:00",
       "summary": "As the volume of data handled by AI grows explosively, data bottlenecks have emerged as a new challenge. Can next-generation memory technology offer the solution? There is now an opportunity to hear SK hynix’s answer to this question. SK hynix",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
-      "url": "https://news.skhynix.com/en/research-inside-ep2-6/",
-      "published_at": "2026-10-14T01:27:53+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
-      "url": "https://news.skhynix.com/en/research-inside-ep2-5/",
-      "published_at": "2026-10-14T01:26:05+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
-      "url": "https://news.skhynix.com/en/research-inside-ep2-4/",
-      "published_at": "2026-10-14T01:24:28+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
-      "url": "https://news.skhynix.com/en/research-inside-ep2-3/",
-      "published_at": "2026-10-14T01:21:53+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
-      "url": "https://news.skhynix.com/en/research-inside-ep2-2/",
-      "published_at": "2026-10-14T01:19:48+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
-      "url": "https://news.skhynix.com/en/research-inside-ep2-1/",
-      "published_at": "2026-10-14T01:18:35+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
-      "url": "https://news.skhynix.com/en/research-inside-ep2/",
-      "published_at": "2026-10-14T00:00:04+00:00",
-      "summary": "SK hynix offers a full-stack portfolio of AI memory solutions optimized for AI systems across all major memory categories, including High Bandwidth Memory(HBM), DRAM, and NAND flash. To highlight the research that underpins these solutions as well as the company’s",
-      "author": "SK hynix"
-    },
-    {
-      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
-      "url": "https://news.skhynix.com/en/skhynix-ventures-story-4/",
-      "published_at": "2026-10-02T01:10:53+00:00",
-      "summary": "▲ Chung Heejin, SVP and Head of Venture Investment at SK hynix, outlines the vision and roadmap for SK hynix Ventures at SK hynix Ventures Day in Silicon Valley last September.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
-      "url": "https://news.skhynix.com/en/skhynix-ventures-story-3/",
-      "published_at": "2026-10-02T01:09:32+00:00",
-      "summary": "▲ SK hynix employees discuss technologies and collaboration opportunities with global partners at the SK hynix Ventures launch event.",
       "author": "SK hynix"
     }
   ],
