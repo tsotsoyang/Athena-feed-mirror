@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-20T22:57:41.826538+00:00",
-  "next_refresh_at": "2026-10-20T23:27:41.826538+00:00",
+  "fetched_at": "2026-10-21T01:25:40.321071+00:00",
+  "next_refresh_at": "2026-10-21T01:55:40.321071+00:00",
   "entries": [
+    {
+      "title": "国家数据集团在雄安揭牌，央企名录增至100家",
+      "url": "https://www.esmchina.com/news/14708.html",
+      "published_at": null,
+      "summary": "10月20日，国家数据集团有限公司在河北雄安新区正式揭牌成立。这家以数据资源开发利用为主责主业的中央企业，由国务院国资委代表国务院履行出资人职责，并列入国务院国资委履行出资人职责的企业名单。",
+      "author": null
+    },
     {
       "title": "2万亿！SK海力士联合银行及政府出手，扶持韩国半导体供应商",
       "url": "https://www.esmchina.com/news/14707.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14684.html",
       "published_at": null,
       "summary": "曾经，Character.AI也红极一时。2023年3月，Character.AI宣布完成1.5亿美元，估值为10亿美元。",
-      "author": null
-    },
-    {
-      "title": "苹果重构智能家居打法：HomeView成中枢，Siri AI绑定身份识别",
-      "url": "https://www.esmchina.com/news/14683.html",
-      "published_at": null,
-      "summary": "需要注意的是，中国大陆此次仅上架HomePod mini 2，其他新品均未公布国行销售计划。",
       "author": null
     }
   ],
