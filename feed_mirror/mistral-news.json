@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-21T06:21:42.977983+00:00",
-  "next_refresh_at": "2026-10-21T06:51:42.977983+00:00",
+  "fetched_at": "2026-10-21T12:10:57.011878+00:00",
+  "next_refresh_at": "2026-10-21T12:40:57.011878+00:00",
   "entries": [
+    {
+      "title": "Mistral Advances AI for Engineering with NVIDIA",
+      "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+      "published_at": "2026-10-21T12:00:20+00:00",
+      "summary": "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
+      "author": null
+    },
     {
       "title": "Voxtral 3",
       "url": "https://mistral.ai/news/voxtral-3/",
@@ -171,13 +178,6 @@
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
       "published_at": "2026-05-22T15:01:55+00:00",
       "summary": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.",
-      "author": null
-    },
-    {
-      "title": "Connect the dots: Build with built-in and custom MCPs in Studio",
-      "url": "https://mistral.ai/news/connectors/",
-      "published_at": "2026-05-22T14:48:28+00:00",
-      "summary": "Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls.",
       "author": null
     }
   ],

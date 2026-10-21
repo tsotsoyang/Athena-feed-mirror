@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-21T06:21:55.232967+00:00",
-  "next_refresh_at": "2026-10-21T06:51:55.232967+00:00",
+  "fetched_at": "2026-10-21T12:11:10.354206+00:00",
+  "next_refresh_at": "2026-10-21T12:41:10.354206+00:00",
   "entries": [
+    {
+      "title": "中国向阿联酋交付首架飞行汽车，核心零部件定点名单都有谁？",
+      "url": "https://www.esmchina.com/news/14710.html",
+      "published_at": null,
+      "summary": "中国向中东“榜一大哥”交付首架飞行汽车，核心零部件定点名单都有谁？",
+      "author": null
+    },
     {
       "title": "高通11月开启全球绩效裁员",
       "url": "https://www.esmchina.com/news/14709.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14686.html",
       "published_at": null,
       "summary": "国产EUV光源系统样机近日亮相，其国产化率达90%，验证了技术路线可行性。不过该样机目前仍处于工程验证阶段，距离商用量产仍需3-5年。",
-      "author": null
-    },
-    {
-      "title": "多家车企密集发声！比亚迪、吉利、奇瑞齐回应中欧混动共识",
-      "url": "https://www.esmchina.com/news/14685.html",
-      "published_at": null,
-      "summary": "根据中国海关数据，今年上半年，中国对欧盟27个成员国的混动汽车出口额达到75亿美元，为去年同期的三倍、2021年全年出口额的9倍。",
       "author": null
     }
   ],
