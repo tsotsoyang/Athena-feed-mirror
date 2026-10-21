@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-21T01:25:40.321071+00:00",
-  "next_refresh_at": "2026-10-21T01:55:40.321071+00:00",
+  "fetched_at": "2026-10-21T06:21:55.232967+00:00",
+  "next_refresh_at": "2026-10-21T06:51:55.232967+00:00",
   "entries": [
+    {
+      "title": "高通11月开启全球绩效裁员",
+      "url": "https://www.esmchina.com/news/14709.html",
+      "published_at": null,
+      "summary": "当地时间10月19日，高通首席执行官克里斯蒂亚诺·阿蒙向全员发送内部备忘录称，公司将在年度绩效考核结束后实施“以绩效为导向的全球裁员”，相关通知预计从11月起陆续发出。",
+      "author": null
+    },
     {
       "title": "国家数据集团在雄安揭牌，央企名录增至100家",
       "url": "https://www.esmchina.com/news/14708.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14685.html",
       "published_at": null,
       "summary": "根据中国海关数据，今年上半年，中国对欧盟27个成员国的混动汽车出口额达到75亿美元，为去年同期的三倍、2021年全年出口额的9倍。",
-      "author": null
-    },
-    {
-      "title": "2000万月活救不了自己！AI独角兽Character.AI申请破产保护",
-      "url": "https://www.esmchina.com/news/14684.html",
-      "published_at": null,
-      "summary": "曾经，Character.AI也红极一时。2023年3月，Character.AI宣布完成1.5亿美元，估值为10亿美元。",
       "author": null
     }
   ],
