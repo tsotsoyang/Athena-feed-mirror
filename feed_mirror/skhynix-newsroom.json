@@ -2,9 +2,37 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-22T05:11:35.081499+00:00",
-  "next_refresh_at": "2026-10-22T05:41:35.081499+00:00",
+  "fetched_at": "2026-10-22T10:26:11.508540+00:00",
+  "next_refresh_at": "2026-10-22T10:56:11.508540+00:00",
   "entries": [
+    {
+      "title": "[AI Infrastructure Insight] How AI infrastructure will be designed for the future",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep4-3/",
+      "published_at": "2026-10-22T09:29:21+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Infrastructure Insight] How AI infrastructure will be designed for the future",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep4-2/",
+      "published_at": "2026-10-22T09:28:24+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Infrastructure Insight] How AI infrastructure will be designed for the future",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep4-1/",
+      "published_at": "2026-10-22T09:20:36+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[AI Infrastructure Insight] How AI infrastructure will be designed for the future",
+      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep4/",
+      "published_at": "2026-10-22T06:00:37+00:00",
+      "summary": "AI is no longer defined by a single model or AI processor. For AI to operate effectively in real-world services and industrial applications, it takes faster compute, wider memory bandwidth, higher-performance networks, more efficient storage, and more stable power and",
+      "author": "SK hynix"
+    },
     {
       "title": "Q3 2026 Earnings Conference Call Invitation",
       "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/",
@@ -45,34 +73,6 @@
       "url": "https://news.skhynix.com/en/ocp-global-summit-2026-8/",
       "published_at": "2026-10-16T00:08:56+00:00",
       "summary": "▲ Vice President Hosik Kim, head of the Memory Systems Research department, during his presentation",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
-      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-7/",
-      "published_at": "2026-10-16T00:07:47+00:00",
-      "summary": "▲ A graphic conveying SK hynix’s vision, located on the outer wall of the booth",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
-      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-6/",
-      "published_at": "2026-10-16T00:06:21+00:00",
-      "summary": "▲ A model showing the structure of HBF",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
-      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-5/",
-      "published_at": "2026-10-16T00:05:51+00:00",
-      "summary": "▲ A touchscreen where visitors can check product information",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
-      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-4/",
-      "published_at": "2026-10-16T00:04:48+00:00",
-      "summary": "▲ SK hynix’s main server DRAM products",
       "author": "SK hynix"
     }
   ],
