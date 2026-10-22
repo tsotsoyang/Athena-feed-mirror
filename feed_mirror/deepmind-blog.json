@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-22T10:26:22.051759+00:00",
-  "next_refresh_at": "2026-10-22T10:56:22.051759+00:00",
+  "fetched_at": "2026-10-22T15:29:53.174423+00:00",
+  "next_refresh_at": "2026-10-22T15:59:53.174423+00:00",
   "entries": [
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published_at": "2026-10-22T14:30:24+00:00",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "author": null
+    },
     {
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "published_at": "2026-08-06T15:06:15+00:00",
       "summary": "",
-      "author": null
-    },
-    {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "published_at": "2026-07-30T15:00:59+00:00",
-      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
       "author": null
     }
   ],

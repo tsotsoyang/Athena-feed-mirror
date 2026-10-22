@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-10-22T10:26:22.863808+00:00",
-  "next_refresh_at": "2026-10-22T10:56:22.863808+00:00",
+  "fetched_at": "2026-10-22T15:29:56.373347+00:00",
+  "next_refresh_at": "2026-10-22T15:59:56.373347+00:00",
   "entries": [
     {
       "title": "Introducing Grok Voice 3.0 | SpaceXSI",
       "url": "https://x.ai/news/grok-voice-3",
       "published_at": null,
       "summary": "The world’s most intelligent voice model.",
+      "author": null
+    },
+    {
+      "title": "Introducing the SpaceX Super Intelligence Partner Network | SpaceXSI",
+      "url": "https://x.ai/news/partnernetworkannouncement",
+      "published_at": null,
+      "summary": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-voice-think-fast-2",
       "published_at": null,
       "summary": "Introducing our most capable speech-to-speech voice model.",
-      "author": null
-    },
-    {
-      "title": "Introducing Build Mode | SpaceXSI",
-      "url": "https://x.ai/news/grok-build-mode",
-      "published_at": null,
-      "summary": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
       "author": null
     }
   ],

@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-22T10:26:14.124675+00:00",
-  "next_refresh_at": "2026-10-22T10:56:14.124675+00:00",
+  "fetched_at": "2026-10-22T15:29:45.791392+00:00",
+  "next_refresh_at": "2026-10-22T15:59:45.791392+00:00",
   "entries": [
+    {
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "author": null
+    },
     {
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "url": "https://openai.com/index/att-legal",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "published_at": "2026-10-14T00:00:00+00:00",
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "author": null
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "published_at": "2026-10-13T12:00:00+00:00",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "author": null
     }
   ],
