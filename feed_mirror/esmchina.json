@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-22T00:06:37.730158+00:00",
-  "next_refresh_at": "2026-10-22T00:36:37.730158+00:00",
+  "fetched_at": "2026-10-22T05:11:52.227287+00:00",
+  "next_refresh_at": "2026-10-22T05:41:52.227287+00:00",
   "entries": [
+    {
+      "title": "250亿美元！Meta被罚出史上最大罚单，剑桥分析旧账清算",
+      "url": "https://www.esmchina.com/news/14713.html",
+      "published_at": null,
+      "summary": "Meta表示不同意该判决，并计划提起上诉。",
+      "author": null
+    },
+    {
+      "title": "英伟达联合六家供应商扩产：三年基板产能增2.5倍，光引擎2027年提至15倍",
+      "url": "https://www.esmchina.com/news/14714.html",
+      "published_at": null,
+      "summary": "英伟达联合六家供应商全球扩产",
+      "author": null
+    },
+    {
+      "title": "CKL超科林品牌焕新：以“在中国，为中国”战略深耕本土半导体设备市场",
+      "url": "https://www.esmchina.com/news/14711.html",
+      "published_at": null,
+      "summary": "2026年，中国半导体设备国产化继续推进。其中，零部件配套正在成为设备本土化落地的关键一环。",
+      "author": null
+    },
     {
       "title": "中国向阿联酋交付首架飞行汽车，核心零部件定点名单都有谁？",
       "url": "https://www.esmchina.com/news/14710.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14563.html",
       "published_at": null,
       "summary": "中国AI眼镜发展如火如荼，但终端消费市场为何“叫好不叫座”？",
-      "author": null
-    },
-    {
-      "title": "ASML三季度净销售额117亿欧元创单季新高，客户订单已谈至2029至2030年",
-      "url": "https://www.esmchina.com/news/14688.html",
-      "published_at": null,
-      "summary": "第三季度共售出全新光刻系统113台、二手光刻系统8台。",
-      "author": null
-    },
-    {
-      "title": "英特尔以色列工厂突发爆炸：危化品泄漏，3人重伤",
-      "url": "https://www.esmchina.com/news/14687.html",
-      "published_at": null,
-      "summary": "当地时间10月14日下午，美国芯片制造商英特尔位于以色列南部基里亚特加特拉宾工业园区的晶圆工厂发生爆炸，造成3名工人受伤，并引发厂区危险物质泄漏。",
-      "author": null
-    },
-    {
-      "title": "90%国产化率，国产EUV光源系统样机首次公开亮相",
-      "url": "https://www.esmchina.com/news/14686.html",
-      "published_at": null,
-      "summary": "国产EUV光源系统样机近日亮相，其国产化率达90%，验证了技术路线可行性。不过该样机目前仍处于工程验证阶段，距离商用量产仍需3-5年。",
       "author": null
     }
   ],

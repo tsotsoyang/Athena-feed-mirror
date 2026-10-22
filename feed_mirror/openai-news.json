@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-22T00:06:23.724583+00:00",
-  "next_refresh_at": "2026-10-22T00:36:23.724583+00:00",
+  "fetched_at": "2026-10-22T05:11:37.031430+00:00",
+  "next_refresh_at": "2026-10-22T05:41:37.031430+00:00",
   "entries": [
     {
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -45,6 +45,13 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "published_at": "2026-10-21T04:50:00+00:00",
       "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "author": null
+    },
+    {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/higgsfield-longer-videos-voice",
       "published_at": "2026-10-13T12:00:00+00:00",
       "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "author": null
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "author": null
     }
   ],

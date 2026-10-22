@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-22T00:06:21.478100+00:00",
-  "next_refresh_at": "2026-10-22T00:36:21.478100+00:00",
+  "fetched_at": "2026-10-22T05:11:35.081499+00:00",
+  "next_refresh_at": "2026-10-22T05:41:35.081499+00:00",
   "entries": [
     {
       "title": "Q3 2026 Earnings Conference Call Invitation",
@@ -31,7 +31,7 @@
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4/",
       "published_at": "2026-10-20T23:59:57+00:00",
       "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
-      "author": "Raja Koduri Founder and CEO of QXMIQ Labs"
+      "author": "Raja Koduri Founder and CEO of OXMIQ Labs"
     },
     {
       "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
