@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-22T19:23:53.939629+00:00",
-  "next_refresh_at": "2026-10-22T19:53:53.939629+00:00",
+  "fetched_at": "2026-10-22T22:37:17.979627+00:00",
+  "next_refresh_at": "2026-10-22T23:07:17.979627+00:00",
   "entries": [
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "author": null
+    },
     {
       "title": "What FDE means at OpenAI",
       "url": "https://openai.com/index/forward-deployed-engineering-means",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/third-moment-research",
       "published_at": "2026-10-14T07:00:00+00:00",
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "author": null
-    },
-    {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
       "author": null
     }
   ],

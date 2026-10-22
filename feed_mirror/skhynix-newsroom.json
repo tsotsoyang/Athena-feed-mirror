@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-22T19:23:52.268578+00:00",
-  "next_refresh_at": "2026-10-22T19:53:52.268578+00:00",
+  "fetched_at": "2026-10-22T22:37:16.057198+00:00",
+  "next_refresh_at": "2026-10-22T23:07:16.057198+00:00",
   "entries": [
+    {
+      "title": "Solidigm to Discontinue Review of Potential IPO, Reaffirming Commitment to Long-Term Growth and Shareholder Value",
+      "url": "https://news.skhynix.com/en/fact-12/",
+      "published_at": "2026-10-22T22:33:42+00:00",
+      "summary": "▪ Solidigm has explored various funding options, including a potential IPO, to finance a new fab in the U.S. to meet growing AI memory demand. ▪ While an IPO was expected to ease investment burdens and expand capacity for shareholder",
+      "author": "SK hynix"
+    },
     {
       "title": "[AI Infrastructure Insight] How AI infrastructure will be designed for the future",
       "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep4-3/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/ocp-global-summit-2026-9/",
       "published_at": "2026-10-16T00:09:01+00:00",
       "summary": "▲ Vice President Youngpyo Joo, head of the System Architecture department, taking part in the panel discussion",
-      "author": "SK hynix"
-    },
-    {
-      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
-      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-8/",
-      "published_at": "2026-10-16T00:08:56+00:00",
-      "summary": "▲ Vice President Hosik Kim, head of the Memory Systems Research department, during his presentation",
       "author": "SK hynix"
     }
   ],
