@@ -2,9 +2,16 @@
   "source": "kimi-blog",
   "name": "Moonshot AI / Kimi Blog",
   "feed_url": "https://www.kimi.com/blog",
-  "fetched_at": "2026-10-23T16:39:34.618970+00:00",
-  "next_refresh_at": "2026-10-23T17:09:34.618970+00:00",
+  "fetched_at": "2026-10-23T20:13:04.275165+00:00",
+  "next_refresh_at": "2026-10-23T20:43:04.275165+00:00",
   "entries": [
+    {
+      "title": "Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+      "published_at": null,
+      "summary": "Introducing Kimi K3.1 Pro, our most capable 3T-class open-weight model with 1M-token context and major advances in coding, 3D modeling, and financial research.",
+      "author": null
+    },
     {
       "title": "Kimi K3 Tech Blog: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
