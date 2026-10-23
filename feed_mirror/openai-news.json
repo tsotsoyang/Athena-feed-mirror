@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-23T11:55:48.858820+00:00",
-  "next_refresh_at": "2026-10-23T12:25:48.858820+00:00",
+  "fetched_at": "2026-10-23T16:39:13.152699+00:00",
+  "next_refresh_at": "2026-10-23T17:09:13.152699+00:00",
   "entries": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published_at": "2026-10-23T17:00:00+00:00",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "author": null
+    },
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -132,17 +139,17 @@
       "author": null
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "author": null
-    },
-    {
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
       "published_at": "2026-10-16T00:00:00+00:00",
       "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "author": null
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/amp-beyond-coding",
       "published_at": "2026-10-14T12:00:00+00:00",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "author": null
-    },
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "published_at": "2026-10-14T12:00:00+00:00",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
       "author": null
     }
   ],
