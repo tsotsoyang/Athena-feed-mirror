@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-23T01:15:42.215981+00:00",
-  "next_refresh_at": "2026-10-23T01:45:42.215981+00:00",
+  "fetched_at": "2026-10-23T06:19:12.568742+00:00",
+  "next_refresh_at": "2026-10-23T06:49:12.568742+00:00",
   "entries": [
+    {
+      "title": "上市34年“彩电一哥”落幕：康佳集团今日摘牌退市，四年累计亏损超200亿元",
+      "url": "https://www.esmchina.com/news/14717.html",
+      "published_at": null,
+      "summary": "昔日的“彩电一哥”，就此走完了34年的A股之路。",
+      "author": null
+    },
+    {
+      "title": "黄仁勋回应“2029存储红海论”：过剩可能性不大",
+      "url": "https://www.esmchina.com/news/14716.html",
+      "published_at": null,
+      "summary": "“内存永远可以用得更多”，黄仁勋回应过存储剩论",
+      "author": null
+    },
+    {
+      "title": "国科微合封KGD改按美元绝对值提价，11月起执行",
+      "url": "https://www.esmchina.com/news/14715.html",
+      "published_at": null,
+      "summary": "11月生效，采购请重算这颗器件的BOM",
+      "author": null
+    },
     {
       "title": "250亿美元！Meta被罚出史上最大罚单，剑桥分析旧账清算",
       "url": "https://www.esmchina.com/news/14713.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14692.html",
       "published_at": null,
       "summary": "本届论坛超过三分之二的议程围绕人工智能展开，而随团来华的逾百名迪拜政企代表，创下了迪拜商会参与国际活动以来的最大代表团规模。",
-      "author": null
-    },
-    {
-      "title": "判了！Arm向高通支付2美元象征性赔偿",
-      "url": "https://www.esmchina.com/news/14690.html",
-      "published_at": null,
-      "summary": "这一结果与此前高通寻求的数十亿美元赔偿形成巨大反差。",
-      "author": null
-    },
-    {
-      "title": "需求快于产能释放，半导体产业链最新动向与观察节点",
-      "url": "https://www.esmchina.com/news/14689.html",
-      "published_at": null,
-      "summary": "需求追着产能跑，四组信号看懂半导体供应链现状。",
-      "author": null
-    },
-    {
-      "title": "AI智能眼镜的芯片突围战",
-      "url": "https://www.esmchina.com/news/14563.html",
-      "published_at": null,
-      "summary": "中国AI眼镜发展如火如荼，但终端消费市场为何“叫好不叫座”？",
       "author": null
     }
   ],

@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-23T01:15:27.521415+00:00",
-  "next_refresh_at": "2026-10-23T01:45:27.521415+00:00",
+  "fetched_at": "2026-10-23T06:18:55.505530+00:00",
+  "next_refresh_at": "2026-10-23T06:48:55.505530+00:00",
   "entries": [
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "author": null
+    },
     {
       "title": "Build more responsive apps with the Decisions API",
       "url": "https://openai.com/index/decisions-api",
@@ -125,17 +132,17 @@
       "author": null
     },
     {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "author": null
-    },
-    {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "published_at": "2026-10-16T00:00:00+00:00",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "author": null
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/sentinelone",
       "published_at": "2026-10-14T12:00:00+00:00",
       "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "author": null
-    },
-    {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
       "author": null
     }
   ],
