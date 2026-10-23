@@ -2,14 +2,28 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-23T06:19:12.568742+00:00",
-  "next_refresh_at": "2026-10-23T06:49:12.568742+00:00",
+  "fetched_at": "2026-10-23T11:56:04.668170+00:00",
+  "next_refresh_at": "2026-10-23T12:26:04.668170+00:00",
   "entries": [
     {
-      "title": "上市34年“彩电一哥”落幕：康佳集团今日摘牌退市，四年累计亏损超200亿元",
+      "title": "安富利：在AI时代，培养“能落地”的人才",
+      "url": "https://www.esmchina.com/news/14720.html",
+      "published_at": null,
+      "summary": "人工智能的飞速发展正在重塑各行各业，但真正推动这场变革的，终究是人。当AI从云端模型走向物理世界，从实验室研究走向规模化量产，行业对人才的需求也在发生变化——不仅需要懂技术的人，更需要能将技术与实际应用场景结合起来的人。",
+      "author": null
+    },
+    {
+      "title": "广和通14.28亿元完成收购航盛电子37.16%股份，切入汽车Tier 1市场",
+      "url": "https://www.esmchina.com/news/14718.html",
+      "published_at": null,
+      "summary": "本次交易完成后，广和通从通信模组供应商切入面向整车厂的汽车电子Tier 1市场，补齐了座舱、域控制器等系统产品线。",
+      "author": null
+    },
+    {
+      "title": "上市34年“彩电一哥”落幕：康佳集团今日摘牌退市",
       "url": "https://www.esmchina.com/news/14717.html",
       "published_at": null,
-      "summary": "昔日的“彩电一哥”，就此走完了34年的A股之路。",
+      "summary": "四年累计亏损超200亿元",
       "author": null
     },
     {
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14695.html",
       "published_at": null,
       "summary": "这家存储模组大厂Q3净利环比回落超三成，存储涨价红利收窄了？",
-      "author": null
-    },
-    {
-      "title": "罚1.72亿元！OLED显示面板企业清越科技被查实欺诈发行、财务造假",
-      "url": "https://www.esmchina.com/news/14694.html",
-      "published_at": null,
-      "summary": "锁定退市，百亿市值灰飞烟灭。",
-      "author": null
-    },
-    {
-      "title": "迪拜D33议程下的中企机遇：AI、未来出行与韧性供应链",
-      "url": "https://www.esmchina.com/news/14692.html",
-      "published_at": null,
-      "summary": "本届论坛超过三分之二的议程围绕人工智能展开，而随团来华的逾百名迪拜政企代表，创下了迪拜商会参与国际活动以来的最大代表团规模。",
       "author": null
     }
   ],

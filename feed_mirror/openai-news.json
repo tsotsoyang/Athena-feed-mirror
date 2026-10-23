@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-23T06:18:55.505530+00:00",
-  "next_refresh_at": "2026-10-23T06:48:55.505530+00:00",
+  "fetched_at": "2026-10-23T11:55:48.858820+00:00",
+  "next_refresh_at": "2026-10-23T12:25:48.858820+00:00",
   "entries": [
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
