@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-23T23:19:32.029983+00:00",
-  "next_refresh_at": "2026-10-23T23:49:32.029983+00:00",
+  "fetched_at": "2026-10-24T01:49:01.714368+00:00",
+  "next_refresh_at": "2026-10-24T02:19:01.714368+00:00",
   "entries": [
     {
       "title": "Mistral Advances AI for Engineering with NVIDIA",
