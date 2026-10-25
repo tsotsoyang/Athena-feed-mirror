@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-25T13:35:08.413295+00:00",
-  "next_refresh_at": "2026-10-25T14:05:08.413295+00:00",
+  "fetched_at": "2026-10-25T17:26:20.097636+00:00",
+  "next_refresh_at": "2026-10-25T17:56:20.097636+00:00",
   "entries": [
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",

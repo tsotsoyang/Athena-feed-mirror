@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-10-25T13:35:06.758488+00:00",
-  "next_refresh_at": "2026-10-25T14:05:06.758488+00:00",
+  "fetched_at": "2026-10-25T17:26:17.885384+00:00",
+  "next_refresh_at": "2026-10-25T17:56:17.885384+00:00",
   "entries": [
     {
       "title": "2026 OCP Global Summit By the Numbers",
