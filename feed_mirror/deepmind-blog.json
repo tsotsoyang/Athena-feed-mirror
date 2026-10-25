@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-25T03:30:04.151710+00:00",
-  "next_refresh_at": "2026-10-25T04:00:04.151710+00:00",
+  "fetched_at": "2026-10-25T08:41:06.362097+00:00",
+  "next_refresh_at": "2026-10-25T09:11:06.362097+00:00",
   "entries": [
     {
       "title": "Beyond tree cover: mapping the world’s forest types",
