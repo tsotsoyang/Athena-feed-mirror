@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-26T00:34:03.237913+00:00",
-  "next_refresh_at": "2026-10-26T01:04:03.237913+00:00",
+  "fetched_at": "2026-10-26T05:48:29.127890+00:00",
+  "next_refresh_at": "2026-10-26T06:18:29.127890+00:00",
   "entries": [
+    {
+      "title": "美国FCC首次动用新规拦截海思芯片设备",
+      "url": "https://www.esmchina.com/news/14724.html",
+      "published_at": null,
+      "summary": "美国联邦通信委员会(FCC)宣布，已依据10月13日刚生效的新规，阻止两款搭载华为旗下海思半导体芯片的民用设备进入美国市场。",
+      "author": null
+    },
+    {
+      "title": "德明利前三季净利87.46亿元，同比增324倍",
+      "url": "https://www.esmchina.com/news/14723.html",
+      "published_at": null,
+      "summary": "这家国产存储厂前三季净利暴增324倍",
+      "author": null
+    },
+    {
+      "title": "美国商务部3.89亿美元押注功率半导体，核聚变成最大赢家",
+      "url": "https://www.esmchina.com/news/14722.html",
+      "published_at": null,
+      "summary": "美国商务部通过美国国家标准与技术研究院（NIST）宣布，已与四家公司签署意向书，计划提供总额最高达3.89亿美元的研发资金，支持功率半导体器件及关键材料技术的本土研发。",
+      "author": null
+    },
+    {
+      "title": "首周售罄！iPhone Duo供不应求，苹果追加1500万台备货",
+      "url": "https://www.esmchina.com/news/14721.html",
+      "published_at": null,
+      "summary": "从预购排队到供应链追单，iPhone Duo的供需错配在开售首月集中显现。",
+      "author": null
+    },
     {
       "title": "安富利：在AI时代，培养“能落地”的人才",
       "url": "https://www.esmchina.com/news/14720.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14699.html",
       "published_at": null,
       "summary": "理想汽车宣布，旗下芯片及域控制器平台上海马赫心科技有限公司已签署首轮股权融资协议，融资金额达16.25亿元人民币。",
-      "author": null
-    },
-    {
-      "title": "苹果与Meta破冰合作：“爸妈和好”，AI逼的",
-      "url": "https://www.esmchina.com/news/14698.html",
-      "published_at": null,
-      "summary": "苹果与Meta之间长期处于对立状态。",
-      "author": null
-    },
-    {
-      "title": "“我们愿意往前走一步”——安富利以工程实力推动AI从云端走向物理世界",
-      "url": "https://www.esmchina.com/news/14697.html",
-      "published_at": null,
-      "summary": "“安富利将紧跟时代发展趋势，同客户一起推进业务发展。”",
-      "author": null
-    },
-    {
-      "title": "深圳华强前三季度净利预增60%-90%，存储产品线出货额大幅增长",
-      "url": "https://www.esmchina.com/news/14696.html",
-      "published_at": null,
-      "summary": "净利同比+60%至90%！这家本土分销巨头公布前三季业绩预告",
-      "author": null
-    },
-    {
-      "title": "江波龙Q3单季净利环比回落超三成，存储涨价红利开始收敛",
-      "url": "https://www.esmchina.com/news/14695.html",
-      "published_at": null,
-      "summary": "这家存储模组大厂Q3净利环比回落超三成，存储涨价红利收窄了？",
       "author": null
     }
   ],
