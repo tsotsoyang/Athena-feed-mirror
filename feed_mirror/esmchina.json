@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-26T05:48:29.127890+00:00",
-  "next_refresh_at": "2026-10-26T06:18:29.127890+00:00",
+  "fetched_at": "2026-10-26T12:22:36.871169+00:00",
+  "next_refresh_at": "2026-10-26T12:52:36.871169+00:00",
   "entries": [
+    {
+      "title": "并购硅光公司后，Credo把系统级互联拼成了完整版图",
+      "url": "https://www.esmchina.com/news/14725.html",
+      "published_at": null,
+      "summary": "一年两起并购、产品从电到光全栈打通，这家以SerDes起家的公司，正在从芯片商转向AI基础设施的互联方案商。",
+      "author": null
+    },
     {
       "title": "美国FCC首次动用新规拦截海思芯片设备",
       "url": "https://www.esmchina.com/news/14724.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14700.html",
       "published_at": null,
       "summary": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》，将人工智能、生物医药、光伏三大领域共40项关键技术纳入禁止或限制出口范围，并同步实施出口前登记管理。",
-      "author": null
-    },
-    {
-      "title": "理想芯片子公司马赫心首轮融资16.25亿元，最高估值171亿",
-      "url": "https://www.esmchina.com/news/14699.html",
-      "published_at": null,
-      "summary": "理想汽车宣布，旗下芯片及域控制器平台上海马赫心科技有限公司已签署首轮股权融资协议，融资金额达16.25亿元人民币。",
       "author": null
     }
   ],
