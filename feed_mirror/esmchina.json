@@ -2,21 +2,42 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-27T02:18:41.439866+00:00",
-  "next_refresh_at": "2026-10-27T02:48:41.439866+00:00",
+  "fetched_at": "2026-10-27T08:13:29.183819+00:00",
+  "next_refresh_at": "2026-10-27T08:43:29.183819+00:00",
   "entries": [
     {
-      "title": "英特尔宣布收购Classiq，打造全栈量子计算业务",
-      "url": "https://www.esmchina.com/news/14728.html",
+      "title": "全球最大汽车供应商博世分拆德国业务，总部仅剩3000余名员工",
+      "url": "https://www.esmchina.com/news/14732.html",
       "published_at": null,
-      "summary": "10月26日，英特尔宣布已就收购以色列量子计算软件初创公司Classiq Technologies达成最终协议。交易预计于2027年上半年完成。",
+      "summary": "6.25万员工转入独立实体。",
       "author": null
     },
     {
-      "title": "圣邦股份斥资8.33亿元控股申矽凌，传感器赛道再落一子",
+      "title": "微软向6万名员工开放自愿离职方案",
+      "url": "https://www.esmchina.com/news/14730.html",
+      "published_at": null,
+      "summary": "当地时间10月26日，微软宣布向约6万名员工提供自愿离职补偿方案（Voluntary Exit Offer，VEO）。据估算，该方案符合资格人数约占员工总数的27%。",
+      "author": null
+    },
+    {
+      "title": "SpaceX签400亿美元GPU融资租赁：锁定英伟达Vera Rubin，2027年上半年起租",
+      "url": "https://www.esmchina.com/news/14729.html",
+      "published_at": null,
+      "summary": "不买了，SpaceX花400亿美元租GPU及设备",
+      "author": null
+    },
+    {
+      "title": "英特尔宣布收购Classiq，打造全栈量子计算平台",
+      "url": "https://www.esmchina.com/news/14728.html",
+      "published_at": null,
+      "summary": "10月27日，英特尔宣布已就收购以色列量子计算软件初创公司Classiq Technologies达成最终协议。交易预计于2027年上半年完成。",
+      "author": null
+    },
+    {
+      "title": "8.33亿元！圣邦股份拿下申矽凌58.29%股权",
       "url": "https://www.esmchina.com/news/14727.html",
       "published_at": null,
-      "summary": "10月26日晚间，圣邦微电子（北京）股份有限公司公告披露，公司已于当日与27名卖方及保证方王玉签署《股份转让协议》，拟以现金对价8.33亿元元收购上海申矽凌微电子科技股份有限公司58.2878%股份。",
+      "summary": "10月26日晚间，圣邦微电子（北京）股份有限公司发布公告称，公司已于当日与27名卖方及保证方王玉签署《股份转让协议》，拟以现金对价8.33亿元收购上海申矽凌微电子科技股份有限公司58.2878%的股份。",
       "author": null
     },
     {
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14704.html",
       "published_at": null,
       "summary": "10月19日，商务部、海关总署、中央军委装备发展部联合发布2026年第49号公告，公布优化调整无人机相关物项出口管制措施的决定。",
-      "author": null
-    },
-    {
-      "title": "一边求豁免一边破10万：美中机器人产业加速分化",
-      "url": "https://www.esmchina.com/news/14703.html",
-      "published_at": null,
-      "summary": "今年上半年，中国人形机器人整机产品突破400款，产量超4万台，预计全年将突破10万台。",
-      "author": null
-    },
-    {
-      "title": "​​​​​​​2028，CPO供应链准备好了吗？",
-      "url": "https://www.esmchina.com/news/14693.html",
-      "published_at": null,
-      "summary": "预计到2028年，基于AI基础设施架构演变，市场对CPO的需求开始激增。如今，大家关注的重点已经变成“供应链、标准和制造基础是否已做好准备，能够大规模交付CPO”。",
-      "author": null
-    },
-    {
-      "title": "A股上市不到三月即筹划H股：嘉立创闪电推进赴港上市",
-      "url": "https://www.esmchina.com/news/14702.html",
-      "published_at": null,
-      "summary": "此时距离嘉立创在A股上市尚不足三个月。",
       "author": null
     }
   ],
