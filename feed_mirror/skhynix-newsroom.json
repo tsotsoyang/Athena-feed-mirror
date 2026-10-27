@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-27T19:50:36.740732+00:00",
-  "next_refresh_at": "2026-10-27T20:20:36.740732+00:00",
+  "fetched_at": "2026-10-27T23:32:27.846032+00:00",
+  "next_refresh_at": "2026-10-28T00:02:27.846032+00:00",
   "entries": [
+    {
+      "title": "SK hynix Announces 3Q26 Financial Results",
+      "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "published_at": "2026-10-27T23:29:15+00:00",
+      "summary": "▪ Reports revenues of 104.6155 trillion won, operating profit of 83.3338 trillion won, net profit of 39.7756 trillion won; Quarterly sales surpass 100 trillion won for the first time ▪ Sales of HBM4 and high-value-added server products expanded; HBM4 expected",
+      "author": "SK hynix"
+    },
     {
       "title": "Solidigm to Discontinue Review of Potential IPO, Reaffirming Commitment to Long-Term Growth and Shareholder Value",
       "url": "https://news.skhynix.com/en/fact-12/",
@@ -67,13 +74,6 @@
       "published_at": "2026-10-20T23:59:57+00:00",
       "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
       "author": "Raja Koduri Founder and CEO of OXMIQ Labs"
-    },
-    {
-      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
-      "url": "https://news.skhynix.com/en/ocp-global-summit-2026-9/",
-      "published_at": "2026-10-16T00:09:01+00:00",
-      "summary": "▲ Vice President Youngpyo Joo, head of the System Architecture department, taking part in the panel discussion",
-      "author": "SK hynix"
     }
   ],
   "errors": []
