@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-26T23:02:27.990635+00:00",
-  "next_refresh_at": "2026-10-26T23:32:27.990635+00:00",
+  "fetched_at": "2026-10-27T02:18:41.439866+00:00",
+  "next_refresh_at": "2026-10-27T02:48:41.439866+00:00",
   "entries": [
+    {
+      "title": "英特尔宣布收购Classiq，打造全栈量子计算业务",
+      "url": "https://www.esmchina.com/news/14728.html",
+      "published_at": null,
+      "summary": "10月26日，英特尔宣布已就收购以色列量子计算软件初创公司Classiq Technologies达成最终协议。交易预计于2027年上半年完成。",
+      "author": null
+    },
+    {
+      "title": "圣邦股份斥资8.33亿元控股申矽凌，传感器赛道再落一子",
+      "url": "https://www.esmchina.com/news/14727.html",
+      "published_at": null,
+      "summary": "10月26日晚间，圣邦微电子（北京）股份有限公司公告披露，公司已于当日与27名卖方及保证方王玉签署《股份转让协议》，拟以现金对价8.33亿元元收购上海申矽凌微电子科技股份有限公司58.2878%股份。",
+      "author": null
+    },
     {
       "title": "并购硅光公司后，Credo把系统级互联拼成了完整版图",
       "url": "https://www.esmchina.com/news/14725.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14702.html",
       "published_at": null,
       "summary": "此时距离嘉立创在A股上市尚不足三个月。",
-      "author": null
-    },
-    {
-      "title": "13.12亿股全冻结、82亿股轮候：三安光电控股股东被申请破产重整",
-      "url": "https://www.esmchina.com/news/14701.html",
-      "published_at": null,
-      "summary": "LED龙头三安光电控股股东全部股份被轮候冻结，同日被债权人申请破产重整。",
-      "author": null
-    },
-    {
-      "title": "中国拟新增40项技术出口管制：AI、生物医药、光伏入列",
-      "url": "https://www.esmchina.com/news/14700.html",
-      "published_at": null,
-      "summary": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》，将人工智能、生物医药、光伏三大领域共40项关键技术纳入禁止或限制出口范围，并同步实施出口前登记管理。",
       "author": null
     }
   ],
