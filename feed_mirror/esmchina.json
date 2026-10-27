@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-27T08:13:29.183819+00:00",
-  "next_refresh_at": "2026-10-27T08:43:29.183819+00:00",
+  "fetched_at": "2026-10-27T14:48:43.444236+00:00",
+  "next_refresh_at": "2026-10-27T15:18:43.444236+00:00",
   "entries": [
+    {
+      "title": "距离2027年4月1日还有5个月：充电宝新国标落地，无线充模块的七项合规改造清单",
+      "url": "https://www.esmchina.com/news/14733.html",
+      "published_at": null,
+      "summary": "留给整机厂启动项目的时间窗口，只剩 2026 年 10 月到 12 月这一季度。错过这个窗口，2027 年 4 月 1 日之后产品无法换证，在售型号面临下架。",
+      "author": null
+    },
     {
       "title": "全球最大汽车供应商博世分拆德国业务，总部仅剩3000余名员工",
       "url": "https://www.esmchina.com/news/14732.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14705.html",
       "published_at": null,
       "summary": "根据Counterpoint Research市场监测服务初步数据，2026年第三季度中国智能手机出货量同比下降10%，创下自2012年以来第三季度的最低水平。",
-      "author": null
-    },
-    {
-      "title": "中国，无人机出口管制再升级",
-      "url": "https://www.esmchina.com/news/14704.html",
-      "published_at": null,
-      "summary": "10月19日，商务部、海关总署、中央军委装备发展部联合发布2026年第49号公告，公布优化调整无人机相关物项出口管制措施的决定。",
       "author": null
     }
   ],

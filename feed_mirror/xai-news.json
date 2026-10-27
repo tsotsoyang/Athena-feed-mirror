@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-10-27T08:13:28.569470+00:00",
-  "next_refresh_at": "2026-10-27T08:43:28.569470+00:00",
+  "fetched_at": "2026-10-27T14:48:33.422689+00:00",
+  "next_refresh_at": "2026-10-27T15:18:33.422689+00:00",
   "entries": [
     {
       "title": "Introducing Grok Voice 3.0 | SpaceXSI",
       "url": "https://x.ai/news/grok-voice-3",
       "published_at": null,
       "summary": "The world’s most intelligent voice model.",
+      "author": null
+    },
+    {
+      "title": "Your next sales teammate should be a Grok Bot | SpaceXSI",
+      "url": "https://x.ai/news/grok-bot-sales",
+      "published_at": null,
+      "summary": "The SpaceXSI Sales team built Shared Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-imagine-video-1-5-references",
       "published_at": null,
       "summary": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
-      "author": null
-    },
-    {
-      "title": "Introducing Grok Voice 2.0 | SpaceXSI",
-      "url": "https://x.ai/news/grok-voice-think-fast-2",
-      "published_at": null,
-      "summary": "Introducing our most capable speech-to-speech voice model.",
       "author": null
     }
   ],
