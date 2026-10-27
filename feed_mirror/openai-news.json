@@ -2,9 +2,23 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-27T14:48:25.735433+00:00",
-  "next_refresh_at": "2026-10-27T15:18:25.735433+00:00",
+  "fetched_at": "2026-10-27T19:50:39.296258+00:00",
+  "next_refresh_at": "2026-10-27T20:20:39.296258+00:00",
   "entries": [
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "author": null
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "author": null
+    },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "url": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -66,6 +80,13 @@
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "published_at": "2026-10-23T10:00:00+00:00",
       "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "author": null
+    },
+    {
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
       "author": null
     },
     {
@@ -157,27 +178,6 @@
       "url": "https://openai.com/index/empowering-cyber-defenders",
       "published_at": "2026-10-21T00:00:00+00:00",
       "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "author": null
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "published_at": "2026-10-20T10:00:00+00:00",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "author": null
-    },
-    {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "published_at": "2026-10-20T07:00:00+00:00",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "author": null
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
       "author": null
     }
   ],

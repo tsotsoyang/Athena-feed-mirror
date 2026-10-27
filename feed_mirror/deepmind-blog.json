@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-27T14:48:33.653394+00:00",
-  "next_refresh_at": "2026-10-27T15:18:33.653394+00:00",
+  "fetched_at": "2026-10-27T19:50:47.243632+00:00",
+  "next_refresh_at": "2026-10-27T20:20:47.243632+00:00",
   "entries": [
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "published_at": "2026-10-27T16:01:38+00:00",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "author": null
+    },
     {
       "title": "Beyond tree cover: mapping the world’s forest types",
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
       "published_at": "2026-08-12T14:01:59+00:00",
       "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "author": null
-    },
-    {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "published_at": "2026-08-06T15:06:15+00:00",
-      "summary": "",
       "author": null
     }
   ],
