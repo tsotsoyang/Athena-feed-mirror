@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-27T23:32:44.893008+00:00",
-  "next_refresh_at": "2026-10-28T00:02:44.893008+00:00",
+  "fetched_at": "2026-10-28T04:21:34.273699+00:00",
+  "next_refresh_at": "2026-10-28T04:51:34.273699+00:00",
   "entries": [
+    {
+      "title": "恩智浦汽车业务单季破20亿美元：SDV含量驱动，整车产量基本持平",
+      "url": "https://www.esmchina.com/news/14736.html",
+      "published_at": null,
+      "summary": "恩智浦汽车业务单季破20亿美元",
+      "author": null
+    },
+    {
+      "title": "营收273亿、净利5.88亿：深圳华强前三季靠存储与AI分发跑出高增",
+      "url": "https://www.esmchina.com/news/14735.html",
+      "published_at": null,
+      "summary": "深圳华强前三季度的营收与利润增长，折射出上游芯片景气向渠道端传导的过程。",
+      "author": null
+    },
+    {
+      "title": "SK海力士Q3营收首破百万亿韩元，供不应求或持续至2030年",
+      "url": "https://www.esmchina.com/news/14734.html",
+      "published_at": null,
+      "summary": "SK海力士发布2026财年第三季度财务报告，营收与营业利润均创季度历史最高纪录，营收史上首次突破100万亿韩元。",
+      "author": null
+    },
     {
       "title": "距离2027年4月1日还有5个月：充电宝新国标落地，无线充模块的七项合规改造清单",
       "url": "https://www.esmchina.com/news/14733.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14708.html",
       "published_at": null,
       "summary": "10月20日，国家数据集团有限公司在河北雄安新区正式揭牌成立。这家以数据资源开发利用为主责主业的中央企业，由国务院国资委代表国务院履行出资人职责，并列入国务院国资委履行出资人职责的企业名单。",
-      "author": null
-    },
-    {
-      "title": "2万亿！SK海力士联合银行及政府出手，扶持韩国半导体供应商",
-      "url": "https://www.esmchina.com/news/14707.html",
-      "published_at": null,
-      "summary": "但受益公司的名称并未对外公开。",
-      "author": null
-    },
-    {
-      "title": "DeepSeek遭美国联邦民事机构禁用",
-      "url": "https://www.esmchina.com/news/14706.html",
-      "published_at": null,
-      "summary": "美国国土安全部正式要求联邦民事行政机构停止采购DeepSeek及其关联实体产品，并从IT系统中移除相关产品及基于其技术开发的第三方服务。",
-      "author": null
-    },
-    {
-      "title": "同比降10%！中国智能手机Q3出货量创14年以来新低",
-      "url": "https://www.esmchina.com/news/14705.html",
-      "published_at": null,
-      "summary": "根据Counterpoint Research市场监测服务初步数据，2026年第三季度中国智能手机出货量同比下降10%，创下自2012年以来第三季度的最低水平。",
       "author": null
     }
   ],

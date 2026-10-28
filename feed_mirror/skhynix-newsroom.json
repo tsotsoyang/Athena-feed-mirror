@@ -2,14 +2,28 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-27T23:32:27.846032+00:00",
-  "next_refresh_at": "2026-10-28T00:02:27.846032+00:00",
+  "fetched_at": "2026-10-28T04:21:15.239520+00:00",
+  "next_refresh_at": "2026-10-28T04:51:15.239520+00:00",
   "entries": [
+    {
+      "title": "SK hynix Announces 3Q26 Financial Results",
+      "url": "https://news.skhynix.com/en/q3-2026-business-results-1/",
+      "published_at": "2026-10-28T00:37:09+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
+    {
+      "title": "Q3 2026 Earnings Conference Call Access Details",
+      "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call/",
+      "published_at": "2026-10-28T00:01:48+00:00",
+      "summary": "Please use the link below to access the conference call. Email verification is required. https://irsvc.teletogether.com/hynix/hynix2026Q3_eng.php",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Announces 3Q26 Financial Results",
       "url": "https://news.skhynix.com/en/q3-2026-business-results/",
       "published_at": "2026-10-27T23:29:15+00:00",
-      "summary": "▪ Reports revenues of 104.6155 trillion won, operating profit of 83.3338 trillion won, net profit of 39.7756 trillion won; Quarterly sales surpass 100 trillion won for the first time ▪ Sales of HBM4 and high-value-added server products expanded; HBM4 expected",
+      "summary": "▪ Reports revenues of 104.6155 trillion won, operating profit of 83.3338 trillion won, net profit of 39.7756 trillion won; Quarterly sales surpass 100 trillion won for the first time ▪ CEO Kwak Noh-Jung explains the background to the decision to",
       "author": "SK hynix"
     },
     {
@@ -60,20 +74,6 @@
       "published_at": "2026-10-21T00:30:50+00:00",
       "summary": "",
       "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-1/",
-      "published_at": "2026-10-21T00:28:36+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4/",
-      "published_at": "2026-10-20T23:59:57+00:00",
-      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
-      "author": "Raja Koduri Founder and CEO of OXMIQ Labs"
     }
   ],
   "errors": []
