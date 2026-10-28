@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-28T04:21:34.273699+00:00",
-  "next_refresh_at": "2026-10-28T04:51:34.273699+00:00",
+  "fetched_at": "2026-10-28T10:44:20.618146+00:00",
+  "next_refresh_at": "2026-10-28T11:14:20.618146+00:00",
   "entries": [
+    {
+      "title": "当整车厂扎堆下场造人形机器人",
+      "url": "https://www.esmchina.com/news/14681.html",
+      "published_at": null,
+      "summary": "车企“跨界”造人形机器人，五年前还被质疑为“不务正业”，如今却已成为产业界竞相押注的战略新赛道。风向的转变，似乎就发生在朝夕之间。",
+      "author": null
+    },
+    {
+      "title": "全球首座300mm氮化镓量产工厂落地奥地利",
+      "url": "https://www.esmchina.com/news/14740.html",
+      "published_at": null,
+      "summary": "英飞凌今日宣布，将在奥地利菲拉赫（Villach）建设欧洲首座采用300毫米晶圆制程生产氮化镓（GaN）功率半导体的大规模量产工厂，总投资额约11亿欧元，计划于2027年底前投产。",
+      "author": null
+    },
+    {
+      "title": "越南首座晶圆厂推进遇阻，开工9个月后仍是一片荒草",
+      "url": "https://www.esmchina.com/news/14738.html",
+      "published_at": null,
+      "summary": "由越南军队工业电信集团（Viettel）主导建设的越南首座半导体前端晶圆厂，原本计划在2027年底完成建设并启动试生产，但路透社最新消息显示，这一时间表已难以保证。",
+      "author": null
+    },
+    {
+      "title": "Anthropic招股书揭开AI“最狂一面”",
+      "url": "https://www.esmchina.com/news/14737.html",
+      "published_at": null,
+      "summary": "半年亏807亿，1317亿现金在手...",
+      "author": null
+    },
     {
       "title": "恩智浦汽车业务单季破20亿美元：SDV含量驱动，整车产量基本持平",
       "url": "https://www.esmchina.com/news/14736.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14714.html",
       "published_at": null,
       "summary": "英伟达联合六家供应商全球扩产",
-      "author": null
-    },
-    {
-      "title": "CKL超科林品牌焕新：以“在中国，为中国”战略深耕本土半导体设备市场",
-      "url": "https://www.esmchina.com/news/14711.html",
-      "published_at": null,
-      "summary": "2026年，中国半导体设备国产化继续推进。其中，零部件配套正在成为设备本土化落地的关键一环。",
-      "author": null
-    },
-    {
-      "title": "中国向阿联酋交付首架飞行汽车，核心零部件定点名单都有谁？",
-      "url": "https://www.esmchina.com/news/14710.html",
-      "published_at": null,
-      "summary": "中国向中东“榜一大哥”交付首架飞行汽车，核心零部件定点名单都有谁？",
-      "author": null
-    },
-    {
-      "title": "高通11月开启全球绩效裁员",
-      "url": "https://www.esmchina.com/news/14709.html",
-      "published_at": null,
-      "summary": "当地时间10月19日，高通首席执行官克里斯蒂亚诺·阿蒙向全员发送内部备忘录称，公司将在年度绩效考核结束后实施“以绩效为导向的全球裁员”，相关通知预计从11月起陆续发出。",
-      "author": null
-    },
-    {
-      "title": "国家数据集团在雄安揭牌，央企名录增至100家",
-      "url": "https://www.esmchina.com/news/14708.html",
-      "published_at": null,
-      "summary": "10月20日，国家数据集团有限公司在河北雄安新区正式揭牌成立。这家以数据资源开发利用为主责主业的中央企业，由国务院国资委代表国务院履行出资人职责，并列入国务院国资委履行出资人职责的企业名单。",
       "author": null
     }
   ],
