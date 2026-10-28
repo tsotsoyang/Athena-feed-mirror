@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-28T10:44:12.464654+00:00",
-  "next_refresh_at": "2026-10-28T11:14:12.464654+00:00",
+  "fetched_at": "2026-10-28T17:00:23.202305+00:00",
+  "next_refresh_at": "2026-10-28T17:30:23.202305+00:00",
   "entries": [
     {
       "title": "Genie 4: A new generation of world simulation",
