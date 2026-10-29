@@ -2,9 +2,51 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-29T01:34:46.215205+00:00",
-  "next_refresh_at": "2026-10-29T02:04:46.215205+00:00",
+  "fetched_at": "2026-10-29T08:06:14.699537+00:00",
+  "next_refresh_at": "2026-10-29T08:36:14.699537+00:00",
   "entries": [
+    {
+      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+      "url": "https://news.skhynix.com/en/tech-note-series-ep3-6/",
+      "published_at": "2026-10-29T04:53:56+00:00",
+      "summary": "▲ HBM reduces the distance that data must travel within the same package as the GPU, while CPO improves data transfer efficiency across networks connecting multiple GPU systems.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+      "url": "https://news.skhynix.com/en/tech-note-series-ep3-5/",
+      "published_at": "2026-10-29T04:53:12+00:00",
+      "summary": "▲ LPO retains the pluggable optical module architecture while eliminating the DSP inside the module, whereas NPO places optical engines close to the switch chip but outside its package.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+      "url": "https://news.skhynix.com/en/tech-note-series-ep3-4/",
+      "published_at": "2026-10-29T04:51:54+00:00",
+      "summary": "▲ In the pluggable architecture on the left, electrical signals travel from the switch ASIC to the front-panel optical modules. In the CPO architecture on the right, the central switch ASIC and surrounding optical engines are placed on a common",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+      "url": "https://news.skhynix.com/en/tech-note-series-ep3-3/",
+      "published_at": "2026-10-29T04:50:57+00:00",
+      "summary": "▲ Silicon photonics directs light entering through an optical fiber into waveguides within a silicon photonic integrated circuit (PIC), where integrated components such as ring resonators, modulators, and photodetectors control the light. Within this small chip, electrical signals can be",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+      "url": "https://news.skhynix.com/en/tech-note-series-ep3-2/",
+      "published_at": "2026-10-29T04:49:45+00:00",
+      "summary": "▲ Copper is efficient over short distances, such as within semiconductor packages. However, as transmission speeds and distances increase, signal loss, heat generation, and repeater power consumption also rise, making optical interconnects that carry multiple wavelengths through a single fiber",
+      "author": "SK hynix"
+    },
+    {
+      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+      "url": "https://news.skhynix.com/en/tech-note-series-ep3-1/",
+      "published_at": "2026-10-29T04:45:33+00:00",
+      "summary": "▲ No matter how many computing devices an AI factory has, GPUs will be left waiting for data if the data transfer pathways are too narrow.",
+      "author": "SK hynix"
+    },
     {
       "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
       "url": "https://news.skhynix.com/en/tech-note-series-ep3/",
@@ -31,48 +73,6 @@
       "url": "https://news.skhynix.com/en/q3-2026-business-results/",
       "published_at": "2026-10-27T23:29:15+00:00",
       "summary": "▪ Reports revenues of 104.6155 trillion won, operating profit of 83.3338 trillion won, net profit of 39.7756 trillion won; Quarterly sales surpass 100 trillion won for the first time ▪ CEO Kwak Noh-Jung explains the background to the decision to",
-      "author": "SK hynix"
-    },
-    {
-      "title": "Solidigm to Discontinue Review of Potential IPO, Reaffirming Commitment to Long-Term Growth and Shareholder Value",
-      "url": "https://news.skhynix.com/en/fact-12/",
-      "published_at": "2026-10-22T22:33:42+00:00",
-      "summary": "▪ Solidigm has explored various funding options, including a potential IPO, to finance a new fab in the U.S. to meet growing AI memory demand. ▪ While an IPO was expected to ease investment burdens and expand capacity for shareholder",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Infrastructure Insight] How AI infrastructure will be designed for the future",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep4-3/",
-      "published_at": "2026-10-22T09:29:21+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Infrastructure Insight] How AI infrastructure will be designed for the future",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep4-2/",
-      "published_at": "2026-10-22T09:28:24+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Infrastructure Insight] How AI infrastructure will be designed for the future",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep4-1/",
-      "published_at": "2026-10-22T09:20:36+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[AI Infrastructure Insight] How AI infrastructure will be designed for the future",
-      "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep4/",
-      "published_at": "2026-10-22T06:00:37+00:00",
-      "summary": "AI is no longer defined by a single model or AI processor. For AI to operate effectively in real-world services and industrial applications, it takes faster compute, wider memory bandwidth, higher-performance networks, more efficient storage, and more stable power and",
-      "author": "SK hynix"
-    },
-    {
-      "title": "Q3 2026 Earnings Conference Call Invitation",
-      "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/",
-      "published_at": "2026-10-21T00:59:02+00:00",
-      "summary": "Dear All, SK hynix Inc. will present its Third quarter earnings of 2026 on October. 28th, 2026 (Wed.). Announcement of the earnings in a press release will be made before 9:00 a.m. of the day. The conference call will be",
       "author": "SK hynix"
     }
   ],
