@@ -2,9 +2,16 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-10-29T08:06:19.019844+00:00",
-  "next_refresh_at": "2026-10-29T08:36:19.019844+00:00",
+  "fetched_at": "2026-10-29T15:24:48.887556+00:00",
+  "next_refresh_at": "2026-10-29T15:54:48.887556+00:00",
   "entries": [
+    {
+      "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "published_at": "2026-10-29T12:00:07+00:00",
+      "summary": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+      "author": null
+    },
     {
       "title": "Mistral Advances AI for Engineering with NVIDIA",
       "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
@@ -171,13 +178,6 @@
       "url": "https://mistral.ai/news/accelerate-ai-native-industry/",
       "published_at": "2026-05-23T12:00:26+00:00",
       "summary": "",
-      "author": null
-    },
-    {
-      "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.",
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
-      "published_at": "2026-05-22T15:01:55+00:00",
-      "summary": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.",
       "author": null
     }
   ],
