@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-30T18:44:09.452564+00:00",
-  "next_refresh_at": "2026-10-30T19:14:09.452564+00:00",
+  "fetched_at": "2026-10-30T22:48:16.078532+00:00",
+  "next_refresh_at": "2026-10-30T23:18:16.078532+00:00",
   "entries": [
     {
       "title": "Making it easier for websites to express AI training preferences",
@@ -17,6 +17,13 @@
       "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "published_at": "2026-10-30T09:00:00+00:00",
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "author": null
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/decisions-api",
       "published_at": "2026-10-22T19:00:00+00:00",
       "summary": "Fast, focused, low-cost decisions for any application.",
-      "author": null
-    },
-    {
-      "title": "What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "published_at": "2026-10-22T06:00:00+00:00",
-      "summary": "What forward deployed engineering means at OpenAI",
       "author": null
     }
   ],
