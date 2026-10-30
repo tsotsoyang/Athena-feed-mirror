@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-10-30T00:08:42.877462+00:00",
-  "next_refresh_at": "2026-10-30T00:38:42.877462+00:00",
+  "fetched_at": "2026-10-30T06:13:57.604147+00:00",
+  "next_refresh_at": "2026-10-30T06:43:57.604147+00:00",
   "entries": [
     {
       "title": "Gemini 4 Carbon: Our next frontier model",

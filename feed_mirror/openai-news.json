@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-30T00:08:34.726636+00:00",
-  "next_refresh_at": "2026-10-30T00:38:34.726636+00:00",
+  "fetched_at": "2026-10-30T06:13:50.225000+00:00",
+  "next_refresh_at": "2026-10-30T06:43:50.225000+00:00",
   "entries": [
     {
       "title": "An updated Model Spec for more capable and beneficial AI",

@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-30T00:08:32.523322+00:00",
-  "next_refresh_at": "2026-10-30T00:38:32.523322+00:00",
+  "fetched_at": "2026-10-30T06:13:48.108475+00:00",
+  "next_refresh_at": "2026-10-30T06:43:48.108475+00:00",
   "entries": [
+    {
+      "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
+      "url": "https://news.skhynix.com/en/2026-partners-day-japan/",
+      "published_at": "2026-10-30T04:50:32+00:00",
+      "summary": "As advances in AI technology drive rapid growth in memory demand, global collaboration is becoming increasingly important to securing stable supply chains. In order to share its business direction and further strengthen their partnerships, SK hynix brought together key partners",
+      "author": "SK hynix"
+    },
     {
       "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
       "url": "https://news.skhynix.com/en/tech-note-series-ep3-6/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call/",
       "published_at": "2026-10-28T00:01:48+00:00",
       "summary": "Please use the link below to access the conference call. Email verification is required. https://irsvc.teletogether.com/hynix/hynix2026Q3_eng.php",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Announces 3Q26 Financial Results",
-      "url": "https://news.skhynix.com/en/q3-2026-business-results/",
-      "published_at": "2026-10-27T23:29:15+00:00",
-      "summary": "▪ Reports revenues of 104.6155 trillion won, operating profit of 83.3338 trillion won, net profit of 39.7756 trillion won; Quarterly sales surpass 100 trillion won for the first time ▪ CEO Kwak Noh-Jung explains the background to the decision to",
       "author": "SK hynix"
     }
   ],
