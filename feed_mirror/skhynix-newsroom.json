@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-10-29T20:26:50.544799+00:00",
-  "next_refresh_at": "2026-10-29T20:56:50.544799+00:00",
+  "fetched_at": "2026-10-30T00:08:32.523322+00:00",
+  "next_refresh_at": "2026-10-30T00:38:32.523322+00:00",
   "entries": [
     {
       "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
