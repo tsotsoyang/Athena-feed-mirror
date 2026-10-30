@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-30T13:20:30.133733+00:00",
-  "next_refresh_at": "2026-10-30T13:50:30.133733+00:00",
+  "fetched_at": "2026-10-30T18:44:27.669848+00:00",
+  "next_refresh_at": "2026-10-30T19:14:27.669848+00:00",
   "entries": [
+    {
+      "title": "同比大增613%，长鑫科技第三季度营收突破千亿",
+      "url": "https://www.esmchina.com/news/14748.html",
+      "published_at": null,
+      "summary": "10月30日，长鑫科技正式发布2026年第三季度报告。财报显示，公司业绩迎来爆发式增长：第三季度（7-9月）实现营业收入约1,187.14亿元，环比增长约19.30%；实现净利润约889.83亿元，环比增长约19.38%。",
+      "author": null
+    },
     {
       "title": "美国FCC：2028年起，中国实验室退出美国电子产品认证",
       "url": "https://www.esmchina.com/news/14747.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14725.html",
       "published_at": null,
       "summary": "一年两起并购、产品从电到光全栈打通，这家以SerDes起家的公司，正在从芯片商转向AI基础设施的互联方案商。",
-      "author": null
-    },
-    {
-      "title": "美国FCC首次动用新规拦截海思芯片设备",
-      "url": "https://www.esmchina.com/news/14724.html",
-      "published_at": null,
-      "summary": "美国联邦通信委员会(FCC)宣布，已依据10月13日刚生效的新规，阻止两款搭载华为旗下海思半导体芯片的民用设备进入美国市场。",
       "author": null
     }
   ],
