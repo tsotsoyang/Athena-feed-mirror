@@ -2,8 +2,8 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-10-31T02:03:26.558510+00:00",
-  "next_refresh_at": "2026-10-31T02:33:26.558510+00:00",
+  "fetched_at": "2026-10-31T08:41:09.745255+00:00",
+  "next_refresh_at": "2026-10-31T09:11:09.745255+00:00",
   "entries": [
     {
       "title": "同比大增613%，长鑫科技第三季度营收突破千亿",
@@ -13,7 +13,7 @@
       "author": null
     },
     {
-      "title": "美国FCC：2028年起，中国实验室退出美国电子产品认证",
+      "title": "美国FCC：2028年起，中国实验室退出输美电子产品认证",
       "url": "https://www.esmchina.com/news/14747.html",
       "published_at": null,
       "summary": "美国联邦通信委员会（FCC）投票通过新规，禁止所有位于中国境内的实验室为拟在美国市场使用的电子设备提供FCC认证检测服务。",

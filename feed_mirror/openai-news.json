@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-10-31T02:03:09.974049+00:00",
-  "next_refresh_at": "2026-10-31T02:33:09.974049+00:00",
+  "fetched_at": "2026-10-31T08:40:54.368005+00:00",
+  "next_refresh_at": "2026-10-31T09:10:54.368005+00:00",
   "entries": [
     {
       "title": "Making it easier for websites to express AI training preferences",
