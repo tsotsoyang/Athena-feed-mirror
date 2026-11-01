@@ -2,8 +2,8 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-11-01T15:49:23.010473+00:00",
-  "next_refresh_at": "2026-11-01T16:19:23.010473+00:00",
+  "fetched_at": "2026-11-01T20:15:15.796816+00:00",
+  "next_refresh_at": "2026-11-01T20:45:15.796816+00:00",
   "entries": [
     {
       "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real | DeepSeek API Docs",
