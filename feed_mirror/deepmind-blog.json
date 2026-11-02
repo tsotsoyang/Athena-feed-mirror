@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-02T04:45:23.026087+00:00",
-  "next_refresh_at": "2026-11-02T05:15:23.026087+00:00",
+  "fetched_at": "2026-11-02T13:09:10.144005+00:00",
+  "next_refresh_at": "2026-11-02T13:39:10.144005+00:00",
   "entries": [
+    {
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "published_at": "2026-10-30T14:18:30+00:00",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "author": null
+    },
     {
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
       "published_at": "2026-08-21T11:59:48+00:00",
       "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "author": null
-    },
-    {
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "published_at": "2026-08-13T17:04:18+00:00",
-      "summary": "",
       "author": null
     }
   ],
