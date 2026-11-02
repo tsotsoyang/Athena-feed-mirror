@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-01T23:46:31.659915+00:00",
-  "next_refresh_at": "2026-11-02T00:16:31.659915+00:00",
+  "fetched_at": "2026-11-02T04:45:32.675950+00:00",
+  "next_refresh_at": "2026-11-02T05:15:32.675950+00:00",
   "entries": [
+    {
+      "title": "单季营收超上年全年，股价却暴跌15%！铠侠财报为何吓坏市场？",
+      "url": "https://www.esmchina.com/news/14751.html",
+      "published_at": null,
+      "summary": "全球NAND闪存龙头铠侠发布2026财年第二财季业绩，7至9月经营数据创出历史新高，单季营收规模一举超过2025财年全年总量。",
+      "author": null
+    },
+    {
+      "title": "闻泰科技与安世荷兰达成谈判保密安排",
+      "url": "https://www.esmchina.com/news/14750.html",
+      "published_at": null,
+      "summary": "日前，*ST闻泰（600745）在投资者互动平台披露，公司已与荷兰安世半导体管理人就谈判事项达成保密安排，双方在具体谈判过程中需严格遵守。",
+      "author": null
+    },
+    {
+      "title": "2.2亿拿下奇捷科技控股权，华大九天前三季净利翻近两倍",
+      "url": "https://www.esmchina.com/news/14749.html",
+      "published_at": null,
+      "summary": "随着芯片制程演进和设计复杂化，逻辑优化工具在减少设计迭代、降低流片成本方面的作用日益凸显。",
+      "author": null
+    },
+    {
+      "title": "端侧AI爆发的四大核心品类与三重现实约束",
+      "url": "https://www.esmchina.com/news/14691.html",
+      "published_at": null,
+      "summary": "自2022年11月30日OpenAI开启&amp;ldquo;ChatGPT时刻&amp;rdquo;以来，业界对AI落地路径的关注便从云端延展到端侧。经历数年云端算力的快速迭代与模型成熟，AI模型已加速下沉至终端设备",
+      "author": null
+    },
     {
       "title": "同比大增613%，长鑫科技第三季度营收突破千亿",
       "url": "https://www.esmchina.com/news/14748.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14730.html",
       "published_at": null,
       "summary": "当地时间10月26日，微软宣布向约6万名员工提供自愿离职补偿方案（Voluntary Exit Offer，VEO）。据估算，该方案符合资格人数约占员工总数的27%。",
-      "author": null
-    },
-    {
-      "title": "SpaceX签400亿美元GPU融资租赁：锁定英伟达Vera Rubin，2027年上半年起租",
-      "url": "https://www.esmchina.com/news/14729.html",
-      "published_at": null,
-      "summary": "不买了，SpaceX花400亿美元租GPU及设备",
-      "author": null
-    },
-    {
-      "title": "英特尔宣布收购Classiq，打造全栈量子计算平台",
-      "url": "https://www.esmchina.com/news/14728.html",
-      "published_at": null,
-      "summary": "10月27日，英特尔宣布已就收购以色列量子计算软件初创公司Classiq Technologies达成最终协议。交易预计于2027年上半年完成。",
-      "author": null
-    },
-    {
-      "title": "8.33亿元！圣邦股份拿下申矽凌58.29%股权",
-      "url": "https://www.esmchina.com/news/14727.html",
-      "published_at": null,
-      "summary": "10月26日晚间，圣邦微电子（北京）股份有限公司发布公告称，公司已于当日与27名卖方及保证方王玉签署《股份转让协议》，拟以现金对价8.33亿元收购上海申矽凌微电子科技股份有限公司58.2878%的股份。",
-      "author": null
-    },
-    {
-      "title": "并购硅光公司后，Credo把系统级互联拼成了完整版图",
-      "url": "https://www.esmchina.com/news/14725.html",
-      "published_at": null,
-      "summary": "一年两起并购、产品从电到光全栈打通，这家以SerDes起家的公司，正在从芯片商转向AI基础设施的互联方案商。",
       "author": null
     }
   ],
