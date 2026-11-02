@@ -2,9 +2,16 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-11-02T13:09:00.535230+00:00",
-  "next_refresh_at": "2026-11-02T13:39:00.535230+00:00",
+  "fetched_at": "2026-11-02T22:24:58.426063+00:00",
+  "next_refresh_at": "2026-11-02T22:54:58.426063+00:00",
   "entries": [
+    {
+      "title": "Crafting a Winning OCP Summit Breakout Submission: A Guide to Collaboration, Innovation, and Community Impact",
+      "url": "https://www.opencompute.org/news/crafting-a-winning-ocp-summit-breakout-submission-a-guide-to-collaboration-innovation-and-community-impact-2/",
+      "published_at": "2026-11-02T14:29:32+00:00",
+      "summary": "The Open Compute Project (OCP) Summits are more than just an event—they are a hub for innovation, collaboration, and the collective advancement of open infrastructure. Submitting a breakout session proposal offers a unique opportunity to showcase your organization’s contributions, engage with the OCP Community, and help drive the industry forward. But what does it take [&#8230;] The post Crafting a Winning OCP Summit Breakout Submission: A Guide to Collaboration, Innovation, and Community Impact appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
     {
       "title": "2026 OCP Global Summit By the Numbers",
       "url": "https://www.opencompute.org/news/2026-ocp-global-summit-by-the-numbers/",
@@ -66,13 +73,6 @@
       "url": "https://www.opencompute.org/news/ocp-global-summit-is-moving-to-a-new-location/",
       "published_at": "2026-09-01T00:48:54+00:00",
       "summary": "Beginning in 2027, the annual OCP Global Summit is moving to a new location! The OCP Global Summit will move to the Moscone Center in downtown San Francisco, California, marking an exciting new chapter for our global event and Community. San Jose has been an important home for the OCP Global Summit for many years, [&#8230;] The post OCP Global Summit is moving to a new location! appeared first on Open Compute Project .",
-      "author": "OCP Editorial"
-    },
-    {
-      "title": "2026 OCP APAC Summit: By the Numbers",
-      "url": "https://www.opencompute.org/news/2026-ocp-apac-summit-by-the-numbers/",
-      "published_at": "2026-08-27T20:00:00+00:00",
-      "summary": "The 2026 OCP APAC Summit brought nearly 2,500 attendees of the global OCP Community together at TaiNEX2 in Taipei City, Taiwan, on August 11–12, making this year&#8217;s gathering a tremendous success and demonstrating the continued growth and importance of the OCP Community across the Asia Pacific region. Thank you to our Members, Sponsors, Partners, Volunteers, [&#8230;] The post 2026 OCP APAC Summit: By the Numbers appeared first on Open Compute Project .",
       "author": "OCP Editorial"
     }
   ],

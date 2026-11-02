@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-02T13:09:19.303239+00:00",
-  "next_refresh_at": "2026-11-02T13:39:19.303239+00:00",
+  "fetched_at": "2026-11-02T22:25:14.523196+00:00",
+  "next_refresh_at": "2026-11-02T22:55:14.523196+00:00",
   "entries": [
+    {
+      "title": "定了！1150亿美元，Marvell正式收购Lumentum",
+      "url": "https://www.esmchina.com/news/14755.html",
+      "published_at": null,
+      "summary": "Marvell宣布以约1150亿美元全股票方式收购光通信器件龙头Lumentum，交易溢价约23.9%，预计2028年上半年完成。",
+      "author": null
+    },
     {
       "title": "香港电讯与美国FCC达成和解，不认罪、不罚款，只退出",
       "url": "https://www.esmchina.com/news/14753.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14734.html",
       "published_at": null,
       "summary": "SK海力士发布2026财年第三季度财务报告，营收与营业利润均创季度历史最高纪录，营收史上首次突破100万亿韩元。",
-      "author": null
-    },
-    {
-      "title": "距离2027年4月1日还有5个月：充电宝新国标落地，无线充模块的七项合规改造清单",
-      "url": "https://www.esmchina.com/news/14733.html",
-      "published_at": null,
-      "summary": "留给整机厂启动项目的时间窗口，只剩 2026 年 10 月到 12 月这一季度。错过这个窗口，2027 年 4 月 1 日之后产品无法换证，在售型号面临下架。",
       "author": null
     }
   ],
