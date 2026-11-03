@@ -2,14 +2,14 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-11-02T22:25:11.881235+00:00",
-  "next_refresh_at": "2026-11-02T22:55:11.881235+00:00",
+  "fetched_at": "2026-11-03T03:37:08.650945+00:00",
+  "next_refresh_at": "2026-11-03T04:07:08.650945+00:00",
   "entries": [
     {
-      "title": "Oct 14, 2026 Introducing Grok Voice 3.0 The world’s most intelligent voice model. Read More",
+      "title": "Introducing Grok Voice 3.0 | SpaceXSI",
       "url": "https://x.ai/news/grok-voice-3",
       "published_at": null,
-      "summary": "",
+      "summary": "The world’s most intelligent voice model.",
       "author": null
     },
     {
@@ -27,10 +27,10 @@
       "author": null
     },
     {
-      "title": "Company · Oct 22, 2026 Introducing the SpaceX Super Intelligence Partner Network",
+      "title": "Introducing the SpaceX Super Intelligence Partner Network | SpaceXSI",
       "url": "https://x.ai/news/partnernetworkannouncement",
       "published_at": null,
-      "summary": "",
+      "summary": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
       "author": null
     },
     {

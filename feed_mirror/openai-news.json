@@ -2,14 +2,35 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-02T22:24:59.733914+00:00",
-  "next_refresh_at": "2026-11-02T22:54:59.733914+00:00",
+  "fetched_at": "2026-11-03T03:36:50.803478+00:00",
+  "next_refresh_at": "2026-11-03T04:06:50.803478+00:00",
   "entries": [
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "published_at": "2026-11-02T15:30:00+00:00",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "author": null
+    },
     {
       "title": "Introducing the Grid Protectors Program",
       "url": "https://openai.com/index/grid-protectors-program",
       "published_at": "2026-11-02T15:00:00+00:00",
       "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "author": null
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published_at": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "author": null
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published_at": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "author": null
     },
     {
@@ -24,6 +45,13 @@
       "url": "https://openai.com/index/qodo-codex-plugin",
       "published_at": "2026-11-02T00:00:00+00:00",
       "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "author": null
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
       "author": null
     },
     {
@@ -150,34 +178,6 @@
       "url": "https://openai.com/index/fanatics-streamline-fan-experience",
       "published_at": "2026-10-26T07:00:00+00:00",
       "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "author": null
-    },
-    {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "author": null
-    },
-    {
-      "title": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "author": null
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "published_at": "2026-10-23T17:00:00+00:00",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "author": null
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "published_at": "2026-10-23T10:00:00+00:00",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
       "author": null
     }
   ],

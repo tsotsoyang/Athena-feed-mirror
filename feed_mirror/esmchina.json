@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-02T22:25:14.523196+00:00",
-  "next_refresh_at": "2026-11-02T22:55:14.523196+00:00",
+  "fetched_at": "2026-11-03T03:37:03.590050+00:00",
+  "next_refresh_at": "2026-11-03T04:07:03.590050+00:00",
   "entries": [
+    {
+      "title": "1144亿美元！苹果9月财季营收创新高，但存储涨价压住下季毛利",
+      "url": "https://www.esmchina.com/news/14758.html",
+      "published_at": null,
+      "summary": "2026全财年，苹果营收达到4788.34亿美元，较2025财年的4161.61亿美元增长15.1%，创公司财年历史新高。",
+      "author": null
+    },
+    {
+      "title": "三星计划2030年底前关闭8英寸晶圆代工产线",
+      "url": "https://www.esmchina.com/news/14757.html",
+      "published_at": null,
+      "summary": "这家半导体大厂计划2030年退出8英寸晶圆代工市场",
+      "author": null
+    },
+    {
+      "title": "【正在直播】 图像传感器实战：从车载ADAS到工业视觉的选型与调试​",
+      "url": "https://www.eet-china.com/webinars/entry/Serial_20261103.html?source=pop",
+      "published_at": null,
+      "summary": "本期研讨会聚焦图像传感器在复杂光照下的成像表现，涵盖产品背景、市场应用、关键参数及开发工具与生态",
+      "author": null
+    },
     {
       "title": "定了！1150亿美元，Marvell正式收购Lumentum",
       "url": "https://www.esmchina.com/news/14755.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14737.html",
       "published_at": null,
       "summary": "半年亏807亿，1317亿现金在手...",
-      "author": null
-    },
-    {
-      "title": "恩智浦汽车业务单季破20亿美元：SDV含量驱动，整车产量基本持平",
-      "url": "https://www.esmchina.com/news/14736.html",
-      "published_at": null,
-      "summary": "恩智浦汽车业务单季破20亿美元",
-      "author": null
-    },
-    {
-      "title": "营收273亿、净利5.88亿：深圳华强前三季靠存储与AI分发跑出高增",
-      "url": "https://www.esmchina.com/news/14735.html",
-      "published_at": null,
-      "summary": "深圳华强前三季度的营收与利润增长，折射出上游芯片景气向渠道端传导的过程。",
-      "author": null
-    },
-    {
-      "title": "SK海力士Q3营收首破百万亿韩元，供不应求或持续至2030年",
-      "url": "https://www.esmchina.com/news/14734.html",
-      "published_at": null,
-      "summary": "SK海力士发布2026财年第三季度财务报告，营收与营业利润均创季度历史最高纪录，营收史上首次突破100万亿韩元。",
       "author": null
     }
   ],
