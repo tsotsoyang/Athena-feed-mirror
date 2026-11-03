@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-11-03T11:39:55.060499+00:00",
-  "next_refresh_at": "2026-11-03T12:09:55.060499+00:00",
+  "fetched_at": "2026-11-03T19:09:29.826066+00:00",
+  "next_refresh_at": "2026-11-03T19:39:29.826066+00:00",
   "entries": [
     {
       "title": "Introducing Grok Voice 3.0 | SpaceXSI",
@@ -23,7 +23,7 @@
       "title": "Your next sales teammate should be a Grok Bot | SpaceXSI",
       "url": "https://x.ai/news/grok-bot-sales",
       "published_at": null,
-      "summary": "The SpaceXSI Sales team built Shared Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.",
+      "summary": "The SpaceXSI Sales team built Team Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.",
       "author": null
     },
     {

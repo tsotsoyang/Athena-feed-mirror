@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-11-03T11:39:37.032341+00:00",
-  "next_refresh_at": "2026-11-03T12:09:37.032341+00:00",
+  "fetched_at": "2026-11-03T19:09:12.866310+00:00",
+  "next_refresh_at": "2026-11-03T19:39:12.866310+00:00",
   "entries": [
     {
       "title": "Crafting a Winning OCP Summit Breakout Submission: A Guide to Collaboration, Innovation, and Community Impact",
