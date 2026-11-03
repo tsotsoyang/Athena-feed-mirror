@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-03T03:36:50.803478+00:00",
-  "next_refresh_at": "2026-11-03T04:06:50.803478+00:00",
+  "fetched_at": "2026-11-03T11:39:38.700041+00:00",
+  "next_refresh_at": "2026-11-03T12:09:38.700041+00:00",
   "entries": [
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "author": null
+    },
     {
       "title": "Scaling Git at OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "published_at": "2026-10-26T10:00:00+00:00",
       "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "author": null
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
       "author": null
     }
   ],

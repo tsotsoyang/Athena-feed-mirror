@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-11-03T03:36:58.380752+00:00",
-  "next_refresh_at": "2026-11-03T04:06:58.380752+00:00",
+  "fetched_at": "2026-11-03T11:39:41.528006+00:00",
+  "next_refresh_at": "2026-11-03T12:09:41.528006+00:00",
   "entries": [
     {
       "title": "Le Chonk: Built for Coders, Trusted by Defenders.",

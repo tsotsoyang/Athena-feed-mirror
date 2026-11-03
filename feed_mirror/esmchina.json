@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-03T03:37:03.590050+00:00",
-  "next_refresh_at": "2026-11-03T04:07:03.590050+00:00",
+  "fetched_at": "2026-11-03T11:39:53.776483+00:00",
+  "next_refresh_at": "2026-11-03T12:09:53.776483+00:00",
   "entries": [
+    {
+      "title": "中国LoRa生态现状：从抄表到“上天入地”，第四代技术拐点已至",
+      "url": "https://www.esmchina.com/news/14761.html",
+      "published_at": null,
+      "summary": "LoRa技术的底层协议始终是LoRaWAN，今天其所承载的应用场景也远不止“抄表”这么简单——卫星连接让它“上天”，边缘AI让它“入地”。",
+      "author": null
+    },
+    {
+      "title": "最高判10年！台当局拟把高阶芯片出口大陆列为刑事犯罪",
+      "url": "https://www.esmchina.com/news/14759.html",
+      "published_at": null,
+      "summary": "中国台湾地区相关机构表示，在台美对等贸易协定（ART）承诺下，将依据其所谓“贸易法”授权，研议把高阶芯片等高科技货品纳入出口管制的整体配套。",
+      "author": null
+    },
+    {
+      "title": "大模型时代需要什么样的芯片？XHEART携Momenta、台积电交出量产答卷",
+      "url": "https://www.esmchina.com/news/14760.html",
+      "published_at": null,
+      "summary": "模型架构的变化，对底层算力提出了新的要求：算力能否在真实量产模型中充分发挥？今天设计的芯片能否跟上明天的模型迭代？能否在合理能耗下获得所需智能？",
+      "author": null
+    },
     {
       "title": "1144亿美元！苹果9月财季营收创新高，但存储涨价压住下季毛利",
       "url": "https://www.esmchina.com/news/14758.html",
@@ -17,13 +38,6 @@
       "url": "https://www.esmchina.com/news/14757.html",
       "published_at": null,
       "summary": "这家半导体大厂计划2030年退出8英寸晶圆代工市场",
-      "author": null
-    },
-    {
-      "title": "【正在直播】 图像传感器实战：从车载ADAS到工业视觉的选型与调试​",
-      "url": "https://www.eet-china.com/webinars/entry/Serial_20261103.html?source=pop",
-      "published_at": null,
-      "summary": "本期研讨会聚焦图像传感器在复杂光照下的成像表现，涵盖产品背景、市场应用、关键参数及开发工具与生态",
       "author": null
     },
     {
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14740.html",
       "published_at": null,
       "summary": "英飞凌今日宣布，将在奥地利菲拉赫（Villach）建设欧洲首座采用300毫米晶圆制程生产氮化镓（GaN）功率半导体的大规模量产工厂，总投资额约11亿欧元，计划于2027年底前投产。",
-      "author": null
-    },
-    {
-      "title": "越南首座晶圆厂推进遇阻，开工9个月后仍是一片荒草",
-      "url": "https://www.esmchina.com/news/14738.html",
-      "published_at": null,
-      "summary": "由越南军队工业电信集团（Viettel）主导建设的越南首座半导体前端晶圆厂，原本计划在2027年底完成建设并启动试生产，但路透社最新消息显示，这一时间表已难以保证。",
-      "author": null
-    },
-    {
-      "title": "Anthropic招股书揭开AI“最狂一面”",
-      "url": "https://www.esmchina.com/news/14737.html",
-      "published_at": null,
-      "summary": "半年亏807亿，1317亿现金在手...",
       "author": null
     }
   ],
