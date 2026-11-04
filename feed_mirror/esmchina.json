@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-04T00:05:56.001136+00:00",
-  "next_refresh_at": "2026-11-04T00:35:56.001136+00:00",
+  "fetched_at": "2026-11-04T06:51:53.588828+00:00",
+  "next_refresh_at": "2026-11-04T07:21:53.588828+00:00",
   "entries": [
+    {
+      "title": "恩智浦年内第三轮调价：2027年1月起部分产品线涨价",
+      "url": "https://www.esmchina.com/news/14763.html",
+      "published_at": null,
+      "summary": "恩智浦一年内涨三次，这次连涨幅度都没给",
+      "author": null
+    },
+    {
+      "title": "英伟达“51%红线”：芯片之后，海外算力租赁也开始受限",
+      "url": "https://www.esmchina.com/news/14762.html",
+      "published_at": null,
+      "summary": "英伟达被曝要求海外云服务商，至少51%算力服务卖给非中国企业。",
+      "author": null
+    },
     {
       "title": "中国LoRa生态现状：从抄表到“上天入地”，第四代技术拐点已至",
       "url": "https://www.esmchina.com/news/14761.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14739.html",
       "published_at": null,
       "summary": "随着人工智能（AI）投资在技术全栈领域加速，IT支出将首次突破7万亿美元大关。",
-      "author": null
-    },
-    {
-      "title": "当整车厂扎堆下场造人形机器人",
-      "url": "https://www.esmchina.com/news/14681.html",
-      "published_at": null,
-      "summary": "车企“跨界”造人形机器人，五年前还被质疑为“不务正业”，如今却已成为产业界竞相押注的战略新赛道。风向的转变，似乎就发生在朝夕之间。",
-      "author": null
-    },
-    {
-      "title": "全球首座300mm氮化镓量产工厂落地奥地利",
-      "url": "https://www.esmchina.com/news/14740.html",
-      "published_at": null,
-      "summary": "英飞凌今日宣布，将在奥地利菲拉赫（Villach）建设欧洲首座采用300毫米晶圆制程生产氮化镓（GaN）功率半导体的大规模量产工厂，总投资额约11亿欧元，计划于2027年底前投产。",
       "author": null
     }
   ],
