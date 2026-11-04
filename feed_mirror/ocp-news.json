@@ -2,9 +2,16 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-11-04T15:09:03.176275+00:00",
-  "next_refresh_at": "2026-11-04T15:39:03.176275+00:00",
+  "fetched_at": "2026-11-04T21:25:04.834410+00:00",
+  "next_refresh_at": "2026-11-04T21:55:04.834410+00:00",
   "entries": [
+    {
+      "title": "Call for Nominations: OCP top-level Project Lead Elections",
+      "url": "https://www.opencompute.org/news/call-for-nominations-ocp-top-level-project-leads/",
+      "published_at": "2026-11-04T16:42:06+00:00",
+      "summary": "Call for Nominations: OCP top-level Project Lead Elections The Open Compute Project (OCP) Foundation is opening nominations for Project Leads across all 12 top-level OCP Projects. If you have helped shape an OCP Project and want to guide where it goes next, we want you to be involved! Fill out the Project Lead nomination form [&#8230;] The post Call for Nominations: OCP top-level Project Lead Elections appeared first on Open Compute Project .",
+      "author": "michael.schill@opencompute.org"
+    },
     {
       "title": "Crafting a Winning OCP Summit Breakout Submission: A Guide to Collaboration, Innovation, and Community Impact",
       "url": "https://www.opencompute.org/news/crafting-a-winning-ocp-summit-breakout-submission-a-guide-to-collaboration-innovation-and-community-impact-2/",
@@ -66,13 +73,6 @@
       "url": "https://www.opencompute.org/news/ocp-global-summit-2026-innovation-village-future-technologies-symposium-fts-demo-lineup/",
       "published_at": "2026-09-22T20:00:00+00:00",
       "summary": "See emerging infrastructure technologies in action at the 2026 OCP Global Summit’s Innovation Village, featuring demonstrations from the Future Technologies Symposium (FTS) and across the OCP Community. Explore the lineup below, organized by technical zone, for working prototypes, live demos and interactive displays spanning liquid cooling, power delivery, chiplets, optical networking and data center robotics—and [&#8230;] The post OCP Global Summit 2026: Innovation Village &amp; Future Technologies Symposium (FTS) Demo Lineup appeared first on Open Compute Project .",
-      "author": "OCP Editorial"
-    },
-    {
-      "title": "OCP Global Summit is moving to a new location!",
-      "url": "https://www.opencompute.org/news/ocp-global-summit-is-moving-to-a-new-location/",
-      "published_at": "2026-09-01T00:48:54+00:00",
-      "summary": "Beginning in 2027, the annual OCP Global Summit is moving to a new location! The OCP Global Summit will move to the Moscone Center in downtown San Francisco, California, marking an exciting new chapter for our global event and Community. San Jose has been an important home for the OCP Global Summit for many years, [&#8230;] The post OCP Global Summit is moving to a new location! appeared first on Open Compute Project .",
       "author": "OCP Editorial"
     }
   ],

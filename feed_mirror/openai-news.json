@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-04T15:09:05.556223+00:00",
-  "next_refresh_at": "2026-11-04T15:39:05.556223+00:00",
+  "fetched_at": "2026-11-04T21:25:06.852640+00:00",
+  "next_refresh_at": "2026-11-04T21:55:06.852640+00:00",
   "entries": [
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
