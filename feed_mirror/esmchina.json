@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-04T06:51:53.588828+00:00",
-  "next_refresh_at": "2026-11-04T07:21:53.588828+00:00",
+  "fetched_at": "2026-11-04T15:09:22.774372+00:00",
+  "next_refresh_at": "2026-11-04T15:39:22.774372+00:00",
   "entries": [
+    {
+      "title": "400亿“卖身”传闻一夜澄清，中兴手机业务值不值这个价？",
+      "url": "https://www.esmchina.com/news/14765.html",
+      "published_at": null,
+      "summary": "算力已成第一大收入来源。",
+      "author": null
+    },
+    {
+      "title": "闻泰拒绝安世“双圈”方案，荷兰方面索赔20亿美元",
+      "url": "https://www.esmchina.com/news/14766.html",
+      "published_at": null,
+      "summary": "闻泰科技披露安世半导体控制权争端最新进展：荷兰管理人提出“双圈”拆分方案遭公司书面拒绝，安世境外主体起诉索赔20亿美元，但荷兰法院尚未正式立案。",
+      "author": null
+    },
     {
       "title": "恩智浦年内第三轮调价：2027年1月起部分产品线涨价",
       "url": "https://www.esmchina.com/news/14763.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14741.html",
       "published_at": null,
       "summary": "据彭博社10月28日报道，芯片制造商Marvell Technology正与光器件供应商Lumentum Holdings进行深入收购谈判，交易最快可能于下周宣布。",
-      "author": null
-    },
-    {
-      "title": "AI生成的代码越来越多，开源维护者为何称其为“垃圾”？",
-      "url": "https://www.esmchina.com/news/14719.html",
-      "published_at": null,
-      "summary": "人工智能（AI）能够生成底层代码，但代码生成也使得构建和维护我们所需的软件生态系统变得更加困难。",
-      "author": null
-    },
-    {
-      "title": "AI基建狂飙驱动全球IT支出首破7万亿，2027年达7.35万亿美元",
-      "url": "https://www.esmchina.com/news/14739.html",
-      "published_at": null,
-      "summary": "随着人工智能（AI）投资在技术全栈领域加速，IT支出将首次突破7万亿美元大关。",
       "author": null
     }
   ],
