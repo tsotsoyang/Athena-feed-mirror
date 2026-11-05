@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-05T09:01:37.007975+00:00",
-  "next_refresh_at": "2026-11-05T09:31:37.007975+00:00",
+  "fetched_at": "2026-11-05T17:32:24.206053+00:00",
+  "next_refresh_at": "2026-11-05T18:02:24.206053+00:00",
   "entries": [
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "published_at": "2026-11-05T02:00:00+00:00",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "author": null
+    },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
@@ -83,17 +90,17 @@
       "author": null
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "published_at": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "author": null
-    },
-    {
       "title": "Rewarding defenders with bigger bug bounties",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "published_at": "2026-11-02T18:00:00+00:00",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "author": null
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published_at": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "author": null
     },
     {
@@ -104,17 +111,17 @@
       "author": null
     },
     {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "published_at": "2026-11-02T00:00:00+00:00",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "author": null
-    },
-    {
       "title": "Qodo builds context into AI code review with Codex",
       "url": "https://openai.com/index/qodo-codex-plugin",
       "published_at": "2026-11-02T00:00:00+00:00",
       "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "author": null
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/ads/customers/evernote",
       "published_at": "2026-10-28T19:40:49+00:00",
       "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-      "author": null
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "published_at": "2026-10-28T13:15:00+00:00",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "author": null
     }
   ],
