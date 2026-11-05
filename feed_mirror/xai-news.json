@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-11-04T21:25:16.968692+00:00",
-  "next_refresh_at": "2026-11-04T21:55:16.968692+00:00",
+  "fetched_at": "2026-11-05T01:40:17.215668+00:00",
+  "next_refresh_at": "2026-11-05T02:10:17.215668+00:00",
   "entries": [
     {
       "title": "Introducing Grok Voice 3.0 | SpaceXSI",
@@ -76,10 +76,10 @@
       "author": null
     },
     {
-      "title": "Memory in Grok Build | SpaceXSI",
+      "title": "Memory in Grok Build Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project. Sep 16, 2026",
       "url": "https://x.ai/news/grok-build-memory",
       "published_at": null,
-      "summary": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
+      "summary": "",
       "author": null
     },
     {

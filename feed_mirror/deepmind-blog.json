@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-04T21:25:14.239273+00:00",
-  "next_refresh_at": "2026-11-04T21:55:14.239273+00:00",
+  "fetched_at": "2026-11-05T01:40:10.145278+00:00",
+  "next_refresh_at": "2026-11-05T02:10:10.145278+00:00",
   "entries": [
     {
       "title": "Agentic cheminformatics with Google Antigravity",
