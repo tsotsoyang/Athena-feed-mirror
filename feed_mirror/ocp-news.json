@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-11-05T01:40:01.250558+00:00",
-  "next_refresh_at": "2026-11-05T02:10:01.250558+00:00",
+  "fetched_at": "2026-11-05T09:01:34.697774+00:00",
+  "next_refresh_at": "2026-11-05T09:31:34.697774+00:00",
   "entries": [
     {
       "title": "Call for Nominations: OCP top-level Project Lead Elections",

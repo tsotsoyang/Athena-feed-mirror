@@ -2,9 +2,51 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-05T01:40:18.079321+00:00",
-  "next_refresh_at": "2026-11-05T02:10:18.079321+00:00",
+  "fetched_at": "2026-11-05T09:01:51.820130+00:00",
+  "next_refresh_at": "2026-11-05T09:31:51.820130+00:00",
   "entries": [
+    {
+      "title": "高通拿下“迄今规模最大的5G交易”",
+      "url": "https://www.esmchina.com/news/14770.html",
+      "published_at": null,
+      "summary": "高通与SpaceX宣布达成多年合作协议。SpaceX将采用高通Dragonwing蜂窝基础设施平台，为其规划中的“星链移动”（Starlink Mobile）美国全国地面5G网络提供无线电单元、分布式单元及商用级物理层软件。",
+      "author": null
+    },
+    {
+      "title": "胁迫三星签长约，博通在韩终审被罚186亿韩元",
+      "url": "https://www.esmchina.com/news/14769.html",
+      "published_at": null,
+      "summary": "日前，韩国最高法院驳回博通及其关联公司的上诉，维持韩国公平交易委员会此前作出的处罚决定，认定博通滥用交易优势地位，通过中断零部件供应等手段迫使三星电子签订长期采购协议。",
+      "author": null
+    },
+    {
+      "title": "芯智云：在坚守与创新中，把混合型分销做成价值壁垒",
+      "url": "https://www.esmchina.com/news/14764.html",
+      "published_at": null,
+      "summary": "当供应链不再只信效率，混合型分销如何炼成价值壁垒？",
+      "author": null
+    },
+    {
+      "title": "航班因GPS干扰无法降落，还能靠什么定位？",
+      "url": "https://www.esmchina.com/news/14726.html",
+      "published_at": null,
+      "summary": "当航班因GPS干扰无法降落，还能靠什么定位？",
+      "author": null
+    },
+    {
+      "title": "高通手机失速、Arm授权狂飙：芯片双雄同日交卷，谁在换挡谁在超车？",
+      "url": "https://www.esmchina.com/news/14768.html",
+      "published_at": null,
+      "summary": "高通与Arm在同日交出的两份财报，折射出芯片产业当前的结构性分化。",
+      "author": null
+    },
+    {
+      "title": "从“机房”到“算力工厂”，如何让每一瓦特更有价值？",
+      "url": "https://events.siemens.com.cn/disw/we/smi052/?pk_source=aspencore",
+      "published_at": null,
+      "summary": "有奖直播！西门子智算中心数字孪生研讨会。直击交付周期与散热痛点，看 CFD 与 GraphStudio 如何重构 AIDC 全链路。",
+      "author": null
+    },
     {
       "title": "400亿“卖身”传闻一夜澄清，中兴手机业务值不值这个价？",
       "url": "https://www.esmchina.com/news/14765.html",
@@ -136,48 +178,6 @@
       "url": "https://www.esmchina.com/news/14746.html",
       "published_at": null,
       "summary": "英伟达这单收购被盯上了",
-      "author": null
-    },
-    {
-      "title": "AI泡沫2027年即将破灭？",
-      "url": "https://www.esmchina.com/news/14675.html",
-      "published_at": null,
-      "summary": "AI技术本身的有效性已无需论证，真正值得警惕的是资本投入与产业回报之间的落差。近两年“AI泡沫”已成产业与金融论坛的高频议题——这个泡沫，会在2027年破裂吗？",
-      "author": null
-    },
-    {
-      "title": "【有奖直播】自主移动机器人 (AMR) 智能感知与电源方案",
-      "url": "https://www.eet-china.com/webinars/entry/Onsemi_20261201.html?source=pop",
-      "published_at": null,
-      "summary": "凡参与研讨会并积极提问的用户均有机会获得得力工具箱套装（共7套）、德力西数字万用表（共5个） 、漏电保护插头（共20个）。",
-      "author": null
-    },
-    {
-      "title": "韩国向谷歌、苹果开出637亿韩元巨额罚单",
-      "url": "https://www.esmchina.com/news/14744.html",
-      "published_at": null,
-      "summary": "韩国广播媒体通信委员会（KMCC）于近日作出决定，对谷歌和苹果合计处以637.1亿韩元罚款",
-      "author": null
-    },
-    {
-      "title": "英特尔，股价暴跌23%",
-      "url": "https://www.esmchina.com/news/14743.html",
-      "published_at": null,
-      "summary": "美东时间10月29日，英特尔交出2026财年第三季度财报。但这份“纸面超预期”并未换来市场掌声，反而因第四季度指引显著低于预期，盘后股价一度跌幅超过23%。",
-      "author": null
-    },
-    {
-      "title": "三星Q3营业利润107.4万亿韩元创新高：存储营收占七成，整机连亏两季",
-      "url": "https://www.esmchina.com/news/14742.html",
-      "published_at": null,
-      "summary": "三星Q3单季利润破100万亿韩元",
-      "author": null
-    },
-    {
-      "title": "Marvell被曝拟收购Lumentum",
-      "url": "https://www.esmchina.com/news/14741.html",
-      "published_at": null,
-      "summary": "据彭博社10月28日报道，芯片制造商Marvell Technology正与光器件供应商Lumentum Holdings进行深入收购谈判，交易最快可能于下周宣布。",
       "author": null
     }
   ],

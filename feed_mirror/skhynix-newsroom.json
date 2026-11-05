@@ -2,9 +2,30 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-11-05T01:40:00.958233+00:00",
-  "next_refresh_at": "2026-11-05T02:10:00.958233+00:00",
+  "fetched_at": "2026-11-05T09:01:34.648849+00:00",
+  "next_refresh_at": "2026-11-05T09:31:34.648849+00:00",
   "entries": [
+    {
+      "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
+      "url": "https://news.skhynix.com/en/2026-partners-day-japan-3/",
+      "published_at": "2026-10-30T08:19:49+00:00",
+      "summary": "▲ SK hynix Chief Production Officer (CPO) Byungki Lee emphasizes expanding cooperation across the Korean and Japanese semiconductor ecosystems",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
+      "url": "https://news.skhynix.com/en/2026-partners-day-japan-2/",
+      "published_at": "2026-10-30T08:17:52+00:00",
+      "summary": "▲ The Partners Day held in Japan",
+      "author": "SK hynix"
+    },
+    {
+      "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
+      "url": "https://news.skhynix.com/en/2026-partners-day-japan-1/",
+      "published_at": "2026-10-30T08:10:27+00:00",
+      "summary": "▲ The Partners Day held in Japan",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
       "url": "https://news.skhynix.com/en/2026-partners-day-japan/",
@@ -52,27 +73,6 @@
       "url": "https://news.skhynix.com/en/tech-note-series-ep3-1/",
       "published_at": "2026-10-29T04:45:33+00:00",
       "summary": "▲ No matter how many computing devices an AI factory has, GPUs will be left waiting for data if the data transfer pathways are too narrow.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
-      "url": "https://news.skhynix.com/en/tech-note-series-ep3/",
-      "published_at": "2026-10-29T00:00:21+00:00",
-      "summary": "AI doesn’t wait. The foundations of every industry are already cracking. This isn’t a story about one sector. Manufacturing. Finance. Healthcare. Data centers. The entire industrial order is being rebuilt around AI — and it’s happening now. Knowing about AI",
-      "author": "Professor Younghyun Kim, Hanyang University ERICA"
-    },
-    {
-      "title": "SK hynix Announces 3Q26 Financial Results",
-      "url": "https://news.skhynix.com/en/q3-2026-business-results-1/",
-      "published_at": "2026-10-28T00:37:09+00:00",
-      "summary": "",
-      "author": "SK hynix"
-    },
-    {
-      "title": "Q3 2026 Earnings Conference Call Access Details",
-      "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call/",
-      "published_at": "2026-10-28T00:01:48+00:00",
-      "summary": "Please use the link below to access the conference call. Email verification is required. https://irsvc.teletogether.com/hynix/hynix2026Q3_eng.php",
       "author": "SK hynix"
     }
   ],
