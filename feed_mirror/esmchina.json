@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-05T23:20:08.322624+00:00",
-  "next_refresh_at": "2026-11-05T23:50:08.322624+00:00",
+  "fetched_at": "2026-11-06T03:32:48.997907+00:00",
+  "next_refresh_at": "2026-11-06T04:02:48.997907+00:00",
   "entries": [
+    {
+      "title": "艾睿电子2026年Q3营收107.2亿美元、净利润3.18亿美元",
+      "url": "https://www.esmchina.com/news/14774.html",
+      "published_at": null,
+      "summary": "艾睿电子三季度财报出炉，国际分销四巨头业绩均增长",
+      "author": null
+    },
+    {
+      "title": "博世半导体正式单飞：2028年独立设部，剑指50亿欧元营收新战场",
+      "url": "https://www.esmchina.com/news/14773.html",
+      "published_at": null,
+      "summary": "此次重组的本质是打破原有业务边界，在汽车、消费电子等传统赛道之外开辟全新的增长曲线。",
+      "author": null
+    },
+    {
+      "title": "AI数据中心，美国中期选举的另一个输家",
+      "url": "https://www.esmchina.com/news/14772.html",
+      "published_at": null,
+      "summary": "2026年美国中期选举中，多地选民通过公投限制数据中心建设，约45%规划产能面临政策风险。虽然AI基建不会停摆，但审批更严、成本更高、节奏更慢，算力扩张正从单纯的技术竞赛变成需要算清社区、能源和政治账的复杂工程。",
+      "author": null
+    },
+    {
+      "title": "中国禁止软银收购ABB在华机器人业务",
+      "url": "https://www.esmchina.com/news/14771.html",
+      "published_at": null,
+      "summary": "ABB确认，软银已通知ABB，中国外商投资安全审查工作机制办公室已禁止软银收购ABB在中国的机器人业务。",
+      "author": null
+    },
     {
       "title": "高通拿下“迄今规模最大的5G交易”",
       "url": "https://www.esmchina.com/news/14770.html",
@@ -13,7 +41,7 @@
       "author": null
     },
     {
-      "title": "胁迫三星签长约，博通在韩终审被罚186亿韩元",
+      "title": "胁迫三星，博通在韩终审被罚186亿韩元",
       "url": "https://www.esmchina.com/news/14769.html",
       "published_at": null,
       "summary": "日前，韩国最高法院驳回博通及其关联公司的上诉，维持韩国公平交易委员会此前作出的处罚决定，认定博通滥用交易优势地位，通过中断零部件供应等手段迫使三星电子签订长期采购协议。",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14749.html",
       "published_at": null,
       "summary": "随着芯片制程演进和设计复杂化，逻辑优化工具在减少设计迭代、降低流片成本方面的作用日益凸显。",
-      "author": null
-    },
-    {
-      "title": "端侧AI爆发的四大核心品类与三重现实约束",
-      "url": "https://www.esmchina.com/news/14691.html",
-      "published_at": null,
-      "summary": "自2022年11月30日OpenAI开启&amp;ldquo;ChatGPT时刻&amp;rdquo;以来，业界对AI落地路径的关注便从云端延展到端侧。经历数年云端算力的快速迭代与模型成熟，AI模型已加速下沉至终端设备",
-      "author": null
-    },
-    {
-      "title": "同比大增613%，长鑫科技第三季度营收突破千亿",
-      "url": "https://www.esmchina.com/news/14748.html",
-      "published_at": null,
-      "summary": "10月30日，长鑫科技正式发布2026年第三季度报告。财报显示，公司业绩迎来爆发式增长：第三季度（7-9月）实现营业收入约1,187.14亿元，环比增长约19.30%；实现净利润约889.83亿元，环比增长约19.38%。",
-      "author": null
-    },
-    {
-      "title": "美国FCC：2028年起，中国实验室退出输美电子产品认证",
-      "url": "https://www.esmchina.com/news/14747.html",
-      "published_at": null,
-      "summary": "美国联邦通信委员会（FCC）投票通过新规，禁止所有位于中国境内的实验室为拟在美国市场使用的电子设备提供FCC认证检测服务。",
-      "author": null
-    },
-    {
-      "title": "美国司法部问询英伟达129.3亿美元收购Hugging Face：是否掌控AI分发节点",
-      "url": "https://www.esmchina.com/news/14746.html",
-      "published_at": null,
-      "summary": "英伟达这单收购被盯上了",
       "author": null
     }
   ],

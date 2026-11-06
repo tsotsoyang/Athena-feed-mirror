@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-11-05T23:20:01.849329+00:00",
-  "next_refresh_at": "2026-11-05T23:50:01.849329+00:00",
+  "fetched_at": "2026-11-06T03:32:43.091566+00:00",
+  "next_refresh_at": "2026-11-06T04:02:43.091566+00:00",
   "entries": [
     {
       "title": "Introducing Grok Voice 3.0 | SpaceXSI",
