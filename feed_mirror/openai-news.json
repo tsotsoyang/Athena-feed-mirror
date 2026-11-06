@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-06T03:32:32.153963+00:00",
-  "next_refresh_at": "2026-11-06T04:02:32.153963+00:00",
+  "fetched_at": "2026-11-06T11:51:02.413526+00:00",
+  "next_refresh_at": "2026-11-06T12:21:02.413526+00:00",
   "entries": [
     {
       "title": "Australian universities are creating AI-native graduates",
