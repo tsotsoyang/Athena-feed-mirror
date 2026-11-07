@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-07T11:31:59.115309+00:00",
-  "next_refresh_at": "2026-11-07T12:01:59.115309+00:00",
+  "fetched_at": "2026-11-07T17:29:35.195218+00:00",
+  "next_refresh_at": "2026-11-07T17:59:35.195218+00:00",
   "entries": [
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
