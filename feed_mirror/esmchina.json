@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-09T02:24:59.962759+00:00",
-  "next_refresh_at": "2026-11-09T02:54:59.962759+00:00",
+  "fetched_at": "2026-11-09T10:06:03.595862+00:00",
+  "next_refresh_at": "2026-11-09T10:36:03.595862+00:00",
   "entries": [
+    {
+      "title": "1.84万亿！日本光刻胶巨头JSR被收购",
+      "url": "https://www.esmchina.com/news/14782.html",
+      "published_at": null,
+      "summary": "11月9日，日本三井化学（Mitsui Chemicals）与日本政策投资银行（DBJ）正式宣布，将从日本产业革新投资机构（JIC）手中收购半导体材料巨头JSR的全部股份。",
+      "author": null
+    },
+    {
+      "title": "英伟达遭“重大盗窃”，1140万美元AI芯片运输途中被盗",
+      "url": "https://www.esmchina.com/news/14781.html",
+      "published_at": null,
+      "summary": "这可能是一起针对高科技企业精心策划的盗窃案。",
+      "author": null
+    },
+    {
+      "title": "11家A股存储企业2026年前三季净利550.29亿元，Q3增速现见顶信号",
+      "url": "https://www.esmchina.com/news/14777.html",
+      "published_at": null,
+      "summary": "Q3总净利润环比跌25.25%，存储行业的爆发期结束了吗？",
+      "author": null
+    },
+    {
+      "title": "安森美终止捷克20亿美元SiC扩产计划",
+      "url": "https://www.esmchina.com/news/14780.html",
+      "published_at": null,
+      "summary": "安森美近日与捷克工业和贸易部今日共同确认，双方将不再推进此前于2024年6月宣布的一项为期多年、最高达20亿美元的扩建计划。",
+      "author": null
+    },
     {
       "title": "45亿美元工厂停摆：美光因劳资纠纷冻结桃园建厂计划",
       "url": "https://www.esmchina.com/news/14779.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14760.html",
       "published_at": null,
       "summary": "模型架构的变化，对底层算力提出了新的要求：算力能否在真实量产模型中充分发挥？今天设计的芯片能否跟上明天的模型迭代？能否在合理能耗下获得所需智能？",
-      "author": null
-    },
-    {
-      "title": "1144亿美元！苹果9月财季营收创新高，但存储涨价压住下季毛利",
-      "url": "https://www.esmchina.com/news/14758.html",
-      "published_at": null,
-      "summary": "2026全财年，苹果营收达到4788.34亿美元，较2025财年的4161.61亿美元增长15.1%，创公司财年历史新高。",
-      "author": null
-    },
-    {
-      "title": "三星计划2030年底前关闭8英寸晶圆代工产线",
-      "url": "https://www.esmchina.com/news/14757.html",
-      "published_at": null,
-      "summary": "这家半导体大厂计划2030年退出8英寸晶圆代工市场",
-      "author": null
-    },
-    {
-      "title": "定了！1150亿美元，Marvell正式收购Lumentum",
-      "url": "https://www.esmchina.com/news/14755.html",
-      "published_at": null,
-      "summary": "Marvell宣布以约1150亿美元全股票方式收购光通信器件龙头Lumentum，交易溢价约23.9%，预计2028年上半年完成。",
-      "author": null
-    },
-    {
-      "title": "香港电讯与美国FCC达成和解，不认罪、不罚款，只退出",
-      "url": "https://www.esmchina.com/news/14753.html",
-      "published_at": null,
-      "summary": "电讯盈科系五家企业与美国FCC达成和解，2027年9月前退出美国电信业务。这表明，美国对华电信限制正在从设备、认证一路延伸到运营资质。",
       "author": null
     }
   ],
