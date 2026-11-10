@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-09T20:57:24.107193+00:00",
-  "next_refresh_at": "2026-11-09T21:27:24.107193+00:00",
+  "fetched_at": "2026-11-10T03:20:45.489921+00:00",
+  "next_refresh_at": "2026-11-10T03:50:45.489921+00:00",
   "entries": [
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
