@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-10T03:20:53.956029+00:00",
-  "next_refresh_at": "2026-11-10T03:50:53.956029+00:00",
+  "fetched_at": "2026-11-10T11:32:43.271006+00:00",
+  "next_refresh_at": "2026-11-10T12:02:43.271006+00:00",
   "entries": [
+    {
+      "title": "英飞凌2026财年以创纪录季度收官，预计2027财年营收突破200亿欧元",
+      "url": "https://www.esmchina.com/news/14785.html",
+      "published_at": null,
+      "summary": "驱动2027财年增长的四大核心领域分别是数据中心电源、能源基础设施扩建与现代化升级、电动出行以及软件定义汽车。",
+      "author": null
+    },
+    {
+      "title": "艾为电子拟购钰泰股份控股权，前三季度净利降61%",
+      "url": "https://www.esmchina.com/news/14784.html",
+      "published_at": null,
+      "summary": "业绩承压下启动并购。",
+      "author": null
+    },
+    {
+      "title": "前10个月中国进出口增长20%，集成电路出口同比增137%成最大引擎",
+      "url": "https://www.esmchina.com/news/14783.html",
+      "published_at": null,
+      "summary": "进口方面，前10个月中国进口集成电路5257.51亿个，同比增长6.5%；进口金额达38863.34亿元人民币，同比增长58%。",
+      "author": null
+    },
     {
       "title": "1.84万亿！日本光刻胶巨头JSR被收购",
       "url": "https://www.esmchina.com/news/14782.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14762.html",
       "published_at": null,
       "summary": "英伟达被曝要求海外云服务商，至少51%算力服务卖给非中国企业。",
-      "author": null
-    },
-    {
-      "title": "中国LoRa生态现状：从抄表到“上天入地”，第四代技术拐点已至",
-      "url": "https://www.esmchina.com/news/14761.html",
-      "published_at": null,
-      "summary": "LoRa技术的底层协议始终是LoRaWAN，今天其所承载的应用场景也远不止“抄表”这么简单——卫星连接让它“上天”，边缘AI让它“入地”。",
-      "author": null
-    },
-    {
-      "title": "最高判10年！台当局拟把高阶芯片出口大陆列为刑事犯罪",
-      "url": "https://www.esmchina.com/news/14759.html",
-      "published_at": null,
-      "summary": "中国台湾地区相关机构表示，在台美对等贸易协定（ART）承诺下，将依据其所谓“贸易法”授权，研议把高阶芯片等高科技货品纳入出口管制的整体配套。",
-      "author": null
-    },
-    {
-      "title": "大模型时代需要什么样的芯片？XHEART携Momenta、台积电交出量产答卷",
-      "url": "https://www.esmchina.com/news/14760.html",
-      "published_at": null,
-      "summary": "模型架构的变化，对底层算力提出了新的要求：算力能否在真实量产模型中充分发挥？今天设计的芯片能否跟上明天的模型迭代？能否在合理能耗下获得所需智能？",
       "author": null
     }
   ],

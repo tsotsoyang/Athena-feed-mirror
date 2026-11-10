@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-10T03:20:38.580019+00:00",
-  "next_refresh_at": "2026-11-10T03:50:38.580019+00:00",
+  "fetched_at": "2026-11-10T11:32:24.991334+00:00",
+  "next_refresh_at": "2026-11-10T12:02:24.991334+00:00",
   "entries": [
+    {
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "published_at": "2026-11-10T09:00:00+00:00",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "author": null
+    },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/grid-protectors-program",
       "published_at": "2026-11-02T15:00:00+00:00",
       "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "author": null
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published_at": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "author": null
     }
   ],
