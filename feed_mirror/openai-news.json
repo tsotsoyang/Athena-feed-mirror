@@ -2,14 +2,35 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-10T11:32:24.991334+00:00",
-  "next_refresh_at": "2026-11-10T12:02:24.991334+00:00",
+  "fetched_at": "2026-11-10T19:23:39.696810+00:00",
+  "next_refresh_at": "2026-11-10T19:53:39.696810+00:00",
   "entries": [
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published_at": "2026-11-10T12:00:00+00:00",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "author": null
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published_at": "2026-11-10T10:00:00+00:00",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "author": null
+    },
     {
       "title": "Closing the AI guidance gap in education",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "published_at": "2026-11-10T09:00:00+00:00",
-      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "author": null
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published_at": "2026-11-10T07:00:00+00:00",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
       "author": null
     },
     {
@@ -157,27 +178,6 @@
       "url": "https://openai.com/index/heimstaden",
       "published_at": "2026-11-03T08:00:00+00:00",
       "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "author": null
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "published_at": "2026-11-03T00:00:00+00:00",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "author": null
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "published_at": "2026-11-02T15:30:00+00:00",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "author": null
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "published_at": "2026-11-02T15:00:00+00:00",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "author": null
     }
   ],
