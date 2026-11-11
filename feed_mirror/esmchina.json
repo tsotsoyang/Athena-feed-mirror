@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-11T00:11:09.030159+00:00",
-  "next_refresh_at": "2026-11-11T00:41:09.030159+00:00",
+  "fetched_at": "2026-11-11T06:56:21.429269+00:00",
+  "next_refresh_at": "2026-11-11T07:26:21.429269+00:00",
   "entries": [
+    {
+      "title": "阿里拟拆平头哥单飞赴港，国产AI芯片开启独立上市潮",
+      "url": "https://www.esmchina.com/news/14786.html",
+      "published_at": null,
+      "summary": "平头哥计划募资规模至少20亿至30亿美元，若落地将成为近年来港股市场规模最大的半导体IPO之一。",
+      "author": null
+    },
     {
       "title": "英飞凌2026财年以创纪录季度收官，预计2027财年营收突破200亿欧元",
       "url": "https://www.esmchina.com/news/14785.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14763.html",
       "published_at": null,
       "summary": "恩智浦一年内涨三次，这次连涨幅度都没给",
-      "author": null
-    },
-    {
-      "title": "英伟达“51%红线”：芯片之后，海外算力租赁也开始受限",
-      "url": "https://www.esmchina.com/news/14762.html",
-      "published_at": null,
-      "summary": "英伟达被曝要求海外云服务商，至少51%算力服务卖给非中国企业。",
       "author": null
     }
   ],

@@ -2,9 +2,44 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-11-11T00:10:49.646271+00:00",
-  "next_refresh_at": "2026-11-11T00:40:49.646271+00:00",
+  "fetched_at": "2026-11-11T06:56:03.630798+00:00",
+  "next_refresh_at": "2026-11-11T07:26:03.630798+00:00",
   "entries": [
+    {
+      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
+      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-5/",
+      "published_at": "2026-11-11T01:36:17+00:00",
+      "summary": "▲ SK hynix ISO/SAE 21434 Cybersecurity Process Certificate",
+      "author": "SK hynix"
+    },
+    {
+      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
+      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-4/",
+      "published_at": "2026-11-11T01:34:45+00:00",
+      "summary": "▲ SK hynix ISO/SAE 21434 Cybersecurity Process Certificate",
+      "author": "SK hynix"
+    },
+    {
+      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
+      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-3/",
+      "published_at": "2026-11-11T01:29:07+00:00",
+      "summary": "▲ IEC 61508 Safety Integrity Levels (SIL) and operating modes. LPDDR5X supports SIL 3 and continuous mode.",
+      "author": "SK hynix"
+    },
+    {
+      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
+      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-2/",
+      "published_at": "2026-11-11T01:28:04+00:00",
+      "summary": "▲ SK hynix IEC 61508 Product and Process Certificates",
+      "author": "SK hynix"
+    },
+    {
+      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
+      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-1/",
+      "published_at": "2026-11-11T01:25:43+00:00",
+      "summary": "",
+      "author": "SK hynix"
+    },
     {
       "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
       "url": "https://news.skhynix.com/en/iec-61508-certification-2026/",
@@ -38,41 +73,6 @@
       "url": "https://news.skhynix.com/en/2026-partners-day-japan/",
       "published_at": "2026-10-30T04:50:32+00:00",
       "summary": "As advances in AI technology drive rapid growth in memory demand, global collaboration is becoming increasingly important to securing stable supply chains. In order to share its business direction and further strengthen their partnerships, SK hynix brought together key partners",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
-      "url": "https://news.skhynix.com/en/tech-note-series-ep3-6/",
-      "published_at": "2026-10-29T04:53:56+00:00",
-      "summary": "▲ HBM reduces the distance that data must travel within the same package as the GPU, while CPO improves data transfer efficiency across networks connecting multiple GPU systems.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
-      "url": "https://news.skhynix.com/en/tech-note-series-ep3-5/",
-      "published_at": "2026-10-29T04:53:12+00:00",
-      "summary": "▲ LPO retains the pluggable optical module architecture while eliminating the DSP inside the module, whereas NPO places optical engines close to the switch chip but outside its package.",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
-      "url": "https://news.skhynix.com/en/tech-note-series-ep3-4/",
-      "published_at": "2026-10-29T04:51:54+00:00",
-      "summary": "▲ In the pluggable architecture on the left, electrical signals travel from the switch ASIC to the front-panel optical modules. In the CPO architecture on the right, the central switch ASIC and surrounding optical engines are placed on a common",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
-      "url": "https://news.skhynix.com/en/tech-note-series-ep3-3/",
-      "published_at": "2026-10-29T04:50:57+00:00",
-      "summary": "▲ Silicon photonics directs light entering through an optical fiber into waveguides within a silicon photonic integrated circuit (PIC), where integrated components such as ring resonators, modulators, and photodetectors control the light. Within this small chip, electrical signals can be",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
-      "url": "https://news.skhynix.com/en/tech-note-series-ep3-2/",
-      "published_at": "2026-10-29T04:49:45+00:00",
-      "summary": "▲ Copper is efficient over short distances, such as within semiconductor packages. However, as transmission speeds and distances increase, signal loss, heat generation, and repeater power consumption also rise, making optical interconnects that carry multiple wavelengths through a single fiber",
       "author": "SK hynix"
     }
   ],

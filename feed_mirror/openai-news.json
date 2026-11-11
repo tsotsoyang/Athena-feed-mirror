@@ -2,9 +2,23 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-11T00:10:51.716234+00:00",
-  "next_refresh_at": "2026-11-11T00:40:51.716234+00:00",
+  "fetched_at": "2026-11-11T06:56:05.622442+00:00",
+  "next_refresh_at": "2026-11-11T07:26:05.622442+00:00",
   "entries": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "author": null
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "author": null
+    },
     {
       "title": "Helping caregivers use AI in everyday life",
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
@@ -27,10 +41,24 @@
       "author": null
     },
     {
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "author": null
+    },
+    {
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
       "published_at": "2026-11-10T07:00:00+00:00",
       "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "author": null
+    },
+    {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
       "author": null
     },
     {
@@ -150,34 +178,6 @@
       "url": "https://openai.com/index/introducing-images-2-6",
       "published_at": "2026-11-04T00:00:00+00:00",
       "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "author": null
-    },
-    {
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "author": null
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "published_at": "2026-11-03T12:00:00+00:00",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "author": null
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "published_at": "2026-11-03T08:00:00+00:00",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "author": null
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "published_at": "2026-11-03T08:00:00+00:00",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
       "author": null
     }
   ],
