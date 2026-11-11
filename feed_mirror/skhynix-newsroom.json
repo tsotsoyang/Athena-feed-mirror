@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-11-10T19:23:37.977808+00:00",
-  "next_refresh_at": "2026-11-10T19:53:37.977808+00:00",
+  "fetched_at": "2026-11-11T00:10:49.646271+00:00",
+  "next_refresh_at": "2026-11-11T00:40:49.646271+00:00",
   "entries": [
+    {
+      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
+      "url": "https://news.skhynix.com/en/iec-61508-certification-2026/",
+      "published_at": "2026-11-10T23:59:29+00:00",
+      "summary": "▪ SK hynix secures IEC 61508 SIL 3 industrial functional safety certification for LPDDR5X and ISO/SAE 21434-based Cybersecurity Management System (CSMS) certification product lifecycle process. ▪ Building on its industry-first TISAX certification early last year, the company expands its international",
+      "author": "SK hynix"
+    },
     {
       "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
       "url": "https://news.skhynix.com/en/2026-partners-day-japan-3/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/tech-note-series-ep3-2/",
       "published_at": "2026-10-29T04:49:45+00:00",
       "summary": "▲ Copper is efficient over short distances, such as within semiconductor packages. However, as transmission speeds and distances increase, signal loss, heat generation, and repeater power consumption also rise, making optical interconnects that carry multiple wavelengths through a single fiber",
-      "author": "SK hynix"
-    },
-    {
-      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
-      "url": "https://news.skhynix.com/en/tech-note-series-ep3-1/",
-      "published_at": "2026-10-29T04:45:33+00:00",
-      "summary": "▲ No matter how many computing devices an AI factory has, GPUs will be left waiting for data if the data transfer pathways are too narrow.",
       "author": "SK hynix"
     }
   ],

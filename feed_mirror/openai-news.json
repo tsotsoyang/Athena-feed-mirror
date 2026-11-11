@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-10T19:23:39.696810+00:00",
-  "next_refresh_at": "2026-11-10T19:53:39.696810+00:00",
+  "fetched_at": "2026-11-11T00:10:51.716234+00:00",
+  "next_refresh_at": "2026-11-11T00:40:51.716234+00:00",
   "entries": [
     {
       "title": "Helping caregivers use AI in everyday life",
