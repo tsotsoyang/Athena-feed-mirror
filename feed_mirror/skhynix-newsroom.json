@@ -2,8 +2,8 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-11-11T06:56:03.630798+00:00",
-  "next_refresh_at": "2026-11-11T07:26:03.630798+00:00",
+  "fetched_at": "2026-11-11T14:57:53.413124+00:00",
+  "next_refresh_at": "2026-11-11T15:27:53.413124+00:00",
   "entries": [
     {
       "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
