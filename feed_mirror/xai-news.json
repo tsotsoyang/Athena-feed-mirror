@@ -2,14 +2,14 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-11-11T14:58:05.477878+00:00",
-  "next_refresh_at": "2026-11-11T15:28:05.477878+00:00",
+  "fetched_at": "2026-11-11T21:50:10.764002+00:00",
+  "next_refresh_at": "2026-11-11T22:20:10.764002+00:00",
   "entries": [
     {
-      "title": "Introducing Grok Voice 3.0 | SpaceXSI",
-      "url": "https://x.ai/news/grok-voice-3",
+      "title": "Introducing Grok Bot 1.0 | SpaceXSI",
+      "url": "https://x.ai/news/grok-bot-1-0",
       "published_at": null,
-      "summary": "The world’s most intelligent voice model.",
+      "summary": "Bots now work with your whole team, take on work without being asked, and get more done, faster.",
       "author": null
     },
     {
@@ -38,6 +38,13 @@
       "url": "https://x.ai/news/incident-sweep",
       "published_at": null,
       "summary": "IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.",
+      "author": null
+    },
+    {
+      "title": "Introducing Grok Voice 3.0 | SpaceXSI",
+      "url": "https://x.ai/news/grok-voice-3",
+      "published_at": null,
+      "summary": "The world’s most intelligent voice model.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/introducing-grok-bot",
       "published_at": null,
       "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
-      "author": null
-    },
-    {
-      "title": "Imagine Image 2.0 | SpaceXSI",
-      "url": "https://x.ai/news/grok-imagine-image-2",
-      "published_at": null,
-      "summary": "Precise image generation and editing, built for real creative work.",
       "author": null
     }
   ],

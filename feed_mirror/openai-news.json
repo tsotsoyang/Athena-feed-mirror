@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-11T14:57:54.888135+00:00",
-  "next_refresh_at": "2026-11-11T15:27:54.888135+00:00",
+  "fetched_at": "2026-11-11T21:50:00.870692+00:00",
+  "next_refresh_at": "2026-11-11T22:20:00.870692+00:00",
   "entries": [
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -17,6 +17,13 @@
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "published_at": "2026-11-11T08:00:00+00:00",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "author": null
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published_at": "2026-11-11T00:00:00+00:00",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "published_at": "2026-11-04T08:00:00+00:00",
       "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "author": null
-    },
-    {
-      "title": "Introducing Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
       "author": null
     }
   ],

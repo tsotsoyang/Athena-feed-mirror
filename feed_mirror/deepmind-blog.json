@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-11T14:58:14.513424+00:00",
-  "next_refresh_at": "2026-11-11T15:28:14.513424+00:00",
+  "fetched_at": "2026-11-11T21:50:08.144690+00:00",
+  "next_refresh_at": "2026-11-11T22:20:08.144690+00:00",
   "entries": [
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "published_at": "2026-11-11T15:00:15+00:00",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "author": null
+    },
     {
       "title": "Gemini 4 Carbon is now available",
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -170,13 +177,6 @@
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "published_at": "2026-09-02T16:24:24+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "published_at": "2026-09-02T16:18:31+00:00",
       "summary": "",
       "author": null
     }
