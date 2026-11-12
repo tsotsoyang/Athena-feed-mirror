@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-11T21:50:00.870692+00:00",
-  "next_refresh_at": "2026-11-11T22:20:00.870692+00:00",
+  "fetched_at": "2026-11-12T02:42:57.021253+00:00",
+  "next_refresh_at": "2026-11-12T03:12:57.021253+00:00",
   "entries": [
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",

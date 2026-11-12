@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-11T21:50:14.930653+00:00",
-  "next_refresh_at": "2026-11-11T22:20:14.930653+00:00",
+  "fetched_at": "2026-11-12T02:43:12.041981+00:00",
+  "next_refresh_at": "2026-11-12T03:13:12.041981+00:00",
   "entries": [
+    {
+      "title": "SpaceX被曝自研Kessel机架：只买英伟达芯片封装，板卡零部件改自采",
+      "url": "https://www.esmchina.com/news/14790.html",
+      "published_at": null,
+      "summary": "SpaceX只买英伟达芯片，机柜自己造",
+      "author": null
+    },
+    {
+      "title": "黄仁勋再陷婚外情传闻，董事会酝酿“换帅”",
+      "url": "https://www.esmchina.com/news/14789.html",
+      "published_at": null,
+      "summary": "在创始人兼CEO黄仁勋首段婚外情风波及引发的“国家安全”调查尚未平息之际，当地时间11月11日，《纽约时报》的一篇深度报道又将英伟达的内部治理问题推上风口浪尖。",
+      "author": null
+    },
     {
       "title": "阿里拟拆平头哥单飞赴港，国产AI芯片开启独立上市潮",
       "url": "https://www.esmchina.com/news/14786.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14765.html",
       "published_at": null,
       "summary": "算力已成第一大收入来源。",
-      "author": null
-    },
-    {
-      "title": "闻泰拒绝安世“双圈”方案，荷兰方面索赔20亿美元",
-      "url": "https://www.esmchina.com/news/14766.html",
-      "published_at": null,
-      "summary": "闻泰科技披露安世半导体控制权争端最新进展：荷兰管理人提出“双圈”拆分方案遭公司书面拒绝，安世境外主体起诉索赔20亿美元，但荷兰法院尚未正式立案。",
-      "author": null
-    },
-    {
-      "title": "恩智浦年内第三轮调价：2027年1月起部分产品线涨价",
-      "url": "https://www.esmchina.com/news/14763.html",
-      "published_at": null,
-      "summary": "恩智浦一年内涨三次，这次连涨幅度都没给",
       "author": null
     }
   ],
