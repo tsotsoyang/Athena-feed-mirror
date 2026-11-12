@@ -2,9 +2,16 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-12T10:42:13.804822+00:00",
-  "next_refresh_at": "2026-11-12T11:12:13.804822+00:00",
+  "fetched_at": "2026-11-12T18:42:41.104418+00:00",
+  "next_refresh_at": "2026-11-12T19:12:41.104418+00:00",
   "entries": [
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "published_at": "2026-11-12T18:00:50+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -170,13 +177,6 @@
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "published_at": "2026-09-03T15:02:08+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "published_at": "2026-09-02T16:24:24+00:00",
       "summary": "",
       "author": null
     }

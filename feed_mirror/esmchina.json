@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-12T10:42:21.942273+00:00",
-  "next_refresh_at": "2026-11-12T11:12:21.942273+00:00",
+  "fetched_at": "2026-11-12T18:42:49.351712+00:00",
+  "next_refresh_at": "2026-11-12T19:12:49.351712+00:00",
   "entries": [
+    {
+      "title": "黄仁勋辞任英伟达CEO：33年创始人时代落幕，CFO克雷斯临时代管",
+      "url": "https://www.esmchina.com/news/14796.html",
+      "published_at": null,
+      "summary": "董事会首次设立主席职位，由新思科技前CEO哈维·琼斯出任；11月17日财报电话会成为首个观察窗口。",
+      "author": null
+    },
     {
       "title": "德国拟扩大5G基站审查、禁用中国设备？商务部回应",
       "url": "https://www.esmchina.com/news/14794.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14769.html",
       "published_at": null,
       "summary": "日前，韩国最高法院驳回博通及其关联公司的上诉，维持韩国公平交易委员会此前作出的处罚决定，认定博通滥用交易优势地位，通过中断零部件供应等手段迫使三星电子签订长期采购协议。",
-      "author": null
-    },
-    {
-      "title": "芯智云：在坚守与创新中，把混合型分销做成价值壁垒",
-      "url": "https://www.esmchina.com/news/14764.html",
-      "published_at": null,
-      "summary": "当供应链不再只信效率，混合型分销如何炼成价值壁垒？",
       "author": null
     }
   ],
