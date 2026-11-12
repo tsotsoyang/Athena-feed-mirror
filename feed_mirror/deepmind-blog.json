@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-12T02:43:03.299935+00:00",
-  "next_refresh_at": "2026-11-12T03:13:03.299935+00:00",
+  "fetched_at": "2026-11-12T10:42:13.804822+00:00",
+  "next_refresh_at": "2026-11-12T11:12:13.804822+00:00",
   "entries": [
     {
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",

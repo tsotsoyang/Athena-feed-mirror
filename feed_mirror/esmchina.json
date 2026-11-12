@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-12T02:43:12.041981+00:00",
-  "next_refresh_at": "2026-11-12T03:13:12.041981+00:00",
+  "fetched_at": "2026-11-12T10:42:21.942273+00:00",
+  "next_refresh_at": "2026-11-12T11:12:21.942273+00:00",
   "entries": [
+    {
+      "title": "德国拟扩大5G基站审查、禁用中国设备？商务部回应",
+      "url": "https://www.esmchina.com/news/14794.html",
+      "published_at": null,
+      "summary": "商务部表态的背后，是中国5G底座已成规模。",
+      "author": null
+    },
+    {
+      "title": "Anthropic披露Mythos模型3天适配AMD MI355X，近100%内核代码由AI编写",
+      "url": "https://www.esmchina.com/news/14793.html",
+      "published_at": null,
+      "summary": "3天干完半年的活，这个AI把自己搬上了AMD",
+      "author": null
+    },
+    {
+      "title": "【有奖直播】电源管理基础知识II研讨会3：SEPIC、Ćuk和反相器拓扑详解",
+      "url": "https://www.eet-china.com/webinars/entry/ADI_20261216.html?source=pop",
+      "published_at": null,
+      "summary": "深入了解SEPIC转换器如何简化电路并在所有模式下实现输出断开功能。利用Ćuk拓扑构建低噪声转换器。研究降压-升压反相拓扑，作为生成负输出的替代方案。",
+      "author": null
+    },
+    {
+      "title": "微软游说白宫叫停中国光模块进口禁令",
+      "url": "https://www.esmchina.com/news/14791.html",
+      "published_at": null,
+      "summary": "据路透社报道，微软正在向特朗普政府施压，要求放弃拟议中的中国光模块进口限制计划。",
+      "author": null
+    },
     {
       "title": "SpaceX被曝自研Kessel机架：只买英伟达芯片封装，板卡零部件改自采",
       "url": "https://www.esmchina.com/news/14790.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14764.html",
       "published_at": null,
       "summary": "当供应链不再只信效率，混合型分销如何炼成价值壁垒？",
-      "author": null
-    },
-    {
-      "title": "航班因GPS干扰无法降落，还能靠什么定位？",
-      "url": "https://www.esmchina.com/news/14726.html",
-      "published_at": null,
-      "summary": "当航班因GPS干扰无法降落，还能靠什么定位？",
-      "author": null
-    },
-    {
-      "title": "高通手机失速、Arm授权狂飙：芯片双雄同日交卷，谁在换挡谁在超车？",
-      "url": "https://www.esmchina.com/news/14768.html",
-      "published_at": null,
-      "summary": "高通与Arm在同日交出的两份财报，折射出芯片产业当前的结构性分化。",
-      "author": null
-    },
-    {
-      "title": "从“机房”到“算力工厂”，如何让每一瓦特更有价值？",
-      "url": "https://events.siemens.com.cn/disw/we/smi052/?pk_source=aspencore",
-      "published_at": null,
-      "summary": "有奖直播！西门子智算中心数字孪生研讨会。直击交付周期与散热痛点，看 CFD 与 GraphStudio 如何重构 AIDC 全链路。",
-      "author": null
-    },
-    {
-      "title": "400亿“卖身”传闻一夜澄清，中兴手机业务值不值这个价？",
-      "url": "https://www.esmchina.com/news/14765.html",
-      "published_at": null,
-      "summary": "算力已成第一大收入来源。",
       "author": null
     }
   ],
