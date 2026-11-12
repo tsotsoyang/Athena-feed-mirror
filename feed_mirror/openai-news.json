@@ -2,9 +2,23 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-12T18:42:33.346581+00:00",
-  "next_refresh_at": "2026-11-12T19:12:33.346581+00:00",
+  "fetched_at": "2026-11-12T23:58:38.536168+00:00",
+  "next_refresh_at": "2026-11-13T00:28:38.536168+00:00",
   "entries": [
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "published_at": "2026-11-12T20:00:00+00:00",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "author": null
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "published_at": "2026-11-12T12:00:00+00:00",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "author": null
+    },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
@@ -164,20 +178,6 @@
       "url": "https://openai.com/ads/customers/flipsnack",
       "published_at": "2026-11-05T00:45:15+00:00",
       "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "author": null
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "url": "https://openai.com/index/franklin-templeton",
-      "published_at": "2026-11-05T00:00:00+00:00",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "author": null
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "published_at": "2026-11-04T14:30:00+00:00",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
       "author": null
     }
   ],

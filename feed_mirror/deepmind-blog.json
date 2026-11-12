@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-12T18:42:41.104418+00:00",
-  "next_refresh_at": "2026-11-12T19:12:41.104418+00:00",
+  "fetched_at": "2026-11-12T23:58:46.179453+00:00",
+  "next_refresh_at": "2026-11-13T00:28:46.179453+00:00",
   "entries": [
     {
       "title": "Introducing Gemini 4 Hydrogen",
