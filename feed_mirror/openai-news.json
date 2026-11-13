@@ -2,9 +2,16 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-13T14:48:04.212220+00:00",
-  "next_refresh_at": "2026-11-13T15:18:04.212220+00:00",
+  "fetched_at": "2026-11-13T21:13:01.755062+00:00",
+  "next_refresh_at": "2026-11-13T21:43:01.755062+00:00",
   "entries": [
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "author": null
+    },
     {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude",
@@ -171,13 +178,6 @@
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "published_at": "2026-11-05T02:00:00+00:00",
       "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "author": null
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "published_at": "2026-11-05T00:45:15+00:00",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
       "author": null
     }
   ],

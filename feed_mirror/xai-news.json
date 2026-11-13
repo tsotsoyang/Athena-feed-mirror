@@ -2,8 +2,8 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-11-13T14:48:08.667298+00:00",
-  "next_refresh_at": "2026-11-13T15:18:08.667298+00:00",
+  "fetched_at": "2026-11-13T21:13:06.294197+00:00",
+  "next_refresh_at": "2026-11-13T21:43:06.294197+00:00",
   "entries": [],
   "errors": [
     {

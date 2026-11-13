@@ -2,14 +2,14 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-11-13T14:48:07.683485+00:00",
-  "next_refresh_at": "2026-11-13T15:18:07.683485+00:00",
+  "fetched_at": "2026-11-13T21:13:05.229294+00:00",
+  "next_refresh_at": "2026-11-13T21:43:05.229294+00:00",
   "entries": [
     {
-      "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real | DeepSeek API Docs",
-      "url": "https://api-docs.deepseek.com/news/news261017",
+      "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/news/news261113",
       "published_at": null,
-      "summary": "🚀 DeepSeek-V4.1-Flash-1017 is here!",
+      "summary": "Search, files, links, safety, and voice. The capabilities behind the DeepSeek App are now available through the DeepSeek API.",
       "author": null
     }
   ],
