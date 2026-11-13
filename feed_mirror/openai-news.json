@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-12T23:58:38.536168+00:00",
-  "next_refresh_at": "2026-11-13T00:28:38.536168+00:00",
+  "fetched_at": "2026-11-13T06:23:26.334375+00:00",
+  "next_refresh_at": "2026-11-13T06:53:26.334375+00:00",
   "entries": [
     {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",

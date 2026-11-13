@@ -2,9 +2,44 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-12T23:58:54.747787+00:00",
-  "next_refresh_at": "2026-11-13T00:28:54.747787+00:00",
+  "fetched_at": "2026-11-13T06:23:41.092879+00:00",
+  "next_refresh_at": "2026-11-13T06:53:41.092879+00:00",
   "entries": [
+    {
+      "title": "告别手动配置！看三大生产级AI工作流实战演示",
+      "url": "https://mbb.eet-china.com/member.php?mod=logging&action=login&next=https://www.eet-china.com/webinars/ChipAgents_20261203.html&event=832&type=3&host=https://www.eet-china.com&source=popup",
+      "published_at": null,
+      "summary": "告别反复调参！看 IC-star 三大生产级工作流首曝，报名赢小米手环11等好礼。",
+      "author": null
+    },
+    {
+      "title": "从芯片到临床，从医疗到消费：脑机接口产业化路径渐明",
+      "url": "https://www.esmchina.com/news/14800.html",
+      "published_at": null,
+      "summary": "随着国家&amp;ldquo;十五五&amp;rdquo;规划将脑机接口列入六大未来产业，这条赛道正站上政策与市场的双重风口：一端锚定千亿医疗刚需，另一端则有望撬动睡眠、消费娱乐、人机交互等万亿级",
+      "author": null
+    },
+    {
+      "title": "面板级封装势头正劲，五个原因读懂AI封装的新战场",
+      "url": "https://www.esmchina.com/news/14731.html",
+      "published_at": null,
+      "summary": "随着AI封装变得更大、更密、更复杂，传统的晶圆级制造开始遇到切实限制。业",
+      "author": null
+    },
+    {
+      "title": "芯原海南五年答卷：第五届南渡江论坛开幕，两个产业载体同日签约揭牌",
+      "url": "https://www.esmchina.com/news/14798.html",
+      "published_at": null,
+      "summary": "从“产业共识”加速走向“孵化落地”。",
+      "author": null
+    },
+    {
+      "title": "中芯国际三季报：毛利率创四年新高，全年收入或超120亿美元",
+      "url": "https://www.esmchina.com/news/14797.html",
+      "published_at": null,
+      "summary": "按中国企业会计准则，中芯国际前三季度实现营业收入606.18亿元，同比增长22.4%；归母净利润73.14亿元，同比增长91.6%；",
+      "author": null
+    },
     {
       "title": "黄仁勋辞任英伟达CEO：33年创始人时代落幕，CFO克雷斯临时代管",
       "url": "https://www.esmchina.com/news/14796.html",
@@ -143,41 +178,6 @@
       "url": "https://www.esmchina.com/news/14774.html",
       "published_at": null,
       "summary": "艾睿电子三季度财报出炉，国际分销四巨头业绩均增长",
-      "author": null
-    },
-    {
-      "title": "博世半导体正式单飞：2028年独立设部，剑指50亿欧元营收新战场",
-      "url": "https://www.esmchina.com/news/14773.html",
-      "published_at": null,
-      "summary": "此次重组的本质是打破原有业务边界，在汽车、消费电子等传统赛道之外开辟全新的增长曲线。",
-      "author": null
-    },
-    {
-      "title": "AI数据中心，美国中期选举的另一个输家",
-      "url": "https://www.esmchina.com/news/14772.html",
-      "published_at": null,
-      "summary": "2026年美国中期选举中，多地选民通过公投限制AI数据中心建设，约45%规划产能面临政策风险。虽然AI基建不会停摆，但审批更严、成本更高、节奏更慢，算力扩张正从单纯的技术竞赛变成需要算清社区、能源和政治账的复杂工程。",
-      "author": null
-    },
-    {
-      "title": "中国禁止软银收购ABB在华机器人业务",
-      "url": "https://www.esmchina.com/news/14771.html",
-      "published_at": null,
-      "summary": "ABB确认，软银已通知ABB，中国外商投资安全审查工作机制办公室已禁止软银收购ABB在中国的机器人业务。",
-      "author": null
-    },
-    {
-      "title": "高通拿下“迄今规模最大的5G交易”",
-      "url": "https://www.esmchina.com/news/14770.html",
-      "published_at": null,
-      "summary": "高通与SpaceX宣布达成多年合作协议。SpaceX将采用高通Dragonwing蜂窝基础设施平台，为其规划中的“星链移动”（Starlink Mobile）美国全国地面5G网络提供无线电单元、分布式单元及商用级物理层软件。",
-      "author": null
-    },
-    {
-      "title": "胁迫三星，博通在韩终审被罚186亿韩元",
-      "url": "https://www.esmchina.com/news/14769.html",
-      "published_at": null,
-      "summary": "日前，韩国最高法院驳回博通及其关联公司的上诉，维持韩国公平交易委员会此前作出的处罚决定，认定博通滥用交易优势地位，通过中断零部件供应等手段迫使三星电子签订长期采购协议。",
       "author": null
     }
   ],
