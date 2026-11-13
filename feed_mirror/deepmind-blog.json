@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-13T06:23:34.565661+00:00",
-  "next_refresh_at": "2026-11-13T06:53:34.565661+00:00",
+  "fetched_at": "2026-11-13T14:48:09.007659+00:00",
+  "next_refresh_at": "2026-11-13T15:18:09.007659+00:00",
   "entries": [
     {
       "title": "Introducing Gemini 4 Hydrogen",
@@ -31,6 +31,13 @@
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
       "published_at": "2026-11-10T12:02:28+00:00",
       "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "author": null
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "published_at": "2026-11-10T11:13:04+00:00",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "published_at": "2026-09-08T14:00:15+00:00",
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "author": null
-    },
-    {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "published_at": "2026-09-03T15:02:08+00:00",
-      "summary": "",
       "author": null
     }
   ],

@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-13T06:23:41.092879+00:00",
-  "next_refresh_at": "2026-11-13T06:53:41.092879+00:00",
+  "fetched_at": "2026-11-13T14:48:19.835415+00:00",
+  "next_refresh_at": "2026-11-13T15:18:19.835415+00:00",
   "entries": [
+    {
+      "title": "脑机接口与康复机器人的结合：情绪价值还是临床刚需？",
+      "url": "https://www.esmchina.com/news/14802.html",
+      "published_at": null,
+      "summary": "圆桌嘉宾（从左到右）：同济大学附属养志康复医院转化研究中心主任 牛文鑫，上海卓道医疗科技有限公司创始人、CEO 王道雨，布法罗机器人科技（成都）有限公司总经理 张代武，安杰莱科技（杭州）有限公司创始人、董事长 李鲁亚，海南财金海盈投资公司总经理助理 白云天。",
+      "author": null
+    },
+    {
+      "title": "存储涨价压到整机：Q3手机跌19%、PC跌20.1%、平板跌23%",
+      "url": "https://www.esmchina.com/news/14801.html",
+      "published_at": null,
+      "summary": "内存贵了，Q3手机电脑平板全都卖不动",
+      "author": null
+    },
     {
       "title": "告别手动配置！看三大生产级AI工作流实战演示",
       "url": "https://mbb.eet-china.com/member.php?mod=logging&action=login&next=https://www.eet-china.com/webinars/ChipAgents_20261203.html&event=832&type=3&host=https://www.eet-china.com&source=popup",
@@ -16,7 +30,7 @@
       "title": "从芯片到临床，从医疗到消费：脑机接口产业化路径渐明",
       "url": "https://www.esmchina.com/news/14800.html",
       "published_at": null,
-      "summary": "随着国家&amp;ldquo;十五五&amp;rdquo;规划将脑机接口列入六大未来产业，这条赛道正站上政策与市场的双重风口：一端锚定千亿医疗刚需，另一端则有望撬动睡眠、消费娱乐、人机交互等万亿级",
+      "summary": "随着国家“十五五”规划将脑机接口列入六大未来产业，这条赛道正站上政策与市场的双重风口：一端锚定千亿医疗刚需，另一端则有望撬动睡眠、消费娱乐、人机交互等万亿级消费新基建。然而，产业链结构仍不均衡——目前脑机接口上游企业仅占全产业链的8%，芯片、电极等核心元器件国产化率偏低，替代空间清晰。",
       "author": null
     },
     {
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14776.html",
       "published_at": null,
       "summary": "这也是公司迄今在美国西部腹地推进的规模最大的AI基础设施项目之一。",
-      "author": null
-    },
-    {
-      "title": "一夜蒸发2.8万亿美元，美股遭遇史诗级暴跌",
-      "url": "https://www.esmchina.com/news/14775.html",
-      "published_at": null,
-      "summary": "美东时间11月5日，美国资本市场遭遇了猛烈的抛售浪潮。单日蒸发了大约2.8万亿美元，追平了新冠疫情以来单日市值缩水的最差纪录。",
-      "author": null
-    },
-    {
-      "title": "艾睿电子2026年Q3营收107.18亿美元、净利润3.18亿美元",
-      "url": "https://www.esmchina.com/news/14774.html",
-      "published_at": null,
-      "summary": "艾睿电子三季度财报出炉，国际分销四巨头业绩均增长",
       "author": null
     }
   ],
