@@ -2,8 +2,8 @@
   "source": "mistral-news",
   "name": "Mistral AI News",
   "feed_url": "https://mistral.ai/rss.xml",
-  "fetched_at": "2026-11-14T01:35:36.361055+00:00",
-  "next_refresh_at": "2026-11-14T02:05:36.361055+00:00",
+  "fetched_at": "2026-11-14T08:40:12.740167+00:00",
+  "next_refresh_at": "2026-11-14T09:10:12.740167+00:00",
   "entries": [
     {
       "title": "Le Chonk brings the brains. Studio puts it to work.",

@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-14T01:35:33.341046+00:00",
-  "next_refresh_at": "2026-11-14T02:05:33.341046+00:00",
+  "fetched_at": "2026-11-14T08:40:10.467273+00:00",
+  "next_refresh_at": "2026-11-14T09:10:10.467273+00:00",
   "entries": [
     {
       "title": "Introducing ChatGPT Wallet",
