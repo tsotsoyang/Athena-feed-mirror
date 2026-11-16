@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-16T07:03:55.083477+00:00",
-  "next_refresh_at": "2026-11-16T07:33:55.083477+00:00",
+  "fetched_at": "2026-11-16T17:17:44.925097+00:00",
+  "next_refresh_at": "2026-11-16T17:47:44.925097+00:00",
   "entries": [
+    {
+      "title": "【有奖直播】汽车零部件研发人手不够，AI 能省多少时间？",
+      "url": "https://events.siemens.com.cn/disw/we/at011/?pk_source=eetimes",
+      "published_at": null,
+      "summary": "12月17日直播告诉你Polarion AI 能替工程师省下哪些活",
+      "author": null
+    },
     {
       "title": "SK海力士五年投1.4万亿韩元扶持供应商",
       "url": "https://www.esmchina.com/news/14808.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14783.html",
       "published_at": null,
       "summary": "进口方面，前10个月中国进口集成电路5257.51亿个，同比增长6.5%；进口金额达38863.34亿元人民币，同比增长58%。",
-      "author": null
-    },
-    {
-      "title": "1.84万亿！日本光刻胶巨头JSR被收购",
-      "url": "https://www.esmchina.com/news/14782.html",
-      "published_at": null,
-      "summary": "11月9日，日本三井化学（Mitsui Chemicals）与日本政策投资银行（DBJ）正式宣布，将从日本产业革新投资机构（JIC）手中收购半导体材料巨头JSR的全部股份。",
       "author": null
     }
   ],
