@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-16T00:11:08.351572+00:00",
-  "next_refresh_at": "2026-11-16T00:41:08.351572+00:00",
+  "fetched_at": "2026-11-16T07:03:40.044092+00:00",
+  "next_refresh_at": "2026-11-16T07:33:40.044092+00:00",
   "entries": [
     {
       "title": "A step toward defining the Standard Model on a lattice",

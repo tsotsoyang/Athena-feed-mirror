@@ -2,9 +2,51 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-16T00:11:22.318373+00:00",
-  "next_refresh_at": "2026-11-16T00:41:22.318373+00:00",
+  "fetched_at": "2026-11-16T07:03:55.083477+00:00",
+  "next_refresh_at": "2026-11-16T07:33:55.083477+00:00",
   "entries": [
+    {
+      "title": "SK海力士五年投1.4万亿韩元扶持供应商",
+      "url": "https://www.esmchina.com/news/14808.html",
+      "published_at": null,
+      "summary": "韩国存储巨头投资1.4万亿韩元扶持供应商",
+      "author": null
+    },
+    {
+      "title": "华为鸿蒙终端设备数量突破1亿台",
+      "url": "https://www.esmchina.com/news/14807.html",
+      "published_at": null,
+      "summary": "11月16日，第三方数据工具估算显示，鸿蒙装机量已突破1亿台。",
+      "author": null
+    },
+    {
+      "title": "从感知到干预，脑机接口数字疗法的三条落地路径",
+      "url": "https://www.esmchina.com/news/14806.html",
+      "published_at": null,
+      "summary": "当脑机接口不再只是一个“读脑”的概念，而是开始介入疼痛是否缓解、睡眠是否深沉、孤独症孩子能否学会一个社交动作——它才真正从实验室走进了临床。",
+      "author": null
+    },
+    {
+      "title": "源杰科技签17.44亿元大功率激光器芯片订单",
+      "url": "https://www.esmchina.com/news/14805.html",
+      "published_at": null,
+      "summary": "源杰科技公告表示，公司近日收到B客户关于大功率激光器芯片产品的采购订单，总金额17.44亿元（不含税）。",
+      "author": null
+    },
+    {
+      "title": "三家企业，一个共识：脑机接口与康复产业的合流时刻",
+      "url": "https://www.esmchina.com/news/14804.html",
+      "published_at": null,
+      "summary": "当“被动训练”向“主动闭环”转型成为行业关键词，脑机接口与康复产业的合流，正在从趋势变为现实。",
+      "author": null
+    },
+    {
+      "title": "3亿欧元罚单压顶，闻泰科技对荷兰法庭说“不”！",
+      "url": "https://www.esmchina.com/news/14803.html",
+      "published_at": null,
+      "summary": "闻泰科技就荷兰企业法庭日前针对安世半导体作出的临时措施裁定发布声明，直指该裁定无事实依据、实质构成“跨境禁诉令”并干预中国司法程序。",
+      "author": null
+    },
     {
       "title": "脑机接口与康复机器人的结合：情绪价值还是临床刚需？",
       "url": "https://www.esmchina.com/news/14802.html",
@@ -136,48 +178,6 @@
       "url": "https://www.esmchina.com/news/14782.html",
       "published_at": null,
       "summary": "11月9日，日本三井化学（Mitsui Chemicals）与日本政策投资银行（DBJ）正式宣布，将从日本产业革新投资机构（JIC）手中收购半导体材料巨头JSR的全部股份。",
-      "author": null
-    },
-    {
-      "title": "英伟达遭“重大盗窃”，1140万美元AI芯片运输途中被盗",
-      "url": "https://www.esmchina.com/news/14781.html",
-      "published_at": null,
-      "summary": "这可能是一起针对高科技企业精心策划的盗窃案。",
-      "author": null
-    },
-    {
-      "title": "11家A股存储企业2026年前三季净利550.29亿元，Q3增速现见顶信号",
-      "url": "https://www.esmchina.com/news/14777.html",
-      "published_at": null,
-      "summary": "Q3总净利润环比跌25.25%，存储行业的爆发期结束了吗？",
-      "author": null
-    },
-    {
-      "title": "安森美终止捷克20亿美元SiC扩产计划",
-      "url": "https://www.esmchina.com/news/14780.html",
-      "published_at": null,
-      "summary": "安森美近日与捷克工业和贸易部今日共同确认，双方将不再推进此前于2024年6月宣布的一项为期多年、最高达20亿美元的扩建计划。",
-      "author": null
-    },
-    {
-      "title": "45亿美元工厂停摆：美光因劳资纠纷冻结桃园建厂计划",
-      "url": "https://www.esmchina.com/news/14779.html",
-      "published_at": null,
-      "summary": "罢工潮恐让内存涨价更猛。",
-      "author": null
-    },
-    {
-      "title": "黄仁勋承认婚外情，英伟达启动独立调查",
-      "url": "https://www.esmchina.com/news/14778.html",
-      "published_at": null,
-      "summary": "11月8日，英伟达创始人兼CEO黄仁勋发布致全体员工公开信，承认自己对妻子不忠，并向家人、员工、董事会、合作伙伴及股东道歉。",
-      "author": null
-    },
-    {
-      "title": "170亿美元！谷歌在怀俄明州建设首个数据中心",
-      "url": "https://www.esmchina.com/news/14776.html",
-      "published_at": null,
-      "summary": "这也是公司迄今在美国西部腹地推进的规模最大的AI基础设施项目之一。",
       "author": null
     }
   ],
