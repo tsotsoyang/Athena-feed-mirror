@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-11-16T17:17:28.088659+00:00",
-  "next_refresh_at": "2026-11-16T17:47:28.088659+00:00",
+  "fetched_at": "2026-11-17T00:57:25.345370+00:00",
+  "next_refresh_at": "2026-11-17T01:27:25.345370+00:00",
   "entries": [
     {
       "title": "The Infrastructure Challenges of AI Data Centers and How AI Could Help Manage Them",

@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-11-16T17:17:25.722691+00:00",
-  "next_refresh_at": "2026-11-16T17:47:25.722691+00:00",
+  "fetched_at": "2026-11-17T00:57:23.581007+00:00",
+  "next_refresh_at": "2026-11-17T01:27:23.581007+00:00",
   "entries": [
+    {
+      "title": "[AI Ecosystem] Completing AI: Physical intelligence and the role of memory",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-5/",
+      "published_at": "2026-11-16T23:58:24+00:00",
+      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
+      "author": "Professor Nam-sung Kim, University of Illinois Urbana-Champaign (UIUC)"
+    },
     {
       "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
       "url": "https://news.skhynix.com/en/iec-61508-certification-2026-5/",
@@ -66,13 +73,6 @@
       "url": "https://news.skhynix.com/en/2026-partners-day-japan-1/",
       "published_at": "2026-10-30T08:10:27+00:00",
       "summary": "▲ The Partners Day held in Japan",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
-      "url": "https://news.skhynix.com/en/2026-partners-day-japan/",
-      "published_at": "2026-10-30T04:50:32+00:00",
-      "summary": "As advances in AI technology drive rapid growth in memory demand, global collaboration is becoming increasingly important to securing stable supply chains. In order to share its business direction and further strengthen their partnerships, SK hynix brought together key partners",
       "author": "SK hynix"
     }
   ],
