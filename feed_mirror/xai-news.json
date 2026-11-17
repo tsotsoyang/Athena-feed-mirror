@@ -2,14 +2,21 @@
   "source": "xai-news",
   "name": "xAI News",
   "feed_url": "https://x-ai.translate.goog/news?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en",
-  "fetched_at": "2026-11-17T08:57:41.940312+00:00",
-  "next_refresh_at": "2026-11-17T09:27:41.940312+00:00",
+  "fetched_at": "2026-11-17T18:21:37.482437+00:00",
+  "next_refresh_at": "2026-11-17T18:51:37.482437+00:00",
   "entries": [
     {
       "title": "Introducing Grok Bot 1.0 | SpaceXSI",
       "url": "https://x.ai/news/grok-bot-1-0",
       "published_at": null,
       "summary": "Bots now work with your whole team, take on work without being asked, and get more done, faster.",
+      "author": null
+    },
+    {
+      "title": "Building an accounting team with Grok Bot | SpaceXSI",
+      "url": "https://x.ai/news/grok-bot-accounting",
+      "published_at": null,
+      "summary": "Five Grok Bots at SpaceXSI each own an accounting job end to end, from provisioning a customer account to collecting payment. They only involve a person when the work needs judgment.",
       "author": null
     },
     {
@@ -171,13 +178,6 @@
       "url": "https://x.ai/news/grok-4-6",
       "published_at": null,
       "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
-      "author": null
-    },
-    {
-      "title": "Introducing Grok Bot | SpaceXSI",
-      "url": "https://x.ai/news/introducing-grok-bot",
-      "published_at": null,
-      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
       "author": null
     }
   ],
