@@ -2,9 +2,65 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-17T00:57:40.604181+00:00",
-  "next_refresh_at": "2026-11-17T01:27:40.604181+00:00",
+  "fetched_at": "2026-11-17T08:57:38.331186+00:00",
+  "next_refresh_at": "2026-11-17T09:27:38.331186+00:00",
   "entries": [
+    {
+      "title": "【明日直播】四开关Buck‑Boost的EMI和环路补偿，这场ADI直播讲透了（送好礼）",
+      "url": "https://www.eet-china.com/webinars/entry/ADI_20261118.html?source=popup",
+      "published_at": null,
+      "summary": "有奖直播，ADI 电源公开课：Boost/Buck‑Boost 原理 + 环路补偿 + LTspice 实操",
+      "author": null
+    },
+    {
+      "title": "八家模拟芯片公司Q3成绩单：三家赚走超九成利润，五家在盈亏线上挣扎",
+      "url": "https://www.esmchina.com/news/14816.html",
+      "published_at": null,
+      "summary": "2026年第三季度，中国本土模拟芯片上市公司的走势继续分化：头部加速、尾部承压，但整体增速比上半年慢下来了。",
+      "author": null
+    },
+    {
+      "title": "美日英等10国签署《旧金山宣言》，防范中国AI供应链优势",
+      "url": "https://www.esmchina.com/news/14815.html",
+      "published_at": null,
+      "summary": "日前，在美国旧金山举行的“硅和平”（Pax Silica）创始方会议上，美国联合九个盟友正式签署了《关于持久繁荣的安全基础的旧金山宣言》。",
+      "author": null
+    },
+    {
+      "title": "工信部委托中汽协评估17家车企供应商账期，每家抽查不少于15家供应商",
+      "url": "https://www.esmchina.com/news/14814.html",
+      "published_at": null,
+      "summary": "17家车企的账期，以后每年查一次",
+      "author": null
+    },
+    {
+      "title": "纳芯微4.87亿收购隔空智能，毫米波雷达版图落地",
+      "url": "https://www.esmchina.com/news/14811.html",
+      "published_at": null,
+      "summary": "11月16日，国产模拟芯片龙头纳芯微以现金方式出资48,692.70万元，收购宁波隔空智能科技有限公司78.1520%股权。",
+      "author": null
+    },
+    {
+      "title": "一周五笔：半导体上市公司集体出手，钱投向材料、芯片与测试",
+      "url": "https://www.esmchina.com/news/14813.html",
+      "published_at": null,
+      "summary": "加快补链强链。",
+      "author": null
+    },
+    {
+      "title": "台积电拟按客户信用额度供产能，部分客户需预付款锁定产能",
+      "url": "https://www.esmchina.com/news/14812.html",
+      "published_at": null,
+      "summary": "传台积电排产能新规矩：先验资信，再谈订单",
+      "author": null
+    },
+    {
+      "title": "美国切断中企海外云算力租用通道",
+      "url": "https://www.esmchina.com/news/14810.html",
+      "published_at": null,
+      "summary": "当地时间11月16日，美国商务部工业和安全局（BIS）正式发布一项长达132页的临时最终规则，题为《限制远程获取先进半导体》，标志着美国针对先进计算芯片的出口管制体系，正从单纯的“硬件物理拦截”全面向“云端算力穿透”升级。",
+      "author": null
+    },
     {
       "title": "【有奖直播】汽车零部件研发人手不够，AI 能省多少时间？",
       "url": "https://events.siemens.com.cn/disw/we/at011/?pk_source=eetimes",
@@ -122,62 +178,6 @@
       "url": "https://www.esmchina.com/news/14793.html",
       "published_at": null,
       "summary": "3天干完半年的活，这个AI把自己搬上了AMD",
-      "author": null
-    },
-    {
-      "title": "【有奖直播】电源管理基础知识II研讨会3：SEPIC、Ćuk和反相器拓扑详解",
-      "url": "https://www.eet-china.com/webinars/entry/ADI_20261216.html?source=pop",
-      "published_at": null,
-      "summary": "深入了解SEPIC转换器如何简化电路并在所有模式下实现输出断开功能。利用Ćuk拓扑构建低噪声转换器。研究降压-升压反相拓扑，作为生成负输出的替代方案。",
-      "author": null
-    },
-    {
-      "title": "微软游说白宫叫停中国光模块进口禁令",
-      "url": "https://www.esmchina.com/news/14791.html",
-      "published_at": null,
-      "summary": "据路透社报道，微软正在向特朗普政府施压，要求放弃拟议中的中国光模块进口限制计划。",
-      "author": null
-    },
-    {
-      "title": "SpaceX被曝自研Kessel机架：只买英伟达芯片封装，板卡零部件改自采",
-      "url": "https://www.esmchina.com/news/14790.html",
-      "published_at": null,
-      "summary": "SpaceX只买英伟达芯片，机柜自己造",
-      "author": null
-    },
-    {
-      "title": "黄仁勋再陷婚外情传闻，董事会酝酿“换帅”",
-      "url": "https://www.esmchina.com/news/14789.html",
-      "published_at": null,
-      "summary": "在创始人兼CEO黄仁勋首段婚外情风波及引发的“国家安全”调查尚未平息之际，当地时间11月11日，《纽约时报》的一篇深度报道又将英伟达的内部治理问题推上风口浪尖。",
-      "author": null
-    },
-    {
-      "title": "阿里拟拆平头哥单飞赴港，国产AI芯片开启独立上市潮",
-      "url": "https://www.esmchina.com/news/14786.html",
-      "published_at": null,
-      "summary": "平头哥计划募资规模至少20亿至30亿美元，若落地将成为近年来港股市场规模最大的半导体IPO之一。",
-      "author": null
-    },
-    {
-      "title": "英飞凌2026财年以创纪录季度收官，预计2027财年营收突破200亿欧元",
-      "url": "https://www.esmchina.com/news/14785.html",
-      "published_at": null,
-      "summary": "驱动2027财年增长的四大核心领域分别是数据中心电源、能源基础设施扩建与现代化升级、电动出行以及软件定义汽车。",
-      "author": null
-    },
-    {
-      "title": "艾为电子拟购钰泰股份控股权，前三季度净利降61%",
-      "url": "https://www.esmchina.com/news/14784.html",
-      "published_at": null,
-      "summary": "业绩承压下启动并购。",
-      "author": null
-    },
-    {
-      "title": "前10个月中国进出口增长20%，集成电路出口同比增137%成最大引擎",
-      "url": "https://www.esmchina.com/news/14783.html",
-      "published_at": null,
-      "summary": "进口方面，前10个月中国进口集成电路5257.51亿个，同比增长6.5%；进口金额达38863.34亿元人民币，同比增长58%。",
       "author": null
     }
   ],
