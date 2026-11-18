@@ -2,21 +2,42 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-18T01:09:40.238773+00:00",
-  "next_refresh_at": "2026-11-18T01:39:40.238773+00:00",
+  "fetched_at": "2026-11-18T08:54:32.960456+00:00",
+  "next_refresh_at": "2026-11-18T09:24:32.960456+00:00",
   "entries": [
     {
-      "title": "单季营收破1158亿美元！英伟达交出“后黄仁勋时代”首份财报",
-      "url": "https://www.esmchina.com/news/14818.html",
+      "title": "英伟达临时CEO确认停止向中国发运H200",
+      "url": "https://www.esmchina.com/news/14821.html",
       "published_at": null,
-      "summary": "英伟达2027财年第三季度财务报告显示，本季度，英伟达实现总营收1158.44亿美元，环比增长20%，同比大幅增长103%，显著高于华尔街此前1091亿美元的平均预期。这也是英伟达历史上首次实现单季营收突破千亿大关。",
+      "summary": "一条特批通道正被关闭？",
       "author": null
     },
     {
-      "title": "【今日直播】四开关Buck‑Boost的EMI和环路补偿，这场ADI直播讲透了（送好礼）",
-      "url": "https://www.eet-china.com/webinars/entry/ADI_20261118.html?source=popup",
+      "title": "AI时代，元器件分销商的生意逻辑正在被改写",
+      "url": "https://www.esmchina.com/news/14754.html",
       "published_at": null,
-      "summary": "有奖直播，ADI 电源公开课：Boost/Buck‑Boost 原理 + 环路补偿 + LTspice 实操",
+      "summary": "在最近几年的行业展会上，伴随明星级AI产品一同登场的，还有行业一个悄然成形的趋势——参展商的宣传重心集体转向了系统级方案。",
+      "author": null
+    },
+    {
+      "title": "三星苹果敲定DRAM长协：明年上半年生效，期限4至5年，约定最低供货量",
+      "url": "https://www.esmchina.com/news/14820.html",
+      "published_at": null,
+      "summary": "苹果破例了，跟三星签下4年长约",
+      "author": null
+    },
+    {
+      "title": "从15W到25W：无线充电功率升级中，FOD整定的三个盲区",
+      "url": "https://www.esmchina.com/news/14819.html",
+      "published_at": null,
+      "summary": "一个 MPP 25W 双充项目、四版方案迭代的实测复盘",
+      "author": null
+    },
+    {
+      "title": "英伟达单季营收1158亿美元！黄仁勋愿意回归，但董事会说NO",
+      "url": "https://www.esmchina.com/news/14818.html",
+      "published_at": null,
+      "summary": "英伟达2027财年第三季度财务报告显示，本季度，英伟达实现总营收1158.44亿美元，环比增长20%，同比大幅增长103%，显著高于华尔街此前1091亿美元的平均预期。这也是英伟达历史上首次实现单季营收突破千亿大关。",
       "author": null
     },
     {
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14798.html",
       "published_at": null,
       "summary": "从“产业共识”加速走向“孵化落地”。",
-      "author": null
-    },
-    {
-      "title": "中芯国际三季报：毛利率创四年新高，全年收入或超120亿美元",
-      "url": "https://www.esmchina.com/news/14797.html",
-      "published_at": null,
-      "summary": "按中国企业会计准则，中芯国际前三季度实现营业收入606.18亿元，同比增长22.4%；归母净利润73.14亿元，同比增长91.6%；",
-      "author": null
-    },
-    {
-      "title": "黄仁勋辞任英伟达CEO：33年创始人时代落幕，CFO克雷斯临时代管",
-      "url": "https://www.esmchina.com/news/14796.html",
-      "published_at": null,
-      "summary": "董事会首次设立主席职位，由新思科技前CEO哈维·琼斯出任；11月17日财报电话会成为首个观察窗口。",
-      "author": null
-    },
-    {
-      "title": "德国拟扩大5G基站审查、禁用中国设备？商务部回应",
-      "url": "https://www.esmchina.com/news/14794.html",
-      "published_at": null,
-      "summary": "商务部表态的背后，是中国5G底座已成规模。",
       "author": null
     }
   ],
