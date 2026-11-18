@@ -2,11 +2,18 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-17T18:21:34.221575+00:00",
-  "next_refresh_at": "2026-11-17T18:51:34.221575+00:00",
+  "fetched_at": "2026-11-18T01:09:40.238773+00:00",
+  "next_refresh_at": "2026-11-18T01:39:40.238773+00:00",
   "entries": [
     {
-      "title": "【明日直播】四开关Buck‑Boost的EMI和环路补偿，这场ADI直播讲透了（送好礼）",
+      "title": "单季营收破1158亿美元！英伟达交出“后黄仁勋时代”首份财报",
+      "url": "https://www.esmchina.com/news/14818.html",
+      "published_at": null,
+      "summary": "英伟达2027财年第三季度财务报告显示，本季度，英伟达实现总营收1158.44亿美元，环比增长20%，同比大幅增长103%，显著高于华尔街此前1091亿美元的平均预期。这也是英伟达历史上首次实现单季营收突破千亿大关。",
+      "author": null
+    },
+    {
+      "title": "【今日直播】四开关Buck‑Boost的EMI和环路补偿，这场ADI直播讲透了（送好礼）",
       "url": "https://www.eet-china.com/webinars/entry/ADI_20261118.html?source=popup",
       "published_at": null,
       "summary": "有奖直播，ADI 电源公开课：Boost/Buck‑Boost 原理 + 环路补偿 + LTspice 实操",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14794.html",
       "published_at": null,
       "summary": "商务部表态的背后，是中国5G底座已成规模。",
-      "author": null
-    },
-    {
-      "title": "Anthropic披露Mythos模型3天适配AMD MI355X，近100%内核代码由AI编写",
-      "url": "https://www.esmchina.com/news/14793.html",
-      "published_at": null,
-      "summary": "3天干完半年的活，这个AI把自己搬上了AMD",
       "author": null
     }
   ],
