@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-18T23:56:50.066839+00:00",
-  "next_refresh_at": "2026-11-19T00:26:50.066839+00:00",
+  "fetched_at": "2026-11-19T06:41:30.649502+00:00",
+  "next_refresh_at": "2026-11-19T07:11:30.649502+00:00",
   "entries": [
+    {
+      "title": "Anthropic IPO定价83美元，总募资约1073亿美元，估值1.5万亿美元",
+      "url": "https://www.esmchina.com/news/14823.html",
+      "published_at": null,
+      "summary": "AI史上最大IPO今晚敲钟，总募资超1000亿美元",
+      "author": null
+    },
+    {
+      "title": "微软牵手英特尔：Azure自研芯片首度引入EMIB，锁定下一代至强产能",
+      "url": "https://www.esmchina.com/news/14822.html",
+      "published_at": null,
+      "summary": "公告没有披露合同金额、采购数量或具体收入贡献，但这份长期协议本身，已经把两家合作了数十年的公司更深地绑进了同一套“云+AI”硬件栈里。",
+      "author": null
+    },
     {
       "title": "英伟达临时CEO确认停止向中国发运H200",
       "url": "https://www.esmchina.com/news/14821.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14800.html",
       "published_at": null,
       "summary": "随着国家“十五五”规划将脑机接口列入六大未来产业，这条赛道正站上政策与市场的双重风口：一端锚定千亿医疗刚需，另一端则有望撬动睡眠、消费娱乐、人机交互等万亿级消费新基建。然而，产业链结构仍不均衡——目前脑机接口上游企业仅占全产业链的8%，芯片、电极等核心元器件国产化率偏低，替代空间清晰。",
-      "author": null
-    },
-    {
-      "title": "面板级封装势头正劲，五个原因读懂AI封装的新战场",
-      "url": "https://www.esmchina.com/news/14731.html",
-      "published_at": null,
-      "summary": "随着AI封装变得更大、更密、更复杂，传统的晶圆级制造开始遇到切实限制。业",
-      "author": null
-    },
-    {
-      "title": "芯原海南五年答卷：第五届南渡江论坛开幕，两个产业载体同日签约揭牌",
-      "url": "https://www.esmchina.com/news/14798.html",
-      "published_at": null,
-      "summary": "从“产业共识”加速走向“孵化落地”。",
       "author": null
     }
   ],

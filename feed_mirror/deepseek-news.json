@@ -2,8 +2,8 @@
   "source": "deepseek-news",
   "name": "DeepSeek News",
   "feed_url": "https://api-docs.deepseek.com/news",
-  "fetched_at": "2026-11-18T23:56:46.784682+00:00",
-  "next_refresh_at": "2026-11-19T00:26:46.784682+00:00",
+  "fetched_at": "2026-11-19T06:41:27.905256+00:00",
+  "next_refresh_at": "2026-11-19T07:11:27.905256+00:00",
   "entries": [
     {
       "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
