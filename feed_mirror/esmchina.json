@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-19T06:41:30.649502+00:00",
-  "next_refresh_at": "2026-11-19T07:11:30.649502+00:00",
+  "fetched_at": "2026-11-19T16:21:20.915628+00:00",
+  "next_refresh_at": "2026-11-19T16:51:20.915628+00:00",
   "entries": [
+    {
+      "title": "DeepSeek第二轮融资落地？31家出资方、1055亿、一个杭州合伙企业",
+      "url": "https://www.esmchina.com/news/14824.html",
+      "published_at": null,
+      "summary": "这类数字目前仍属媒体报道口径，非官方确认。",
+      "author": null
+    },
     {
       "title": "Anthropic IPO定价83美元，总募资约1073亿美元，估值1.5万亿美元",
       "url": "https://www.esmchina.com/news/14823.html",
@@ -171,13 +178,6 @@
       "url": "https://mbb.eet-china.com/member.php?mod=logging&action=login&next=https://www.eet-china.com/webinars/ChipAgents_20261203.html&event=832&type=3&host=https://www.eet-china.com&source=popup",
       "published_at": null,
       "summary": "告别反复调参！看 IC-star 三大生产级工作流首曝，报名赢小米手环11等好礼。",
-      "author": null
-    },
-    {
-      "title": "从芯片到临床，从医疗到消费：脑机接口产业化路径渐明",
-      "url": "https://www.esmchina.com/news/14800.html",
-      "published_at": null,
-      "summary": "随着国家“十五五”规划将脑机接口列入六大未来产业，这条赛道正站上政策与市场的双重风口：一端锚定千亿医疗刚需，另一端则有望撬动睡眠、消费娱乐、人机交互等万亿级消费新基建。然而，产业链结构仍不均衡——目前脑机接口上游企业仅占全产业链的8%，芯片、电极等核心元器件国产化率偏低，替代空间清晰。",
       "author": null
     }
   ],
