@@ -2,9 +2,23 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-18T17:49:42.193455+00:00",
-  "next_refresh_at": "2026-11-18T18:19:42.193455+00:00",
+  "fetched_at": "2026-11-18T23:56:50.292712+00:00",
+  "next_refresh_at": "2026-11-19T00:26:50.292712+00:00",
   "entries": [
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "published_at": "2026-11-18T21:35:43+00:00",
+      "summary": "",
+      "author": null
+    },
+    {
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "published_at": "2026-11-18T18:13:42+00:00",
+      "summary": "",
+      "author": null
+    },
     {
       "title": "Introducing Gemini 4 Hydrogen",
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
@@ -164,20 +178,6 @@
       "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "published_at": "2026-09-23T15:25:14+00:00",
       "summary": "",
-      "author": null
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "published_at": "2026-09-15T17:05:57+00:00",
-      "summary": "",
-      "author": null
-    },
-    {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "published_at": "2026-09-08T14:00:15+00:00",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
       "author": null
     }
   ],
