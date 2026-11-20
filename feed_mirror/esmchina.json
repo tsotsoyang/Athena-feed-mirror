@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-20T13:26:37.232498+00:00",
-  "next_refresh_at": "2026-11-20T13:56:37.232498+00:00",
+  "fetched_at": "2026-11-20T21:26:04.790281+00:00",
+  "next_refresh_at": "2026-11-20T21:56:04.790281+00:00",
   "entries": [
+    {
+      "title": "三重奏的变调，国产EDA上市公司2026 Q3财报解析",
+      "url": "https://www.esmchina.com/news/14830.html",
+      "published_at": null,
+      "summary": "2026年三季报收官，华大九天、广立微、概伦电子相继交卷。三家企业财务数据的差异，则把国产EDA“全流程平台化”与“差异化点工具”的路线之争，第一次清晰地摆在了台面上。",
+      "author": null
+    },
     {
       "title": "前三季度营收超3300亿，两家跨入千亿：电子元器件分销行业增长再提速",
       "url": "https://www.esmchina.com/news/14829.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14807.html",
       "published_at": null,
       "summary": "11月16日，第三方数据工具估算显示，鸿蒙装机量已突破1亿台。",
-      "author": null
-    },
-    {
-      "title": "从感知到干预，脑机接口数字疗法的三条落地路径",
-      "url": "https://www.esmchina.com/news/14806.html",
-      "published_at": null,
-      "summary": "当脑机接口不再只是一个“读脑”的概念，而是开始介入疼痛是否缓解、睡眠是否深沉、孤独症孩子能否学会一个社交动作——它才真正从实验室走进了临床。",
       "author": null
     }
   ],
