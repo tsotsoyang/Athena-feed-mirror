@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-19T23:09:25.001737+00:00",
-  "next_refresh_at": "2026-11-19T23:39:25.001737+00:00",
+  "fetched_at": "2026-11-20T04:09:58.617944+00:00",
+  "next_refresh_at": "2026-11-20T04:39:58.617944+00:00",
   "entries": [
+    {
+      "title": "折叠方向盘，是智驾的必然还是噱头？",
+      "url": "https://www.esmchina.com/news/14827.html",
+      "published_at": null,
+      "summary": "撬动的是汽车底盘供应链。",
+      "author": null
+    },
+    {
+      "title": "比亚迪发布折叠方向盘：首搭方程豹钛9，泊车中10秒完成折叠",
+      "url": "https://www.esmchina.com/news/14826.html",
+      "published_at": null,
+      "summary": "比亚迪发布折叠方向盘，泊车中10秒可完成折叠",
+      "author": null
+    },
+    {
+      "title": "台积电暂停部分先进制程订单：16nm及以下须美国出口许可，受限设计公司退回使用28/40nm",
+      "url": "https://www.esmchina.com/news/14825.html",
+      "published_at": null,
+      "summary": "想要台积电16纳米以下产能，先要拿下美国出口许可证",
+      "author": null
+    },
+    {
+      "title": "欧盟安全评级升级，车企加速从方向盘传感器转向中央摄像头",
+      "url": "https://www.esmchina.com/news/14795.html",
+      "published_at": null,
+      "summary": "2026年起，欧洲汽车安全评级先看摄像头装在哪",
+      "author": null
+    },
     {
       "title": "DeepSeek第二轮融资落地？31家出资方、1055亿、一个杭州合伙企业",
       "url": "https://www.esmchina.com/news/14824.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14804.html",
       "published_at": null,
       "summary": "当“被动训练”向“主动闭环”转型成为行业关键词，脑机接口与康复产业的合流，正在从趋势变为现实。",
-      "author": null
-    },
-    {
-      "title": "3亿欧元罚单压顶，闻泰科技对荷兰法庭说“不”！",
-      "url": "https://www.esmchina.com/news/14803.html",
-      "published_at": null,
-      "summary": "闻泰科技就荷兰企业法庭日前针对安世半导体作出的临时措施裁定发布声明，直指该裁定无事实依据、实质构成“跨境禁诉令”并干预中国司法程序。",
-      "author": null
-    },
-    {
-      "title": "脑机接口与康复机器人的结合：情绪价值还是临床刚需？",
-      "url": "https://www.esmchina.com/news/14802.html",
-      "published_at": null,
-      "summary": "圆桌嘉宾（从左到右）：同济大学附属养志康复医院转化研究中心主任 牛文鑫，上海卓道医疗科技有限公司创始人、CEO 王道雨，布法罗机器人科技（成都）有限公司总经理 张代武，安杰莱科技（杭州）有限公司创始人、董事长 李鲁亚，海南财金海盈投资公司总经理助理 白云天。",
-      "author": null
-    },
-    {
-      "title": "存储涨价压到整机：Q3手机跌19%、PC跌20.1%、平板跌23%",
-      "url": "https://www.esmchina.com/news/14801.html",
-      "published_at": null,
-      "summary": "内存贵了，Q3手机电脑平板全都卖不动",
-      "author": null
-    },
-    {
-      "title": "告别手动配置！看三大生产级AI工作流实战演示",
-      "url": "https://mbb.eet-china.com/member.php?mod=logging&action=login&next=https://www.eet-china.com/webinars/ChipAgents_20261203.html&event=832&type=3&host=https://www.eet-china.com&source=popup",
-      "published_at": null,
-      "summary": "告别反复调参！看 IC-star 三大生产级工作流首曝，报名赢小米手环11等好礼。",
       "author": null
     }
   ],

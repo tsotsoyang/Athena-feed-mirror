@@ -2,9 +2,16 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-11-19T23:09:05.777756+00:00",
-  "next_refresh_at": "2026-11-19T23:39:05.777756+00:00",
+  "fetched_at": "2026-11-20T04:09:37.782433+00:00",
+  "next_refresh_at": "2026-11-20T04:39:37.782433+00:00",
   "entries": [
+    {
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Supercomputing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition/",
+      "published_at": "2026-11-19T23:57:22+00:00",
+      "summary": "As the volume of data handled by AI continues to grow, memory technology for storing and processing that data efficiently is evolving ever faster. Going beyond simply storing data and retrieving it when needed, a range of ideas is taking",
+      "author": "SK hynix"
+    },
     {
       "title": "[AI Ecosystem] Completing AI: Physical intelligence and the role of memory",
       "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-5/",
@@ -65,13 +72,6 @@
       "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
       "url": "https://news.skhynix.com/en/2026-partners-day-japan-2/",
       "published_at": "2026-10-30T08:17:52+00:00",
-      "summary": "▲ The Partners Day held in Japan",
-      "author": "SK hynix"
-    },
-    {
-      "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
-      "url": "https://news.skhynix.com/en/2026-partners-day-japan-1/",
-      "published_at": "2026-10-30T08:10:27+00:00",
       "summary": "▲ The Partners Day held in Japan",
       "author": "SK hynix"
     }
