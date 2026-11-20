@@ -2,77 +2,77 @@
   "source": "skhynix-newsroom",
   "name": "SK hynix Newsroom",
   "feed_url": "https://news.skhynix.com/feed/",
-  "fetched_at": "2026-11-20T04:09:37.782433+00:00",
-  "next_refresh_at": "2026-11-20T04:39:37.782433+00:00",
+  "fetched_at": "2026-11-20T13:26:17.717134+00:00",
+  "next_refresh_at": "2026-11-20T13:56:17.717134+00:00",
   "entries": [
     {
-      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Supercomputing 2026",
-      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition/",
-      "published_at": "2026-11-19T23:57:22+00:00",
-      "summary": "As the volume of data handled by AI continues to grow, memory technology for storing and processing that data efficiently is evolving ever faster. Going beyond simply storing data and retrieving it when needed, a range of ideas is taking",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-12/",
+      "published_at": "2026-11-20T07:38:41+00:00",
+      "summary": "▲ The company introduction section, presenting SK hynix’s history and vision along with its HBM development journey and latest product status",
       "author": "SK hynix"
     },
     {
-      "title": "[AI Ecosystem] Completing AI: Physical intelligence and the role of memory",
-      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-5/",
-      "published_at": "2026-11-16T23:58:24+00:00",
-      "summary": "As AI workloads evolve toward inference and agentic AI, the criteria for system performance are also changing. Computing power alone is no longer enough. Where data is stored, how quickly it moves, and how efficiently it is processed now have",
-      "author": "Professor Nam-sung Kim, University of Illinois Urbana-Champaign (UIUC)"
-    },
-    {
-      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
-      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-5/",
-      "published_at": "2026-11-11T01:36:17+00:00",
-      "summary": "▲ SK hynix ISO/SAE 21434 Cybersecurity Process Certificate",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-11/",
+      "published_at": "2026-11-20T07:37:19+00:00",
+      "summary": "▲ SK hynix’s main server DRAM products",
       "author": "SK hynix"
     },
     {
-      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
-      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-4/",
-      "published_at": "2026-11-11T01:34:45+00:00",
-      "summary": "▲ SK hynix ISO/SAE 21434 Cybersecurity Process Certificate",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-10/",
+      "published_at": "2026-11-20T07:36:09+00:00",
+      "summary": "▲ SK hynix’s main eSSD products",
       "author": "SK hynix"
     },
     {
-      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
-      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-3/",
-      "published_at": "2026-11-11T01:29:07+00:00",
-      "summary": "▲ IEC 61508 Safety Integrity Levels (SIL) and operating modes. LPDDR5X supports SIL 3 and continuous mode.",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-9/",
+      "published_at": "2026-11-20T07:35:01+00:00",
+      "summary": "▲ SK hynix’s main HBM products",
       "author": "SK hynix"
     },
     {
-      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
-      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-2/",
-      "published_at": "2026-11-11T01:28:04+00:00",
-      "summary": "▲ SK hynix IEC 61508 Product and Process Certificates",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-8/",
+      "published_at": "2026-11-20T07:04:31+00:00",
+      "summary": "▲ Visitors examining a structural model of Custom HBM Array",
       "author": "SK hynix"
     },
     {
-      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
-      "url": "https://news.skhynix.com/en/iec-61508-certification-2026-1/",
-      "published_at": "2026-11-11T01:25:43+00:00",
-      "summary": "",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-7/",
+      "published_at": "2026-11-20T07:03:03+00:00",
+      "summary": "▲ Visitors examining a brochure introducing the Compute-using-DRAM solution",
       "author": "SK hynix"
     },
     {
-      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
-      "url": "https://news.skhynix.com/en/iec-61508-certification-2026/",
-      "published_at": "2026-11-10T23:59:29+00:00",
-      "summary": "▪ SK hynix secures IEC 61508 SIL 3 industrial functional safety certification for LPDDR5X and ISO/SAE 21434-based Cybersecurity Management System (CSMS) certification product lifecycle process. ▪ Building on its industry-first TISAX certification early last year, the company expands its international",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-6/",
+      "published_at": "2026-11-20T07:01:36+00:00",
+      "summary": "▲ Visitors watching a demo video in the KV Cache Offloading over CXL zone",
       "author": "SK hynix"
     },
     {
-      "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
-      "url": "https://news.skhynix.com/en/2026-partners-day-japan-3/",
-      "published_at": "2026-10-30T08:19:49+00:00",
-      "summary": "▲ SK hynix Chief Production Officer (CPO) Byungki Lee emphasizes expanding cooperation across the Korean and Japanese semiconductor ecosystems",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-5/",
+      "published_at": "2026-11-20T06:59:38+00:00",
+      "summary": "▲ A demonstration of token-sharing technology based on CXL pooled memory",
       "author": "SK hynix"
     },
     {
-      "title": "SK hynix Hosts First Partners Day in Japan, Sharing Business Direction with Key Local Partners",
-      "url": "https://news.skhynix.com/en/2026-partners-day-japan-2/",
-      "published_at": "2026-10-30T08:17:52+00:00",
-      "summary": "▲ The Partners Day held in Japan",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-4/",
+      "published_at": "2026-11-20T06:58:03+00:00",
+      "summary": "▲ A demonstration of AI agent serving technology using computational pooled memory",
+      "author": "SK hynix"
+    },
+    {
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-3/",
+      "published_at": "2026-11-20T06:56:09+00:00",
+      "summary": "▲ Visitors touring the MARS section",
       "author": "SK hynix"
     }
   ],

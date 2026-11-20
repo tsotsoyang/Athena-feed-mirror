@@ -2,9 +2,23 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-20T04:09:58.617944+00:00",
-  "next_refresh_at": "2026-11-20T04:39:58.617944+00:00",
+  "fetched_at": "2026-11-20T13:26:37.232498+00:00",
+  "next_refresh_at": "2026-11-20T13:56:37.232498+00:00",
   "entries": [
+    {
+      "title": "前三季度营收超3300亿，两家跨入千亿：电子元器件分销行业增长再提速",
+      "url": "https://www.esmchina.com/news/14829.html",
+      "published_at": null,
+      "summary": "2026年前三季度，13家上市分销商营收总和达3325.2亿元，同比增长94.96%。",
+      "author": null
+    },
+    {
+      "title": "英特尔持续瘦身，再削全球IT部门",
+      "url": "https://www.esmchina.com/news/14828.html",
+      "published_at": null,
+      "summary": "按10%至20%的比例推算，意味着约260至520人将离开。",
+      "author": null
+    },
     {
       "title": "折叠方向盘，是智驾的必然还是噱头？",
       "url": "https://www.esmchina.com/news/14827.html",
@@ -164,20 +178,6 @@
       "url": "https://www.esmchina.com/news/14806.html",
       "published_at": null,
       "summary": "当脑机接口不再只是一个“读脑”的概念，而是开始介入疼痛是否缓解、睡眠是否深沉、孤独症孩子能否学会一个社交动作——它才真正从实验室走进了临床。",
-      "author": null
-    },
-    {
-      "title": "源杰科技签17.44亿元大功率激光器芯片订单",
-      "url": "https://www.esmchina.com/news/14805.html",
-      "published_at": null,
-      "summary": "源杰科技公告表示，公司近日收到B客户关于大功率激光器芯片产品的采购订单，总金额17.44亿元（不含税）。",
-      "author": null
-    },
-    {
-      "title": "三家企业，一个共识：脑机接口与康复产业的合流时刻",
-      "url": "https://www.esmchina.com/news/14804.html",
-      "published_at": null,
-      "summary": "当“被动训练”向“主动闭环”转型成为行业关键词，脑机接口与康复产业的合流，正在从趋势变为现实。",
       "author": null
     }
   ],
