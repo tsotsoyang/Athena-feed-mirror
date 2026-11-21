@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-20T21:25:51.681203+00:00",
-  "next_refresh_at": "2026-11-20T21:55:51.681203+00:00",
+  "fetched_at": "2026-11-21T02:41:29.882022+00:00",
+  "next_refresh_at": "2026-11-21T03:11:29.882022+00:00",
   "entries": [
     {
       "title": "Combatting adversarial distillation",
