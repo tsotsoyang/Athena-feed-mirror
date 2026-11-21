@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-21T02:41:45.843802+00:00",
-  "next_refresh_at": "2026-11-21T03:11:45.843802+00:00",
+  "fetched_at": "2026-11-21T10:41:44.396245+00:00",
+  "next_refresh_at": "2026-11-21T11:11:44.396245+00:00",
   "entries": [
     {
       "title": "Introducing Gemini 4 Neon",
