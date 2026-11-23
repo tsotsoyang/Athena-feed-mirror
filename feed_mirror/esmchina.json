@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-22T23:43:50.080575+00:00",
-  "next_refresh_at": "2026-11-23T00:13:50.080575+00:00",
+  "fetched_at": "2026-11-23T06:03:41.187043+00:00",
+  "next_refresh_at": "2026-11-23T06:33:41.187043+00:00",
   "entries": [
+    {
+      "title": "全球PCB短缺警报拉响，或延续至2028年",
+      "url": "https://www.esmchina.com/news/14833.html",
+      "published_at": null,
+      "summary": "国内厂商加码高端产能。",
+      "author": null
+    },
+    {
+      "title": "三星存储产能已被长协锁定至2029年：部分客户争取延长至2031年，目标锁定六到七成产能",
+      "url": "https://www.esmchina.com/news/14832.html",
+      "published_at": null,
+      "summary": "韩媒：三星存储产能预订已排至2029年",
+      "author": null
+    },
+    {
+      "title": "量产高增、设计承压，两大国产IP企业2026年Q3财报解析",
+      "url": "https://www.esmchina.com/news/14831.html",
+      "published_at": null,
+      "summary": "本报告聚焦于国产IP领域的两大上市公司——灿芯股份与芯原股份，通过深度剖析其2026年Q3季度财报，从营收、利润、业务结构到研发投入等多个维度，透视它们在复杂市场环境下的经营实况与战略抉择，并探寻其未来的发展轨迹。",
+      "author": null
+    },
     {
       "title": "分化·整合·盈利，国产EDA上市公司Q3财报的“三重奏”",
       "url": "https://www.esmchina.com/news/14830.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14810.html",
       "published_at": null,
       "summary": "当地时间11月16日，美国商务部工业和安全局（BIS）正式发布一项长达132页的临时最终规则，题为《限制远程获取先进半导体》，标志着美国针对先进计算芯片的出口管制体系，正从单纯的“硬件物理拦截”全面向“云端算力穿透”升级。",
-      "author": null
-    },
-    {
-      "title": "【有奖直播】汽车零部件研发人手不够，AI 能省多少时间？",
-      "url": "https://events.siemens.com.cn/disw/we/at011/?pk_source=eetimes",
-      "published_at": null,
-      "summary": "12月17日直播告诉你Polarion AI 能替工程师省下哪些活",
-      "author": null
-    },
-    {
-      "title": "SK海力士五年投1.4万亿韩元扶持供应商",
-      "url": "https://www.esmchina.com/news/14808.html",
-      "published_at": null,
-      "summary": "韩国存储巨头投资1.4万亿韩元扶持供应商",
-      "author": null
-    },
-    {
-      "title": "华为鸿蒙终端设备数量突破1亿台",
-      "url": "https://www.esmchina.com/news/14807.html",
-      "published_at": null,
-      "summary": "11月16日，第三方数据工具估算显示，鸿蒙装机量已突破1亿台。",
       "author": null
     }
   ],
