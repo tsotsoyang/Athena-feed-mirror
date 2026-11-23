@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-23T06:03:41.187043+00:00",
-  "next_refresh_at": "2026-11-23T06:33:41.187043+00:00",
+  "fetched_at": "2026-11-23T18:37:17.291170+00:00",
+  "next_refresh_at": "2026-11-23T19:07:17.291170+00:00",
   "entries": [
+    {
+      "title": "英伟达官宣：黄仁勋即刻复职CEO",
+      "url": "https://www.esmchina.com/news/14837.html",
+      "published_at": null,
+      "summary": "英伟达今日宣布，黄仁勋即日起恢复担任公司总裁兼首席执行官，并重新成为董事会成员。",
+      "author": null
+    },
+    {
+      "title": "解除留置仅六周后辞任，三安光电总经理涉刑案许可程序启动",
+      "url": "https://www.esmchina.com/news/14835.html",
+      "published_at": null,
+      "summary": "11月22日晚间，国内化合物半导体龙头三安光电发布公告称，公司副董事长兼总经理林科闯因“个人身体原因”辞去所有职务。",
+      "author": null
+    },
+    {
+      "title": "海外征税、国内拒批：美国AI数据中心被两头堵",
+      "url": "https://www.esmchina.com/news/14834.html",
+      "published_at": null,
+      "summary": "不过，特朗普也承认，这一想法尚未与团队充分讨论，目前没有正式行政令。",
+      "author": null
+    },
     {
       "title": "全球PCB短缺警报拉响，或延续至2028年",
       "url": "https://www.esmchina.com/news/14833.html",
@@ -157,27 +178,6 @@
       "url": "https://www.esmchina.com/news/14811.html",
       "published_at": null,
       "summary": "11月16日，国产模拟芯片龙头纳芯微以现金方式出资48,692.70万元，收购宁波隔空智能科技有限公司78.1520%股权。",
-      "author": null
-    },
-    {
-      "title": "一周五笔：半导体上市公司集体出手，钱投向材料、芯片与测试",
-      "url": "https://www.esmchina.com/news/14813.html",
-      "published_at": null,
-      "summary": "加快补链强链。",
-      "author": null
-    },
-    {
-      "title": "台积电拟按客户信用额度供产能，部分客户需预付款锁定产能",
-      "url": "https://www.esmchina.com/news/14812.html",
-      "published_at": null,
-      "summary": "传台积电排产能新规矩：先验资信，再谈订单",
-      "author": null
-    },
-    {
-      "title": "美国切断中企海外云算力租用通道",
-      "url": "https://www.esmchina.com/news/14810.html",
-      "published_at": null,
-      "summary": "当地时间11月16日，美国商务部工业和安全局（BIS）正式发布一项长达132页的临时最终规则，题为《限制远程获取先进半导体》，标志着美国针对先进计算芯片的出口管制体系，正从单纯的“硬件物理拦截”全面向“云端算力穿透”升级。",
       "author": null
     }
   ],

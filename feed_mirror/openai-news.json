@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-23T06:03:27.691930+00:00",
-  "next_refresh_at": "2026-11-23T06:33:27.691930+00:00",
+  "fetched_at": "2026-11-23T18:37:00.920497+00:00",
+  "next_refresh_at": "2026-11-23T19:07:00.920497+00:00",
   "entries": [
     {
       "title": "Perplexity and Intelligence",
