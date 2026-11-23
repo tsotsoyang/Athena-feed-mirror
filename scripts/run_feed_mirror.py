@@ -23,15 +23,21 @@ Design notes
 from __future__ import annotations
 
 import argparse
+import hashlib
+import ipaddress
 import json
+import os
 import re
+import socket
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from pathlib import Path
-from typing import Any
+from typing import Any, NamedTuple
+from urllib import robotparser
 from urllib.parse import urljoin, urlparse
 
 import yaml
@@ -54,7 +60,7 @@ feedparser.USER_AGENT = USER_AGENT
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TARGETS_FILE = REPO_ROOT / "configs" / "feed_mirror_targets.yaml"
 OUTPUT_DIR = REPO_ROOT / "feed_mirror"
-CRON_INTERVAL = timedelta(minutes=30)
+CRON_INTERVAL = timedelta(hours=4)  # keep in step with the workflow cron
 
 _HTML_TAG_RE = re.compile(r"<[^>]+>")
 _WS_RE = re.compile(r"\s+")
@@ -263,6 +269,7 @@ def _scrape_index(target: dict) -> tuple[list[dict], list[dict], str]:
             title = url.rstrip("/").rsplit("/", 1)[-1].replace("-", " ").title()
         entries.append(
             {
+                "id": url,
                 "title": title,
                 "url": url,
                 "published_at": None,
@@ -286,9 +293,11 @@ def _entry_to_dict(entry: Any) -> dict[str, Any]:
     summary = _clean(raw_summary)[:2000]
     link = entry.get("link", "") or ""
     author = entry.get("author", "") or ""
+    link = link.strip()
     return {
+        "id": (str(entry.get("id", "") or "").strip() or link),
         "title": title.strip(),
-        "url": link.strip(),
+        "url": link,
         "published_at": _parse_date(entry),
         "summary": summary,
         "author": author.strip() or None,
@@ -337,6 +346,479 @@ def _fetch_target(target: dict) -> dict:
     }
 
 
+# ── Article text (KP-R11, 2026-10) ───────────────────────────────────────────
+# Content is a BEST-EFFORT second phase: every feed JSON is written (with
+# whatever article text is already known) BEFORE the first article is fetched,
+# so a slow site, a hung extraction or a killed process can cost article text
+# but never the feed update itself. Every knob below bounds either wall-clock
+# (the whole content phase is CONTENT_RUN_BUDGET_S) or growth of the committed
+# files (each file is capped, the state file is pruned to live entries).
+CONTENT_MAX_CHARS = 32_000  # == hv_primitives FULLTEXT_TEXT_MAX_CHARS (the consumer truncates here)
+CONTENT_MIN_CHARS = 200  # shorter than this is a paywall/teaser/stub, not an article
+CONTENT_FETCH_TIMEOUT_S = 15.0  # TOTAL wall-clock per article (not per socket read)
+CONTENT_RUN_BUDGET_S = 120.0  # whole content phase, all articles
+CONTENT_MAX_NEW_PER_RUN = 60  # fetch ATTEMPTS per run (successes and failures)
+CONTENT_MAX_ATTEMPTS = 3  # per entry, ever; permanent failures use them up at once
+CONTENT_MAX_BYTES = 2_000_000  # bytes read from one article response
+CONTENT_HOST_SPACING_S = 2.0  # minimum gap between two requests to one host
+CONTENT_MAX_REDIRECTS = 5
+MAX_PAYLOAD_BYTES = 1_500_000  # one {source}.json; oldest entries lose content first
+MAX_STATE_KEYS_PER_SOURCE = 500
+STATE_SUBDIR = "_state"
+CONTENT_STATE_FILE = "content_state.json"
+# Chrome-shaped (WAF-fronted publishers reject bare bot UAs) but with an
+# identifying product token so a publisher can see who is asking.
+CONTENT_USER_AGENT = (
+    f"{BROWSER_UA} Athena-feed-mirror/0.2 (+https://github.com/tsotsoyang/Athena-feed-mirror)"
+)
+ROBOTS_TOKEN = "Athena-feed-mirror"
+
+_clock = time.monotonic
+_sleep = time.sleep
+# Hosts allowed despite resolving to a non-public address. Empty in
+# production; the tests add 127.0.0.1 for their local server.
+_ALLOWED_PRIVATE_HOSTS: set[str] = set()
+_ROBOTS: dict[str, robotparser.RobotFileParser | None] = {}
+_CLIENT: Any = None
+
+
+def _http() -> Any:
+    """One shared client for the content phase (main thread only). Building
+    an httpx client loads the CA bundle - about 4 s on a Defender-scanned
+    Windows box - so it is created once per run, not once per request."""
+    global _CLIENT
+    if _CLIENT is None:
+        import httpx
+
+        _CLIENT = httpx.Client(follow_redirects=False)
+    return _CLIENT
+
+
+def _close_http() -> None:
+    global _CLIENT
+    client, _CLIENT = _CLIENT, None
+    if client is not None:
+        try:
+            client.close()
+        except Exception:  # noqa: BLE001
+            pass
+
+# A failure that retrying cannot fix: it uses the entry's attempts up at once.
+_PERMANENT_REASONS = frozenset(
+    {
+        "http_forbidden",
+        "http_gone",
+        "http_client_error",
+        "not_html",
+        "robots",
+        "blocked_url",
+        "blocked_host",
+        "too_short",
+    }
+)
+_STATE_STATUSES = frozenset({"ok", "empty", "dropped"})
+
+
+class ArticleResult(NamedTuple):
+    text: str  # '' unless reason == "ok"
+    reason: str  # "ok" or a short failure label
+
+
+class ContentBudget:
+    """Per-run cap on article fetch ATTEMPTS: a wall-clock deadline and a
+    count. Used from the main thread only, so it needs no lock."""
+
+    def __init__(self, seconds: float, max_new: int, *, clock=None) -> None:
+        self._clock = clock or _clock
+        self._deadline = self._clock() + max(0.0, float(seconds))
+        self._left = max(0, int(max_new))
+        self.exhausted = False
+
+    def remaining(self) -> float:
+        return max(0.0, self._deadline - self._clock())
+
+    def has_room(self) -> bool:
+        if self._left <= 0 or self.remaining() <= 0:
+            self.exhausted = True
+            return False
+        return True
+
+    def take(self) -> bool:
+        if not self.has_room():
+            return False
+        self._left -= 1
+        return True
+
+
+def _entry_key(entry: dict) -> str:
+    """Stable identity of an entry: feed guid, else URL. A very long id is
+    hashed so the state file's size stays bounded."""
+    key = str(entry.get("id") or entry.get("url") or "").strip()
+    if len(key) > 300:
+        key = "sha1:" + hashlib.sha1(key.encode("utf-8")).hexdigest()
+    return key
+
+
+def _url_block_reason(url: str) -> str | None:
+    """Why this URL must not be fetched, or None. The runner follows links
+    taken from third-party feeds from inside GitHub's network, so only
+    http(s) to public addresses is allowed (no loopback / link-local /
+    private ranges, e.g. cloud metadata endpoints). Resolution happens again
+    inside the HTTP stack; this is a guard against hostile links, not a
+    defence against DNS rebinding."""
+    parts = urlparse(url)
+    host = (parts.hostname or "").lower()
+    if parts.scheme not in ("http", "https") or not host:
+        return "blocked_url"
+    if host in _ALLOWED_PRIVATE_HOSTS:
+        return None
+    try:
+        infos = socket.getaddrinfo(host, None)
+    except OSError:
+        return "network"
+    for info in infos:
+        try:
+            ip = ipaddress.ip_address(str(info[4][0]).split("%")[0])
+        except ValueError:
+            return "blocked_host"
+        if not ip.is_global:
+            return "blocked_host"
+    return None if infos else "network"
+
+
+def _robots_allows(url: str, *, timeout_s: float) -> bool:
+    """robots.txt for the URL's host (cached per run). Fail-open: an
+    unreachable or unparseable robots.txt does not forbid the fetch."""
+    parts = urlparse(url)
+    origin = f"{parts.scheme}://{parts.netloc}"
+    if origin not in _ROBOTS:
+        parsed: robotparser.RobotFileParser | None = None
+        try:
+            resp = _http().get(
+                f"{origin}/robots.txt",
+                headers={"User-Agent": CONTENT_USER_AGENT},
+                timeout=min(5.0, timeout_s),
+            )
+            if resp.status_code == 200:
+                parsed = robotparser.RobotFileParser()
+                parsed.parse(resp.text[:500_000].splitlines())
+        except Exception:  # noqa: BLE001
+            parsed = None
+        _ROBOTS[origin] = parsed
+    rules = _ROBOTS[origin]
+    return True if rules is None else rules.can_fetch(ROBOTS_TOKEN, url)
+
+
+def _status_reason(code: int) -> str | None:
+    if code < 400:
+        return None
+    if code in (401, 402, 403, 451):
+        return "http_forbidden"
+    if code in (404, 410):
+        return "http_gone"
+    if code in (408, 425, 429) or code >= 500:
+        return "http_retry"
+    return "http_client_error"
+
+
+def _normalize_text(text: str) -> str:
+    text = text.replace("\x00", "")
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def _finalize_content(text: str) -> str:
+    """The output contract for ``content``: a stripped string of at most
+    CONTENT_MAX_CHARS. Applied to fresh and to carried-over text alike."""
+    return text.strip()[:CONTENT_MAX_CHARS].rstrip()
+
+
+def _fetch_article(url: str, *, timeout_s: float = CONTENT_FETCH_TIMEOUT_S) -> ArticleResult:
+    """Article body as plain text via trafilatura. Never raises: any failure
+    is an ArticleResult('', <reason>). ``timeout_s`` bounds the WHOLE item
+    (connect + redirects + body), and the body is read at most
+    CONTENT_MAX_BYTES, so a slow-drip or endless response cannot stall a run."""
+    try:
+        import httpx
+        import trafilatura
+    except ImportError:
+        return ArticleResult("", "dependency_missing")
+
+    deadline = _clock() + max(0.1, timeout_s)
+    body = bytearray()
+    current = url
+    try:
+        for _hop in range(CONTENT_MAX_REDIRECTS + 1):
+            blocked = _url_block_reason(current)
+            if blocked:
+                return ArticleResult("", blocked)
+            remaining = deadline - _clock()
+            if remaining <= 0:
+                return ArticleResult("", "timeout")
+            if not _robots_allows(current, timeout_s=remaining):
+                return ArticleResult("", "robots")
+            remaining = deadline - _clock()
+            if remaining <= 0:
+                return ArticleResult("", "timeout")
+            with _http().stream(
+                "GET",
+                current,
+                headers={"User-Agent": CONTENT_USER_AGENT, "Accept": "text/html,*/*"},
+                timeout=remaining,
+            ) as resp:
+                if resp.status_code in (301, 302, 303, 307, 308):
+                    location = resp.headers.get("location")
+                    if not location:
+                        return ArticleResult("", "http_client_error")
+                    current = urljoin(current, location)
+                    continue
+                reason = _status_reason(resp.status_code)
+                if reason:
+                    return ArticleResult("", reason)
+                ctype = resp.headers.get("content-type", "").lower()
+                if ctype and "html" not in ctype:
+                    return ArticleResult("", "not_html")
+                for chunk in resp.iter_bytes():
+                    body.extend(chunk)
+                    if len(body) >= CONTENT_MAX_BYTES:
+                        del body[CONTENT_MAX_BYTES:]
+                        break
+                    if _clock() > deadline:
+                        return ArticleResult("", "timeout")
+            break
+        else:
+            return ArticleResult("", "http_client_error")  # redirect loop
+    except httpx.TimeoutException:
+        return ArticleResult("", "timeout")
+    except Exception:  # noqa: BLE001
+        return ArticleResult("", "network")
+
+    try:
+        text = trafilatura.extract(bytes(body), include_comments=False, include_tables=True) or ""
+    except Exception:  # noqa: BLE001
+        return ArticleResult("", "extract_error")
+    text = _normalize_text(text)
+    if not text:
+        return ArticleResult("", "empty")
+    if len(text) < CONTENT_MIN_CHARS:
+        return ArticleResult("", "too_short")
+    return ArticleResult(_finalize_content(text), "ok")
+
+
+def _load_prior_content(source: str, output_dir: Path) -> dict[str, str]:
+    """Article text already published for this source, keyed by entry key —
+    the cache that makes fetching incremental. The JSON file itself is the
+    source of truth; the state file only counts attempts."""
+    try:
+        payload = json.loads((output_dir / f"{source}.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    out: dict[str, str] = {}
+    entries = payload.get("entries") if isinstance(payload, dict) else None
+    for e in entries or []:
+        if isinstance(e, dict) and isinstance(e.get("content"), str) and e["content"].strip():
+            key = _entry_key(e)
+            if key:
+                out[key] = e["content"]
+    return out
+
+
+def _state_path(output_dir: Path) -> Path:
+    return output_dir / STATE_SUBDIR / CONTENT_STATE_FILE
+
+
+def _sanitize_state(raw: Any) -> dict[str, dict[str, dict]]:
+    """Keep only well-formed records; a corrupt state file costs a retry,
+    never a crash."""
+    out: dict[str, dict[str, dict]] = {}
+    if not isinstance(raw, dict):
+        return out
+    for source, recs in raw.items():
+        if not isinstance(source, str) or not isinstance(recs, dict):
+            continue
+        clean: dict[str, dict] = {}
+        for key, rec in list(recs.items())[:MAX_STATE_KEYS_PER_SOURCE]:
+            if not isinstance(key, str) or not isinstance(rec, dict):
+                continue
+            status = rec.get("status")
+            attempts = rec.get("attempts")
+            if status not in _STATE_STATUSES or not isinstance(attempts, int):
+                continue
+            item: dict[str, Any] = {"status": status, "attempts": max(0, min(attempts, 100))}
+            if isinstance(rec.get("reason"), str):
+                item["reason"] = rec["reason"][:40]
+            clean[key] = item
+        out[source] = clean
+    return out
+
+
+def _load_state(output_dir: Path) -> dict[str, dict[str, dict]]:
+    try:
+        raw = json.loads(_state_path(output_dir).read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    return _sanitize_state(raw)
+
+
+def _atomic_write_text(path: Path, text: str) -> None:
+    """Write via a sibling temp file + rename, so a process killed mid-write
+    (the step timeout) leaves the previous file intact, never half of one."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_name(path.name + ".tmp")
+    try:
+        with open(tmp, "w", encoding="utf-8", newline="\n") as f:
+            f.write(text)
+        os.replace(tmp, path)
+    finally:
+        try:
+            tmp.unlink()
+        except OSError:
+            pass
+
+
+def _write_state(state: dict, output_dir: Path) -> Path:
+    path = _state_path(output_dir)
+    _atomic_write_text(path, json.dumps(state, indent=1, sort_keys=True, ensure_ascii=False) + "\n")
+    return path
+
+
+def _dump_payload(payload: dict) -> str:
+    return json.dumps(payload, indent=2, ensure_ascii=False, sort_keys=False) + "\n"
+
+
+def _payload_bytes(payload: dict) -> int:
+    return len(_dump_payload(payload).encode("utf-8"))
+
+
+def _cap_payload_bytes(payload: dict, max_bytes: int | None = None) -> list[str]:
+    """Drop ``content`` from the OLDEST entries (feeds list newest first)
+    until the serialised file fits. Returns the keys whose content was
+    dropped, so history grows by new articles instead of by refetches."""
+    limit = MAX_PAYLOAD_BYTES if max_bytes is None else max_bytes
+    entries = payload.get("entries") or []
+    dropped: list[str] = []
+    i = len(entries) - 1
+    while i >= 0 and _payload_bytes(payload) > limit:
+        if "content" in entries[i]:
+            del entries[i]["content"]
+            dropped.append(_entry_key(entries[i]))
+        i -= 1
+    return dropped
+
+
+def _reuse_prior_content(
+    entries: list[dict], *, prior: dict[str, str], old_state: dict[str, dict]
+) -> tuple[dict[str, dict], dict[str, int]]:
+    """Phase-1 step: attach already-published text to the fresh entries (no
+    network) and rebuild the per-source state for exactly these entries.
+
+    The new state holds ONLY the keys of the current entries (entries that
+    rolled off the feed are pruned) and never more than
+    MAX_STATE_KEYS_PER_SOURCE of them."""
+    stats = {"reused": 0, "fetched": 0, "failed": 0, "dropped_for_size": 0}
+    new_state: dict[str, dict] = {}
+    for entry in entries:
+        key = _entry_key(entry)
+        if not key or key in new_state or len(new_state) >= MAX_STATE_KEYS_PER_SOURCE:
+            continue
+        rec = dict(old_state.get(key) or {})
+        if key in prior:
+            entry["content"] = _finalize_content(prior[key])
+            rec["status"] = "ok"
+            rec["attempts"] = max(int(rec.get("attempts", 0) or 0), 1)
+            rec.pop("reason", None)
+            stats["reused"] += 1
+        if rec:
+            new_state[key] = rec
+    return new_state, stats
+
+
+def _needs_fetch(entry: dict, rec: dict | None) -> bool:
+    if entry.get("content") or not entry.get("url"):
+        return False
+    if rec is None:
+        return True
+    if rec.get("status") == "dropped":
+        return False
+    return int(rec.get("attempts", 0) or 0) < CONTENT_MAX_ATTEMPTS
+
+
+def _interleave(queues: list[list[tuple[str, dict]]]) -> list[tuple[str, dict]]:
+    """Round-robin across sources so one source cannot spend the whole budget."""
+    out: list[tuple[str, dict]] = []
+    depth = max((len(q) for q in queues), default=0)
+    for i in range(depth):
+        for q in queues:
+            if i < len(q):
+                out.append(q[i])
+    return out
+
+
+def _content_phase(
+    slots: dict[str, dict],
+    *,
+    budget: ContentBudget,
+    host_spacing_s: float,
+    flush,
+) -> dict[str, Any]:
+    """Fetch article text for entries that have none, within ``budget``.
+
+    ``slots[source]`` = {"target", "payload", "state", "stats"}; entries are
+    mutated in place and ``flush(source)`` persists that source's file+state
+    after every attempt, so a kill loses at most the article in flight."""
+    queues: list[list[tuple[str, dict]]] = []
+    for source, slot in slots.items():
+        if slot["target"].get("fetch_content", True) is False:
+            continue
+        queue = [
+            (source, e)
+            for e in slot["payload"]["entries"]
+            if _needs_fetch(e, slot["state"].get(_entry_key(e)))
+        ]
+        if queue:
+            queues.append(queue)
+
+    last_hit: dict[str, float] = {}
+    attempted = 0
+    for source, entry in _interleave(queues):
+        if not budget.has_room():
+            break
+        slot = slots[source]
+        host = (urlparse(entry["url"]).hostname or "").lower()
+        wait = host_spacing_s - (_clock() - last_hit[host]) if host in last_hit else 0.0
+        if wait > 0:
+            if wait >= budget.remaining():
+                budget.exhausted = True
+                break
+            _sleep(wait)
+        if not budget.take():
+            break
+        attempted += 1
+
+        key = _entry_key(entry)
+        attempts = int((slot["state"].get(key) or {}).get("attempts", 0) or 0)
+        result = _fetch_article(
+            entry["url"], timeout_s=min(CONTENT_FETCH_TIMEOUT_S, max(0.5, budget.remaining()))
+        )
+        last_hit[host] = _clock()
+        text = _finalize_content(result.text)
+        if text:
+            entry["content"] = text
+            slot["state"][key] = {"status": "ok", "attempts": attempts + 1}
+            slot["stats"]["fetched"] += 1
+        else:
+            permanent = result.reason in _PERMANENT_REASONS
+            slot["state"][key] = {
+                "status": "empty",
+                "attempts": CONTENT_MAX_ATTEMPTS if permanent else attempts + 1,
+                "reason": result.reason,
+            }
+            slot["stats"]["failed"] += 1
+        flush(source)
+    return {"attempted": attempted}
+
+
 def _load_targets(path: Path) -> list[dict]:
     with path.open(encoding="utf-8") as f:
         cfg = yaml.safe_load(f) or {}
@@ -347,13 +829,28 @@ def _load_targets(path: Path) -> list[dict]:
 
 
 def _write_payload(source: str, payload: dict, output_dir: Path) -> Path:
-    output_dir.mkdir(parents=True, exist_ok=True)
     dest = output_dir / f"{source}.json"
-    dest.write_text(
-        json.dumps(payload, indent=2, ensure_ascii=False, sort_keys=False) + "\n",
-        encoding="utf-8",
-    )
+    _atomic_write_text(dest, _dump_payload(payload))
     return dest
+
+
+def _failed_payload(target: dict, exc: BaseException) -> dict:
+    now = datetime.now(timezone.utc)
+    return {
+        "source": target["source"],
+        "name": target.get("name", target["source"]),
+        "feed_url": target["url"],
+        "fetched_at": now.isoformat(),
+        "next_refresh_at": (now + CRON_INTERVAL).isoformat(),
+        "entries": [],
+        "errors": [{"stage": "runner", "message": f"{type(exc).__name__}: {exc}"[:200]}],
+    }
+
+
+def _mark_dropped(state: dict[str, dict], keys: list[str]) -> None:
+    for key in keys:
+        prev = state.get(key) or {}
+        state[key] = {"status": "dropped", "attempts": int(prev.get("attempts", 1) or 1)}
 
 
 def run(
@@ -361,49 +858,134 @@ def run(
     targets_file: Path = TARGETS_FILE,
     output_dir: Path = OUTPUT_DIR,
     max_workers: int = 4,
+    fetch_content: bool = True,
+    content_budget_s: float = CONTENT_RUN_BUDGET_S,
+    content_max_new: int = CONTENT_MAX_NEW_PER_RUN,
+    content_host_spacing_s: float = CONTENT_HOST_SPACING_S,
 ) -> dict:
-    """Fetch every target and write JSON. Returns a summary dict."""
+    """Fetch every target and write JSON. Returns a summary dict.
+
+    Two phases. Phase 1 fetches every feed and writes every ``{source}.json``
+    (carrying over article text published by earlier runs). Phase 2 - only
+    with ``fetch_content`` - fetches article text for entries that have none,
+    inside ``content_budget_s`` / ``content_max_new``, rewriting each file as
+    it goes. Phase 2 can lose article text; it cannot lose phase 1's output
+    and it never changes the exit status."""
     targets = _load_targets(targets_file)
     if not targets:
         print(f"no targets in {targets_file}", file=sys.stderr)
         return {"total": 0, "ok": 0, "failed": 0, "details": []}
 
+    old_state = _load_state(output_dir) if fetch_content else {}
+    slots: dict[str, dict] = {}
     details: list[dict] = []
+
+    def _persist_state() -> None:
+        _write_state({s: sl["state"] for s, sl in slots.items()}, output_dir)
+
+    def _flush(source: str) -> None:
+        slot = slots[source]
+        dropped = _cap_payload_bytes(slot["payload"])
+        _mark_dropped(slot["state"], dropped)
+        slot["stats"]["dropped_for_size"] += len(dropped)
+        _write_payload(source, slot["payload"], output_dir)
+        _persist_state()
+
+    _ROBOTS.clear()
     with ThreadPoolExecutor(max_workers=max_workers) as pool:
         futures = {pool.submit(_fetch_target, t): t for t in targets}
         for fut in as_completed(futures):
             target = futures[fut]
             try:
                 payload = fut.result()
-            except Exception as exc:  # noqa: BLE001 — record every failure
-                payload = {
-                    "source": target["source"],
-                    "name": target.get("name", target["source"]),
-                    "feed_url": target["url"],
-                    "fetched_at": datetime.now(timezone.utc).isoformat(),
-                    "next_refresh_at": (
-                        datetime.now(timezone.utc) + CRON_INTERVAL
-                    ).isoformat(),
-                    "entries": [],
-                    "errors": [{"stage": "runner", "message": f"{type(exc).__name__}: {exc}"[:200]}],
+            except Exception as exc:  # noqa: BLE001 - record every failure
+                payload = _failed_payload(target, exc)
+            source = payload["source"]
+            content_stats = None
+            if fetch_content:
+                if payload["entries"]:
+                    state_for_source, content_stats = _reuse_prior_content(
+                        payload["entries"],
+                        prior=_load_prior_content(source, output_dir),
+                        old_state=old_state.get(source) or {},
+                    )
+                    dropped = _cap_payload_bytes(payload)
+                    _mark_dropped(state_for_source, dropped)
+                    content_stats["dropped_for_size"] = len(dropped)
+                else:
+                    # A failed feed fetch must not forget what was attempted.
+                    state_for_source = old_state.get(source) or {}
+                    content_stats = {"reused": 0, "fetched": 0, "failed": 0, "dropped_for_size": 0}
+                slots[source] = {
+                    "target": target,
+                    "payload": payload,
+                    "state": state_for_source,
+                    "stats": content_stats,
                 }
-            dest = _write_payload(payload["source"], payload, output_dir)
+            dest = _write_payload(source, payload, output_dir)
             try:
                 rel = str(dest.relative_to(REPO_ROOT))
             except ValueError:
                 rel = str(dest)
             details.append(
                 {
-                    "source": payload["source"],
+                    "source": source,
                     "path": rel,
                     "entries": len(payload["entries"]),
                     "errors": len(payload["errors"]),
+                    "content": content_stats,
                 }
             )
 
     ok = sum(1 for d in details if d["entries"] > 0)
     failed = len(details) - ok
-    summary = {"total": len(details), "ok": ok, "failed": failed, "details": details}
+
+    content_info: dict[str, Any] | None = None
+    budget: ContentBudget | None = None
+    if fetch_content:
+        started = _clock()
+        content_info = {"attempted": 0, "error": None, "interrupted": False}
+        try:
+            _persist_state()
+            # The budget clock starts here, after the bookkeeping write, so it
+            # measures article fetching only.
+            budget = ContentBudget(content_budget_s, content_max_new)
+            content_info.update(
+                _content_phase(
+                    slots,
+                    budget=budget,
+                    host_spacing_s=content_host_spacing_s,
+                    flush=_flush,
+                )
+            )
+        except KeyboardInterrupt:
+            # The step timeout's SIGINT: stop fetching, keep everything so far.
+            content_info["interrupted"] = True
+        except Exception as exc:  # noqa: BLE001 - content must never fail the run
+            content_info["error"] = f"{type(exc).__name__}: {exc}"[:200]
+            print(f"content phase aborted: {content_info['error']}", file=sys.stderr)
+        finally:
+            _close_http()
+        try:
+            _persist_state()
+        except OSError as exc:
+            print(f"could not write content state: {exc}", file=sys.stderr)
+        content_info["elapsed_s"] = round(_clock() - started, 1)
+        for d in details:
+            slot = slots.get(d["source"])
+            if slot and d["content"] is not None:
+                d["content"]["without_content"] = sum(
+                    1 for e in slot["payload"]["entries"] if not e.get("content")
+                )
+
+    summary = {
+        "total": len(details),
+        "ok": ok,
+        "failed": failed,
+        "content_budget_exhausted": bool(budget and budget.exhausted),
+        "content_phase": content_info,
+        "details": details,
+    }
     print(json.dumps(summary, indent=2))
     return summary
 
@@ -431,13 +1013,33 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--once",
         action="store_true",
-        help="Reserved — there's no daemon mode today; --once is a no-op marker.",
+        help="Reserved - there's no daemon mode today; --once is a no-op marker.",
+    )
+    parser.add_argument(
+        "--no-content",
+        action="store_true",
+        help="Do not fetch article text (KP-R11); writes the pre-KP-R11 contract.",
+    )
+    parser.add_argument(
+        "--content-budget-s",
+        type=float,
+        default=CONTENT_RUN_BUDGET_S,
+        help="Wall-clock budget for the whole article-text phase (seconds).",
+    )
+    parser.add_argument(
+        "--content-max-new",
+        type=int,
+        default=CONTENT_MAX_NEW_PER_RUN,
+        help="Maximum article fetch attempts per run.",
     )
     args = parser.parse_args(argv)
     summary = run(
         targets_file=args.targets,
         output_dir=args.output_dir,
         max_workers=args.max_workers,
+        fetch_content=not args.no_content,
+        content_budget_s=args.content_budget_s,
+        content_max_new=args.content_max_new,
     )
     return 0 if summary["failed"] == 0 else 1
 

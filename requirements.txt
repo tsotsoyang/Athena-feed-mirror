@@ -1,3 +1,5 @@
 feedparser>=6.0,<7
 httpx>=0.28
 pyyaml>=6.0
+# >=1.8 is Apache-2.0; earlier trafilatura releases are GPL (KP-R11)
+trafilatura>=1.8,<3
