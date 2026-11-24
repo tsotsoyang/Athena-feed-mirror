@@ -2,9 +2,58 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-24T04:11:52.287771+00:00",
-  "next_refresh_at": "2026-11-24T04:41:52.287771+00:00",
+  "fetched_at": "2026-11-24T15:07:44.075287+00:00",
+  "next_refresh_at": "2026-11-24T15:37:44.075287+00:00",
   "entries": [
+    {
+      "title": "2026年前三季31家分销商净利已达2025年TOP50的两倍【附表】",
+      "url": "https://www.esmchina.com/news/14838.html",
+      "published_at": null,
+      "summary": "在《国际电子商情》统计的31家上市分销商中，2026年前三季度的营收、归母净利润（以下简称净利润）同比（YoY）维持正增长的分别有31、29家；2026年前三季营收YoY最高达到303.14%，净利润Y",
+      "author": null
+    },
+    {
+      "title": "【有奖小测验】RIGOL 普源 MHO4000 高分辨率示波器答题活动",
+      "url": "https://www.eet-china.com/iqs/RIGOL_20261123.html?source=popup",
+      "published_at": null,
+      "summary": "仅 5 道题，2 分钟完成，答对可抽 RIGOL 定制螺丝刀套装。",
+      "author": null
+    },
+    {
+      "title": "直播预告：200MHz 实时控制 MCU 如何重构数字电源？（送京东卡）",
+      "url": "https://www.eet-china.com/ee-live/entry/Geehy_20261223.html?source=popup",
+      "published_at": null,
+      "summary": "一杯咖啡的时间搞定选型，还有机会得京东卡噢",
+      "author": null
+    },
+    {
+      "title": "美商务部将Megaspeed等7家企业列入实体清单",
+      "url": "https://www.esmchina.com/news/14842.html",
+      "published_at": null,
+      "summary": "11月23日，美国商务部工业与安全局（BIS）提交了一份最终规则，决定将总部位于新加坡的AI云与数据中心企业Megaspeed International，及其跨国关联网络中的共7家企业列入出口管制“实体清单”。",
+      "author": null
+    },
+    {
+      "title": "Q3非洲智能手机出货暴跌40%，传音一家占整体减量过半",
+      "url": "https://www.esmchina.com/news/14841.html",
+      "published_at": null,
+      "summary": "存储涨价，先把非洲手机市场“打”崩了",
+      "author": null
+    },
+    {
+      "title": "三星存储产能锁到2031年，西安工厂转向AI数据中心闪存",
+      "url": "https://www.esmchina.com/news/14840.html",
+      "published_at": null,
+      "summary": "这意味着全球最大存储制造商的中长期产能，可能被提前预定长达五年。",
+      "author": null
+    },
+    {
+      "title": "特朗普表态“只向中国出售旧款芯片”：白宫称正与中方磋商全面协议，16纳米以下管制已生效",
+      "url": "https://www.esmchina.com/news/14839.html",
+      "published_at": null,
+      "summary": "特朗普称只向中国出售旧款芯片",
+      "author": null
+    },
     {
       "title": "全球制造业机器人密度刷新纪录：韩国蝉联第一，中国五年猛增147%",
       "url": "https://www.esmchina.com/news/14836.html",
@@ -129,55 +178,6 @@
       "url": "https://www.esmchina.com/news/14821.html",
       "published_at": null,
       "summary": "一条特批通道正被关闭？",
-      "author": null
-    },
-    {
-      "title": "AI时代，元器件分销商的生意逻辑正在被改写",
-      "url": "https://www.esmchina.com/news/14754.html",
-      "published_at": null,
-      "summary": "在最近几年的行业展会上，伴随明星级AI产品一同登场的，还有行业一个悄然成形的趋势——参展商的宣传重心集体转向了系统级方案。",
-      "author": null
-    },
-    {
-      "title": "三星苹果敲定DRAM长协：明年上半年生效，期限4至5年，约定最低供货量",
-      "url": "https://www.esmchina.com/news/14820.html",
-      "published_at": null,
-      "summary": "苹果破例了，跟三星签下4年长约",
-      "author": null
-    },
-    {
-      "title": "从15W到25W：无线充电功率升级中，FOD整定的三个盲区",
-      "url": "https://www.esmchina.com/news/14819.html",
-      "published_at": null,
-      "summary": "一个 MPP 25W 双充项目、四版方案迭代的实测复盘",
-      "author": null
-    },
-    {
-      "title": "英伟达单季营收1158亿美元！黄仁勋愿意回归，但董事会说NO",
-      "url": "https://www.esmchina.com/news/14818.html",
-      "published_at": null,
-      "summary": "英伟达2027财年第三季度财务报告显示，本季度，英伟达实现总营收1158.44亿美元，环比增长20%，同比大幅增长103%，显著高于华尔街此前1091亿美元的平均预期。这也是英伟达历史上首次实现单季营收突破千亿大关。",
-      "author": null
-    },
-    {
-      "title": "八家模拟芯片公司Q3成绩单：三家赚走超九成利润，五家在盈亏线上挣扎",
-      "url": "https://www.esmchina.com/news/14816.html",
-      "published_at": null,
-      "summary": "2026年第三季度，中国本土模拟芯片上市公司的走势继续分化：头部加速、尾部承压，但整体增速比上半年慢下来了。",
-      "author": null
-    },
-    {
-      "title": "美日英等10国签署《旧金山宣言》，防范中国AI供应链优势",
-      "url": "https://www.esmchina.com/news/14815.html",
-      "published_at": null,
-      "summary": "日前，在美国旧金山举行的“硅和平”（Pax Silica）创始方会议上，美国联合九个盟友正式签署了《关于持久繁荣的安全基础的旧金山宣言》。",
-      "author": null
-    },
-    {
-      "title": "工信部委托中汽协评估17家车企供应商账期，每家抽查不少于15家供应商",
-      "url": "https://www.esmchina.com/news/14814.html",
-      "published_at": null,
-      "summary": "17家车企的账期，以后每年查一次",
       "author": null
     }
   ],

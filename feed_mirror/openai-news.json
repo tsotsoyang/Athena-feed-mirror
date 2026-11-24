@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-24T04:11:36.690867+00:00",
-  "next_refresh_at": "2026-11-24T04:41:36.690867+00:00",
+  "fetched_at": "2026-11-24T15:07:28.267489+00:00",
+  "next_refresh_at": "2026-11-24T15:37:28.267489+00:00",
   "entries": [
     {
       "title": "OpenAI and Cisco introduce Shirudo",

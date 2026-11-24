@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-11-24T04:11:35.657252+00:00",
-  "next_refresh_at": "2026-11-24T04:41:35.657252+00:00",
+  "fetched_at": "2026-11-24T15:07:26.276084+00:00",
+  "next_refresh_at": "2026-11-24T15:37:26.276084+00:00",
   "entries": [
     {
       "title": "Voting Is Open: 2026 OCP Project Lead Elections",
