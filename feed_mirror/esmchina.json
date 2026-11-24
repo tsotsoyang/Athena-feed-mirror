@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-23T18:37:17.291170+00:00",
-  "next_refresh_at": "2026-11-23T19:07:17.291170+00:00",
+  "fetched_at": "2026-11-24T04:11:52.287771+00:00",
+  "next_refresh_at": "2026-11-24T04:41:52.287771+00:00",
   "entries": [
+    {
+      "title": "全球制造业机器人密度刷新纪录：韩国蝉联第一，中国五年猛增147%",
+      "url": "https://www.esmchina.com/news/14836.html",
+      "published_at": null,
+      "summary": "机器人密度是指制造业每万名员工对应的工业机器人保有量。",
+      "author": null
+    },
     {
       "title": "英伟达官宣：黄仁勋即刻复职CEO",
       "url": "https://www.esmchina.com/news/14837.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14814.html",
       "published_at": null,
       "summary": "17家车企的账期，以后每年查一次",
-      "author": null
-    },
-    {
-      "title": "纳芯微4.87亿收购隔空智能，毫米波雷达版图落地",
-      "url": "https://www.esmchina.com/news/14811.html",
-      "published_at": null,
-      "summary": "11月16日，国产模拟芯片龙头纳芯微以现金方式出资48,692.70万元，收购宁波隔空智能科技有限公司78.1520%股权。",
       "author": null
     }
   ],

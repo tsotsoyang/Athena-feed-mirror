@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-23T18:37:15.850077+00:00",
-  "next_refresh_at": "2026-11-23T19:07:15.850077+00:00",
+  "fetched_at": "2026-11-24T04:11:52.474980+00:00",
+  "next_refresh_at": "2026-11-24T04:41:52.474980+00:00",
   "entries": [
     {
       "title": "Finding faster quantum algorithms with agents and formal verification",
