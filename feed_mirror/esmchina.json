@@ -2,9 +2,16 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-25T08:14:36.225484+00:00",
-  "next_refresh_at": "2026-11-25T08:44:36.225484+00:00",
+  "fetched_at": "2026-11-25T18:45:42.220827+00:00",
+  "next_refresh_at": "2026-11-25T19:15:42.220827+00:00",
   "entries": [
+    {
+      "title": "从芯片思维到系统思维，中国算力的换道时刻",
+      "url": "https://www.esmchina.com/news/14850.html",
+      "published_at": null,
+      "summary": "在美国对华算力管制从“限制买芯片”升级为“封堵租算力”的背景下，东方算芯以“软件定义近存计算”为原创路线，写出AI算力自主可控的范式切换样本。",
+      "author": null
+    },
     {
       "title": "小米三季报：“最难一季”守住千亿营收，汽车与AI继续烧钱换未来",
       "url": "https://www.esmchina.com/news/14849.html",
@@ -171,13 +178,6 @@
       "url": "https://www.esmchina.com/news/14826.html",
       "published_at": null,
       "summary": "比亚迪发布折叠方向盘，泊车中10秒可完成折叠",
-      "author": null
-    },
-    {
-      "title": "台积电暂停部分先进制程订单：16nm及以下须美国出口许可，受限设计公司退回使用28/40nm",
-      "url": "https://www.esmchina.com/news/14825.html",
-      "published_at": null,
-      "summary": "想要台积电16纳米以下产能，先要拿下美国出口许可证",
       "author": null
     }
   ],
