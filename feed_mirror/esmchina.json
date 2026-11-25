@@ -2,9 +2,44 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-25T00:00:03.828117+00:00",
-  "next_refresh_at": "2026-11-25T00:30:03.828117+00:00",
+  "fetched_at": "2026-11-25T08:14:36.225484+00:00",
+  "next_refresh_at": "2026-11-25T08:44:36.225484+00:00",
   "entries": [
+    {
+      "title": "小米三季报：“最难一季”守住千亿营收，汽车与AI继续烧钱换未来",
+      "url": "https://www.esmchina.com/news/14849.html",
+      "published_at": null,
+      "summary": "小米集团总裁卢伟冰在电话会上直言，这是他从业以来感觉最难的一个季度。",
+      "author": null
+    },
+    {
+      "title": "高盛预警2028年DRAM、NAND价格下跌约20%",
+      "url": "https://www.esmchina.com/news/14848.html",
+      "published_at": null,
+      "summary": "高盛近日发布全球存储芯片行业深度研报，指出在经历2027年的极端短缺后，2028年将走向供需再平衡。传统DRAM、NAND、HBM同规格产品价格面临约20%的下行压力。",
+      "author": null
+    },
+    {
+      "title": "黄仁勋复职后：全员会道歉、拒绝接班人计划、否认特朗普“救场”",
+      "url": "https://www.esmchina.com/news/14847.html",
+      "published_at": null,
+      "summary": "“谢谢大家给我第二次机会，第二次担任CEO会做得更好。”",
+      "author": null
+    },
+    {
+      "title": "大众汽车裁员10万人重组推进：三季度亏59亿欧元创十年最差，工会威胁明年1月罢工",
+      "url": "https://www.esmchina.com/news/14846.html",
+      "published_at": null,
+      "summary": "大众汽车要裁掉10万人？",
+      "author": null
+    },
+    {
+      "title": "“台湾偷走了美国芯片产业”，特朗普威胁两年后加征200%关税",
+      "url": "https://www.esmchina.com/news/14845.html",
+      "published_at": null,
+      "summary": "当地时间11月23日，美国总统特朗普在接受CNBC《Squawk on the Street》专访时，指责台湾“偷走”了美国的芯片产业，称“两年后，他们将为芯片支付200%的关税。”",
+      "author": null
+    },
     {
       "title": "2026年前三季31家分销商净利已达2025年TOP50的两倍【附表】",
       "url": "https://www.esmchina.com/news/14838.html",
@@ -143,41 +178,6 @@
       "url": "https://www.esmchina.com/news/14825.html",
       "published_at": null,
       "summary": "想要台积电16纳米以下产能，先要拿下美国出口许可证",
-      "author": null
-    },
-    {
-      "title": "欧盟安全评级升级，车企加速从方向盘传感器转向中央摄像头",
-      "url": "https://www.esmchina.com/news/14795.html",
-      "published_at": null,
-      "summary": "2026年起，欧洲汽车安全评级先看摄像头装在哪",
-      "author": null
-    },
-    {
-      "title": "DeepSeek第二轮融资落地？31家出资方、1055亿、一个杭州合伙企业",
-      "url": "https://www.esmchina.com/news/14824.html",
-      "published_at": null,
-      "summary": "这类数字目前仍属媒体报道口径，非官方确认。",
-      "author": null
-    },
-    {
-      "title": "Anthropic IPO定价83美元，总募资约1073亿美元，估值1.5万亿美元",
-      "url": "https://www.esmchina.com/news/14823.html",
-      "published_at": null,
-      "summary": "AI史上最大IPO今晚敲钟，总募资超1000亿美元",
-      "author": null
-    },
-    {
-      "title": "微软牵手英特尔：Azure自研芯片首度引入EMIB，锁定下一代至强产能",
-      "url": "https://www.esmchina.com/news/14822.html",
-      "published_at": null,
-      "summary": "公告没有披露合同金额、采购数量或具体收入贡献，但这份长期协议本身，已经把两家合作了数十年的公司更深地绑进了同一套“云+AI”硬件栈里。",
-      "author": null
-    },
-    {
-      "title": "英伟达临时CEO确认停止向中国发运H200",
-      "url": "https://www.esmchina.com/news/14821.html",
-      "published_at": null,
-      "summary": "一条特批通道正被关闭？",
       "author": null
     }
   ],

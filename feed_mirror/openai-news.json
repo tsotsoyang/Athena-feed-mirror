@@ -2,8 +2,8 @@
   "source": "openai-news",
   "name": "OpenAI News",
   "feed_url": "https://openai.com/news/rss.xml",
-  "fetched_at": "2026-11-24T23:59:49.484953+00:00",
-  "next_refresh_at": "2026-11-25T00:29:49.484953+00:00",
+  "fetched_at": "2026-11-25T08:14:22.983577+00:00",
+  "next_refresh_at": "2026-11-25T08:44:22.983577+00:00",
   "entries": [
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
