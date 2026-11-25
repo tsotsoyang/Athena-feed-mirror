@@ -2,9 +2,16 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-11-24T15:07:26.276084+00:00",
-  "next_refresh_at": "2026-11-24T15:37:26.276084+00:00",
+  "fetched_at": "2026-11-24T23:59:48.837464+00:00",
+  "next_refresh_at": "2026-11-25T00:29:48.837464+00:00",
   "entries": [
+    {
+      "title": "How to Get Involved with the Open Compute Project",
+      "url": "https://www.opencompute.org/news/how-to-get-involved-with-the-open-compute-project-2/",
+      "published_at": "2026-11-24T20:39:39+00:00",
+      "summary": "Getting involved with the Open Compute Project (OCP) is easier than you might think, and you don&#8217;t need to be a member to get started. OCP brings together engineers, operators, and suppliers to share open designs and best practices for data center hardware and infrastructure. Whether you&#8217;re looking to learn, connect with industry experts, or [&#8230;] The post How to Get Involved with the Open Compute Project appeared first on Open Compute Project .",
+      "author": "OCP Editorial"
+    },
     {
       "title": "Voting Is Open: 2026 OCP Project Lead Elections",
       "url": "https://www.opencompute.org/news/voting-is-open-ocp-project-lead-elections/",
@@ -66,13 +73,6 @@
       "url": "https://www.opencompute.org/news/open-compute-project-foundation-launches-ocp-nexus-to-make-15-years-of-open-hardware-knowledge-easier-to-explore/",
       "published_at": "2026-10-12T15:00:00+00:00",
       "summary": "New AI assistant provides conversational access to OCP technical resources and helps attendees navigate the 2026 OCP Global Summit The Open Compute Project (OCP) Foundation today announced OCP Nexus™, an AI knowledge assistant that helps engineers, architects, procurement teams and other community members find and explore OCP resources through natural-language conversations. Launching in conjunction with [&#8230;] The post Open Compute Project Foundation Launches OCP Nexus to Make 15 Years of Open Hardware Knowledge Easier to Explore appeared first on Open Compute Project .",
-      "author": "OCP Editorial"
-    },
-    {
-      "title": "Introducing OSPA: Unifying the Switch Platform Layer for Open Networking",
-      "url": "https://www.opencompute.org/news/introducing-ospa-unifying-the-switch-platform-layer-for-open-networking/",
-      "published_at": "2026-10-08T16:44:16+00:00",
-      "summary": "Tao Ren, Meta New Switch Platform Standardization Effort Announced at OCP The Open Compute Project Foundation (OCP) is happy to announced a new in-progress contribution to the OCP Networking Project: the Open Switch Platform Architecture (OSPA) specification, which is currently undergoing Foundation review as part of the OCP contribution process. OSPA establishes a vendor-neutral reference [&#8230;] The post Introducing OSPA: Unifying the Switch Platform Layer for Open Networking appeared first on Open Compute Project .",
       "author": "OCP Editorial"
     }
   ],
