@@ -2,8 +2,8 @@
   "source": "deepmind-blog",
   "name": "Google DeepMind Blog",
   "feed_url": "https://deepmind.google/blog/rss.xml",
-  "fetched_at": "2026-11-25T18:45:42.431517+00:00",
-  "next_refresh_at": "2026-11-25T19:15:42.431517+00:00",
+  "fetched_at": "2026-11-26T02:03:01.745639+00:00",
+  "next_refresh_at": "2026-11-26T02:33:01.745639+00:00",
   "entries": [
     {
       "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
