@@ -2,8 +2,8 @@
   "source": "ocp-news",
   "name": "Open Compute Project news",
   "feed_url": "https://www.opencompute.org/news/feed/",
-  "fetched_at": "2026-11-26T02:02:46.442066+00:00",
-  "next_refresh_at": "2026-11-26T02:32:46.442066+00:00",
+  "fetched_at": "2026-11-26T11:18:15.233661+00:00",
+  "next_refresh_at": "2026-11-26T11:48:15.233661+00:00",
   "entries": [
     {
       "title": "How to Get Involved with the Open Compute Project",

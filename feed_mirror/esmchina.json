@@ -2,9 +2,79 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-26T02:03:01.538236+00:00",
-  "next_refresh_at": "2026-11-26T02:33:01.538236+00:00",
+  "fetched_at": "2026-11-26T11:18:33.237976+00:00",
+  "next_refresh_at": "2026-11-26T11:48:33.237976+00:00",
   "entries": [
+    {
+      "title": "【有奖直播】商业航天品振的选型和应用",
+      "url": "https://www.eet-china.com/ee-live/entry/jfvny_20270105.html",
+      "published_at": null,
+      "summary": "商业航天晶振选型+答疑，提问赢快充电源。",
+      "author": null
+    },
+    {
+      "title": "【直播】高压PowiGaN如何把GaN的优势，从充电器一路带到AI电源",
+      "url": "https://www.eet-china.com/webinars/entry/PI_20261222.html",
+      "published_at": null,
+      "summary": "从快充到AI数据中心，高压GaN打通200W-4kW+。",
+      "author": null
+    },
+    {
+      "title": "2.1亿欧元入股，三星成艾迈斯欧司朗最大股东",
+      "url": "https://www.esmchina.com/news/14857.html",
+      "published_at": null,
+      "summary": "三星显示（Samsung Display）与艾迈斯欧司朗（ams OSRAM）共同宣布一项重磅合作。三星显示将斥资2.1亿欧元认购艾迈斯欧司朗的新发行股份，交易完成后将成为其最大股东。",
+      "author": null
+    },
+    {
+      "title": "整体缩水约14%，vivo砍最狠，荣耀例外！八家手机厂商2027出货目标集体下调",
+      "url": "https://www.esmchina.com/news/14856.html",
+      "published_at": null,
+      "summary": "苹果、三星降幅最小，vivo、小米降幅最高。",
+      "author": null
+    },
+    {
+      "title": "订单与产出之间，AI硬件的隐性成本",
+      "url": "https://www.esmchina.com/news/14855.html",
+      "published_at": null,
+      "summary": "AI芯片造出来了，为什么还是不够卖？",
+      "author": null
+    },
+    {
+      "title": "荷兰外长表态，努力阻止美国《MATCH法案》获得通过",
+      "url": "https://www.esmchina.com/news/14854.html",
+      "published_at": null,
+      "summary": "正在北京访问的荷兰外交大臣汤姆·贝伦德森表示，荷兰正努力阻止美国通过一项可能进一步限制荷兰芯片设备制造商阿斯麦（ASML）在华业务的法案。",
+      "author": null
+    },
+    {
+      "title": "京东方拟整体收购维信诺？上市公司公告仅确认筹划定增",
+      "url": "https://www.esmchina.com/news/14853.html",
+      "published_at": null,
+      "summary": "11月26日，维信诺发布《关于媒体报道的说明公告》，回应“有投资人拟收购公司股权”的相关报道。",
+      "author": null
+    },
+    {
+      "title": "从“事后记录”到“提前预警”：充电宝主动安全与防丢功能的两条实现路径",
+      "url": "https://www.esmchina.com/news/14852.html",
+      "published_at": null,
+      "summary": "本文讨论两个方向：用压力信号做电池膨胀的早期预警，以及把防丢能力接入 Find My 网络。",
+      "author": null
+    },
+    {
+      "title": "千亿封装，一场新的卡位战",
+      "url": "https://www.esmchina.com/news/14788.html",
+      "published_at": null,
+      "summary": "半导体产业提升性能的重心，正从单一的前道制程演进，转向以先进封装为核心的系统级异构集成。一场由AI需求引爆的全球竞赛已全面展开。",
+      "author": null
+    },
+    {
+      "title": "佳能时隔24年更新ArF干式光刻机，满足成熟制程与特色工艺需求",
+      "url": "https://www.esmchina.com/news/14851.html",
+      "published_at": null,
+      "summary": "佳能把压箱底24年的ArF干式光刻机，又拿出来了",
+      "author": null
+    },
     {
       "title": "从芯片思维到系统思维，中国算力的换道时刻",
       "url": "https://www.esmchina.com/news/14850.html",
@@ -108,76 +178,6 @@
       "url": "https://www.esmchina.com/news/14837.html",
       "published_at": null,
       "summary": "英伟达今日宣布，黄仁勋即日起恢复担任公司总裁兼首席执行官，并重新成为董事会成员。",
-      "author": null
-    },
-    {
-      "title": "解除留置仅六周后辞任，三安光电总经理涉刑案许可程序启动",
-      "url": "https://www.esmchina.com/news/14835.html",
-      "published_at": null,
-      "summary": "11月22日晚间，国内化合物半导体龙头三安光电发布公告称，公司副董事长兼总经理林科闯因“个人身体原因”辞去所有职务。",
-      "author": null
-    },
-    {
-      "title": "海外征税、国内拒批：美国AI数据中心被两头堵",
-      "url": "https://www.esmchina.com/news/14834.html",
-      "published_at": null,
-      "summary": "不过，特朗普也承认，这一想法尚未与团队充分讨论，目前没有正式行政令。",
-      "author": null
-    },
-    {
-      "title": "全球PCB短缺警报拉响，或延续至2028年",
-      "url": "https://www.esmchina.com/news/14833.html",
-      "published_at": null,
-      "summary": "国内厂商加码高端产能。",
-      "author": null
-    },
-    {
-      "title": "三星存储产能已被长协锁定至2029年：部分客户争取延长至2031年，目标锁定六到七成产能",
-      "url": "https://www.esmchina.com/news/14832.html",
-      "published_at": null,
-      "summary": "韩媒：三星存储产能预订已排至2029年",
-      "author": null
-    },
-    {
-      "title": "量产高增、设计承压，两大国产IP企业2026年Q3财报解析",
-      "url": "https://www.esmchina.com/news/14831.html",
-      "published_at": null,
-      "summary": "本报告聚焦于国产IP领域的两大上市公司——灿芯股份与芯原股份，通过深度剖析其2026年Q3季度财报，从营收、利润、业务结构到研发投入等多个维度，透视它们在复杂市场环境下的经营实况与战略抉择，并探寻其未来的发展轨迹。",
-      "author": null
-    },
-    {
-      "title": "分化·整合·盈利，国产EDA上市公司Q3财报的“三重奏”",
-      "url": "https://www.esmchina.com/news/14830.html",
-      "published_at": null,
-      "summary": "2026年三季报收官，华大九天、广立微、概伦电子相继交卷。三家企业财务数据的差异，则把国产EDA“全流程平台化”与“差异化点工具”的路线之争，第一次清晰地摆在了台面上。",
-      "author": null
-    },
-    {
-      "title": "前三季度营收超3300亿，两家跨入千亿：电子元器件分销行业增长再提速",
-      "url": "https://www.esmchina.com/news/14829.html",
-      "published_at": null,
-      "summary": "2026年前三季度，13家上市分销商营收总和达3325.2亿元，同比增长94.96%。",
-      "author": null
-    },
-    {
-      "title": "英特尔持续瘦身，再削全球IT部门",
-      "url": "https://www.esmchina.com/news/14828.html",
-      "published_at": null,
-      "summary": "按10%至20%的比例推算，意味着约260至520人将离开。",
-      "author": null
-    },
-    {
-      "title": "折叠方向盘，是智驾的必然还是噱头？",
-      "url": "https://www.esmchina.com/news/14827.html",
-      "published_at": null,
-      "summary": "撬动的是汽车底盘供应链。",
-      "author": null
-    },
-    {
-      "title": "比亚迪发布折叠方向盘：首搭方程豹钛9，泊车中10秒完成折叠",
-      "url": "https://www.esmchina.com/news/14826.html",
-      "published_at": null,
-      "summary": "比亚迪发布折叠方向盘，泊车中10秒可完成折叠",
       "author": null
     }
   ],
