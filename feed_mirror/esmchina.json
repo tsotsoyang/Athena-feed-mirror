@@ -2,9 +2,37 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-26T20:23:40.246309+00:00",
-  "next_refresh_at": "2026-11-26T20:53:40.246309+00:00",
+  "fetched_at": "2026-11-27T03:04:03.237082+00:00",
+  "next_refresh_at": "2026-11-27T03:34:03.237082+00:00",
   "entries": [
+    {
+      "title": "1-10月中国电子行业利润翻倍，算力需求成关键驱动力",
+      "url": "https://www.esmchina.com/news/14867.html",
+      "published_at": null,
+      "summary": "人工智能算力需求持续增加，带动存储芯片和周边制造等相关行业利润持续增长。",
+      "author": null
+    },
+    {
+      "title": "美方宣布对14个经济体加征301关税，中方坚决反对，多国表态反驳",
+      "url": "https://www.esmchina.com/news/14866.html",
+      "published_at": null,
+      "summary": "个别国家以“产能过剩”为名，行保护主义之实。",
+      "author": null
+    },
+    {
+      "title": "英伟达暂停东南亚四国AI服务器交付，整机排产与订单交付节奏被打断",
+      "url": "https://www.esmchina.com/news/14865.html",
+      "published_at": null,
+      "summary": "东南亚的AI服务器，被英伟达按了暂停键",
+      "author": null
+    },
+    {
+      "title": "高通向CEO和CFO授予6500万美元股票激励",
+      "url": "https://www.esmchina.com/news/14864.html",
+      "published_at": null,
+      "summary": "据外媒报道，高通日前向CEO和CFO授予6500万美元股票激励，但该奖励与一系列从250美元到500美元不等的股价里程碑挂钩。",
+      "author": null
+    },
     {
       "title": "【有奖直播】商业航天品振的选型和应用",
       "url": "https://www.eet-china.com/ee-live/entry/jfvny_20270105.html",
@@ -150,34 +178,6 @@
       "url": "https://www.esmchina.com/news/14841.html",
       "published_at": null,
       "summary": "存储涨价，先把非洲手机市场“打”崩了",
-      "author": null
-    },
-    {
-      "title": "三星存储产能锁到2031年，西安工厂转向AI数据中心闪存",
-      "url": "https://www.esmchina.com/news/14840.html",
-      "published_at": null,
-      "summary": "这意味着全球最大存储制造商的中长期产能，可能被提前预定长达五年。",
-      "author": null
-    },
-    {
-      "title": "特朗普表态“只向中国出售旧款芯片”：白宫称正与中方磋商全面协议，16纳米以下管制已生效",
-      "url": "https://www.esmchina.com/news/14839.html",
-      "published_at": null,
-      "summary": "特朗普称只向中国出售旧款芯片",
-      "author": null
-    },
-    {
-      "title": "全球制造业机器人密度刷新纪录：韩国蝉联第一，中国五年猛增147%",
-      "url": "https://www.esmchina.com/news/14836.html",
-      "published_at": null,
-      "summary": "机器人密度是指制造业每万名员工对应的工业机器人保有量。",
-      "author": null
-    },
-    {
-      "title": "英伟达官宣：黄仁勋即刻复职CEO",
-      "url": "https://www.esmchina.com/news/14837.html",
-      "published_at": null,
-      "summary": "英伟达今日宣布，黄仁勋即日起恢复担任公司总裁兼首席执行官，并重新成为董事会成员。",
       "author": null
     }
   ],
