@@ -2,9 +2,30 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-27T03:04:03.237082+00:00",
-  "next_refresh_at": "2026-11-27T03:34:03.237082+00:00",
+  "fetched_at": "2026-11-27T12:57:02.391326+00:00",
+  "next_refresh_at": "2026-11-27T13:27:02.391326+00:00",
   "entries": [
+    {
+      "title": "奕成科技，150亿加码成都，聚焦CoPoS与CPO",
+      "url": "https://www.esmchina.com/news/14868.html",
+      "published_at": null,
+      "summary": "奕成科技二工厂项目日前在成都高新西区启动建设。该项目计划总投资150亿元，建成后将成为奕成科技板级高密系统封测产能的重要扩容载体，重点承接AI时代高性能计算芯片异构集成的快速增长需求。",
+      "author": null
+    },
+    {
+      "title": "65nm的生意，比2nm更难抢了",
+      "url": "https://www.esmchina.com/news/14863.html",
+      "published_at": null,
+      "summary": "2nm缺的是钱，65nm缺的是时间。当8英寸产能被AI的电源订单填满，一台停产24年的机台被重新推上产线。",
+      "author": null
+    },
+    {
+      "title": "非洲手机出货跌四成，但功能机涨了27%",
+      "url": "https://www.esmchina.com/news/14862.html",
+      "published_at": null,
+      "summary": "非洲智能手机出货跌40%，功能机反涨27%。当存储成本冲破百元机价格带，技术第一次坦率地倒退了。",
+      "author": null
+    },
     {
       "title": "1-10月中国电子行业利润翻倍，算力需求成关键驱动力",
       "url": "https://www.esmchina.com/news/14867.html",
@@ -27,7 +48,7 @@
       "author": null
     },
     {
-      "title": "高通向CEO和CFO授予6500万美元股票激励",
+      "title": "高通裁员之际向CEO和CFO授予6500万美元股票激励",
       "url": "https://www.esmchina.com/news/14864.html",
       "published_at": null,
       "summary": "据外媒报道，高通日前向CEO和CFO授予6500万美元股票激励，但该奖励与一系列从250美元到500美元不等的股价里程碑挂钩。",
@@ -48,7 +69,7 @@
       "author": null
     },
     {
-      "title": "2.1亿欧元入股，三星成艾迈斯欧司朗最大股东",
+      "title": "2.1亿欧元入股，三星成ams OSRAM最大股东",
       "url": "https://www.esmchina.com/news/14857.html",
       "published_at": null,
       "summary": "三星显示（Samsung Display）与艾迈斯欧司朗（ams OSRAM）共同宣布一项重磅合作。三星显示将斥资2.1亿欧元认购艾迈斯欧司朗的新发行股份，交易完成后将成为其最大股东。",
@@ -157,27 +178,6 @@
       "url": "https://www.eet-china.com/iqs/RIGOL_20261123.html?source=popup",
       "published_at": null,
       "summary": "仅 5 道题，2 分钟完成，答对可抽 RIGOL 定制螺丝刀套装。",
-      "author": null
-    },
-    {
-      "title": "直播预告：200MHz 实时控制 MCU 如何重构数字电源？（送京东卡）",
-      "url": "https://www.eet-china.com/ee-live/entry/Geehy_20261223.html?source=popup",
-      "published_at": null,
-      "summary": "一杯咖啡的时间搞定选型，还有机会得京东卡噢",
-      "author": null
-    },
-    {
-      "title": "美商务部将Megaspeed等7家企业列入实体清单",
-      "url": "https://www.esmchina.com/news/14842.html",
-      "published_at": null,
-      "summary": "11月23日，美国商务部工业与安全局（BIS）提交了一份最终规则，决定将总部位于新加坡的AI云与数据中心企业Megaspeed International，及其跨国关联网络中的共7家企业列入出口管制“实体清单”。",
-      "author": null
-    },
-    {
-      "title": "Q3非洲智能手机出货暴跌40%，传音一家占整体减量过半",
-      "url": "https://www.esmchina.com/news/14841.html",
-      "published_at": null,
-      "summary": "存储涨价，先把非洲手机市场“打”崩了",
       "author": null
     }
   ],
