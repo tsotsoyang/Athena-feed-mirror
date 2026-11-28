@@ -2,11 +2,11 @@
   "source": "esmchina",
   "name": "ESM China",
   "feed_url": "https://www.esmchina.com/rss",
-  "fetched_at": "2026-11-27T21:51:38.824926+00:00",
-  "next_refresh_at": "2026-11-27T22:21:38.824926+00:00",
+  "fetched_at": "2026-11-28T03:44:04.825019+00:00",
+  "next_refresh_at": "2026-11-28T04:14:04.825019+00:00",
   "entries": [
     {
-      "title": "奕成科技，150亿加码成都，聚焦CoPoS与CPO",
+      "title": "奕成科技150亿加码成都，聚焦CoPoS与CPO",
       "url": "https://www.esmchina.com/news/14868.html",
       "published_at": null,
       "summary": "奕成科技二工厂项目日前在成都高新西区启动建设。该项目计划总投资150亿元，建成后将成为奕成科技板级高密系统封测产能的重要扩容载体，重点承接AI时代高性能计算芯片异构集成的快速增长需求。",
@@ -160,7 +160,7 @@
       "author": null
     },
     {
-      "title": "“台湾偷走了美国芯片产业”，特朗普威胁两年后加征200%关税",
+      "title": "“台湾偷走了美国芯片产业”，特朗普威胁加征200%关税",
       "url": "https://www.esmchina.com/news/14845.html",
       "published_at": null,
       "summary": "当地时间11月23日，美国总统特朗普在接受CNBC《Squawk on the Street》专访时，指责台湾“偷走”了美国的芯片产业，称“两年后，他们将为芯片支付200%的关税。”",
